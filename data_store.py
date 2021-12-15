@@ -1,3 +1,5 @@
+# BAD CODE, DONT USE IT 
+
 import requests
 import json
 
