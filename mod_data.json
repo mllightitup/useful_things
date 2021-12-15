@@ -1,0 +1,146 @@
+{
+      "Alternate Current": {
+            "modrinth_link": "https://modrinth.com/mod/alternate-current",
+            "minecraft_version": "1.18.1",
+            "mod_version": "mc1.18-1.1.0",
+            "last_mod_update": "2021-11-30",
+            "author": "Space Walker",
+            "description": "An efficient and non-locational redstone dust implementation",
+            "environment": "Server"
+      },
+      "Sodium": {
+            "modrinth_link": "https://modrinth.com/mod/sodium",
+            "minecraft_version": "1.18",
+            "mod_version": "mc1.18-0.4.0-alpha5",
+            "last_mod_update": "2021-11-30",
+            "author": "jellysquid3",
+            "description": "Modern rendering engine and client-side optimization mod for Minecraft",
+            "environment": "Client"
+      },
+      "Hydrogen": {
+            "modrinth_link": "https://modrinth.com/mod/hydrogen",
+            "minecraft_version": "1.17.1",
+            "mod_version": "mc1.17.1-0.3.1",
+            "last_mod_update": "2021-07-15",
+            "author": "jellysquid3",
+            "description": "Reduces the memory usage of the game in more modded scenarios",
+            "environment": "Client / Server"
+      },
+      "Lithium": {
+            "modrinth_link": "https://modrinth.com/mod/lithium",
+            "minecraft_version": "1.18.1",
+            "mod_version": "mc1.18.1-0.7.6",
+            "last_mod_update": "2021-12-13",
+            "author": "jellysquid3",
+            "description": "No-compromises game logic/server optimization mod",
+            "environment": "Client / Server"
+      },
+      "LazyDFU": {
+            "modrinth_link": "https://modrinth.com/mod/lazydfu",
+            "minecraft_version": "1.18.1",
+            "mod_version": "0.1.2",
+            "last_mod_update": "2021-02-19",
+            "author": "astei",
+            "description": "Makes the initialization of DataFixerUpper \"lazy\", making the game start more quickly",
+            "environment": "Client / Server"
+      },
+      "Krypton": {
+            "modrinth_link": "https://modrinth.com/mod/krypton",
+            "minecraft_version": "1.18.1",
+            "mod_version": "0.1.6",
+            "last_mod_update": "2021-12-11",
+            "author": "astei",
+            "description": "A mod to optimize the Minecraft networking stack",
+            "environment": "Client / Server"
+      },
+      "Starlight (Fabric)": {
+            "modrinth_link": "https://modrinth.com/mod/starlight",
+            "minecraft_version": "1.18.1",
+            "mod_version": "Starlight 1.0.0 1.18.x",
+            "last_mod_update": "2021-12-08",
+            "author": "spottedleaf",
+            "description": "Rewrites the light engine to fix lighting performance and lighting errors",
+            "environment": "Client / Server"
+      },
+      "FerriteCore": {
+            "modrinth_link": "https://modrinth.com/mod/ferrite-core",
+            "minecraft_version": "1.18",
+            "mod_version": "4.0.0",
+            "last_mod_update": "2021-12-05",
+            "author": "malte0811",
+            "description": "Memory usage optimizations",
+            "environment": "Client / Server"
+      },
+      "DashLoader": {
+            "modrinth_link": "https://modrinth.com/mod/dashloader",
+            "minecraft_version": "1.18",
+            "mod_version": "3.0-rc11-1.18",
+            "last_mod_update": "2021-12-07",
+            "author": "alphaqu",
+            "description": "Launch at the speed of light.",
+            "environment": "Client"
+      },
+      "lazy-language-loader": {
+            "modrinth_link": "https://modrinth.com/mod/lazy-language-loader",
+            "minecraft_version": "1.18-rc4",
+            "mod_version": "0.2.6",
+            "last_mod_update": "2021-12-02",
+            "author": "chachy",
+            "description": "lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!",
+            "environment": "Client"
+      },
+      "Cull Leaves": {
+            "modrinth_link": "https://modrinth.com/mod/cull-leaves",
+            "minecraft_version": "1.18.1",
+            "mod_version": "2.3.2",
+            "last_mod_update": "2021-10-30",
+            "author": "Motschen",
+            "description": "Adds culling to leaf blocks, providing a huge performance boost over vanilla.",
+            "environment": "Client"
+      },
+      "Better Beds": {
+            "modrinth_link": "https://modrinth.com/mod/better-beds",
+            "minecraft_version": "1.18.1",
+            "mod_version": "1.2.0",
+            "last_mod_update": "2021-06-07",
+            "author": "Motschen",
+            "description": "Changes the renderer of the bed to use json models instead of a block entity renderer!",
+            "environment": "Client"
+      },
+      "Smoke Suppression": {
+            "modrinth_link": "https://modrinth.com/mod/smoke-suppression",
+            "minecraft_version": "1.18.1",
+            "mod_version": "1.0.7+MC1.18-1.18.1",
+            "last_mod_update": "2021-12-13",
+            "author": "supersaiyansubtlety",
+            "description": "Client mod to suppress campfire smoke when certain blocks are below the campfire.",
+            "environment": "Client"
+      },
+      "Concurrent Chunk Management Engine (Fabric)": {
+            "modrinth_link": "https://modrinth.com/mod/c2me-fabric",
+            "minecraft_version": "1.18.1",
+            "mod_version": "0.2.0+alpha.5.104 1.18.1",
+            "last_mod_update": "2021-12-12",
+            "author": "ishland",
+            "description": "A Fabric mod designed to improve the chunk performance of Minecraft.",
+            "environment": "Client / Server"
+      },
+      "ServerCore": {
+            "modrinth_link": "https://modrinth.com/mod/servercore",
+            "minecraft_version": "1.18.1",
+            "mod_version": "1.2.6-1.18.1",
+            "last_mod_update": "2021-12-10",
+            "author": "Wesley1808",
+            "description": "A fabric mod that aims to optimize the minecraft server.",
+            "environment": "Client / Server"
+      },
+      "Very Many Players (Fabric)": {
+            "modrinth_link": "https://modrinth.com/mod/vmp-fabric",
+            "minecraft_version": "1.18.1",
+            "mod_version": "0.2.0+beta.1.5 1.18.1",
+            "last_mod_update": "2021-12-11",
+            "author": "ishland",
+            "description": "A Fabric mod designed to improve server performance at high playercounts.",
+            "environment": "Client / Server"
+      }
+}
