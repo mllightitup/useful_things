@@ -40,6 +40,16 @@
          </figure>
        </td>
        <td style="text-align: center;">
+         <figure>
+           <figcaption>Content</figcaption>
+         </figure>
+       </td>
+       <td style="text-align: center;">
+         <figure>
+           <figcaption>Content</figcaption>
+         </figure>
+       </td>
+       <td style="text-align: center;">
         <figure>
           <figcaption>Content</figcaption>
         </figure>
