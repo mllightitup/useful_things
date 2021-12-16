@@ -24,6 +24,16 @@
          <figure>
            <figcaption>Content</figcaption>
          </figure>
+       </td>
+       <td style="text-align: center;">
+         <figure>
+           <figcaption>Content</figcaption>
+         </figure>
+       </td>
+        <td style="text-align: center;">
+         <figure>
+           <figcaption>Content</figcaption>
+         </figure>
         </td>
        </tr>
        <td style="text-align: center; max-width: 10rem;">
