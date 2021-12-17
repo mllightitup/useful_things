@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
 ## Fabric 1.18.X
 
-##FIX Author
+## FIX Author
 
 | Name | Known Incompatibilities | Description | Author | Enviroment | Categories | Need help? | Support author |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
