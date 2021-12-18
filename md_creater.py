@@ -6,8 +6,7 @@ main = []
 name_list = [link.replace('https://modrinth.com/mod/', '') for link in start_list]
 
 for i in range(len(name_list)):
-    with open(f'./mods/{name_list[i]}/{name_list[i]}.json') as mod_file, open(
-            f'./mods/{name_list[i]}/author.json') as author_file:
+    with open(f'./mods/{name_list[i]}/{name_list[i]}.json') as mod_file, open(f'./mods/{name_list[i]}/author.json') as author_file:
         data = json.load(mod_file)
         author = json.load(author_file)
 
@@ -27,11 +26,14 @@ for i in range(len(name_list)):
 
         wiki = '' if data["wiki_url"] is None else f"[Wiki]({data['wiki_url']})"
         discord = '' if data["discord_url"] is None else f"[Discord]({data['discord_url']})"
-        author_name = author['username'] if author['name'] is None else author['name']
-
+        #author_name = author['username'] if author['name'] is None or author['name'] is "" else author['name']
+        if author['name'] in [None, ""]:
+            author_name = author['username']
+        else:
+            author_name = author['name']
         temp = f"| [{data['title']}]({start_list[i]}) | Unknown | {data['description']} | {author_name} | {environment} | {', '.join(data['categories'])} | {discord} [Github]({data['issues_url']}) {wiki} | {donate} "
         main.append(temp)
-        # print(data['discord_url'])
+            # print(data['discord_url'])
 
 a = '\n'.join(main)
 
