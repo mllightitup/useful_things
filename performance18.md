@@ -12,7 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 ## TODO: VERSION CHECK
 ## DICT key:Fabric 1.18.X  -  value: list[links] for all md
 ### https://curseforgeapi.docs.apiary.io/
-| Name | Known Incompatibilities | Description | Author | Environment | Categories | Need help? | Support author |
+| Name | Known Incompatibilities | Description | Author | Environment (Client/Server) | Categories | Need help? | Support author |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Starlight (Fabric)](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | Spottedleaf | Client Server | misc | [Discord](https://discord.gg/tuinity) [Github](https://github.com/PaperMC/Starlight/issues)  | None 
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | Unknown | Makes the initialization of DataFixerUpper "lazy", making the game start more quickly | Andrew Steinborn | Client Server | misc, utility | [Discord](https://discord.gg/RUGArxEQ8J) [Github](https://github.com/astei/lazydfu/issues)  | None 
