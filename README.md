@@ -10,5 +10,5 @@ TODO: 1.16.x other
 # TODO: Curseforge API
 DONE
 
-# TODO: Create all files in md_creator at once for each version and loader
+# TODO: Create all files in md_creator at once for each version and loader | Requires version and loader check
 # TODO: Update constants.py to the newest template and delete unnecessary
