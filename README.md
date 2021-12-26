@@ -4,7 +4,7 @@
 In progress:
 
 1. Async requests - DONE
-2. Curseforge API - REWORKING
+2. Curseforge API - DONE
 
 Not started:
 
