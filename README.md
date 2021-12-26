@@ -3,7 +3,7 @@
 # TODO:
 Done:
 
-1. Update constants.py to the newest template and delete unnecessary
+1. Update const.py to the newest template and delete unnecessary
 2. Async requests
 3. Curseforge API
 
