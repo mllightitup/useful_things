@@ -42,6 +42,17 @@ async def main():
 
     save_author(author_data, mod_slugs)
 
+    async with aiohttp.ClientSession() as session:
+        curseforge_ids = [x for x in unique_links if not isinstance(x, str)]
+        tasks.clear()
+        for curseforge_id in curseforge_ids:
+            url = f"https://addons-ecs.forgesvc.net/api/v2/addon/{curseforge_id}"
+            task = asyncio.ensure_future(get_data(session, url))
+            tasks.append(task)
+        curseforge_data = await asyncio.gather(*tasks)
+
+    save_curseforge(curseforge_data)
+
 
 # REQUESTS
 
@@ -84,6 +95,14 @@ def save_author(author_data, mod_slugs):
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w", encoding='utf-8') as author_file:
             json.dump(author_data[i], author_file, ensure_ascii=False, indent=4)
+
+
+def save_curseforge(curseforge_data):
+    for i in range(len(curseforge_data)):
+        filename = f"./mods/{curseforge_data[i]['slug']}/{curseforge_data[i]['slug']}.json"
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open(filename, "w", encoding='utf-8') as curseforge_file:
+            json.dump(curseforge_data[i], curseforge_file, ensure_ascii=False, indent=4)
 
 
 unique_links = set(sum(links.values(), []))
