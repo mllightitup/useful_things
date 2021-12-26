@@ -1,16 +1,20 @@
 # Useful Things
 
 # TODO:
+Done:
+
+1. Update constants.py to the newest template and delete unnecessary
+2. Async requests - DONE
+3. Curseforge API - DONE
+
+
 In progress:
 
-1. Async requests - DONE
-2. Curseforge API - DONE
+1. Version and loader check(everything is prepared)
+2. Create all files in md_creator at once for each version and loader
 
 Not started:
 
-1. Update constants.py to the newest template and delete unnecessary
-2. Version and loader check(everything is prepared)
-3. Create all files in md_creator at once for each version and loader
-4. Custom data
+1. Custom data
 
 
