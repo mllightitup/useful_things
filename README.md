@@ -4,8 +4,8 @@
 Done:
 
 1. Update constants.py to the newest template and delete unnecessary
-2. Async requests - DONE
-3. Curseforge API - DONE
+2. Async requests
+3. Curseforge API
 
 
 In progress:
