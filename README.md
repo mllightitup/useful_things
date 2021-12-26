@@ -1,6 +1,8 @@
 # Useful Things
 
 # TODO:
+In progress:
+
 1. Async requests - DONE
 2. Curseforge API - REWORKING
 
