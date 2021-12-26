@@ -12,21 +12,32 @@ from const import links
 async def main():
     async with aiohttp.ClientSession() as session:
         unique_links_modrinth = [x for x in unique_links if not isinstance(x, int)]
-        tasks = [asyncio.ensure_future(get_mod_data(session, unique_link)) for unique_link in unique_links_modrinth]
+        tasks = []
+        for unique_link in unique_links_modrinth:
+            url = unique_link.replace('https://modrinth.com/mod/', 'https://api.modrinth.com/api/v1/mod/')
+            task = asyncio.ensure_future(get_data(session, url))
+            tasks.append(task)
         mods_data = await asyncio.gather(*tasks)
 
     mod_ids, mod_slugs = save_mod(mods_data)
 
     async with aiohttp.ClientSession() as session:
         tasks.clear()
-        tasks = [asyncio.ensure_future(get_versions_data(session, mod_id)) for mod_id in mod_ids]
+        tasks = []
+        for mod_id in mod_ids:
+            url = f"https://api.modrinth.com/api/v1/mod/{mod_id}/version"
+            task = asyncio.ensure_future(get_data(session, url))
+            tasks.append(task)
         versions_data = await asyncio.gather(*tasks)
 
     author_ids = save_version(versions_data, mod_slugs)
 
     async with aiohttp.ClientSession() as session:
         tasks.clear()
-        tasks = [asyncio.ensure_future(get_author_data(session, author_id)) for author_id in author_ids]
+        for author_id in author_ids:
+            url = f"https://api.modrinth.com/api/v1/user/{author_id}"
+            task = asyncio.ensure_future(get_data(session, url))
+            tasks.append(task)
         author_data = await asyncio.gather(*tasks)
 
     save_author(author_data, mod_slugs)
@@ -35,25 +46,10 @@ async def main():
 # REQUESTS
 
 
-async def get_mod_data(session, link):
-    url = link.replace('https://modrinth.com/mod/', 'https://api.modrinth.com/api/v1/mod/')
+async def get_data(session, url):
     async with session.get(url) as response:
-        mod_data = await response.json()
-        return mod_data
-
-
-async def get_versions_data(session, mod_id):
-    url = f"https://api.modrinth.com/api/v1/mod/{mod_id}/version"
-    async with session.get(url) as response:
-        versions_data = await response.json()
-        return versions_data
-
-
-async def get_author_data(session, author_id):
-    url = f"https://api.modrinth.com/api/v1/user/{author_id}"
-    async with session.get(url) as response:
-        author_data = await response.json()
-        return author_data
+        data = await response.json()
+        return data
 
 
 # FILE SAVE
