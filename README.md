@@ -1,19 +1,19 @@
 # Useful Things
 
 # TODO:
-Done:
+### Done:
 
 1. Update const.py to the newest template and delete unnecessary
 2. Async requests
 3. Curseforge API
 
 
-Done(but need refactor):
+### Done(but need refactor):
 
 1. Version and loader check(everything is prepared)
 2. Create all files in md_creator at once for each version and loader
 
-Future plans:
+### Future plans:
 
 1. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
 
