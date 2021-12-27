@@ -16,5 +16,5 @@ In progress:
 Not started:
 
 1. Custom data
-
+2. Modrinth API v2 (now working only here: https://staging-api.modrinth.com/) (docs: https://docs.modrinth.com/)
 
