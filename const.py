@@ -1,18 +1,25 @@
 header = """
 # Performance Mods
-A list of performance-enhancing mods for 1.18.x forge/fabric versions.
+A list of performance-enhancing mods for {loaders} {versions} version.
 
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
-## Fabric 1.18.X
+## {loaders} {versions}
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](https://github.com/NordicGamerFE/usefulmods/tree/main#threat-level) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 """
+middle = """
 
+
+
+## Forge 1.18.X
+
+
+"""
 footer = """
 
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)

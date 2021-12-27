@@ -99,7 +99,7 @@ def save_author(author_data, mod_slugs):
 
 def save_curseforge(curseforge_data):
     for i in range(len(curseforge_data)):
-        filename = f"./mods/{curseforge_data[i]['slug']}/{curseforge_data[i]['slug']}.json"
+        filename = f"./mods/{curseforge_data[i]['slug']}/{curseforge_data[i]['id']}.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w", encoding='utf-8') as curseforge_file:
             json.dump(curseforge_data[i], curseforge_file, ensure_ascii=False, indent=4)
