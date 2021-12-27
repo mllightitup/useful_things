@@ -1,0 +1,562 @@
+[
+    {
+        "id": "pIDNlM4l",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.106 devbuild for 1.18.1",
+        "version_number": "0.2.0+alpha.5.106 1.18.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-12-19T07:22:29.532919Z",
+        "downloads": 599,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "8c2ff89e8e3a73582090c61602a508b984894fbb9a23dd2b36e04668eaec59930eda14913a3bc414c16c090675b3e86d77480bf4b17ba8be8b78b7f480b22b07",
+                    "sha1": "4ae211592f502252ae02be9226530be65cdd2dd2"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.106 1.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.106-all.jar",
+                "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.5.106-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "E3cvbFES",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.104 devbuild for 1.18.1",
+        "version_number": "0.2.0+alpha.5.104 1.18.1",
+        "changelog": "Fix a rare crash when holder map isn't updated yet",
+        "changelog_url": null,
+        "date_published": "2021-12-12T08:27:45.724162Z",
+        "downloads": 626,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "35ad8db1d3c31884ec872eb16450e7be9682bf84fb1ed9a14b441d603696bd3fb119cdd3517af57cfad023914ce5c0e8792b4e8314752f848a8b56765e01bf53",
+                    "sha1": "4f1d8bd9b3d39939890e66a21ad4dbec73c9d69a"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.104 1.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.104-all.jar",
+                "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.5.104-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "L4GQmy36",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.103 devbuild for 1.18.1",
+        "version_number": "0.2.0+alpha.5.103 1.18.1",
+        "changelog": "Added chunk prioritization (should fix chunks loading too slow)",
+        "changelog_url": null,
+        "date_published": "2021-12-12T02:25:42.881334Z",
+        "downloads": 37,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "f2094e37bb3427d1dc8de092da5ac6a7101b52df",
+                    "sha512": "b4a3289cbd2a10d4c882741eb8d38a22bc32ae44bf38e5da8796b33562ef24582d659b6716635c17724c7038b65e2d125aaa96838f172f74ab894197e5c99407"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.103 1.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.103-all.jar",
+                "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.5.103-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "G1RN9hkt",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.99 devbuild for 1.18.1",
+        "version_number": "0.2.0+alpha.5.99 1.18.1",
+        "changelog": "Fix some issues on settings",
+        "changelog_url": null,
+        "date_published": "2021-12-11T05:05:03.935310Z",
+        "downloads": 113,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "f4937652b856b3fede01c4e48c422d4c8e1cebe4",
+                    "sha512": "d180d2746d2d22a8b4066755dad98a027c98328dff03c53a36a61b44019f5f0d6da5bfa0d8e3ece36b3c89d883fde7ab434345086efa8a3275e6af8a1e971513"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.99 1.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.99-all.jar",
+                "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.5.99-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "yjCsfBzI",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.96 devbuild for 1.18.1-pre1 & 1.18",
+        "version_number": "0.2.0+alpha.5.96 1.18.1-pre1",
+        "changelog": "Fix simulation distance slider being too big",
+        "changelog_url": null,
+        "date_published": "2021-12-04T12:51:42.449687Z",
+        "downloads": 854,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "b6ebcc8f21f5aef9c349a95d1aa7632d4f477312",
+                    "sha512": "966053f4f1090f68a7bcfc9f152f71bb0807888035370d349d5e9a7be94e79a2e0d2a9554e003d40f2234394dd37cf17bef563611cbcdf43c7246fc31003eb3d"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.96 1.18.1-pre1/c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.96-all.jar",
+                "filename": "c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.96-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18",
+            "1.18.1-pre1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "u2JlHGcG",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.94 devbuild for 1.18.1-pre1 & 1.18",
+        "version_number": "0.2.0+alpha.5.94 1.18.1-pre1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-12-04T04:34:12.418299Z",
+        "downloads": 86,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "407fdb46650f8b763daec2e4902ed460adb7a38043b192595cf91f7b4520a27e7695b239114e392ced34fb66b73a66cb50357035ad04dafa21041aa26ee83336",
+                    "sha1": "339b4823f26aec6469617c82fcb7b83df1139794"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.94 1.18.1-pre1/c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.94-all.jar",
+                "filename": "c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.94-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18",
+            "1.18.1-pre1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "B6ee0W8y",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.87 devbuild for 1.18-rc3",
+        "version_number": "0.2.0+alpha.5.87 1.18-rc3",
+        "changelog": "Fixes a small issue",
+        "changelog_url": null,
+        "date_published": "2021-11-28T01:40:50.456499Z",
+        "downloads": 153,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "efb098db32d4107045a868d4390b6c48387c04e29374b91831378733e2120f82430b760f5290a042780d3b37a1378952c79fefbb3e2579309ad9fa00c987046d",
+                    "sha1": "1b590ae3101cbaf2648e55784314449f31adc81c"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87 1.18-rc3/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar",
+                "filename": "c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18-rc3"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "SpaBqzHT",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.85 devbuild for 1.18-rc3",
+        "version_number": "0.2.0+alpha.5.85 1.18-rc3",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-11-27T07:56:48.637736Z",
+        "downloads": 25,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "ff0008aee3efca43b003d613da4c9a056804623d",
+                    "sha512": "f88852802a6037786fb169c595a1df938b57406a02ad0cdbfdef42826f1e2b474c0cfac4814cd5861e8491b6739a5b5adb64a150abdba3e2f6b42f9ebb533764"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.85 1.18-rc3/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.85-all.jar",
+                "filename": "c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.85-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18-rc3"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "pSxkh6Qu",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.77 devbuild for 1.18-pre5",
+        "version_number": "0.2.0+alpha.5.77 1.18-pre5",
+        "changelog": "Fixes several crashes on production environment",
+        "changelog_url": null,
+        "date_published": "2021-11-21T01:45:40.643459Z",
+        "downloads": 54,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "45a0f37c75a264077cb47881b32d1e6731ea9b92",
+                    "sha512": "2a7d16abe6a27318ff863fe0e8081dc39c9f1c91cbde41fa5abfef8bece26eb4a79b39b06aa793982816a623608fc93eb1e79d640d447db05b0c929d701d623a"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.77 1.18-pre5/c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.77-all.jar",
+                "filename": "c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.77-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18-pre5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "LFqvAnbE",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.70 devbuild for 1.18-pre5",
+        "version_number": "0.2.0+alpha.5.70 1.18-pre5",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-11-20T11:05:21.426789Z",
+        "downloads": 14,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "0880d9f9e9d2c79be4f0a4b7c382a67056154130ffc22d1b03e4a1a7da758c537a437cf8538e486c09e4e76f2273228d88cba11ef7844264599e3958955ffabd",
+                    "sha1": "5ea7d5aa83f20ee207ea7ac579974116051c94ac"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.70 1.18-pre5/c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.70-all.jar",
+                "filename": "c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.70-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18-pre5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "xP8CXN3T",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.63 devbuild for 1.18-pre1",
+        "version_number": "0.2.0+alpha.5.63 1.18-pre1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-11-12T16:25:09.102009Z",
+        "downloads": 67,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "cfec47b4d5687b1a4145d132d56d5ede217de48f",
+                    "sha512": "f63bcd9059a5e190cb7a08a236485a03c2164be8deb82fac5b00988ecd70d26f96b7a2594f50502806e9c474408ca66899313567ee72a153a5e71ef12ad5d79c"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.63 1.18-pre1/c2me-fabric-mc1.18-pre1-0.2.0+alpha.5.63-all.jar",
+                "filename": "c2me-fabric-mc1.18-pre1-0.2.0+alpha.5.63-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18-pre1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "ojV9FS0t",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.54 devbuild for 21w44a",
+        "version_number": "0.2.0+alpha.5.54 21w44a",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-11-06T08:31:47.638637Z",
+        "downloads": 47,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "e83165d6edd634d0e09f733d8322462895f421d4",
+                    "sha512": "4a1f349af6fd716def699619864fefc0b579b87d4ae0c345e3d8685193a33e8eeaf855dc504b6f316f475331ebfe84433f0ca1a03640e0fde694c053045c1ce2"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.54 21w44a/c2me-fabric-mc21w44a-0.2.0+alpha.5.54-all.jar",
+                "filename": "c2me-fabric-mc21w44a-0.2.0+alpha.5.54-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "21w44a"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "pmOkpHL2",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.48 devbuild for 21w43a",
+        "version_number": "0.2.0+alpha.5.48 21w43a",
+        "changelog": "Note that this version will reset your config",
+        "changelog_url": null,
+        "date_published": "2021-10-30T05:56:20.067563Z",
+        "downloads": 38,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "0829045c4b941619c1c0f7933b21dc8ee69bef55e876782536dc25b6c470e6e8428ff1c98d9a0e36a695b7cfb716107af94ed4b9f1c596dc7e7dfcdd69d5867b",
+                    "sha1": "8305fd59776d89da524e652bd682eed377a2694b"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.48 21w43a/c2me-fabric-mc21w43a-0.2.0+alpha.5.48-all.jar",
+                "filename": "c2me-fabric-mc21w43a-0.2.0+alpha.5.48-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "21w43a"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "NSobPr3s",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.43 devbuild for 21w42a",
+        "version_number": "0.2.0+alpha.5.43 21w42a",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-22T16:19:08.913675Z",
+        "downloads": 49,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "7e5cd968aab9663e44998d6a87a7dbd03cfe3541",
+                    "sha512": "f398bfa638e70db60d5b4455977070c4ac550b7c9c703a9d06f706ffb2dd9cb1b6046010b81b04136bc947994267a65bd34e4719633bc76323f695bd8f195b71"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.43 21w42a/c2me-fabric-mc21w42a-0.2.0+alpha.5.43-all.jar",
+                "filename": "c2me-fabric-mc21w42a-0.2.0+alpha.5.43-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "21w42a"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "dKKE3zhp",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.40 devbuild for 21w41a",
+        "version_number": "0.2.0+alpha.5.40 21w41a",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-16T05:01:21.974989Z",
+        "downloads": 40,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "e47d5d8763809ae32a96b7cb8ee3ede26f63cff7",
+                    "sha512": "75e6e3701c9cf2971c6e8c5f22b911a6361cf3c8b2c4735f18c5defde5104386ca6e5828936f8dd0d3e2ee1ff022a7036f9739d89b34a15dbc78c7a019bb1820"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.40 21w41a/c2me-fabric-mc21w41a-0.2.0+alpha.5.40-all.jar",
+                "filename": "c2me-fabric-mc21w41a-0.2.0+alpha.5.40-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "21w41a"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "1SfzeCfa",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5.35 devbuild for 21w40a",
+        "version_number": "0.2.0+alpha.5.35 21w40a",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-09T15:54:51.770077Z",
+        "downloads": 31,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "bf459680fc43af18dda82214cf863fd2f70086a86f5f92cabf2dbb5748c23307da7007dd3404754dec418e9d6a4f17ca8f58f30f98d5d677a7019bfe65f6bc10",
+                    "sha1": "a1dff7661e341b10825150539fbc15e9f61614e3"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.35 21w40a/c2me-fabric-mc21w40a-0.2.0+alpha.5.35-all.jar",
+                "filename": "c2me-fabric-mc21w40a-0.2.0+alpha.5.35-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "21w40a"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "2IaFivhp",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5 for 21w39a",
+        "version_number": "0.2.0+alpha.5 21w39a",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-02T10:14:46.035991Z",
+        "downloads": 22,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "ebc75ae29bb3927f3db33efe77c2aa627735a749",
+                    "sha512": "b4851f9a02a8b584262e25c5cbed82a766cc0bd56cb172859885232bad956d9c7713ed97352449529a741d424b4d6d71174f36e69401c5b9b1f5d59c2d1b36db"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/1/c2me-fabric-mc21w39a-0.2.0+alpha.5.31-all.jar",
+                "filename": "c2me-fabric-mc21w39a-0.2.0+alpha.5.31-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "21w39a"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "4FLwGDDE",
+        "mod_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.5 for 1.17.1",
+        "version_number": "0.2.0+alpha.5 1.17.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-02T10:14:46.023615Z",
+        "downloads": 1240,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "816e8bb4f172ec8887c9cd0f8668523a10fc61172be4290fd1d7cc7cef4c89a1c007e60452dadf6abcd0a9a0acc187d582c342884a3f84bd412706d0184b9196",
+                    "sha1": "394bcaa6abf6cf06b169279fa8d2e65ff3f3aa60"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0/c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar",
+                "filename": "c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

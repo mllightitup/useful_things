@@ -1,0 +1,39 @@
+{
+    "id": "GNxdLCoP",
+    "slug": "cull-leaves",
+    "team": "95SIWdX6",
+    "title": "Cull Leaves",
+    "description": "Adds culling to leaf blocks, providing a huge performance boost over vanilla.",
+    "body": "",
+    "body_url": "https://cdn.modrinth.com/data/GNxdLCoP/description.md",
+    "published": "2021-01-01T13:46:00.961732Z",
+    "updated": "2021-10-30T13:49:12.676471Z",
+    "status": "approved",
+    "license": {
+        "id": "mit",
+        "name": "MIT License",
+        "url": "https://cdn.modrinth.com/licenses/mit.txt"
+    },
+    "client_side": "required",
+    "server_side": "unsupported",
+    "downloads": 8111,
+    "followers": 166,
+    "categories": [
+        "misc"
+    ],
+    "versions": [
+        "YVhVO5vK",
+        "d6b1Ezyz",
+        "qXQsntrr",
+        "718Klypf",
+        "85IJZOPp",
+        "DdSy1eAp",
+        "NfeMW5mF"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/GNxdLCoP/icon.png",
+    "issues_url": "https://github.com/TeamMidnightDust/CullLeaves/issues",
+    "source_url": "https://github.com/TeamMidnightDust/CullLeaves",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/jAGnWYHm3r",
+    "donation_urls": []
+}

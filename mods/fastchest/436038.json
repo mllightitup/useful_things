@@ -1,0 +1,291 @@
+{
+    "id": 436038,
+    "name": "FastChest",
+    "authors": [
+        {
+            "name": "fake_domi",
+            "url": "https://www.curseforge.com/members/7950609-fake_domi?username=fake_domi",
+            "projectId": 436038,
+            "id": 347475,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 7950609,
+            "twitchId": 203011283
+        }
+    ],
+    "attachments": [
+        {
+            "id": 331626,
+            "projectId": 436038,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/331/626/256/256/637461056079406244.png",
+            "title": "637461056079406244.png",
+            "url": "https://media.forgecdn.net/avatars/331/626/637461056079406244.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/FakeDomi/FastChest/issues",
+    "sourceUrl": "https://github.com/FakeDomi/FastChest",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fastchest",
+    "gameId": 432,
+    "summary": "Makes Chests use static models instead of BERs.",
+    "defaultFileId": 3544190,
+    "downloadCount": 176866.0,
+    "latestFiles": [
+        {
+            "id": 3544190,
+            "displayName": "fast-chest-1.2+1.18.jar",
+            "fileName": "fast-chest-1.2+1.18.jar",
+            "fileDate": "2021-12-01T20:05:47.257Z",
+            "fileLength": 25426,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3544/190/fast-chest-1.2+1.18.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 4151316780,
+                    "type": 3
+                },
+                {
+                    "foldername": "fc.mixins.json",
+                    "fingerprint": 1726163981,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 1561007189,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 3618299636,
+                    "type": 3
+                },
+                {
+                    "foldername": "fast-chest-refmap.json",
+                    "fingerprint": 76028618,
+                    "type": 3
+                },
+                {
+                    "foldername": "re",
+                    "fingerprint": 1754516684,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 2721805013,
+            "gameVersion": [
+                "Fabric",
+                "1.18"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Fabric",
+                    "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018",
+                    "gameVersion": "1.18",
+                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                    "gameVersionName": "1.18",
+                    "gameVersionTypeId": 73250
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2607096,
+            "fileLegacyMappingId": null,
+            "projectId": 436038,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 797741101,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3515117,
+            "gameVersionId": 7499,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "92655599396787d5ea4c4e66a4ea2f5779584abc"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "0e576ea076d1168a22da371778f7badc"
+                }
+            ],
+            "downloadCount": 24111
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 425,
+            "name": "Miscellaneous",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 436038,
+            "avatarId": 6040,
+            "gameId": 432,
+            "slug": "mc-miscellaneous",
+            "dateModified": "2014-06-15T04:27:14.543Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 425,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "fastchest",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3544190,
+            "projectFileName": "fast-chest-1.2+1.18.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3344001,
+            "projectFileName": "fast-chest-1.2+1.17.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17",
+            "projectFileId": 3344001,
+            "projectFileName": "fast-chest-1.2+1.17.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3222361,
+            "projectFileName": "fast-chest-1.2+1.16.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3222361,
+            "projectFileName": "fast-chest-1.2+1.16.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16",
+            "projectFileId": 3222361,
+            "projectFileName": "fast-chest-1.2+1.16.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3222361,
+            "projectFileName": "fast-chest-1.2+1.16.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3222361,
+            "projectFileName": "fast-chest-1.2+1.16.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3222361,
+            "projectFileName": "fast-chest-1.2+1.16.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.15",
+            "projectFileId": 3222360,
+            "projectFileName": "fast-chest-1.2+1.15.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 3222360,
+            "projectFileName": "fast-chest-1.2+1.15.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.15.1",
+            "projectFileId": 3222360,
+            "projectFileName": "fast-chest-1.2+1.15.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 4
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 2083.449951171875,
+    "gamePopularityRank": 3071,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "modLoaders": [
+        "Fabric"
+    ],
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-01T20:06:37.887Z",
+    "dateCreated": "2021-01-13T03:33:27.92Z",
+    "dateReleased": "2021-12-01T20:05:47.257Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": null
+}

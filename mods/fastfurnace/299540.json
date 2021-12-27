@@ -1,0 +1,383 @@
+{
+    "id": 299540,
+    "name": "FastFurnace",
+    "authors": [
+        {
+            "name": "Shadows_of_Fire",
+            "url": "https://www.curseforge.com/members/10368195-shadows_of_fire?username=shadows_of_fire",
+            "projectId": 299540,
+            "id": 199872,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 10368195,
+            "twitchId": 52817087
+        }
+    ],
+    "attachments": [
+        {
+            "id": 164243,
+            "projectId": 299540,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/164/243/256/256/636686097562167838.png",
+            "title": "636686097562167838.png",
+            "url": "https://media.forgecdn.net/avatars/164/243/636686097562167838.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/Shadows-of-Fire/FastFurnace/issues",
+    "wikiUrl": "",
+    "sourceUrl": "https://github.com/Shadows-of-Fire/FastFurnace",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
+    "gameId": 432,
+    "summary": "A performance upgrade for the furnace.",
+    "defaultFileId": 3568851,
+    "downloadCount": 33153086.0,
+    "latestFiles": [
+        {
+            "id": 3172796,
+            "displayName": "FastFurnace-1.16.4-4.4.0.jar",
+            "fileName": "FastFurnace-1.16.4-4.4.0.jar",
+            "fileDate": "2021-01-18T18:21:32.303Z",
+            "fileLength": 14614,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3172/796/FastFurnace-1.16.4-4.4.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 54704741,
+                    "addonId": 283644,
+                    "type": 3,
+                    "fileId": 3172796
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1787013860,
+                    "type": 3
+                },
+                {
+                    "foldername": "shadows",
+                    "fingerprint": 3254850185,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 135111852,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 3123588329,
+            "gameVersion": [
+                "1.16.5",
+                "1.16.4"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000004",
+                    "gameVersion": "1.16.4",
+                    "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+                    "gameVersionName": "1.16.4",
+                    "gameVersionTypeId": 70886
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2131821,
+            "fileLegacyMappingId": null,
+            "projectId": 299540,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 588539612,
+            "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
+            "gameVersionMappingId": 2654347,
+            "gameVersionId": 8134,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "935445da4611a7bedad6044b702b23154654bfe7"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "455de5fe1cbfdd860b576c9fe619a39a"
+                }
+            ],
+            "downloadCount": 5662943
+        },
+        {
+            "id": 3568851,
+            "displayName": "FastFurnace-1.18.1-6.0.1.jar",
+            "fileName": "FastFurnace-1.18.1-6.0.1.jar",
+            "fileDate": "2021-12-16T17:58:07.433Z",
+            "fileLength": 5459,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3568/851/FastFurnace-1.18.1-6.0.1.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 4244030899,
+                    "type": 3
+                },
+                {
+                    "foldername": "shadows",
+                    "fingerprint": 3864097201,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastfurnace.mixins.json",
+                    "fingerprint": 2616245008,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 135111852,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastfurnace.refmap.json",
+                    "fingerprint": 2892023708,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 2073682466,
+            "gameVersion": [
+                "1.18.1",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2635760,
+            "fileLegacyMappingId": null,
+            "projectId": 299540,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 810952719,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3575216,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "81802604171f9dd08f174697d9679203cce31cf2"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "a6ebff8b559d3d653b80a13182204608"
+                }
+            ],
+            "downloadCount": 0
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 299540,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        },
+        {
+            "categoryId": 413,
+            "name": "Processing",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+            "parentId": 412,
+            "rootId": 6,
+            "projectId": 299540,
+            "avatarId": 6028,
+            "gameId": 432,
+            "slug": "technology-processing",
+            "dateModified": "2014-05-08T17:38:41.96Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 413,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "fastfurnace",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3568851,
+            "projectFileName": "FastFurnace-1.18.1-6.0.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3562018,
+            "projectFileName": "FastFurnace-1.17.1-5.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3531342,
+            "projectFileName": "FastFurnace-1.16.5-4.5.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3172796,
+            "projectFileName": "FastFurnace-1.16.4-4.4.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3172796,
+            "projectFileName": "FastFurnace-1.16.4-4.4.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3069048,
+            "projectFileName": "FastFurnace-1.16.3-4.3.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3046611,
+            "projectFileName": "FastFurnace-1.16.2-4.2.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3041240,
+            "projectFileName": "FastFurnace-1.16.1-4.1.2.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 2856529,
+            "projectFileName": "FastFurnace-1.15.1-3.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722
+        },
+        {
+            "gameVersion": "1.15.1",
+            "projectFileId": 2856529,
+            "projectFileName": "FastFurnace-1.15.1-3.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722
+        },
+        {
+            "gameVersion": "1.14.4",
+            "projectFileId": 2795483,
+            "projectFileName": "FastFurnace-1.14.4-2.2.4.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 64806
+        },
+        {
+            "gameVersion": "1.12.2",
+            "projectFileId": 2706111,
+            "projectFileName": "FastFurnace-1.12.2-1.3.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 33845.09375,
+    "gamePopularityRank": 102,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "modLoaders": [
+        "Forge"
+    ],
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-16T17:59:20.323Z",
+    "dateCreated": "2018-07-31T04:55:56.17Z",
+    "dateReleased": "2021-12-16T17:58:07.433Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": null
+}

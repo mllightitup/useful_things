@@ -1,0 +1,50 @@
+{
+    "id": "VOYxIjFI",
+    "slug": "canvas",
+    "team": "Mwq1YIsQ",
+    "title": "Canvas Renderer",
+    "description": "Open source shaders for players and content creators",
+    "body": "#### Introduction\nCanvas enhances Minecraft world rendering with benefits for both player and content makers.\n\nCanvas is in an extended beta.  Many features are complete but expect some mod incompatibilities and visual defects. Visit our discord for news, dev builds, and information.\n\n#### For Players\n* High performance\n* Pipeline shaders with visual improvements similar to OF shader packs\n* Access to enhanced modded content using\n\n#### For Content Makers\nCanvas implements the FREX Rendering Extensions API. Features offered by FREX include:\n* Dynamic models for blocks and items\n* Powerful custom materials for emissive, layered, and other effects\n* Custom material shaders for animation and procedural effects\n* JSON loaders for creators who want to customize existing content or prefer to avoid Java code",
+    "body_url": null,
+    "published": "2021-08-16T03:23:23.795563Z",
+    "updated": "2021-12-24T19:52:28.514273Z",
+    "status": "approved",
+    "license": {
+        "id": "lgpl-3",
+        "name": "GNU Lesser General Public License v3",
+        "url": "https://cdn.modrinth.com/licenses/lgpl-3.txt"
+    },
+    "client_side": "required",
+    "server_side": "unsupported",
+    "downloads": 285,
+    "followers": 10,
+    "categories": [
+        "library",
+        "misc",
+        "utility"
+    ],
+    "versions": [
+        "aVFFTT7P",
+        "few5jTvK",
+        "i9y7d3jr",
+        "kNEAmsbK",
+        "mncDF509",
+        "nK7dPLtu",
+        "nOgy4p3Y",
+        "vfRHoSQ8",
+        "vtBZZ2yi",
+        "wQmvEeSx",
+        "wlz2rdu0",
+        "8urHjMDT",
+        "9NO7HvPS",
+        "Ahy9LaDx",
+        "HFM5ODhh",
+        "O5Ga9iFI"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/VOYxIjFI/icon.jpg",
+    "issues_url": "https://github.com/vram-guild/canvas/issues",
+    "source_url": "https://github.com/vram-guild/canvas",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/7NaqR2e",
+    "donation_urls": []
+}

@@ -1,0 +1,38 @@
+{
+    "id": "Nz0RSWrF",
+    "slug": "lazy-language-loader",
+    "team": "mttmSTih",
+    "title": "lazy-language-loader",
+    "description": "lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!",
+    "body": "# lazy-language-loader\nlazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!\n\n## Background\nCurrently, when you load in a language on lower-spec computers it takes quite a noticeable amount of time...\nThis mod aims to fix that massive freeze-up by instead of reloading all the game resources just reload\nthe language manager. The language manager handles game translations/localization etc. By using this mod\nthe delay should be very less noticeable due to no longer reloading every resource.",
+    "body_url": null,
+    "published": "2021-08-28T18:51:23.583269Z",
+    "updated": "2021-12-02T20:08:49.774757Z",
+    "status": "approved",
+    "license": {
+        "id": "lgpl-3",
+        "name": "GNU Lesser General Public License v3",
+        "url": "https://cdn.modrinth.com/licenses/lgpl-3.txt"
+    },
+    "client_side": "required",
+    "server_side": "unsupported",
+    "downloads": 361,
+    "followers": 17,
+    "categories": [
+        "utility"
+    ],
+    "versions": [
+        "cbpDCPIJ",
+        "gbbefmHf",
+        "m8ve59qv",
+        "PALv5M6V",
+        "PJ7zhWNk",
+        "RBCX5Fwv"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/Nz0RSWrF/icon.png",
+    "issues_url": "https://github.com/ChachyDev/lazy-language-loader/issues",
+    "source_url": "https://github.com/ChachyDev/lazy-language-loader",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/XAjvZ8GvPy",
+    "donation_urls": []
+}

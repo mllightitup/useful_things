@@ -1,0 +1,195 @@
+[
+    {
+        "id": "kCiWZ1wv",
+        "mod_id": "fQEb0iXm",
+        "author_id": "y0WF9UR5",
+        "featured": false,
+        "name": "0.1.6",
+        "version_number": "0.1.6",
+        "changelog": "* Updated to Minecraft 1.18.1",
+        "changelog_url": null,
+        "date_published": "2021-12-11T02:18:56.145776Z",
+        "downloads": 2368,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "2e3548f3fb24e186090dc203ecc500df82b1eec2c3300f772f9622b6050be8b7edef71b91c4f99b4c2bcd201ff83fadf363c227a21d4f24f776b93dccaa477d5",
+                    "sha1": "f0f3961ed0a22a8b3d5b20af4dde7ac6fbc06a46"
+                },
+                "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar",
+                "filename": "krypton-0.1.6.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "PGovBIXq",
+        "mod_id": "fQEb0iXm",
+        "author_id": "y0WF9UR5",
+        "featured": false,
+        "name": "0.1.4",
+        "version_number": "0.1.4",
+        "changelog": "Compatible with Minecraft 1.17.1",
+        "changelog_url": null,
+        "date_published": "2021-07-06T16:24:47.939506Z",
+        "downloads": 10250,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "11caa7034af4b3902da46467e00fe734b5266817d7d312815ea23d3cb1d6ab6a9959625138b70e79dc70ff872fe066e8358c7c5cd1cb8cfa8099a08f26531481",
+                    "sha1": "3b166b4fc621726da6ba83cabf6bce2bb826700d"
+                },
+                "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar",
+                "filename": "krypton-0.1.4.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "Ff90AgU6",
+        "mod_id": "fQEb0iXm",
+        "author_id": "y0WF9UR5",
+        "featured": false,
+        "name": "0.1.3",
+        "version_number": "0.1.3",
+        "changelog": "* Updated to Minecraft 1.17. (This release is not compatible with Minecraft 1.16.5 and earlier.)\n* Added VarInt writing optimizations.\n* Fixed packet sending counter.\n* Fixed ViaFabric incompatibility.",
+        "changelog_url": null,
+        "date_published": "2021-06-08T20:57:53.908095Z",
+        "downloads": 1934,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "1fe3029f78ae02e4fef523923f722229fb9439e9881b657932a9cef4839f2d3cf3e3ee7cdfe17418fbbffbd73cfedbc920562b9429be2c0efecbc9af052074cf",
+                    "sha1": "d08aeb37d7d0ffb2a619c08c3bb805b2b5856d07"
+                },
+                "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.3/krypton-0.1.3.jar",
+                "filename": "krypton-0.1.3.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "7AwqDL7J",
+        "mod_id": "fQEb0iXm",
+        "author_id": "y0WF9UR5",
+        "featured": false,
+        "name": "0.1.2",
+        "version_number": "0.1.2",
+        "changelog": "Fixed several issues with flush consolidation",
+        "changelog_url": null,
+        "date_published": "2021-02-11T20:25:01.910813Z",
+        "downloads": 4639,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "36fd6bd5a963bdb8f1472b2d1f7ac34a2044f644c7911570ce374665e1de24ef31793b5cd5421222f9e6b4eaa851e1e6358658b306d20df71b8c79a93984710c",
+                    "sha1": "785618b9a11a7b267659a5583804fcaf20cd14d4"
+                },
+                "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar",
+                "filename": "krypton-0.1.2.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "19624YsD",
+        "mod_id": "fQEb0iXm",
+        "author_id": "y0WF9UR5",
+        "featured": false,
+        "name": "0.1.1",
+        "version_number": "0.1.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-01-20T23:06:20.668361Z",
+        "downloads": 164,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "9ca430ee324264b938a43e6e77fc7e08122449f7",
+                    "sha512": "4aa343edfa83aa5921140f80cc2cc558db4ada6908f73c2fdc75039789971346689fd398e25ceb89da2986a0155486316e6a4b3f67ece9513656de04ed4abfce"
+                },
+                "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.1/krypton-0.1.1.jar",
+                "filename": "krypton-0.1.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "tO4HJpLA",
+        "mod_id": "fQEb0iXm",
+        "author_id": "y0WF9UR5",
+        "featured": false,
+        "name": "0.1.0",
+        "version_number": "0.1.0",
+        "changelog": "",
+        "changelog_url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.0/changelog.md",
+        "date_published": "2020-12-21T17:48:09.053670Z",
+        "downloads": 47,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "7223fb36de43f0fcfbc6c74bbfb8c334a17262de"
+                },
+                "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.0/krypton-0.1.0.jar",
+                "filename": "krypton-0.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.2",
+            "1.16.3",
+            "1.16.4"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

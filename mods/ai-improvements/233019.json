@@ -1,0 +1,750 @@
+{
+    "id": 233019,
+    "name": "AI Improvements",
+    "authors": [
+        {
+            "name": "QueenOfMissiles",
+            "url": "https://www.curseforge.com/members/7270863-queenofmissiles?username=queenofmissiles",
+            "projectId": 233019,
+            "id": 25686,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 7270863,
+            "twitchId": 29175836
+        }
+    ],
+    "attachments": [
+        {
+            "id": 21699,
+            "projectId": 233019,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/21/699/256/256/635731173265581096.png",
+            "title": "635731173265581096.png",
+            "url": "https://media.forgecdn.net/avatars/21/699/635731173265581096.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/BuiltBrokenModding/AI-Improvements/issues",
+    "wikiUrl": "",
+    "sourceUrl": "https://github.com/BuiltBrokenModding/AI-Improvements",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements",
+    "gameId": 432,
+    "summary": "Performance and logic upgrades for mod AIs",
+    "defaultFileId": 3543562,
+    "downloadCount": 26882794.0,
+    "latestFiles": [
+        {
+            "id": 2291537,
+            "displayName": "AI Improvements 20",
+            "fileName": "AIImprovements-1.8.9-0.0.1b20160401184840-universal.jar",
+            "fileDate": "2016-04-02T01:39:22.157Z",
+            "fileLength": 7501,
+            "releaseType": 2,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/2291/537/AIImprovements-1.8.9-0.0.1b20160401184840-universal.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 1083510,
+                    "addonId": 227048,
+                    "type": 2,
+                    "fileId": 2291537
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 3923864143,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 649952295,
+                    "type": 3
+                },
+                {
+                    "foldername": "mcmod.info",
+                    "fingerprint": 1624740349,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1697452560,
+            "gameVersion": [
+                "1.8.9"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000008.0000000009",
+                    "gameVersion": "1.8.9",
+                    "gameVersionReleaseDate": "2015-12-09T06:00:00Z",
+                    "gameVersionName": "1.8.9",
+                    "gameVersionTypeId": 4
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 1227598,
+            "fileLegacyMappingId": null,
+            "projectId": 233019,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 52288411,
+            "gameVersionDateReleased": "2015-12-09T06:00:00Z",
+            "gameVersionMappingId": 198289,
+            "gameVersionId": 5806,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "94ab9d009620210649d8e4d878b06d96fda9b979"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "fd26b8f19485a2cd13a92369c9be2684"
+                }
+            ],
+            "downloadCount": 6012
+        },
+        {
+            "id": 2468387,
+            "displayName": "AI Improvements 1.12.1-0.0.1b1 build 1 for 1.12.1",
+            "fileName": "AIImprovements-1.12.1-0.0.1b1.jar",
+            "fileDate": "2017-08-24T03:06:33.55Z",
+            "fileLength": 7267,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/2468/387/AIImprovements-1.12.1-0.0.1b1.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 47422827,
+                    "addonId": 222211,
+                    "type": 2,
+                    "fileId": 2468387
+                },
+                {
+                    "id": 47422831,
+                    "addonId": 227048,
+                    "type": 2,
+                    "fileId": 2468387
+                },
+                {
+                    "id": 47422828,
+                    "addonId": 223008,
+                    "type": 2,
+                    "fileId": 2468387
+                },
+                {
+                    "id": 47422830,
+                    "addonId": 222880,
+                    "type": 2,
+                    "fileId": 2468387
+                },
+                {
+                    "id": 47422829,
+                    "addonId": 69163,
+                    "type": 2,
+                    "fileId": 2468387
+                },
+                {
+                    "id": 47422832,
+                    "addonId": 73488,
+                    "type": 2,
+                    "fileId": 2468387
+                },
+                {
+                    "id": 47422826,
+                    "addonId": 69162,
+                    "type": 2,
+                    "fileId": 2468387
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 2334968003,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 1964715376,
+                    "type": 3
+                },
+                {
+                    "foldername": "AI_at.cfg",
+                    "fingerprint": 2707717271,
+                    "type": 3
+                },
+                {
+                    "foldername": "mcmod.info",
+                    "fingerprint": 2324549376,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 2649954864,
+            "gameVersion": [
+                "1.12.1"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000012.0000000001",
+                    "gameVersion": "1.12.1",
+                    "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
+                    "gameVersionName": "1.12.1",
+                    "gameVersionTypeId": 628
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 134251,
+            "fileLegacyMappingId": null,
+            "projectId": 233019,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 198551220,
+            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+            "gameVersionMappingId": 1417051,
+            "gameVersionId": 4458,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "b49ed074fcf4cf3e332d10b0f057c25a26fa9fda"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "89be2aa1464314c1e4474825036f3ccf"
+                }
+            ],
+            "downloadCount": 2464827
+        },
+        {
+            "id": 2524666,
+            "displayName": "AI Improvements 1.7.10-0.0.1b8-UNSTABLE build 8 for 1.7.10",
+            "fileName": "AIImprovements-1.7.10-0.0.1b8.jar",
+            "fileDate": "2018-01-27T04:01:41.537Z",
+            "fileLength": 34228,
+            "releaseType": 3,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/2524/666/AIImprovements-1.7.10-0.0.1b8.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 14597112,
+                    "addonId": 69163,
+                    "type": 2,
+                    "fileId": 2524666
+                },
+                {
+                    "id": 14597115,
+                    "addonId": 222211,
+                    "type": 2,
+                    "fileId": 2524666
+                },
+                {
+                    "id": 14597111,
+                    "addonId": 69162,
+                    "type": 2,
+                    "fileId": 2524666
+                },
+                {
+                    "id": 14597117,
+                    "addonId": 227048,
+                    "type": 2,
+                    "fileId": 2524666
+                },
+                {
+                    "id": 14597113,
+                    "addonId": 222880,
+                    "type": 2,
+                    "fileId": 2524666
+                },
+                {
+                    "id": 14597114,
+                    "addonId": 223008,
+                    "type": 2,
+                    "fileId": 2524666
+                },
+                {
+                    "id": 14597116,
+                    "addonId": 73488,
+                    "type": 2,
+                    "fileId": 2524666
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 2827729366,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 1728207247,
+                    "type": 3
+                },
+                {
+                    "foldername": "mcmod.info",
+                    "fingerprint": 1579710178,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1276362480,
+            "gameVersion": [
+                "1.7.10"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000007.0000000010",
+                    "gameVersion": "1.7.10",
+                    "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
+                    "gameVersionName": "1.7.10",
+                    "gameVersionTypeId": 5
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 1337464,
+            "fileLegacyMappingId": null,
+            "projectId": 233019,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 222428471,
+            "gameVersionDateReleased": "2014-06-16T00:00:00Z",
+            "gameVersionMappingId": 1517502,
+            "gameVersionId": 4449,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "08175b6a601003ca9968d06ff50db59c13a010c3"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "b9fbddfe338d263b0f2f18134e3ca935"
+                }
+            ],
+            "downloadCount": 129798
+        },
+        {
+            "id": 3005709,
+            "displayName": "AI-Improvements-1.16.1-0.3.0.jar",
+            "fileName": "AI-Improvements-1.16.1-0.3.0.jar",
+            "fileDate": "2020-07-15T17:07:06.6Z",
+            "fileLength": 22122,
+            "releaseType": 2,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3005/709/AI-Improvements-1.16.1-0.3.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 408960536,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 3349911820,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 21324294,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 2494133012,
+            "gameVersion": [
+                "1.16.1",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000001",
+                    "gameVersion": "1.16.1",
+                    "gameVersionReleaseDate": "2020-06-24T12:41:11.823Z",
+                    "gameVersionName": "1.16.1",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 1924237,
+            "fileLegacyMappingId": null,
+            "projectId": 233019,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 488831772,
+            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+            "gameVersionMappingId": 2322830,
+            "gameVersionId": 4458,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "4facaffd039feb8ec84c2a77bd124a58d8a6f77b"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "e889a8ddd2881bc917654239cd87f6e5"
+                }
+            ],
+            "downloadCount": 377683
+        },
+        {
+            "id": 3543562,
+            "displayName": "AI-Improvements-1.18-0.4.0.jar",
+            "fileName": "AI-Improvements-1.18-0.4.0.jar",
+            "fileDate": "2021-12-01T12:57:26.273Z",
+            "fileLength": 25323,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3543/562/AI-Improvements-1.18-0.4.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1580241955,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 764568103,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 4252897651,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1822903046,
+            "gameVersion": [
+                "1.18.1",
+                "Forge",
+                "1.18"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018",
+                    "gameVersion": "1.18",
+                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                    "gameVersionName": "1.18",
+                    "gameVersionTypeId": 73250
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2606348,
+            "fileLegacyMappingId": null,
+            "projectId": 233019,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 797263778,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3513462,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "8f8178fcb31e72a37f75efbaec3a3db92d2c6bbd"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "46659413d023b8135750cdc6f2b22a0a"
+                }
+            ],
+            "downloadCount": 174206
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 233019,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        },
+        {
+            "categoryId": 411,
+            "name": "Mobs",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+            "parentId": 406,
+            "rootId": 6,
+            "projectId": 233019,
+            "avatarId": 6053,
+            "gameId": 432,
+            "slug": "world-mobs",
+            "dateModified": "2014-05-08T17:46:59.507Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 435,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "ai-improvements",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3543562,
+            "projectFileName": "AI-Improvements-1.18-0.4.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3543562,
+            "projectFileName": "AI-Improvements-1.18-0.4.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3533943,
+            "projectFileName": "AI-Improvements-1.17.1-0.4.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3533942,
+            "projectFileName": "AI-Improvements-1.16.5-0.4.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3031978,
+            "projectFileName": "AI-Improvements-1.16.2-0.3.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3031978,
+            "projectFileName": "AI-Improvements-1.16.2-0.3.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3031978,
+            "projectFileName": "AI-Improvements-1.16.2-0.3.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3005709,
+            "projectFileName": "AI-Improvements-1.16.1-0.3.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 2876104,
+            "projectFileName": "AI-Improvements-1.15.2-0.3.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.14.4",
+            "projectFileId": 2754291,
+            "projectFileName": "AI-Improvements-1.14.4-0.3.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 64806,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.7.10",
+            "projectFileId": 2524666,
+            "projectFileName": "AIImprovements-1.7.10-0.0.1b8.jar",
+            "fileType": 3,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 5
+        },
+        {
+            "gameVersion": "1.10.2",
+            "projectFileId": 2481979,
+            "projectFileName": "AIImprovements-1.10.2-0.0.1b4.jar",
+            "fileType": 3,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 572
+        },
+        {
+            "gameVersion": "1.12.1",
+            "projectFileId": 2468387,
+            "projectFileName": "AIImprovements-1.12.1-0.0.1b1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        },
+        {
+            "gameVersion": "1.12",
+            "projectFileId": 2450734,
+            "projectFileName": "AIImprovements-1.12-0.0.1b3.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        },
+        {
+            "gameVersion": "1.12.2",
+            "projectFileId": 2450734,
+            "projectFileName": "AIImprovements-1.12-0.0.1b3.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        },
+        {
+            "gameVersion": "1.8.9",
+            "projectFileId": 2291537,
+            "projectFileName": "AIImprovements-1.8.9-0.0.1b20160401184840-universal.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 4
+        },
+        {
+            "gameVersion": "1.7.10",
+            "projectFileId": 2252676,
+            "projectFileName": "AIImprovements-1.7.10-0.0.1b19-dev.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 5
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 31163.869140625,
+    "gamePopularityRank": 107,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "modLoaders": [
+        "Forge"
+    ],
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-13T10:01:25.63Z",
+    "dateCreated": "2015-07-22T04:15:26.557Z",
+    "dateReleased": "2021-12-01T12:57:26.273Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": true
+}

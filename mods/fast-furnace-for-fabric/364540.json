@@ -1,0 +1,376 @@
+{
+    "id": 364540,
+    "name": "Fast Furnace for Fabric",
+    "authors": [
+        {
+            "name": "tfarecnim",
+            "url": "https://www.curseforge.com/members/58117726-tfarecnim?username=tfarecnim",
+            "projectId": 364540,
+            "id": 270336,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 58117726,
+            "twitchId": 402838081
+        }
+    ],
+    "attachments": [
+        {
+            "id": 251264,
+            "projectId": 364540,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/251/264/256/256/637182590852864914.png",
+            "title": "637182590852864914.png",
+            "url": "https://media.forgecdn.net/avatars/251/264/637182590852864914.png",
+            "status": 1
+        }
+    ],
+    "sourceUrl": "https://github.com/Tfarcenim/FabricFastFurnace",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric",
+    "gameId": 432,
+    "summary": "Optimizations and tweaks for the vanilla furnaces",
+    "defaultFileId": 3558448,
+    "downloadCount": 396992.0,
+    "latestFiles": [
+        {
+            "id": 3264245,
+            "displayName": "fastfurnace-2.4.jar",
+            "fileName": "fastfurnace-2.4.jar",
+            "fileDate": "2021-04-05T16:23:15.877Z",
+            "fileLength": 17823,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3264/245/fastfurnace-2.4.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "LICENSE",
+                    "fingerprint": 69484887,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastfurnace.mixins.json",
+                    "fingerprint": 2544508250,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 1662675721,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 2742186492,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastfurnace-refmap.json",
+                    "fingerprint": 271841113,
+                    "type": 3
+                },
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 2464251221,
+                    "type": 3
+                },
+                {
+                    "foldername": "tfar",
+                    "fingerprint": 2342264544,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 2866188287,
+            "gameVersion": [
+                "1.16.5"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2250706,
+            "fileLegacyMappingId": null,
+            "projectId": 364540,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 638638983,
+            "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+            "gameVersionMappingId": 2843625,
+            "gameVersionId": 8203,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "50f1fbc5ec55bd19e84da87864bf0934a2a5d84d"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "9d36e9eea0e85e588d82f5fdd30a87e5"
+                }
+            ],
+            "downloadCount": 69075
+        },
+        {
+            "id": 3558448,
+            "displayName": "fastfurnace-1.18-4.jar",
+            "fileName": "fastfurnace-1.18-4.jar",
+            "fileDate": "2021-12-10T18:08:07.297Z",
+            "fileLength": 17766,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3558/448/fastfurnace-1.18-4.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 3106504104,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE",
+                    "fingerprint": 69484887,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastfurnace.mixins.json",
+                    "fingerprint": 3071252016,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 724998580,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 2742186492,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastfurnace-refmap.json",
+                    "fingerprint": 4173492326,
+                    "type": 3
+                },
+                {
+                    "foldername": "tfar",
+                    "fingerprint": 4008179594,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1789020635,
+            "gameVersion": [
+                "1.18.1",
+                "Fabric",
+                "1.18"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Fabric",
+                    "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018",
+                    "gameVersion": "1.18",
+                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                    "gameVersionName": "1.18",
+                    "gameVersionTypeId": 73250
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2623709,
+            "fileLegacyMappingId": null,
+            "projectId": 364540,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 804770798,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3549342,
+            "gameVersionId": 7499,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "345addd97485183bfd562081c47e8e258c9cc7a1"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "f0cd238e58c52e513fd043dfef17b896"
+                }
+            ],
+            "downloadCount": 83
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 364540,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 435,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "fast-furnace-for-fabric",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3558448,
+            "projectFileName": "fastfurnace-1.18-4.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3558448,
+            "projectFileName": "fastfurnace-1.18-4.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3348874,
+            "projectFileName": "fastfurnace-1.17-3.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17",
+            "projectFileId": 3348874,
+            "projectFileName": "fastfurnace-1.17-3.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3264245,
+            "projectFileName": "fastfurnace-2.4.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3023434,
+            "projectFileName": "fastfurnace-2.3.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3023434,
+            "projectFileName": "fastfurnace-2.3.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3023434,
+            "projectFileName": "fastfurnace-2.3.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3023434,
+            "projectFileName": "fastfurnace-2.3.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 2888787,
+            "projectFileName": "fastfurnace-1.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 2540.1806640625,
+    "gamePopularityRank": 2502,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "modLoaders": [
+        "Fabric"
+    ],
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-10T18:13:22.373Z",
+    "dateCreated": "2020-02-25T20:24:45.247Z",
+    "dateReleased": "2021-12-10T18:08:07.297Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": null
+}

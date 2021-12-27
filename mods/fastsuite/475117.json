@@ -1,0 +1,350 @@
+{
+    "id": 475117,
+    "name": "FastSuite",
+    "authors": [
+        {
+            "name": "Shadows_of_Fire",
+            "url": "https://www.curseforge.com/members/10368195-shadows_of_fire?username=shadows_of_fire",
+            "projectId": 475117,
+            "id": 388866,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 10368195,
+            "twitchId": 52817087
+        }
+    ],
+    "attachments": [
+        {
+            "id": 374343,
+            "projectId": 475117,
+            "description": "",
+            "isDefault": false,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/374/343/256/256/637547983877256086.png",
+            "title": "637547983877256086.png",
+            "url": "https://media.forgecdn.net/avatars/374/343/637547983877256086.png",
+            "status": 1
+        },
+        {
+            "id": 376017,
+            "projectId": 475117,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/376/17/256/256/637551781740482627.png",
+            "title": "637551781740482627.png",
+            "url": "https://media.forgecdn.net/avatars/376/17/637551781740482627.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/Shadows-of-Fire/FastSuite/issues",
+    "wikiUrl": "",
+    "sourceUrl": "https://github.com/Shadows-of-Fire/FastSuite",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fastsuite",
+    "gameId": 432,
+    "summary": "A performance upgrade for the JSON recipe system.",
+    "defaultFileId": 3567088,
+    "downloadCount": 291467.0,
+    "latestFiles": [
+        {
+            "id": 3391318,
+            "displayName": "FastSuite-1.16.4-1.1.0.jar",
+            "fileName": "FastSuite-1.16.4-1.1.0.jar",
+            "fileDate": "2021-07-17T02:18:46.587Z",
+            "fileLength": 10698,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3391/318/FastSuite-1.16.4-1.1.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 69049860,
+                    "addonId": 283644,
+                    "type": 3,
+                    "fileId": 3391318
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 601796269,
+                    "type": 3
+                },
+                {
+                    "foldername": "shadows",
+                    "fingerprint": 1545124460,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastsuite.mixins.json",
+                    "fingerprint": 3832686222,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1704566900,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastsuite.refmap.json",
+                    "fingerprint": 2799022973,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 4286784016,
+            "gameVersion": [
+                "1.16.5",
+                "1.16.4"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000004",
+                    "gameVersion": "1.16.4",
+                    "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+                    "gameVersionName": "1.16.4",
+                    "gameVersionTypeId": 70886
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2412200,
+            "fileLegacyMappingId": null,
+            "projectId": 475117,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 707206556,
+            "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
+            "gameVersionMappingId": 3138543,
+            "gameVersionId": 8134,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "3246feff61f267188ce377261ca6be2bd1d5dcf0"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "c04643b373bedf5dd1393bbac7c5e656"
+                }
+            ],
+            "downloadCount": 6842
+        },
+        {
+            "id": 3567088,
+            "displayName": "FastSuite-1.18.1-3.0.0.jar",
+            "fileName": "FastSuite-1.18.1-3.0.0.jar",
+            "fileDate": "2021-12-15T01:43:51.713Z",
+            "fileLength": 10839,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3567/88/FastSuite-1.18.1-3.0.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 81077612,
+                    "addonId": 283644,
+                    "type": 3,
+                    "fileId": 3567088
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 473837804,
+                    "type": 3
+                },
+                {
+                    "foldername": "shadows",
+                    "fingerprint": 1094453590,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastsuite.mixins.json",
+                    "fingerprint": 2453202698,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1704566900,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastsuite.refmap.json",
+                    "fingerprint": 62599872,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 3393283767,
+            "gameVersion": [
+                "1.18.1",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2633607,
+            "fileLegacyMappingId": null,
+            "projectId": 475117,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 809652783,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3570136,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "64926cc95d83f99bae93b4c87eba253833652fe4"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "978544eb2b4bb4d8b0ef6da19dac99b2"
+                }
+            ],
+            "downloadCount": 0
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 475117,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 435,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "fastsuite",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3567088,
+            "projectFileName": "FastSuite-1.18.1-3.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3561829,
+            "projectFileName": "FastSuite-1.17.1-2.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3419895,
+            "projectFileName": "FastSuite-1.16.4-1.1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3419895,
+            "projectFileName": "FastSuite-1.16.4-1.1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3391318,
+            "projectFileName": "FastSuite-1.16.4-1.1.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3391318,
+            "projectFileName": "FastSuite-1.16.4-1.1.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 3099.53466796875,
+    "gamePopularityRank": 2080,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "modLoaders": [
+        "Forge"
+    ],
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-15T01:44:59.97Z",
+    "dateCreated": "2021-04-23T18:13:07.68Z",
+    "dateReleased": "2021-12-15T01:43:51.713Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": null
+}

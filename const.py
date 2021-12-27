@@ -9,8 +9,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 ## {loaders} {versions}
 
-| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](https://github.com/NordicGamerFE/usefulmods/tree/main#threat-level) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name |  Description | Author | Performance Improvement (Client/Server) | Need help? |
+| --- | :---: | :---: | :---: | :---: |
 """
 middle = """
 

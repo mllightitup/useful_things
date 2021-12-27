@@ -1,0 +1,36 @@
+{
+    "id": "msRGy0cC",
+    "slug": "entity-distance",
+    "team": "2qc8CaFv",
+    "title": "Entity Distance",
+    "description": "Allows the user to adjust the (client) distance at which different entities render.",
+    "body": "Allows the user to adjust the (client) distance at which different entities render. Distance setting for each entity can be found in the mod's Mod Menu settings.\n</br></br>\nRequires [fabric-api](https://modrinth.com/mod/fabric-api), [Mod Menu](https://modrinth.com/mod/modmenu), and [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config).",
+    "body_url": null,
+    "published": "2021-06-22T07:45:27.941958Z",
+    "updated": "2021-07-21T00:00:28.038813Z",
+    "status": "approved",
+    "license": {
+        "id": "mit",
+        "name": "MIT License",
+        "url": "https://cdn.modrinth.com/licenses/mit.txt"
+    },
+    "client_side": "required",
+    "server_side": "unsupported",
+    "downloads": 1787,
+    "followers": 12,
+    "categories": [
+        "utility"
+    ],
+    "versions": [
+        "W6uodD31",
+        "WOdLQLd0",
+        "q35Bju4S",
+        "GqFOY354"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/msRGy0cC/icon.png",
+    "issues_url": "https://github.com/capnkork/entity-distance/issues",
+    "source_url": "https://github.com/capnkork/entity-distance",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": []
+}

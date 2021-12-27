@@ -1,0 +1,552 @@
+{
+    "id": 256717,
+    "name": "Clumps",
+    "authors": [
+        {
+            "name": "Jaredlll08",
+            "url": "https://www.curseforge.com/members/10618648-jaredlll08?username=jaredlll08",
+            "projectId": 256717,
+            "id": 152323,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 10618648,
+            "twitchId": 38121926
+        }
+    ],
+    "attachments": [
+        {
+            "id": 84193,
+            "projectId": 256717,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/84/193/256/256/636193647832736518_animated.gif",
+            "title": "636193647832736518.gif",
+            "url": "https://media.forgecdn.net/avatars/84/193/636193647832736518.gif",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/jaredlll08/Clumps/issues",
+    "wikiUrl": "",
+    "sourceUrl": "https://github.com/jaredlll08/Clumps",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+    "gameId": 432,
+    "summary": "Clumps XP orbs together to reduce lag",
+    "defaultFileId": 3575674,
+    "downloadCount": 65132985.0,
+    "latestFiles": [
+        {
+            "id": 2666198,
+            "displayName": "Clumps-3.1.2",
+            "fileName": "Clumps-3.1.2.jar",
+            "fileDate": "2019-01-28T22:56:57.45Z",
+            "fileLength": 13792,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/2666/198/Clumps-3.1.2.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1241217930,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 1263363311,
+                    "type": 3
+                },
+                {
+                    "foldername": "mcmod.info",
+                    "fingerprint": 2536839976,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1290884162,
+            "gameVersion": [
+                "1.12.2"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000012.0000000002",
+                    "gameVersion": "1.12.2",
+                    "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+                    "gameVersionName": "1.12.2",
+                    "gameVersionTypeId": 628
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 1505816,
+            "fileLegacyMappingId": null,
+            "projectId": 256717,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 289935575,
+            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+            "gameVersionMappingId": 1742943,
+            "gameVersionId": 4458,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "6ea78bea8006e3924bc37c2aef0115134c8af07b"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "e0c4c4f04aeb0e0a48fc7534f9e7d6be"
+                }
+            ],
+            "downloadCount": 30168460
+        },
+        {
+            "id": 3575673,
+            "displayName": "Clumps-fabric-1.18.1-8.0.4.jar",
+            "fileName": "Clumps-fabric-1.18.1-8.0.4.jar",
+            "fileDate": "2021-12-21T17:17:17.763Z",
+            "fileLength": 9945,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3575/673/Clumps-fabric-1.18.1-8.0.4.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 2711301183,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 2825561881,
+                    "type": 3
+                },
+                {
+                    "foldername": "clumps.mixins.json",
+                    "fingerprint": 1371819600,
+                    "type": 3
+                },
+                {
+                    "foldername": "Clumps-fabric-1.18.1-refmap.json",
+                    "fingerprint": 1124143192,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 2837569168,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 543987379,
+            "gameVersion": [
+                "1.18.1",
+                "Fabric"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Fabric",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2643922,
+            "fileLegacyMappingId": null,
+            "projectId": 256717,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 815287934,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3592393,
+            "gameVersionId": 7499,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "1864f631249d7f4f72b72c62ca40941b2f54a6b0"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "0271cef6ed512e8286479e780eda0afb"
+                }
+            ],
+            "downloadCount": 0
+        },
+        {
+            "id": 3575674,
+            "displayName": "Clumps-forge-1.18.1-8.0.4.jar",
+            "fileName": "Clumps-forge-1.18.1-8.0.4.jar",
+            "fileDate": "2021-12-21T17:17:20.813Z",
+            "fileLength": 10214,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3575/674/Clumps-forge-1.18.1-8.0.4.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 643504673,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 2917569202,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 3623522934,
+                    "type": 3
+                },
+                {
+                    "foldername": "clumps.mixins.json",
+                    "fingerprint": 390265184,
+                    "type": 3
+                },
+                {
+                    "foldername": "clumps.refmap.json",
+                    "fingerprint": 1735700876,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 4255794202,
+            "gameVersion": [
+                "1.18.1",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2643923,
+            "fileLegacyMappingId": null,
+            "projectId": 256717,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 815287949,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3592395,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "6ba6124d2b276ce087ab198368e33b63988ea8a1"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "f3b7b2ce573b38d87dbe4cb16f4f4a99"
+                }
+            ],
+            "downloadCount": 0
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 256717,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        },
+        {
+            "categoryId": 420,
+            "name": "Storage",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 256717,
+            "avatarId": 6035,
+            "gameId": 432,
+            "slug": "storage",
+            "dateModified": "2014-05-08T17:41:17.203Z"
+        },
+        {
+            "categoryId": 5191,
+            "name": "Utility & QoL",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+            "avatarUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 256717,
+            "avatarId": 456558,
+            "gameId": 432,
+            "slug": "utility-qol",
+            "dateModified": "2021-11-17T11:45:09.143Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 435,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "clumps",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3575674,
+            "projectFileName": "Clumps-forge-1.18.1-8.0.4.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3575673,
+            "projectFileName": "Clumps-fabric-1.18.1-8.0.4.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3542509,
+            "projectFileName": "Clumps-forge-1.18-8.0.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3542508,
+            "projectFileName": "Clumps-fabric-1.18-8.0.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3491822,
+            "projectFileName": "Clumps-forge-1.17.1-7.0.10.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3491821,
+            "projectFileName": "Clumps-fabric-1.17.1-7.0.10.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3481298,
+            "projectFileName": "Clumps-6.0.0.27.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17",
+            "projectFileId": 3440974,
+            "projectFileName": "Clumps-fabric-1.17.1-7.0.5.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 3348511,
+            "projectFileName": "Clumps-5.0.2.8.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3196459,
+            "projectFileName": "Clumps-6.0.0.15.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3099275,
+            "projectFileName": "Clumps-6.0.0.12.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3041970,
+            "projectFileName": "Clumps-6.0.0.9.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3041944,
+            "projectFileName": "Clumps-6.0.0.8.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.14.4",
+            "projectFileId": 2905428,
+            "projectFileName": "Clumps-4.0.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 64806,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.14.3",
+            "projectFileId": 2741398,
+            "projectFileName": "Clumps-4.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 64806,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.12.2",
+            "projectFileId": 2666198,
+            "projectFileName": "Clumps-3.1.2.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        },
+        {
+            "gameVersion": "1.12.1",
+            "projectFileId": 2576264,
+            "projectFileName": "Clumps-3.1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        },
+        {
+            "gameVersion": "1.12",
+            "projectFileId": 2576264,
+            "projectFileName": "Clumps-3.1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        },
+        {
+            "gameVersion": "1.11.2",
+            "projectFileId": 2430320,
+            "projectFileName": "Clumps-2.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 599
+        },
+        {
+            "gameVersion": "1.10.2",
+            "projectFileId": 2384158,
+            "projectFileName": "Clumps-1.0.5.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 572
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 57460.65234375,
+    "gamePopularityRank": 6,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "modLoaders": [
+        "Forge"
+    ],
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-21T17:18:50.717Z",
+    "dateCreated": "2017-01-07T11:46:23.243Z",
+    "dateReleased": "2021-12-21T17:17:20.813Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": true
+}

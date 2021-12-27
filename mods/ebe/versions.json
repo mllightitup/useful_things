@@ -1,0 +1,286 @@
+[
+    {
+        "id": "qbUAJjs9",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.5 for 1.18",
+        "version_number": "0.5+1.18",
+        "changelog": "Updated to 1.18",
+        "changelog_url": null,
+        "date_published": "2021-12-10T05:52:15.168253Z",
+        "downloads": 1733,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "c7111f560caf965c18a13edcfbe789a87cf904f4",
+                    "sha512": "d51b4515e2ad01efda2911d02888ae7e7c211ca9d9cace5d5b816eb839e125aff974cfea9791bfd122869269ebc6a216116240a34c563504fa1f0ff494d6b034"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.18/enhancedblockentities-0.5+1.18.jar",
+                "filename": "enhancedblockentities-0.5+1.18.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "ILuyoK6c",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.5 for 1.17.x",
+        "version_number": "0.5+1.17",
+        "changelog": "Completely fixed resource pack induced invisible chest bugs <br/>\nCompletely fixed phantom chest lids/bells and glitched animations <br/>\nAdded enhanced shulker boxes <br/>\nAdded more experimental particle support for other blocks",
+        "changelog_url": null,
+        "date_published": "2021-09-17T03:21:28.735278Z",
+        "downloads": 3989,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "a05ce552fc175f49c02f477bfc8a4003c2af7c97",
+                    "sha512": "1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6d572a378c1097a829767db34d25cc83f04020bfba8828fc2ef8ea9f1"
+                },
+                "url": "https://cdn.modrinth.com//data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar",
+                "filename": "enhancedblockentities-0.5+1.17.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "Zl4ETunR",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.4.1 for 1.17.x",
+        "version_number": "0.4.1+1.17",
+        "changelog": "Fix the mod not working (Mixin apply error)",
+        "changelog_url": null,
+        "date_published": "2021-07-08T01:53:25.217525Z",
+        "downloads": 3462,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "44a8631c446aa97741e06975d7f9b4691324e7e6",
+                    "sha512": "c67ae2a48243b61ca3d065c3e541391418f67767ecd3d45685f13584887601091234d44b0ea0069e69b42e1fe30fd92faf8539e546380639b8532b7f3e6940c8"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4.1+1.17/enhancedblockentities-0.4.1+1.17.jar",
+                "filename": "enhancedblockentities-0.4.1+1.17.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "bndJ1Eq5",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "(BROKEN) EBE v0.4 for 1.17.x",
+        "version_number": "0.4+1.17",
+        "changelog": "Update to 1.17 <br/>\n<br/>\nAdd enhanced beds <br/>\nAdd experimental chest particles <br/>\nImprove reloading in config gui",
+        "changelog_url": null,
+        "date_published": "2021-07-08T00:50:28.456400Z",
+        "downloads": 12,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "8eec485328ff8739542096b900ba6210963023c18cf4ab8a61eb5989b4f8d1a17ecd6e6f13d07dafeeea77f3276b2b5fc2dced5908f8a4e4ee9f27dab9b6bec4",
+                    "sha1": "fa5347d0e1ddd1ee456ef54a5393dbad11bc10f1"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4+1.17/enhancedblockentities-0.4+1.17.jar",
+                "filename": "enhancedblockentities-0.4+1.17.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "HHqDCd5p",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.4 for 1.16.x",
+        "version_number": "0.4",
+        "changelog": "Add enhanced beds <br/>\nAdd experimental chest particles <br/>\nImprove reloading in config gui",
+        "changelog_url": null,
+        "date_published": "2021-07-06T01:47:44.462664Z",
+        "downloads": 1334,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "5b815b595ac5e40123845e1bb03c95392ad1a7dd",
+                    "sha512": "baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar",
+                "filename": "enhancedblockentities-0.4--1.16.x.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "oiMCXKDH",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.3.1 for 1.16.x",
+        "version_number": "0.3.1",
+        "changelog": "Fixed ender chests crashing the game <br/>\nPrevented a possible exploit with spamming a bell to force chunk rebuilds and lag users",
+        "changelog_url": null,
+        "date_published": "2021-05-08T00:36:12.040856Z",
+        "downloads": 959,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "e248404c510655e9deb51ef4a1233355f21d77ded2d0fb22966807c1414bd181effb342d6c04a77c67a98728fcfd37b44b00f820979450fff6d19c849a835590",
+                    "sha1": "a8b86821c4be8985a715f936dc7cd7f2d90227ac"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.3.1/enhancedblockentities-0.3.1--1.16.x.jar",
+                "filename": "enhancedblockentities-0.3.1--1.16.x.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "l4eXcVcY",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.3 for 1.16.x",
+        "version_number": "0.3",
+        "changelog": "Enhanced Bells <br/>\nImprovements to config screen <br/>\nMore sign text rendering options <br/>\nOptifine video settings does not crash <br/>\nMod Menu support <br/>\nBug Fixes",
+        "changelog_url": null,
+        "date_published": "2021-05-07T06:19:24.703706Z",
+        "downloads": 41,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "5745dd805202ccb9dd1d9e00a3eb8a8f8e83bfa309756a5ca6cabbce1e1ff9d31deea4474c84d91d3a5769351f3d8cd09f0865f190227a22ca7e4f64aacff340",
+                    "sha1": "221d988a0eaa68dbe999567c922da55f866ec72e"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.3/enhancedblockentities-0.3--1.16.x.jar",
+                "filename": "enhancedblockentities-0.3--1.16.x.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "J7Zc989q",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.2 for 1.16.x",
+        "version_number": "0.2",
+        "changelog": "- Adds Configuration Screen (accessible in video settings) <br/>\n- All features can be disabled <br/>\n- Enhanced Sign Rendering <br/>\n- Smooth Lighting option for chests and signs <br/>\n- More control over when the Christmas chest texture is used for chests <br/>\n- Fix texture mapping on double chest locks",
+        "changelog_url": null,
+        "date_published": "2021-05-06T05:38:38.413448Z",
+        "downloads": 55,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "864f1f3a2412799ff1e0fe5015dc3b4b000f3be5fb007dd9aee6c97f10d398ee5bb4d8cddc53c9e036b2f34204333afd269f738fd1abf743c7a76ad6b618de80",
+                    "sha1": "be73dbd7f78cf0f43e0605b7c5dbc6dd5a403d1f"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.2/enhancedblockentities-0.2--1.16.x.jar",
+                "filename": "enhancedblockentities-0.2--1.16.x.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "tUbREtJR",
+        "mod_id": "OVuFYfre",
+        "author_id": "WH9NfS5R",
+        "featured": false,
+        "name": "EBE v0.1 for 1.16.x",
+        "version_number": "0.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-03-01T00:33:17.076546Z",
+        "downloads": 956,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "906c52bf4621e79a3dedd8790e826494be130bb2",
+                    "sha512": "e0425b863dbed993ef6bfc773bdec74d5d1d6a580bf9b315ba8afc944df4db53c5f69d84e872a81d94d18b103476a320b8f0979fd15f8581b161c7d77281f994"
+                },
+                "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.1/enhancedblockentities-0.1--1.16.x.jar",
+                "filename": "enhancedblockentities-0.1--1.16.x.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

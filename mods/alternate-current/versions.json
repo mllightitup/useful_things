@@ -1,0 +1,1179 @@
+[
+    {
+        "id": "9F6atBKt",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.18] Alternate Current 1.1.0",
+        "version_number": "mc1.18-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T17:04:21.993076Z",
+        "downloads": 927,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "56ba4440af90054efdbe34ca172f2f8eddfefc22ee3586e7072842135ac3ac6140202fdb8d67275e3d8cdab5663980eef28ebd40ba6209bd4aa31e755c11c203",
+                    "sha1": "d6b1036e76c82186c3925c4258f4d7d1ee873de8"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.1.0/alternate-current-mc1.18-1.1.0.jar",
+                "filename": "alternate-current-mc1.18-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18",
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "LynxUXOP",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.17] Alternate Current 1.1.0",
+        "version_number": "mc1.17-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T17:03:46.663887Z",
+        "downloads": 124,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "d6aa15fb0581e94d053cca07004f9ade688670bb024761293c62e103577c8fca9be1f7130d40d20960fa1ffb41c005b001420a66ed5d2dd45bc0805c77adefbd",
+                    "sha1": "8c1647cfd07fa717639378ae50ca5ae2602d9dae"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-1.1.0/alternate-current-mc1.17-1.1.0.jar",
+                "filename": "alternate-current-mc1.17-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "GiAWvJK9",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.16] Alternate Current 1.1.0",
+        "version_number": "mc1.16-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T17:03:03.685334Z",
+        "downloads": 21,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "11821439bb87efdaa1a2d8213e027b698f7fd117",
+                    "sha512": "7dcab471200ba34a326175e2cdc0b1a2ccca05354ad879bc25373572fcfe0237eed3771c01582a63cd931b067d9a00b8e42d6448200dfdd8752c0dfee5b1a90d"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.16-1.1.0/alternate-current-mc1.16-1.1.0.jar",
+                "filename": "alternate-current-mc1.16-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "DDiRJszQ",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.15] Alternate Current 1.1.0",
+        "version_number": "mc1.15-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T17:02:18.487646Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "acc2da76d56a05069be9246d3d0be6bd002fe621e4579f31709b8fa11e8fd1f70deaa71e794606072f4e95ec65f2b1591c1b66f7df593cc72112e6240dd35679",
+                    "sha1": "13ca149a38abd16712fc64e97f8a95510695280d"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.15-1.1.0/alternate-current-mc1.15-1.1.0.jar",
+                "filename": "alternate-current-mc1.15-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.15",
+            "1.15.1",
+            "1.15.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "N3bxgXDH",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.14] Alternate Current 1.1.0",
+        "version_number": "mc1.14-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T17:01:44.395735Z",
+        "downloads": 1,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "da82f5bb15b0d8934345beb4f211306634f6d39c",
+                    "sha512": "66ca33e8b5b7af33ba1b9207c52bab20ba62da55f42da433d424c5e409728655f6b31d67b52368b43065326b3ff2f14c7bb6982f3f7a5f5097dd5cb45b3786e8"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.14-1.1.0/alternate-current-mc1.14-1.1.0.jar",
+                "filename": "alternate-current-mc1.14-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "JBS77Njn",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.13] Alternate Current 1.1.0",
+        "version_number": "mc1.13-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T17:00:53.674530Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "a7fbae379552daff7828072bb6e5bfe465deaaf4e92348d7ac4ea60c9e7b818a87e80bab6c44ae22e3654c839b18836b64ffaf7c23b2b229d688ba508dc6614b",
+                    "sha1": "1fe488ca352f555a12972b67fe3bf611cbc293af"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.13-1.1.0/alternate-current-mc1.13-1.1.0.jar",
+                "filename": "alternate-current-mc1.13-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.13",
+            "1.13.1",
+            "1.13.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "oQMPKDPc",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.12] Alternate Current 1.1.0",
+        "version_number": "mc1.12-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T17:00:14.147210Z",
+        "downloads": 1,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "bd57dc5bca4b8296c2f9ad772b840ad24cd7a5d85276bfcb0911113bb0747aefc200bee2068efe1bb81f918a97019cf1fb6bdd22efdd8b622a8051383dcdd039",
+                    "sha1": "0d80e52dd30600e283c14de1689788f0ad0384c2"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.12-1.1.0/alternate-current-mc1.12-1.1.0.jar",
+                "filename": "alternate-current-mc1.12-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.12",
+            "1.12.1",
+            "1.12.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "3ruTu1x6",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.8] Alternate Current 1.1.0",
+        "version_number": "mc1.8-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T16:59:34.273213Z",
+        "downloads": 3,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "124d7a4c102f673dc04b7810048376be5bf425251156a5170c4cb28ff2ca87cb0b161ac0117b48480805f0e77fab3236b6efb75850a9887b10e03af64f910b88",
+                    "sha1": "36c52a1609ef9b0921cc08cd5d8390cc0245b0a1"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.8-1.1.0/alternate-current-mc1.8-1.1.0.jar",
+                "filename": "alternate-current-mc1.8-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.8",
+            "1.8.1",
+            "1.8.2",
+            "1.8.3",
+            "1.8.4",
+            "1.8.5",
+            "1.8.6",
+            "1.8.7",
+            "1.8.8",
+            "1.8.9"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "abJdxoIH",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.7] Alternate Current 1.1.0",
+        "version_number": "mc1.7-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T16:58:30.936187Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "c19c690cc436633254a2c614f6b9858fa92b98f2",
+                    "sha512": "dfcec1def648cce9baaf22857bc1ddcc81113b6be77a56d68a7c51b32b1e6a8b182feab5477dbc36fad36ebaa5adee74bfdf2fe2d2d449bbd4e8c79148accc61"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.7-1.1.0/alternate-current-mc1.7-1.1.0.jar",
+                "filename": "alternate-current-mc1.7-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.7",
+            "1.7.1",
+            "1.7.10",
+            "1.7.2",
+            "1.7.3",
+            "1.7.4",
+            "1.7.5",
+            "1.7.6",
+            "1.7.7",
+            "1.7.8",
+            "1.7.9"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "xCLalPdC",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.6] Alternate Current 1.1.0",
+        "version_number": "mc1.6-1.1.0",
+        "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
+        "changelog_url": null,
+        "date_published": "2021-11-30T16:57:31.726507Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "29075a4d0e5f3be86c7f3ea5f41aa8eec55903cd",
+                    "sha512": "3010c7b005addb22f049b3f298f31162b9fa2c945b17642a303bb97d53cb6d6f89fff4d60c6b54006dea50fdc7042c56f8747e7e97d35bbb5e91cabc58cad762"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.6-1.1.0/alternate-current-mc1.6-1.1.0.jar",
+                "filename": "alternate-current-mc1.6-1.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.6",
+            "1.6.1",
+            "1.6.2",
+            "1.6.3",
+            "1.6.4"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "SelhWtQR",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.13] Alternate Current 1.0.0",
+        "version_number": "mc1.13-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-19T19:58:09.835549Z",
+        "downloads": 2,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "6168ed2a316bc25808878b5fa86d3d4a3d93c992",
+                    "sha512": "20c220ee7b477692a10b828a3b6fd854bd7cd5148b866332128ee865b3d9b91c78df03bde288caa60916e8e22bf04caed63405d47f44ab8237863985bc7aa862"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.13-1.0.0/alternate-current-mc1.13-1.0.0.jar",
+                "filename": "alternate-current-mc1.13-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.13",
+            "1.13.1",
+            "1.13.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "WKuWL0Q8",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.12] Alternate Current 1.0.0",
+        "version_number": "mc1.12-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-19T19:57:08.189686Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "25fdc0fb6d4efa9323dc37f6ecae3a22145e10f792c410366018275f67b40b65f95507b21e927168ca52d36ab584bd349dcc9070ef8b04cf7f61c5fdf7470bb6",
+                    "sha1": "e096a80299437a73672a7aeaf9c8fa1a3c6086b2"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.12-1.0.0/alternate-current-mc1.12-1.0.0.jar",
+                "filename": "alternate-current-mc1.12-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.12",
+            "1.12.1",
+            "1.12.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "9gqrSAbv",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.8] Alternate Current 1.0.0",
+        "version_number": "mc1.8-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-19T19:56:15.408161Z",
+        "downloads": 1,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "6096653f2d8800719f57d502ebef70083def2ae99331df167bd5cc795c21bc956c366df85bb17f73ce4bd4dc7884de2cdf7bf38d8786203b6983f1517219dcce",
+                    "sha1": "551717688ae85ff4116ed96198825690494a9504"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.8-1.0.0/alternate-current-mc1.8-1.0.0.jar",
+                "filename": "alternate-current-mc1.8-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.8",
+            "1.8.1",
+            "1.8.2",
+            "1.8.3",
+            "1.8.4",
+            "1.8.5",
+            "1.8.6",
+            "1.8.7",
+            "1.8.8",
+            "1.8.9"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "DJXww2qt",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.7] Alternate Current 1.0.0",
+        "version_number": "mc1.7-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-19T19:55:16.259875Z",
+        "downloads": 3,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "3dc1c3fac97543f8e1bba260f5f5dde4a18d43bcada621252746d069e5b3c44e34b9cf496966d86e5c897445bfb0e63465dc583d596a8e30580163197b433674",
+                    "sha1": "f460a9d512e8ff4d1c4a5fc83448b5e116927f82"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.7-1.0.0/alternate-current-mc1.7-1.0.0.jar",
+                "filename": "alternate-current-mc1.7-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.7",
+            "1.7.1",
+            "1.7.10",
+            "1.7.2",
+            "1.7.3",
+            "1.7.4",
+            "1.7.5",
+            "1.7.6",
+            "1.7.7",
+            "1.7.8",
+            "1.7.9"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "cnm8f9GG",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.17] Alternate Current 1.0.0",
+        "version_number": "mc1.17-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-18T16:50:49.272288Z",
+        "downloads": 152,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "6f5518f3bb0b72061cab0ac4e5cebe3df48c457010541e17d0a4370b5247d05c03e2d938b33cb73c52bd8bc209058a2a31bcadf2e7b4b0359fc6337d55603426",
+                    "sha1": "776b473906c64883e8147877276acf25938db480"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-1.0.0/alternate-current-mc1.17-1.0.0.jar",
+                "filename": "alternate-current-mc1.17-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "30P7c8Sc",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.16] Alternate Current 1.0.0",
+        "version_number": "mc1.16-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-18T16:50:04.003652Z",
+        "downloads": 14,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "86e9348c0e4a17a8e2db8c0dfecaac2bf3437fd4",
+                    "sha512": "e59f2c8d618fa9719bad2653bcf45a5886e91e13007a44aacb1f875de3a9139c8ff27fc6a955465184af5d7c4e374006e1a83d4938634f6db1329d3f88b83b89"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.16-1.0.0/alternate-current-mc1.16-1.0.0.jar",
+                "filename": "alternate-current-mc1.16-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "oaPAZHeF",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.15] Alternate Current 1.0.0",
+        "version_number": "mc1.15-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-18T16:49:12.275194Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "05234319725401a51d6ea203ea3a57da454bdb8562fcdc3ff8743c1dc1369868810bc64ee050aad10664c7af6d936adb57dcabb4eff826f945d1c51d2a1bea2f",
+                    "sha1": "7df65074e90c540b553f346f45d595bab8feb6cc"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.15-1.0.0/alternate-current-mc1.15-1.0.0.jar",
+                "filename": "alternate-current-mc1.15-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.15",
+            "1.15.1",
+            "1.15.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "MbEV8ysu",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.14] Alternate Current 1.0.0",
+        "version_number": "mc1.14-1.0.0",
+        "changelog": "Alternate Current is finally out of Beta! It is now in an excellent state, both int terms of performance and stability. I'd like to thank everyone who has stuck with me through the past several months, helping and testing the mod.\n\n### Legacy Fabric\nAlternate Current is now available for Minecraft 1.7, 1.8, 1.12 and 1.13 through [Legacy Fabric](https://legacyfabric.net/).\n\n# 1.0.0\n- Improvements to connection management and clean-up give a 5-10% performance boost over 0.4.\n- Minor changes have been made to the update order to make it more consistent still.",
+        "changelog_url": null,
+        "date_published": "2021-11-18T16:48:25.309324Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "72a35213d01605a7425e0fb724fc7da70b5e9aec",
+                    "sha512": "0cfddb3951038f1b0cee292f8f33a1437e749d649c83139c8c35387529dd147096a9ab96b0f4d77b76cbde3eae06d809afd2437ce7c01f91e0813e2ddd641589"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.14-1.0.0/alternate-current-mc1.14-1.0.0.jar",
+                "filename": "alternate-current-mc1.14-1.0.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "fIgfufLA",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.17] Alternate Current 0.4.1",
+        "version_number": "mc1.17-0.4.1",
+        "changelog": "# 0.4.1 (1.17)\n- Fixed: crash when Alternate Current is used in combination with mods or data packs that extend the world height below y0.",
+        "changelog_url": null,
+        "date_published": "2021-10-11T17:39:00.488610Z",
+        "downloads": 375,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "5e5fd204a351aa89c6127bd01977e85c20525d39",
+                    "sha512": "98a7af9660b82937950f2a6db0d761dd7690bca4380bace14f980285aa69c425f6b315f2811044b7e009ae188269a103d44deb894797197936eb352c81dbe6d7"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-0.4.1/alternate-current-mc1.17-0.4.1.jar",
+                "filename": "alternate-current-mc1.17-0.4.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "eKThDBxV",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.17] Alternate Current 0.4.0",
+        "version_number": "mc1.17-0.4.0",
+        "changelog": "This is a big milestone for Alternate Current! 0.4 brings significant performance improvements as well as changes to the block update order to make it more intuitive. I do not foresee any major changes, meaning there might only be minor tweaks before a full 1.0 release!\n\n# 0.4.0\n- Added support for Minecraft 1.8 through [Legacy Fabric](https://legacyfabric.net/).\n- Redstone wires now avoid sending block updates to any other redstone wires. While this can halve the mspt in extreme cases, it can also lead to unresponsive behavior when a network is \"BUDded\" in an invalid state.\n- Block update order now more closely follows the shape update order. Wires now emit both shape and block updates when setting their power level (in v0.3 wires would emit block updates in reverse order after the power levels had been set). This should make it behave more intuitively.\n- Fixed errors/crashes when replacing large amounts of dust with the `/fill` command.",
+        "changelog_url": null,
+        "date_published": "2021-09-18T15:55:23.429121Z",
+        "downloads": 211,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "62e8b235bfa77896f80edb31caecd04b12aac3a7",
+                    "sha512": "b836d3203158591c66c5d93536b1e4208bb0efd93a27dd38796297a196dc803d9b281f2c4d982cd5fc94faa341a62918852e6e349bf6aded141d7e45b1a2cc7e"
+                },
+                "url": "https://cdn.modrinth.com//data/r0v8vy1s/versions/mc1.17-0.4.0/alternate-current-mc1.17-0.4.0.jar",
+                "filename": "alternate-current-mc1.17-0.4.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "qZQ7ath8",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.16] Alternate Current 0.4.0",
+        "version_number": "mc1.16-0.4.0",
+        "changelog": "This is a big milestone for Alternate Current! 0.4 brings significant performance improvements as well as changes to the block update order to make it more intuitive. I do not foresee any major changes, meaning there might only be minor tweaks before a full 1.0 release!\n\n# 0.4.0\n- Added support for Minecraft 1.8 through [Legacy Fabric](https://legacyfabric.net/).\n- Redstone wires now avoid sending block updates to any other redstone wires. While this can halve the mspt in extreme cases, it can also lead to unresponsive behavior when a network is \"BUDded\" in an invalid state.\n- Block update order now more closely follows the shape update order. Wires now emit both shape and block updates when setting their power level (in v0.3 wires would emit block updates in reverse order after the power levels had been set). This should make it behave more intuitively.\n- Fixed errors/crashes when replacing large amounts of dust with the `/fill` command.",
+        "changelog_url": null,
+        "date_published": "2021-09-18T15:54:28.045608Z",
+        "downloads": 34,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "f4dfffbe9654a0689f8d123573f537baafe263763284f7accda48a125bea9bdfa49eb894a2101bab43d48171d3581fc573b6c05ca508e37ddc2fa3f41eaa16a0",
+                    "sha1": "d0e58020d990c349d0f17f096d88901efe1bd936"
+                },
+                "url": "https://cdn.modrinth.com//data/r0v8vy1s/versions/mc1.16-0.4.0/alternate-current-mc1.16-0.4.0.jar",
+                "filename": "alternate-current-mc1.16-0.4.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "gKNMWQFe",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.15] Alternate Current 0.4.0",
+        "version_number": "mc1.15-0.4.0",
+        "changelog": "This is a big milestone for Alternate Current! 0.4 brings significant performance improvements as well as changes to the block update order to make it more intuitive. I do not foresee any major changes, meaning there might only be minor tweaks before a full 1.0 release!\n\n# 0.4.0\n- Added support for Minecraft 1.8 through [Legacy Fabric](https://legacyfabric.net/).\n- Redstone wires now avoid sending block updates to any other redstone wires. While this can halve the mspt in extreme cases, it can also lead to unresponsive behavior when a network is \"BUDded\" in an invalid state.\n- Block update order now more closely follows the shape update order. Wires now emit both shape and block updates when setting their power level (in v0.3 wires would emit block updates in reverse order after the power levels had been set). This should make it behave more intuitively.\n- Fixed errors/crashes when replacing large amounts of dust with the `/fill` command.",
+        "changelog_url": null,
+        "date_published": "2021-09-18T15:53:30.951810Z",
+        "downloads": 0,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "68a2e863bce8807a9a11732811d5b07e88ec5cf3",
+                    "sha512": "7d72dc2292c18adb78291335b4d222b3cb28c1b719dfff53dd98ab1df1727345c5e2010c1ef8fa8d921159cf6f678ce6e11e888cca713c6bdaaa65dce3595a4f"
+                },
+                "url": "https://cdn.modrinth.com//data/r0v8vy1s/versions/mc1.15-0.4.0/alternate-current-mc1.15-0.4.0.jar",
+                "filename": "alternate-current-mc1.15-0.4.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.15",
+            "1.15.1",
+            "1.15.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "5OYFZNQb",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.14] Alternate Current 0.4.0",
+        "version_number": "mc1.14-0.4.0",
+        "changelog": "This is a big milestone for Alternate Current! 0.4 brings significant performance improvements as well as changes to the block update order to make it more intuitive. I do not foresee any major changes, meaning there might only be minor tweaks before a full 1.0 release!\n\n# 0.4.0\n- Added support for Minecraft 1.8 through [Legacy Fabric](https://legacyfabric.net/).\n- Redstone wires now avoid sending block updates to any other redstone wires. While this can halve the mspt in extreme cases, it can also lead to unresponsive behavior when a network is \"BUDded\" in an invalid state.\n- Block update order now more closely follows the shape update order. Wires now emit both shape and block updates when setting their power level (in v0.3 wires would emit block updates in reverse order after the power levels had been set). This should make it behave more intuitively.\n- Fixed errors/crashes when replacing large amounts of dust with the `/fill` command.",
+        "changelog_url": null,
+        "date_published": "2021-09-18T15:52:20.775452Z",
+        "downloads": 2,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "42dc3c7bda6d58c2d85740c4a674e0f90aa397d30aed94af095a2391dd8080b439992736df268c40f4e635ef2843a13a109422f69b4623566ede6d5df4c95fc5",
+                    "sha1": "39b413d5a1075aa19b38e98d2677113cdd0b4ab3"
+                },
+                "url": "https://cdn.modrinth.com//data/r0v8vy1s/versions/mc1.14-0.4.0/alternate-current-mc1.14-0.4.0.jar",
+                "filename": "alternate-current-mc1.14-0.4.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "bNScuC9w",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.8] Alternate Current 0.4.0",
+        "version_number": "mc1.8-0.4.0",
+        "changelog": "This is a big milestone for Alternate Current! 0.4 brings significant performance improvements as well as changes to the block update order to make it more intuitive. I do not foresee any major changes, meaning there might only be minor tweaks before a full 1.0 release!\n\n# 0.4.0\n- Added support for Minecraft 1.8 through [Legacy Fabric](https://legacyfabric.net/).\n- Redstone wires now avoid sending block updates to any other redstone wires. While this can halve the mspt in extreme cases, it can also lead to unresponsive behavior when a network is \"BUDded\" in an invalid state.\n- Block update order now more closely follows the shape update order. Wires now emit both shape and block updates when setting their power level (in v0.3 wires would emit block updates in reverse order after the power levels had been set). This should make it behave more intuitively.\n- Fixed errors/crashes when replacing large amounts of dust with the `/fill` command.",
+        "changelog_url": null,
+        "date_published": "2021-09-18T15:51:11.275845Z",
+        "downloads": 9,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "12ca661a3a9f0d35c538370f6c3a600f035b971c",
+                    "sha512": "7f50a563f11ac231181e00cd406c6d48f05a266320cbf8398a071921bd2180dd178f025a940a1c2f4ad9af5173b55abdd20a87b5c9d430b641bd2a229fe552c8"
+                },
+                "url": "https://cdn.modrinth.com//data/r0v8vy1s/versions/mc1.8-0.4.0/alternate-current-mc1.8-0.4.0.jar",
+                "filename": "alternate-current-mc1.8-0.4.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.8",
+            "1.8.1",
+            "1.8.2",
+            "1.8.3",
+            "1.8.4",
+            "1.8.5",
+            "1.8.6",
+            "1.8.7",
+            "1.8.8",
+            "1.8.9"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "1ebDeupo",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.17] Alternate Current 0.3.0",
+        "version_number": "mc1.17-0.3.0",
+        "changelog": "# 0.3.0\n\nAlternate Current 0.3.0 brings a slight performance boost over 0.2.0 and makes changes to the block update order. Heavily inspired by [theosib's](https://bugs.mojang.com/browse/MC-81098?focusedCommentId=420777&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-420777) [RedstoneWireTurbo](https://github.com/gnembon/fabric-carpet/blob/master/src/main/java/carpet/helpers/RedstoneWireTurbo.java), the block update order depends on the way power flows through wire networks. \n\nThe `/alternatecurrent` command has been removed. This means the only way to disable the mod is to remove it from your mods folder.",
+        "changelog_url": null,
+        "date_published": "2021-08-26T14:33:16.575270Z",
+        "downloads": 217,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "fff955555acab0200352b8e6349cfb827b4ed2d9",
+                    "sha512": "81a6ff95483a7a0c51ddc816b4ffa46db99addc53d6ccf6192bdaa88a4b04950f849280dbb04ff629fc102fe56780f6d8308f267cfa0a40f72c35c8975bb3efc"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-0.3.0/alternate-current-mc1.17-0.3.0.jar",
+                "filename": "alternate-current-mc1.17-0.3.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "9uewQm0i",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.16] Alternate Current 0.3.0",
+        "version_number": "mc1.16-0.3.0",
+        "changelog": "# 0.3.0\n\nAlternate Current 0.3.0 brings a slight performance boost over 0.2.0 and makes changes to the block update order. Heavily inspired by [theosib's](https://bugs.mojang.com/browse/MC-81098?focusedCommentId=420777&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-420777) [RedstoneWireTurbo](https://github.com/gnembon/fabric-carpet/blob/master/src/main/java/carpet/helpers/RedstoneWireTurbo.java), the block update order depends on the way power flows through wire networks. \n\nThe `/alternatecurrent` command has been removed. This means the only way to disable the mod is to remove it from your mods folder.",
+        "changelog_url": null,
+        "date_published": "2021-08-26T14:32:31.283839Z",
+        "downloads": 17,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "9cd61e45dd398b7abcdf8e2efcf3b28720ac8f92b2df80da1fa854887c8cd554aa8a95b1c42445254b8165c1ecacae54534c9433fbfa8f1459c8a269859c8253",
+                    "sha1": "244ba61313744e7896841f6ae5ec00bf6d84d996"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.16-0.3.0/alternate-current-mc1.16-0.3.0.jar",
+                "filename": "alternate-current-mc1.16-0.3.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "JZErTOBa",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.15] Alternate Current 0.3.0",
+        "version_number": "mc1.15-0.3.0",
+        "changelog": "# 0.3.0\n\nAlternate Current 0.3.0 brings a slight performance boost over 0.2.0 and makes changes to the block update order. Heavily inspired by [theosib's](https://bugs.mojang.com/browse/MC-81098?focusedCommentId=420777&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-420777) [RedstoneWireTurbo](https://github.com/gnembon/fabric-carpet/blob/master/src/main/java/carpet/helpers/RedstoneWireTurbo.java), the block update order depends on the way power flows through wire networks. \n\nThe `/alternatecurrent` command has been removed. This means the only way to disable the mod is to remove it from your mods folder.",
+        "changelog_url": null,
+        "date_published": "2021-08-26T14:31:22.031972Z",
+        "downloads": 0,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "28a37e2d98577431468552f2212edbd417780e6f5ba201fa450ce3503ddc11256e739ac35d462e48f253c037aca5dc467c6f406aa1192d04f8f4f21c17ad7347",
+                    "sha1": "3bb32afe4c0eb46676b6aba33ab6a357d494b0cb"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.15-0.3.0/alternate-current-mc1.15-0.3.0.jar",
+                "filename": "alternate-current-mc1.15-0.3.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.15",
+            "1.15.1",
+            "1.15.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "CSFStoYN",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.14] Alternate Current 0.3.0",
+        "version_number": "mc1.14-0.3.0",
+        "changelog": "# 0.3.0\n\nAlternate Current 0.3.0 brings a slight performance boost over 0.2.0 and makes changes to the block update order. Heavily inspired by [theosib's](https://bugs.mojang.com/browse/MC-81098?focusedCommentId=420777&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-420777) [RedstoneWireTurbo](https://github.com/gnembon/fabric-carpet/blob/master/src/main/java/carpet/helpers/RedstoneWireTurbo.java), the block update order depends on the way power flows through wire networks. \n\nThe `/alternatecurrent` command has been removed. This means the only way to disable the mod is to remove it from your mods folder.",
+        "changelog_url": null,
+        "date_published": "2021-08-26T14:29:34.533923Z",
+        "downloads": 0,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "194278c9bbcd2abd9b323f0ec5a937c98842f734",
+                    "sha512": "11fc048ca2a020e554d158064d95fd650c6e9e9a89ebb0ab886bce6e1e4bc46e61e1c824e9a257236276a4cacc89773290ccc3d5df02a820ade9c8b37f0696f4"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.14-0.3.0/alternate-current-mc1.14-0.3.0.jar",
+                "filename": "alternate-current-mc1.14-0.3.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "z78WRI0B",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.17] Alternate Current 0.2.0",
+        "version_number": "mc1.17-0.2.0",
+        "changelog": "# 0.2.0\n\nAlternate Current 0.2.0 brings some performance improvements over 0.1.3, while fixing several bugs.\n\n## Fixes\n- #1 spams the console with multiples of six.\n- #5 Observers run slower with alternate-current enabled.\n- Potential issues while power changes are happening and another network is updated.",
+        "changelog_url": null,
+        "date_published": "2021-07-13T11:24:43.805393Z",
+        "downloads": 302,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "07b5f734b335b07dcb7d496a10c289402060bf281b5b20fd691d01959fd0ba7da8a514517aedc80686f9e544067041624907f4e14ee32c8e151286057f38dfbb",
+                    "sha1": "458f6b3fd6aa97d499f6c0df6d72211704c124a0"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-0.2.0/alternate-current-mc1.17-0.2.0.jar",
+                "filename": "alternate-current-mc1.17-0.2.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "rdScmQX2",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "[1.16] Alternate Current 0.2.0",
+        "version_number": "mc1.16-0.2.0",
+        "changelog": "# 0.2.0\n\nAlternate Current 0.2.0 brings some performance improvements over 0.1.3, while fixing several bugs.\n\n## Fixes\n- #1 spams the console with multiples of six.\n- #5 Observers run slower with alternate-current enabled.\n- Potential issues while power changes are happening and another network is updated.",
+        "changelog_url": null,
+        "date_published": "2021-07-13T11:23:59.169834Z",
+        "downloads": 49,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "39503325169bb64a713cf8f062b2ad4e13628e5f",
+                    "sha512": "508276e35980f4a9181ba8885eb61cdc7b2287fd30685fae167e2bd6caaae720d221055dd4d85e635781721de8329067f1dbd2132d6d1a03717e61e7ab8b00e9"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.16-0.2.0/alternate-current-mc1.16-0.2.0.jar",
+                "filename": "alternate-current-mc1.16-0.2.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "Ca2crPBC",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "Fast Redstone 0.1.3",
+        "version_number": "0.1.3",
+        "changelog": "The fixes in this update bring a slight performance loss, which I hope to reclaim in future updates.\n\n## Fixes\n- Potential memory leak when unloading chunks with redstone dust in them.\n- Redstone can break if the mod is repeatedly enabled/disabled while redstone is activating.",
+        "changelog_url": null,
+        "date_published": "2021-04-13T22:29:56.476144Z",
+        "downloads": 199,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "0132871427bf2d7999e50f0533052c76db60fcfb",
+                    "sha512": "a501206b55400f723c64d05250a5c8b17211b23f2b3351f9f99327a78d1d9fc89eca0a023773657886026f6336b25e74a741df5e155089f30297d52e10053c72"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/0.1.3/fast-redstone-mc1.16.5-0.1.3.jar",
+                "filename": "fast-redstone-mc1.16.5-0.1.3.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "Wcg8QtlB",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "Fast Redstone 0.1.2",
+        "version_number": "0.1.2",
+        "changelog": "## Changes\n- New optimizations for reducing the number of shape updates caused by redstone dust.\n\n## Fixes\n- Power levels can be incorrect in rare cases.",
+        "changelog_url": null,
+        "date_published": "2021-04-10T18:50:54.667672Z",
+        "downloads": 13,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "c5106b184f5a3dc55a44bea7bc2fbed594ce3dbf50d8410a276cc6431b0791fc1ef7e2ef0289ed416fb717d5a0ed9235eb9726767e2f38ab73bcfa68735adb97",
+                    "sha1": "592d423b5fe983254528fadd19a4dba5a7c0a0dc"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/0.1.2/fast-redstone-mc1.16.5-0.1.2.jar",
+                "filename": "fast-redstone-mc1.16.5-0.1.2.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "oX2SAJg0",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "Fast Redstone 0.1.1",
+        "version_number": "0.1.1",
+        "changelog": "## Fixes\n\n- Wire connections do not update when wires are (un)cut due to moving blocks.\n- Pistons breaking redstone dust can crash the game.\n- Block updates are sometimes not emitted in the order you would expect, breaking some 0-tick circuits.",
+        "changelog_url": null,
+        "date_published": "2021-04-08T22:53:53.574381Z",
+        "downloads": 11,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "c88a0e873883fa2e853765642edc7e40e7b8e1a1",
+                    "sha512": "c0f36b78f6e264ede784f0b098f6ac3e326a77d8daed49e9ce5ac1bd05986f2c87ae3f6c68f4c3f0192855928602efb2a30a4606be102e0bb17c6c5809289bed"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/0.1.1/fast-redstone-mc1.16.5-0.1.1.jar",
+                "filename": "fast-redstone-mc1.16.5-0.1.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "O3ymAMEH",
+        "mod_id": "r0v8vy1s",
+        "author_id": "f6Ry7Czx",
+        "featured": false,
+        "name": "Fast Redstone 0.1.0",
+        "version_number": "0.1.0",
+        "changelog": "# Features\n\nFast Redstone is an efficient and non-locational redstone dust implementation. With the mod you will see up to 20 times fewer block updates caused by redstone dust, and working with redstone dust will be less cumbersome, due to locationality no longer being an issue.\n\nTo enable the mod, use the `/fastredstone enable` command. To disable it, use the `/fastredstone disable` command.\n\n",
+        "changelog_url": null,
+        "date_published": "2021-04-05T18:24:21.981012Z",
+        "downloads": 9,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "46f0359717160a8893d574dd1feb308421747c8dd3b50ff67c84d9726b55fdfbe441d2066235e093c439f717a1e9de1717c8eb08ca8217709a0481509dd85c0d",
+                    "sha1": "18764e1690e7dba399af70a55b82ab508b91bb0c"
+                },
+                "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/0.1.0/fast-redstone-mc1.16.5-0.1.0.jar",
+                "filename": "fast-redstone-mc1.16.5-0.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "id": "uXXizFIs",
+    "slug": "ferrite-core",
+    "team": "2JhABx1f",
+    "title": "FerriteCore",
+    "description": "Memory usage optimizations",
+    "body": "This mod reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).\n\nThe amount of memory saved will depend on the pack. In version 2.5.9 of [All Of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3) it reduces the RAM usage (heap size) from 1,792 MB to 984 MB. For comparison the same setup with Hydrogen instead of FerriteCore uses 1,335 MB.  \nThese values were measured after generating a world with a fixed seed and waiting for two minutes.\nThe project picture is a cropped version of [this](https://commons.wikimedia.org/wiki/File:Magnetic-core_memory,_at_angle.jpg) picture.\n\n### FAQ\n\n#### Should I install this on the server or just on the client?\n\nSome optimizations are client-side only, but there are some rather high-impact optimizations that are relevant on the server too. So you should install it on both sides.\n\n#### Is this compatible with [other mod]?\n\nMost likely yes. The only known incompatibility was Hydrogen, which is fully compatible with FC 2.0.4 and above.",
+    "body_url": null,
+    "published": "2021-04-03T07:04:43.971189Z",
+    "updated": "2021-12-05T09:24:19.427362Z",
+    "status": "approved",
+    "license": {
+        "id": "mit",
+        "name": "MIT License",
+        "url": "https://cdn.modrinth.com/licenses/mit.txt"
+    },
+    "client_side": "optional",
+    "server_side": "optional",
+    "downloads": 10014,
+    "followers": 251,
+    "categories": [
+        "utility"
+    ],
+    "versions": [
+        "hjsymojR",
+        "oP38VFTJ",
+        "5rLOvzfo",
+        "8s9IAy0y",
+        "1FrNtQTK",
+        "GeyB7u1y",
+        "HjttFjoa",
+        "JQl5JoCm",
+        "LG5zF5LP",
+        "Mc6hHgQU",
+        "2XHUVaPQ"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/uXXizFIs/icon.jpg",
+    "issues_url": "https://github.com/malte0811/FerriteCore/issues",
+    "source_url": "https://github.com/malte0811/FerriteCore",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": []
+}

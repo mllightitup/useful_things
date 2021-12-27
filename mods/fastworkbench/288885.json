@@ -1,0 +1,512 @@
+{
+    "id": 288885,
+    "name": "FastWorkbench",
+    "authors": [
+        {
+            "name": "Shadows_of_Fire",
+            "url": "https://www.curseforge.com/members/10368195-shadows_of_fire?username=shadows_of_fire",
+            "projectId": 288885,
+            "id": 187916,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 10368195,
+            "twitchId": 52817087
+        }
+    ],
+    "attachments": [
+        {
+            "id": 143405,
+            "projectId": 288885,
+            "description": "",
+            "isDefault": false,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/143/405/256/256/636549215976380264.png",
+            "title": "636549215976380264.png",
+            "url": "https://media.forgecdn.net/avatars/143/405/636549215976380264.png",
+            "status": 1
+        },
+        {
+            "id": 164244,
+            "projectId": 288885,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/164/244/256/256/636686097718417988.png",
+            "title": "636686097718417988.png",
+            "url": "https://media.forgecdn.net/avatars/164/244/636686097718417988.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/Shadows-of-Fire/FastWorkbench/issues",
+    "wikiUrl": "",
+    "sourceUrl": "https://github.com/Shadows-of-Fire/FastWorkbench",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
+    "gameId": 432,
+    "summary": "A performance upgrade for the crafting table.",
+    "defaultFileId": 3567080,
+    "downloadCount": 52562408.0,
+    "latestFiles": [
+        {
+            "id": 3002687,
+            "displayName": "FastWorkbench-1.15.2-3.1.0.jar",
+            "fileName": "FastWorkbench-1.15.2-3.1.0.jar",
+            "fileDate": "2020-07-12T05:51:37.267Z",
+            "fileLength": 33945,
+            "releaseType": 2,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3002/687/FastWorkbench-1.15.2-3.1.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 44887543,
+                    "addonId": 283644,
+                    "type": 3,
+                    "fileId": 3002687
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 2276270280,
+                    "type": 3
+                },
+                {
+                    "foldername": "net",
+                    "fingerprint": 3464325349,
+                    "type": 3
+                },
+                {
+                    "foldername": "shadows",
+                    "fingerprint": 3589509913,
+                    "type": 3
+                },
+                {
+                    "foldername": "javascript",
+                    "fingerprint": 2856925791,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1063136111,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 387527074,
+            "gameVersion": [
+                "1.15.2"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000015.0000000002",
+                    "gameVersion": "1.15.2",
+                    "gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+                    "gameVersionName": "1.15.2",
+                    "gameVersionTypeId": 68722
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 1920435,
+            "fileLegacyMappingId": null,
+            "projectId": 288885,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 486914180,
+            "gameVersionDateReleased": "2020-01-22T00:00:00Z",
+            "gameVersionMappingId": 2316991,
+            "gameVersionId": 7722,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "30d01bc9dd11d2f0455a95677ecc178f6fd10a04"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "9c283c2943cb6bd2520546b9cbc90beb"
+                }
+            ],
+            "downloadCount": 7798
+        },
+        {
+            "id": 3245271,
+            "displayName": "FastWorkbench-1.16.4-4.5.1.jar",
+            "fileName": "FastWorkbench-1.16.4-4.5.1.jar",
+            "fileDate": "2021-03-20T00:26:45.9Z",
+            "fileLength": 33772,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3245/271/FastWorkbench-1.16.4-4.5.1.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 59438096,
+                    "addonId": 283644,
+                    "type": 3,
+                    "fileId": 3245271
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 4043952143,
+                    "type": 3
+                },
+                {
+                    "foldername": "net",
+                    "fingerprint": 3464325349,
+                    "type": 3
+                },
+                {
+                    "foldername": "shadows",
+                    "fingerprint": 2742177847,
+                    "type": 3
+                },
+                {
+                    "foldername": "coremods",
+                    "fingerprint": 3651907618,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1063136111,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1034278883,
+            "gameVersion": [
+                "1.16.5",
+                "1.16.4"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000004",
+                    "gameVersion": "1.16.4",
+                    "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+                    "gameVersionName": "1.16.4",
+                    "gameVersionTypeId": 70886
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2226500,
+            "fileLegacyMappingId": null,
+            "projectId": 288885,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 628236256,
+            "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
+            "gameVersionMappingId": 2805252,
+            "gameVersionId": 8134,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "31099c37a52cef8a639504ddde2452e6bb27f4b8"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "1e212d41ceb23cdf505f39372b746890"
+                }
+            ],
+            "downloadCount": 5157352
+        },
+        {
+            "id": 3567080,
+            "displayName": "FastWorkbench-1.18.1-6.0.0.jar",
+            "fileName": "FastWorkbench-1.18.1-6.0.0.jar",
+            "fileDate": "2021-12-15T01:27:30.77Z",
+            "fileLength": 22573,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3567/80/FastWorkbench-1.18.1-6.0.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [
+                {
+                    "id": 81077381,
+                    "addonId": 283644,
+                    "type": 3,
+                    "fileId": 3567080
+                }
+            ],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 2926181864,
+                    "type": 3
+                },
+                {
+                    "foldername": "shadows",
+                    "fingerprint": 3091770929,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 2383280829,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastbench.mixins.json",
+                    "fingerprint": 2487730477,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1063136111,
+                    "type": 3
+                },
+                {
+                    "foldername": "fastbench.refmap.json",
+                    "fingerprint": 4241593409,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1117675962,
+            "gameVersion": [
+                "1.18.1",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2633598,
+            "fileLegacyMappingId": null,
+            "projectId": 288885,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 809649931,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3570116,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "a94a36ce151a838dd5361e09043cf07b09717c71"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "6b16826b6234a97c7fcb6e7a8d42467e"
+                }
+            ],
+            "downloadCount": 0
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 288885,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 435,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "fastworkbench",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3567080,
+            "projectFileName": "FastWorkbench-1.18.1-6.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3566936,
+            "projectFileName": "FastWorkbench-1.17.1-5.0.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3566919,
+            "projectFileName": "FastWorkbench-1.16.5-4.6.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3245271,
+            "projectFileName": "FastWorkbench-1.16.4-4.5.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3245271,
+            "projectFileName": "FastWorkbench-1.16.4-4.5.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3112661,
+            "projectFileName": "FastWorkbench-1.16.3-4.4.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3060329,
+            "projectFileName": "FastWorkbench-1.16.2-4.3.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3024555,
+            "projectFileName": "FastWorkbench-1.16.1-4.2.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 3003114,
+            "projectFileName": "FastWorkbench-1.15.2-3.1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 3002687,
+            "projectFileName": "FastWorkbench-1.15.2-3.1.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3002669,
+            "projectFileName": "FastWorkbench-1.16.1-4.1.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        },
+        {
+            "gameVersion": "1.15.1",
+            "projectFileId": 2856527,
+            "projectFileName": "FastWorkbench-1.15.1-3.0.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722
+        },
+        {
+            "gameVersion": "1.12.2",
+            "projectFileId": 2838777,
+            "projectFileName": "FastWorkbench-1.12.2-1.7.3.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 628
+        },
+        {
+            "gameVersion": "1.14.4",
+            "projectFileId": 2813916,
+            "projectFileName": "FastWorkbench-1.14.4-2.1.4.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 64806
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 40758.2890625,
+    "gamePopularityRank": 40,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "modLoaders": [
+        "Forge"
+    ],
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-15T01:28:35.127Z",
+    "dateCreated": "2018-02-22T18:39:57.607Z",
+    "dateReleased": "2021-12-15T01:27:30.77Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": null
+}

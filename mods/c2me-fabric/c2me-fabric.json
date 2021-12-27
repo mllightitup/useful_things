@@ -1,0 +1,50 @@
+{
+    "id": "VSNURh3q",
+    "slug": "c2me-fabric",
+    "team": "3a9AGx2G",
+    "title": "Concurrent Chunk Management Engine (Fabric)",
+    "description": "A Fabric mod designed to improve the chunk performance of Minecraft.",
+    "body": "# Concurrent Chunk Management Engine (Fabric)\n\nA Fabric mod designed to improve the chunk performance of Minecraft.\n\n## So what is C2ME?\nC^2M-Engine, or C2ME for short, is a Fabric mod designed to improve the performance of chunk generation, I/O, and loading. This is done by taking advantage of multiple CPU cores in parallel. For the best performance it is recommended to use C2ME with [Lithium](https://modrinth.com/mod/lithium) and [Starlight](https://modrinth.com/mod/starlight).\n\n## What does C2ME stand for?\nConcurrent chunk management engine, it's about making the game better threaded and more scalable in regard to world gen and chunk io performance.\n\n## So what is C2ME not?\n**C2ME is currently in alpha stage and pretty experimental.**  \nAlthough it is usable in most cases and tested during build time, it doesn't mean that it is fully stable for a production server.  \nSo backup your worlds and practice good game modding skills.\n\n## Support\nOur issue tracker: [link](https://github.com/RelativityMC/C2ME-fabric/issues)  \nOur discord server: [link](https://discord.io/ishlandbukkit)\n\n## More information\nCheck out the README.md here: https://github.com/RelativityMC/C2ME-fabric\n",
+    "body_url": null,
+    "published": "2021-10-02T10:14:46.020070Z",
+    "updated": "2021-12-19T07:22:28.028760Z",
+    "status": "approved",
+    "license": {
+        "id": "mit",
+        "name": "MIT License",
+        "url": "https://cdn.modrinth.com/licenses/mit.txt"
+    },
+    "client_side": "optional",
+    "server_side": "optional",
+    "downloads": 4095,
+    "followers": 116,
+    "categories": [
+        "misc"
+    ],
+    "versions": [
+        "SpaBqzHT",
+        "dKKE3zhp",
+        "4FLwGDDE",
+        "ojV9FS0t",
+        "pIDNlM4l",
+        "pSxkh6Qu",
+        "pmOkpHL2",
+        "u2JlHGcG",
+        "xP8CXN3T",
+        "yjCsfBzI",
+        "B6ee0W8y",
+        "E3cvbFES",
+        "1SfzeCfa",
+        "G1RN9hkt",
+        "L4GQmy36",
+        "LFqvAnbE",
+        "2IaFivhp",
+        "NSobPr3s"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/VSNURh3q/icon.png",
+    "issues_url": "https://github.com/RelativityMC/C2ME-fabric/issues",
+    "source_url": "https://github.com/RelativityMC/C2ME-fabric",
+    "wiki_url": null,
+    "discord_url": "https://discord.io/ishlandbukkit",
+    "donation_urls": []
+}

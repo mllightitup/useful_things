@@ -1,0 +1,255 @@
+[
+    {
+        "id": "h3nZGFK2",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.7+MC1.18-1.18.1",
+        "version_number": "1.0.7+MC1.18-1.18.1",
+        "changelog": " Marked as compatible with 1.18.1\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-12-13T09:21:46.924920Z",
+        "downloads": 49,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "df404582cc895b76ac6e4d2cdb9d8490f8056de3",
+                    "sha512": "31785c55cbfe7875a656f78336191d20989c56e93842ab669e1bd6f12399ac178a4ff39005b6b4e43db23c72ae2d86180a759275caddcf96e250dfd4d8a34018"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.7+MC1.18-1.18.1/smoke-suppression-1.0.7+MC1.18-1.18.1.jar",
+                "filename": "smoke-suppression-1.0.7+MC1.18-1.18.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18",
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "6Ed8rM26",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.6+MC1.18",
+        "version_number": "1.0.6+MC1.18",
+        "changelog": "Updated for 1.18!\n\nFrom 1.0.5: \n  \n  Configs now take effect immediately without the need to restart!\n\n  However existing campfires won't reflect changes until re-placed or re-loaded. \n\n\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-12-03T07:42:54.457943Z",
+        "downloads": 31,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "4d03fb820f91817924b73d699380fb85e7f80768",
+                    "sha512": "63bafe5cc373b83475475a9d6042b20711a8629568a5ae83b86963d00a72995c35cd57c14fee131a0943862986712391ec91fc93335794e231480e378e256680"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.6+MC1.18/smoke-suppression-1.0.6+MC1.18.jar",
+                "filename": "smoke-suppression-1.0.6+MC1.18.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "77Zd2SeA",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.5+MC1.17-1.17.1",
+        "version_number": "1.0.5+MC1.17-1.17.1",
+        "changelog": " \n  \n  Configs now take effect immediately without the need to restart!\n\n  However existing campfires won't reflect changes until re-placed or re-loaded. \n\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-12-03T01:06:12.617632Z",
+        "downloads": 8,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "5e24e72757fe53c1026df4dd893fbb5941353bb8512f116eb58555aa956e10c41d5d6bd7eada444ae79825f08d87efbbce40bf4ef7962442fa70b40e1e3b3296",
+                    "sha1": "859bbefb121578723248035792d92df4d1353a74"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.5+MC1.17-1.17.1/smoke-suppression-1.0.5+MC1.17-1.17.1.jar",
+                "filename": "smoke-suppression-1.0.5+MC1.17-1.17.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "ilS6HYBp",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.4+MC1.17-1.17.1",
+        "version_number": "1.0.4+MC1.17-1.17.1",
+        "changelog": "Added \"Always suppress smoke\" option. Thanks to [i0xhex](https://www.curseforge.com/members/i0xhex/projects) for the suggestion.\n\n\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-10-17T20:15:20.478195Z",
+        "downloads": 20,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "0bc4437a8bde6707aaafce2cabaef7cfad07e26eb82135ff8055253542ab2d2c61acdfe395a7aceb1fa4ba1b37a32dec09b69518ac72009dd76a080f2bcd13fe",
+                    "sha1": "327eda3ab7c74f9d02901b21a6cc91bf62dc91fa"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.4+MC1.17-1.17.1/smoke-suppression-1.0.4+MC1.17-1.17.1.jar",
+                "filename": "smoke-suppression-1.0.4+MC1.17-1.17.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "9rUHuSH0",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.4+MC1.16.5",
+        "version_number": "1.0.4+MC1.16.5",
+        "changelog": "Added \"Always suppress smoke\" option. Thanks to [i0xhex](https://www.curseforge.com/members/i0xhex/projects) for the suggestion.\n\n\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-10-17T20:14:43.688455Z",
+        "downloads": 2,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "e26a6964e3023dfcafb7b0271d23c636da596e39",
+                    "sha512": "eee8881ebb6f9dbeaa39ab9fbddcb457ad1d03c545cc9e3cbfd8ea14d1a153164671356c2be7203bca293ea2024e968e0600e9fd305913f79f727afbf3fd615c"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.4+MC1.16.5/smoke-suppression-1.0.4+MC1.16.5.jar",
+                "filename": "smoke-suppression-1.0.4+MC1.16.5.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "ULKXShy8",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.3+MC1.17-1.17.1",
+        "version_number": "1.0.3+MC1.17-1.17.1",
+        "changelog": "  - Fixed crash during world generation. Thanks to [TelepathicGrunt](https://gitlab.com/TelepathicGrunt) for help solving this issue!\n\n  - Auto Config is no longer a dependency. \n\n\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-08-09T22:36:05.393117Z",
+        "downloads": 26,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "ceecec553734a95461b4ec97bb354c57e056f3121cdc7f05b58303c05a0bc049d712fa226414477bba9f95979653da9126bed926166782598f8b789495ce9c77",
+                    "sha1": "fdb3386d558b2e4bd19b394aff9f65757b6dff7c"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.3+MC1.17-1.17.1/smoke-suppression-1.0.3+MC1.17-1.17.1.jar",
+                "filename": "smoke-suppression-1.0.3+MC1.17-1.17.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "ww2UCuXQ",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.2+MC1.17-1.17.1",
+        "version_number": "1.0.2+MC1.17-1.17.1",
+        "changelog": "Marked as compatible with 1.17.1.\n\n\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-07-10T19:10:57.625101Z",
+        "downloads": 16,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "ddab6c9588d0bfe8a2cab6ee352e297a03ec88966b4df5f125cdb5c614344b37c4d38242cebf3f78cd99bae1723e0e81b64f8c8c1639402bef57af3b2b20f430",
+                    "sha1": "a3614e425558779f9c9207fd2abdf38d5a792664"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.2+MC1.17-1.17.1/smoke-suppression-1.0.2+MC1.17-1.17.1.jar",
+                "filename": "smoke-suppression-1.0.2+MC1.17-1.17.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "l6TImehX",
+        "mod_id": "nKcekY2P",
+        "author_id": "LxSEd81o",
+        "featured": false,
+        "name": "1.0.1+MC1.17",
+        "version_number": "1.0.1+MC1.17",
+        "changelog": "  - Updated for 1.17.\n\n  - Cloth Config and Auto Config (updated) are no longer bundled. Instead, install them separately. \n\n\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
+        "changelog_url": null,
+        "date_published": "2021-06-16T05:28:01.638137Z",
+        "downloads": 9,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "ed684bdedc885b2f2da073f7466400b3a147c9423e115540aa4074b96d9b0601df68b779d51c9e3d464ad128282abf66be57ea0fccb30f2cef84393999e9e053",
+                    "sha1": "dae5015198b6aaacc635a20be80580dd28bd3a7b"
+                },
+                "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.1+MC1.17/smoke-suppression-1.0.1+MC1.17.jar",
+                "filename": "smoke-suppression-1.0.1+MC1.17.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "id": "6YGRDUVT",
+        "mod_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.4.0-alpha5 for Minecraft 1.18",
+        "version_number": "mc1.18-0.4.0-alpha5",
+        "changelog": "[View the changelog on GitHub.](https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.18-0.4.0-alpha5)",
+        "changelog_url": null,
+        "date_published": "2021-11-30T18:31:28.512175Z",
+        "downloads": 14864,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "dc1bcac9330388b43bfb81eabfa36d1ff15efb3009460b3b1fb290feb70e52a55f726ad93fc09b1c9186ced595f8478fbef762ae1f5144568536e4c26f5464d6",
+                    "sha1": "1af975fd055377f419baccd1784a3b2ae252de66"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+                "filename": "sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "3JJvf9Kn",
+        "mod_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.3.3 for Minecraft 1.17.1",
+        "version_number": "mc1.17.1-0.3.3",
+        "changelog": "Please see the changelog on [GitHub](https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.3).",
+        "changelog_url": null,
+        "date_published": "2021-11-23T16:34:07.617401Z",
+        "downloads": 5957,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "0e68613da619dd4ba10625d93c5cc1bb4796ea8d8abc517916c38dc8c15497f1f97ae6b1590672f26224fda84a0fb7d4ca2874624e3095ff7ee39c5a037341d2",
+                    "sha1": "acac3670ee25cc10ed63136e5dd3b792acd13595"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3+build.8.jar",
+                "filename": "sodium-fabric-mc1.17.1-0.3.3+build.8.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "xuWxRZPd",
+        "mod_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.3.2 for Minecraft 1.17.1",
+        "version_number": "mc1.17.1-0.3.2",
+        "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.2\n",
+        "changelog_url": null,
+        "date_published": "2021-08-29T19:13:40.823951Z",
+        "downloads": 37040,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "11076f2aba94a421fd2a1514a88bde85717b6cab5614dbb59094fcae931446977a6c1ea3929f3896bc2ca226b2386d54264cc3c39376b78f929786429d82b4ce",
+                    "sha1": "0c5fafd45e987710546bba0cbeb450e3f2a497bc"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2+build.7.jar",
+                "filename": "sodium-fabric-mc1.17.1-0.3.2+build.7.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "80jYkEVr",
+        "mod_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.3.1 for Minecraft 1.17.1",
+        "version_number": "mc1.17.1-0.3.1",
+        "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.1",
+        "changelog_url": null,
+        "date_published": "2021-08-28T22:21:35.853159Z",
+        "downloads": 1614,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "109cc66669151097838c389b8338c505787d95af",
+                    "sha512": "089f8e45e19dc35ed04f08402e7bae4d813b7df04767d471e7d16198da4ddc7edfa7947ad1c3665d5da65508dbc14e6a1928856b5fe63a124874cef05523fea8"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1+build.6.jar",
+                "filename": "sodium-fabric-mc1.17.1-0.3.1+build.6.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "1b0GhKHj",
+        "mod_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.3.0 for Minecraft 1.17.1",
+        "version_number": "mc1.17.1-0.3.0",
+        "changelog": "See the changelog here: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.0",
+        "changelog_url": null,
+        "date_published": "2021-07-17T20:29:41.734817Z",
+        "downloads": 36911,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "4cc166a86f8cb20983ac85950f6c8b58eed9fa3b",
+                    "sha512": "000d00496ed4e945c4d8c4d6b70584ffec5af6034c39e22d3ccc69734ccaadd37e7e9d31129da84c82d08798416a1a8daaf305656fa46406738a36505b7fd2e7"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0+build.5.jar",
+                "filename": "sodium-fabric-mc1.17.1-0.3.0+build.5.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "YAGZ1cCS",
+        "mod_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.2.0 for Minecraft 1.16.5",
+        "version_number": "mc1.16.5-0.2.0",
+        "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.16.5-0.2.0",
+        "changelog_url": null,
+        "date_published": "2021-06-17T21:43:30.893775Z",
+        "downloads": 14556,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc",
+                    "sha512": "de0ec6cc85a9b90a4a2dc43ca81db962691cb95362bde8db54115c8fadf257d97fc05267832b14f2e576af4743dfde9d79e3deeea0b46b2685085fa1e21d50ee"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+                "filename": "sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "yaoBL9D9",
+        "mod_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.1.0",
+        "version_number": "mc1.16.3-0.1.0",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-01-03T00:54:22.597152Z",
+        "downloads": 8429,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "f3349dbd065cf75718fd0186d196e7e635e658e0"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar",
+                "filename": "sodium-fabric-mc1.16.3-0.1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

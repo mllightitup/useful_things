@@ -1,0 +1,132 @@
+[
+    {
+        "id": "q35Bju4S",
+        "mod_id": "msRGy0cC",
+        "author_id": "4eZ1bJLz",
+        "featured": false,
+        "name": "Entity Distance v1.0.3",
+        "version_number": "1.0.3+1.16",
+        "changelog": "Backport of 1.0.3 to Minecraft 1.16.",
+        "changelog_url": null,
+        "date_published": "2021-07-21T00:00:28.265404Z",
+        "downloads": 579,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "38e760905ec29e1d6105ba1bf963012818b33070",
+                    "sha512": "482323609540f44659ccabf8f4daffd94aa3dbf30747651b2c437f9cd44e7ff097870929327bd6ef83c72a25995c78f421231a9a6046a06d302007263e7e7e05"
+                },
+                "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3+1.16/entity-distance-1.0.3.jar",
+                "filename": "entity-distance-1.0.3.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "W6uodD31",
+        "mod_id": "msRGy0cC",
+        "author_id": "4eZ1bJLz",
+        "featured": false,
+        "name": "Entity Distance v1.0.3",
+        "version_number": "1.0.3+1.17",
+        "changelog": "This version fixes support for entities added by other mods.",
+        "changelog_url": null,
+        "date_published": "2021-06-29T21:58:44.264746Z",
+        "downloads": 1165,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "db8d0d7081906271dca3fd30b03ee7151ec774c4d6f57a0807224a72905267722d76309f63ff08a45690680b03617746483dce18819c5eb274ba075fb8b863d8",
+                    "sha1": "7467dbfa5850aec85fa287d64a42bed5ddb2d8cd"
+                },
+                "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3/entity-distance-1.0.3.jar",
+                "filename": "entity-distance-1.0.3.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "WOdLQLd0",
+        "mod_id": "msRGy0cC",
+        "author_id": "4eZ1bJLz",
+        "featured": false,
+        "name": "Entity Distance v1.0.2",
+        "version_number": "1.0.2+1.17",
+        "changelog": "Internal cleanup and bugfixes, namely fixed cloth config dependency listing",
+        "changelog_url": null,
+        "date_published": "2021-06-23T02:44:04.439037Z",
+        "downloads": 35,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "d9af800c94f857ea7a7dd1261def70349dea4f8601e1c4d98555940a01a6565e266983c625662757bab08d194b6706e445c0fbe555cda75619ec334fe9895377",
+                    "sha1": "65278bea25a19ebfff89bc94c5c795d1c0da16f7"
+                },
+                "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.2/entity-distance-1.0.2.jar",
+                "filename": "entity-distance-1.0.2.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "GqFOY354",
+        "mod_id": "msRGy0cC",
+        "author_id": "4eZ1bJLz",
+        "featured": false,
+        "name": "Entity Distance v1.0.1",
+        "version_number": "1.0.1+1.17",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-06-22T07:45:27.944587Z",
+        "downloads": 8,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "9deb41c44a104c6b31511a26be3115fe12cecc81",
+                    "sha512": "cf0bfbe23a167bc9224831f8c762eab7367aa1b3e176ed0c07421379ee640a83cd26ba1500440014364a9b33a8616ba1a4e06fed7bb94c42cb0311b27b0413c5"
+                },
+                "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.1/entity-distance-1.0.1.jar",
+                "filename": "entity-distance-1.0.1.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]
