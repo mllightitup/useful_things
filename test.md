@@ -36,4 +36,4 @@ Any suggestions/complaints?
 | [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling)                             |                                   Using async path-tracing to hide Tiles/Entities that are not visible                                    |      tr9zw       |               custom_data                |                                                                [Github]()                                                                 |
 | [Better Fps - Render Distance[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) |                                         Better fps for 1.16+ minecraft, improved render distances                                         |    someaddon     |               custom_data                |                                                                [Github]()                                                                 |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](../README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](./README.md)
