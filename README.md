@@ -20,3 +20,10 @@ prepare template for maintainer
 2. Rework md_creator, version and loader check(coz bad code)
 3. Modrinth API v2 (now working only here: https://staging-api.modrinth.com/) (docs: https://docs.modrinth.com/)
 waiting Modrinth
+
+### TEST:
+
+| Version | Loaders |
+| --- | :---: |
+| 1.18.x | [Fabric](performance/1.18.x-fabric.md#) & [Forge](performance/1.18.x-forge.md) |
+| 1.17.x | [Fabric](performance/1.17.x-fabric.md#) & [Forge](performance/1.17.x-forge.md) |
