@@ -3,7 +3,7 @@ A list of performance-enhancing mods for 1.18.x forge/fabric versions.
 
 ## Any suggestions/complaints?
 > #### Join us on [Discord](https://discord.gg/8nzHYhVUQS).
-> Or contact us with your questions [here](../../../ssues).
+> Or contact us with your questions [here](./../../ssues).
 
 
 
