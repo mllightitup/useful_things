@@ -8,13 +8,13 @@ Done:
 3. Curseforge API
 
 
-In progress:
+Done(but need refactor):
 
 1. Version and loader check(everything is prepared)
 2. Create all files in md_creator at once for each version and loader
 
-Not started:
+Future plans:
 
-1. Custom data
+1. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
 2. Modrinth API v2 (now working only here: https://staging-api.modrinth.com/) (docs: https://docs.modrinth.com/)
 
