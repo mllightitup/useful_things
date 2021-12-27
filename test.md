@@ -3,11 +3,11 @@ A list of performance-enhancing mods for 1.18.x forge/fabric versions.
 
 ## Any suggestions/complaints?
 > #### Join us on [Discord](https://discord.gg/8nzHYhVUQS).
-> Or contact us with your questions [here](./issues).
+> Or contact us with your questions [here](../../../ssues).
 
 
 
-[![Home](https://i.imgur.com/zGuelkW.png)](../../../README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](./README.md)
 
 ## Fabric 1.18.X
 | Name                                                                                                                  |                                                                Description                                                                |      Author      | Performance Improvement (Client/Server) |                                                                Need help?                                                                 |
