@@ -7,7 +7,7 @@ A list of performance-enhancing mods for 1.18.x forge/fabric versions.
 
 
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/../../README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](../../../README.md)
 
 ## Fabric 1.18.X
 | Name                                                                                                                  |                                                                Description                                                                |      Author      | Performance Improvement (Client/Server) |                                                                Need help?                                                                 |
