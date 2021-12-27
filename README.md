@@ -25,5 +25,5 @@ waiting Modrinth
 
 | Version | Loaders |
 | --- | :---: |
-| 1.18.x | [Fabric](performance/1.18.x-fabric.md#) & [Forge](performance/1.18.x-forge.md) |
-| 1.17.x | [Fabric](performance/1.17.x-fabric.md#) & [Forge](performance/1.17.x-forge.md) |
+| 1.18.x | [Fabric](performance/1.18.x-fabric.md) & [Forge](performance/1.18.x-forge.md) |
+| 1.17.x | [Fabric](performance/1.17.x-fabric.md) & [Forge](performance/1.17.x-forge.md) |
