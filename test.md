@@ -1,5 +1,5 @@
 # Performance Mods
-A list of performance-enhancing mods for 1.18.x forge/fabric versions.
+A list of performance-enhancing mods for 1.18.x Fabric version.
 
 ## Any suggestions/complaints?
 > #### Join us on [Discord](https://discord.gg/8nzHYhVUQS).
