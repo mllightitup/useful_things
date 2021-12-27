@@ -5,7 +5,7 @@ Any suggestions/complaints?
 >Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 
-[![Home](https://i.imgur.com/zGuelkW.png)](.../README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](./README.md)
 ## Fabric 1.18.x
 
 | Name                                                                                                                  |                                                                Description                                                                |      Author      | Performance Improvement (Client/Server)  |                                                               > Need help?                                                                |
