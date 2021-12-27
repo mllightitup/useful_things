@@ -16,7 +16,10 @@ Done(but need refactor):
 Future plans:
 
 1. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
+
 prepare template for maintainer
+
 2. Rework md_creator and version and loader check(coz bad code)
 3. Modrinth API v2 (now working only here: https://staging-api.modrinth.com/) (docs: https://docs.modrinth.com/)
+
 waiting Modrinth
