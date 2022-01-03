@@ -9,13 +9,13 @@
         "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
         "changelog_url": null,
         "date_published": "2021-11-30T17:04:21.993076Z",
-        "downloads": 927,
+        "downloads": 1124,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "56ba4440af90054efdbe34ca172f2f8eddfefc22ee3586e7072842135ac3ac6140202fdb8d67275e3d8cdab5663980eef28ebd40ba6209bd4aa31e755c11c203",
-                    "sha1": "d6b1036e76c82186c3925c4258f4d7d1ee873de8"
+                    "sha1": "d6b1036e76c82186c3925c4258f4d7d1ee873de8",
+                    "sha512": "56ba4440af90054efdbe34ca172f2f8eddfefc22ee3586e7072842135ac3ac6140202fdb8d67275e3d8cdab5663980eef28ebd40ba6209bd4aa31e755c11c203"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.1.0/alternate-current-mc1.18-1.1.0.jar",
                 "filename": "alternate-current-mc1.18-1.1.0.jar",
@@ -41,13 +41,13 @@
         "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
         "changelog_url": null,
         "date_published": "2021-11-30T17:03:46.663887Z",
-        "downloads": 124,
+        "downloads": 148,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "d6aa15fb0581e94d053cca07004f9ade688670bb024761293c62e103577c8fca9be1f7130d40d20960fa1ffb41c005b001420a66ed5d2dd45bc0805c77adefbd",
-                    "sha1": "8c1647cfd07fa717639378ae50ca5ae2602d9dae"
+                    "sha1": "8c1647cfd07fa717639378ae50ca5ae2602d9dae",
+                    "sha512": "d6aa15fb0581e94d053cca07004f9ade688670bb024761293c62e103577c8fca9be1f7130d40d20960fa1ffb41c005b001420a66ed5d2dd45bc0805c77adefbd"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-1.1.0/alternate-current-mc1.17-1.1.0.jar",
                 "filename": "alternate-current-mc1.17-1.1.0.jar",
@@ -73,13 +73,13 @@
         "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
         "changelog_url": null,
         "date_published": "2021-11-30T17:03:03.685334Z",
-        "downloads": 21,
+        "downloads": 27,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "11821439bb87efdaa1a2d8213e027b698f7fd117",
-                    "sha512": "7dcab471200ba34a326175e2cdc0b1a2ccca05354ad879bc25373572fcfe0237eed3771c01582a63cd931b067d9a00b8e42d6448200dfdd8752c0dfee5b1a90d"
+                    "sha512": "7dcab471200ba34a326175e2cdc0b1a2ccca05354ad879bc25373572fcfe0237eed3771c01582a63cd931b067d9a00b8e42d6448200dfdd8752c0dfee5b1a90d",
+                    "sha1": "11821439bb87efdaa1a2d8213e027b698f7fd117"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.16-1.1.0/alternate-current-mc1.16-1.1.0.jar",
                 "filename": "alternate-current-mc1.16-1.1.0.jar",
@@ -243,13 +243,13 @@
         "changelog": "# 1.1.0\n* The `/alternatecurrent` command has been re-introduced and can be used to toggle the mod on and off.\n  - `/alternatecurrent`: tells you whether the mod is currently on.\n  - `/alternatecurrent [on|off]`: toggles the mod on or off.",
         "changelog_url": null,
         "date_published": "2021-11-30T16:59:34.273213Z",
-        "downloads": 3,
+        "downloads": 5,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "124d7a4c102f673dc04b7810048376be5bf425251156a5170c4cb28ff2ca87cb0b161ac0117b48480805f0e77fab3236b6efb75850a9887b10e03af64f910b88",
-                    "sha1": "36c52a1609ef9b0921cc08cd5d8390cc0245b0a1"
+                    "sha1": "36c52a1609ef9b0921cc08cd5d8390cc0245b0a1",
+                    "sha512": "124d7a4c102f673dc04b7810048376be5bf425251156a5170c4cb28ff2ca87cb0b161ac0117b48480805f0e77fab3236b6efb75850a9887b10e03af64f910b88"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.8-1.1.0/alternate-current-mc1.8-1.1.0.jar",
                 "filename": "alternate-current-mc1.8-1.1.0.jar",
@@ -329,8 +329,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "29075a4d0e5f3be86c7f3ea5f41aa8eec55903cd",
-                    "sha512": "3010c7b005addb22f049b3f298f31162b9fa2c945b17642a303bb97d53cb6d6f89fff4d60c6b54006dea50fdc7042c56f8747e7e97d35bbb5e91cabc58cad762"
+                    "sha512": "3010c7b005addb22f049b3f298f31162b9fa2c945b17642a303bb97d53cb6d6f89fff4d60c6b54006dea50fdc7042c56f8747e7e97d35bbb5e91cabc58cad762",
+                    "sha1": "29075a4d0e5f3be86c7f3ea5f41aa8eec55903cd"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.6-1.1.0/alternate-current-mc1.6-1.1.0.jar",
                 "filename": "alternate-current-mc1.6-1.1.0.jar",
@@ -397,8 +397,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "25fdc0fb6d4efa9323dc37f6ecae3a22145e10f792c410366018275f67b40b65f95507b21e927168ca52d36ab584bd349dcc9070ef8b04cf7f61c5fdf7470bb6",
-                    "sha1": "e096a80299437a73672a7aeaf9c8fa1a3c6086b2"
+                    "sha1": "e096a80299437a73672a7aeaf9c8fa1a3c6086b2",
+                    "sha512": "25fdc0fb6d4efa9323dc37f6ecae3a22145e10f792c410366018275f67b40b65f95507b21e927168ca52d36ab584bd349dcc9070ef8b04cf7f61c5fdf7470bb6"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.12-1.0.0/alternate-current-mc1.12-1.0.0.jar",
                 "filename": "alternate-current-mc1.12-1.0.0.jar",
@@ -430,8 +430,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "6096653f2d8800719f57d502ebef70083def2ae99331df167bd5cc795c21bc956c366df85bb17f73ce4bd4dc7884de2cdf7bf38d8786203b6983f1517219dcce",
-                    "sha1": "551717688ae85ff4116ed96198825690494a9504"
+                    "sha1": "551717688ae85ff4116ed96198825690494a9504",
+                    "sha512": "6096653f2d8800719f57d502ebef70083def2ae99331df167bd5cc795c21bc956c366df85bb17f73ce4bd4dc7884de2cdf7bf38d8786203b6983f1517219dcce"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.8-1.0.0/alternate-current-mc1.8-1.0.0.jar",
                 "filename": "alternate-current-mc1.8-1.0.0.jar",
@@ -470,8 +470,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "3dc1c3fac97543f8e1bba260f5f5dde4a18d43bcada621252746d069e5b3c44e34b9cf496966d86e5c897445bfb0e63465dc583d596a8e30580163197b433674",
-                    "sha1": "f460a9d512e8ff4d1c4a5fc83448b5e116927f82"
+                    "sha1": "f460a9d512e8ff4d1c4a5fc83448b5e116927f82",
+                    "sha512": "3dc1c3fac97543f8e1bba260f5f5dde4a18d43bcada621252746d069e5b3c44e34b9cf496966d86e5c897445bfb0e63465dc583d596a8e30580163197b433674"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.7-1.0.0/alternate-current-mc1.7-1.0.0.jar",
                 "filename": "alternate-current-mc1.7-1.0.0.jar",
@@ -579,8 +579,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "05234319725401a51d6ea203ea3a57da454bdb8562fcdc3ff8743c1dc1369868810bc64ee050aad10664c7af6d936adb57dcabb4eff826f945d1c51d2a1bea2f",
-                    "sha1": "7df65074e90c540b553f346f45d595bab8feb6cc"
+                    "sha1": "7df65074e90c540b553f346f45d595bab8feb6cc",
+                    "sha512": "05234319725401a51d6ea203ea3a57da454bdb8562fcdc3ff8743c1dc1369868810bc64ee050aad10664c7af6d936adb57dcabb4eff826f945d1c51d2a1bea2f"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.15-1.0.0/alternate-current-mc1.15-1.0.0.jar",
                 "filename": "alternate-current-mc1.15-1.0.0.jar",
@@ -612,8 +612,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "72a35213d01605a7425e0fb724fc7da70b5e9aec",
-                    "sha512": "0cfddb3951038f1b0cee292f8f33a1437e749d649c83139c8c35387529dd147096a9ab96b0f4d77b76cbde3eae06d809afd2437ce7c01f91e0813e2ddd641589"
+                    "sha512": "0cfddb3951038f1b0cee292f8f33a1437e749d649c83139c8c35387529dd147096a9ab96b0f4d77b76cbde3eae06d809afd2437ce7c01f91e0813e2ddd641589",
+                    "sha1": "72a35213d01605a7425e0fb724fc7da70b5e9aec"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.14-1.0.0/alternate-current-mc1.14-1.0.0.jar",
                 "filename": "alternate-current-mc1.14-1.0.0.jar",
@@ -711,8 +711,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "f4dfffbe9654a0689f8d123573f537baafe263763284f7accda48a125bea9bdfa49eb894a2101bab43d48171d3581fc573b6c05ca508e37ddc2fa3f41eaa16a0",
-                    "sha1": "d0e58020d990c349d0f17f096d88901efe1bd936"
+                    "sha1": "d0e58020d990c349d0f17f096d88901efe1bd936",
+                    "sha512": "f4dfffbe9654a0689f8d123573f537baafe263763284f7accda48a125bea9bdfa49eb894a2101bab43d48171d3581fc573b6c05ca508e37ddc2fa3f41eaa16a0"
                 },
                 "url": "https://cdn.modrinth.com//data/r0v8vy1s/versions/mc1.16-0.4.0/alternate-current-mc1.16-0.4.0.jar",
                 "filename": "alternate-current-mc1.16-0.4.0.jar",
@@ -815,8 +815,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "12ca661a3a9f0d35c538370f6c3a600f035b971c",
-                    "sha512": "7f50a563f11ac231181e00cd406c6d48f05a266320cbf8398a071921bd2180dd178f025a940a1c2f4ad9af5173b55abdd20a87b5c9d430b641bd2a229fe552c8"
+                    "sha512": "7f50a563f11ac231181e00cd406c6d48f05a266320cbf8398a071921bd2180dd178f025a940a1c2f4ad9af5173b55abdd20a87b5c9d430b641bd2a229fe552c8",
+                    "sha1": "12ca661a3a9f0d35c538370f6c3a600f035b971c"
                 },
                 "url": "https://cdn.modrinth.com//data/r0v8vy1s/versions/mc1.8-0.4.0/alternate-current-mc1.8-0.4.0.jar",
                 "filename": "alternate-current-mc1.8-0.4.0.jar",
@@ -887,8 +887,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "9cd61e45dd398b7abcdf8e2efcf3b28720ac8f92b2df80da1fa854887c8cd554aa8a95b1c42445254b8165c1ecacae54534c9433fbfa8f1459c8a269859c8253",
-                    "sha1": "244ba61313744e7896841f6ae5ec00bf6d84d996"
+                    "sha1": "244ba61313744e7896841f6ae5ec00bf6d84d996",
+                    "sha512": "9cd61e45dd398b7abcdf8e2efcf3b28720ac8f92b2df80da1fa854887c8cd554aa8a95b1c42445254b8165c1ecacae54534c9433fbfa8f1459c8a269859c8253"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.16-0.3.0/alternate-current-mc1.16-0.3.0.jar",
                 "filename": "alternate-current-mc1.16-0.3.0.jar",
@@ -923,8 +923,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "28a37e2d98577431468552f2212edbd417780e6f5ba201fa450ce3503ddc11256e739ac35d462e48f253c037aca5dc467c6f406aa1192d04f8f4f21c17ad7347",
-                    "sha1": "3bb32afe4c0eb46676b6aba33ab6a357d494b0cb"
+                    "sha1": "3bb32afe4c0eb46676b6aba33ab6a357d494b0cb",
+                    "sha512": "28a37e2d98577431468552f2212edbd417780e6f5ba201fa450ce3503ddc11256e739ac35d462e48f253c037aca5dc467c6f406aa1192d04f8f4f21c17ad7347"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.15-0.3.0/alternate-current-mc1.15-0.3.0.jar",
                 "filename": "alternate-current-mc1.15-0.3.0.jar",
@@ -991,8 +991,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "07b5f734b335b07dcb7d496a10c289402060bf281b5b20fd691d01959fd0ba7da8a514517aedc80686f9e544067041624907f4e14ee32c8e151286057f38dfbb",
-                    "sha1": "458f6b3fd6aa97d499f6c0df6d72211704c124a0"
+                    "sha1": "458f6b3fd6aa97d499f6c0df6d72211704c124a0",
+                    "sha512": "07b5f734b335b07dcb7d496a10c289402060bf281b5b20fd691d01959fd0ba7da8a514517aedc80686f9e544067041624907f4e14ee32c8e151286057f38dfbb"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-0.2.0/alternate-current-mc1.17-0.2.0.jar",
                 "filename": "alternate-current-mc1.17-0.2.0.jar",
@@ -1092,8 +1092,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "c5106b184f5a3dc55a44bea7bc2fbed594ce3dbf50d8410a276cc6431b0791fc1ef7e2ef0289ed416fb717d5a0ed9235eb9726767e2f38ab73bcfa68735adb97",
-                    "sha1": "592d423b5fe983254528fadd19a4dba5a7c0a0dc"
+                    "sha1": "592d423b5fe983254528fadd19a4dba5a7c0a0dc",
+                    "sha512": "c5106b184f5a3dc55a44bea7bc2fbed594ce3dbf50d8410a276cc6431b0791fc1ef7e2ef0289ed416fb717d5a0ed9235eb9726767e2f38ab73bcfa68735adb97"
                 },
                 "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/0.1.2/fast-redstone-mc1.16.5-0.1.2.jar",
                 "filename": "fast-redstone-mc1.16.5-0.1.2.jar",

@@ -9,13 +9,13 @@
         "changelog": "Cloth config implementation is removed to make the mod more flexible and reduce file size.\n\n[https://github.com/UltimateBoomer/mc-smoothboot/releases/tag/1.16.5-1.6.0](https://github.com/UltimateBoomer/mc-smoothboot/releases/tag/1.16.5-1.6.0)\n\nNote: This version works for 1.17 snapshots as well.",
         "changelog_url": null,
         "date_published": "2021-03-22T19:30:42.082391Z",
-        "downloads": 2897,
+        "downloads": 2930,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "6ce1272a1e82e62299419a09c24263c303f4e233c7331eb83df66a65bfb9f1f6bd33a4b65aaa42f83166f431033c962901a07762a84fc99d07cf07c6cfe9254c",
-                    "sha1": "a0d5419980f8c65c6256483b864269cfe302894d"
+                    "sha1": "a0d5419980f8c65c6256483b864269cfe302894d",
+                    "sha512": "6ce1272a1e82e62299419a09c24263c303f4e233c7331eb83df66a65bfb9f1f6bd33a4b65aaa42f83166f431033c962901a07762a84fc99d07cf07c6cfe9254c"
                 },
                 "url": "https://cdn.modrinth.com/data/FWumhS4T/versions/1.16.5-1.6.0/smoothboot-fabric-1.16.5-1.6.0.jar",
                 "filename": "smoothboot-fabric-1.16.5-1.6.0.jar",
@@ -49,8 +49,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "d200a86af9a73cee16bed44c82f21e916d732be3",
-                    "sha512": "d8b4654e005217b65de442bbaf28445aa00e6c0d0b44798b64e876b3686266634cebc4a8c1e43a054846afe4b0ceee58b4768fec0fff60f4c659947d6d1fc443"
+                    "sha512": "d8b4654e005217b65de442bbaf28445aa00e6c0d0b44798b64e876b3686266634cebc4a8c1e43a054846afe4b0ceee58b4768fec0fff60f4c659947d6d1fc443",
+                    "sha1": "d200a86af9a73cee16bed44c82f21e916d732be3"
                 },
                 "url": "https://cdn.modrinth.com/data/FWumhS4T/versions/1.16.5-1.5.0/smoothboot-fabric-1.16.5-1.5.0.jar",
                 "filename": "smoothboot-fabric-1.16.5-1.5.0.jar",

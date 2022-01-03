@@ -32,7 +32,7 @@
     "gameId": 432,
     "summary": "Memory usage optimizations",
     "defaultFileId": 3485636,
-    "downloadCount": 11107701.0,
+    "downloadCount": 11394478.0,
     "latestFiles": [
         {
             "id": 3222546,
@@ -167,7 +167,7 @@
                     "value": "f159602c47b69c1f193a802b7720e80f"
                 }
             ],
-            "downloadCount": 11451
+            "downloadCount": 11745
         },
         {
             "id": 3485636,
@@ -307,7 +307,7 @@
                     "value": "6b469b99aa6f89b6ebad7aefa3cb9843"
                 }
             ],
-            "downloadCount": 2499337
+            "downloadCount": 2705820
         },
         {
             "id": 3550045,
@@ -445,7 +445,7 @@
                     "value": "7285abe0869cfb4862b8ab33985627fa"
                 }
             ],
-            "downloadCount": 173236
+            "downloadCount": 234169
         }
     ],
     "categories": [
@@ -542,8 +542,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 33110.96484375,
-    "gamePopularityRank": 90,
+    "popularityScore": 33501.99609375,
+    "gamePopularityRank": 91,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [

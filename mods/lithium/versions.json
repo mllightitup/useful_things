@@ -1,5 +1,36 @@
 [
     {
+        "id": "2aoHIXuK",
+        "mod_id": "gvQqBUqZ",
+        "author_id": "uhPSqlnd",
+        "featured": false,
+        "name": "Lithium 0.7.7",
+        "version_number": "mc1.18.1-0.7.7",
+        "changelog": "The changelog is available on GitHub right [here](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.18.1-0.7.7).",
+        "changelog_url": null,
+        "date_published": "2022-01-02T12:00:50.953696Z",
+        "downloads": 797,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "638d259abebb622cc5e5ca905dc7361b5a0740f1c37ec827a0094dc03b7c3e83288217bfd4d17a20018d0237049674b014d62b4693b9af920b393ba37dad79fe",
+                    "sha1": "8eaffcb994e67ac7b3fd2efa526f7721f8327d11"
+                },
+                "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar",
+                "filename": "lithium-fabric-mc1.18.1-0.7.7.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
         "id": "2CbyxeU0",
         "mod_id": "gvQqBUqZ",
         "author_id": "uhPSqlnd",
@@ -9,13 +40,13 @@
         "changelog": "The changelog is available on GitHub right [here](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.18.1-0.7.6).",
         "changelog_url": null,
         "date_published": "2021-12-13T21:06:50.839240Z",
-        "downloads": 5237,
+        "downloads": 6530,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "91b4de272f708e47e86a74068031627fd41f27ea57bc8ad5e68957bc5e9d4401f486cb969434e6022b708d67729be784c4d39395ea2896db5ad6ac90241d5baa",
-                    "sha1": "90c9399eaf16d56c0312c72c9f3697f0cded6416"
+                    "sha1": "90c9399eaf16d56c0312c72c9f3697f0cded6416",
+                    "sha512": "91b4de272f708e47e86a74068031627fd41f27ea57bc8ad5e68957bc5e9d4401f486cb969434e6022b708d67729be784c4d39395ea2896db5ad6ac90241d5baa"
                 },
                 "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.6/lithium-fabric-mc1.18.1-0.7.6.jar",
                 "filename": "lithium-fabric-mc1.18.1-0.7.6.jar",
@@ -40,7 +71,7 @@
         "changelog": "This is the first release candidate of Lithium for Minecraft 1.18. It is missing many of the old optimizations which haven't been ported to 1.18 yet. Also parity with changes introduced in Minecraft 1.18 hasn't been well tested.\nExpect bugs and **backup the world before testing** this version.\n\n## Additions\n\n## Changes\n- change: update some patches to Minecraft 1.18\n- change: remove lots of patches that are incompatible with Minecraft 1.18\n\nThe changelog is available on GitHub right [here](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.18-0.7.6-rc1)",
         "changelog_url": null,
         "date_published": "2021-12-05T08:29:57.358379Z",
-        "downloads": 4218,
+        "downloads": 4297,
         "version_type": "beta",
         "files": [
             {
@@ -71,7 +102,7 @@
         "changelog": "This release adds fixes for several issues introduced in previous Lithium versions. Besides a serious chunk save format incompatibility with 1.18 snapshots, a memory leak and a mistake in the hopper logic are fixed. It is recommended that all users upgrade to this release.\n\nWorlds that were used with Lithium will have chunk corruption when upgrading due to the breaking save format changes in the 1.18 snapshots. The datafixer responsible for upgrading to the new format is missing [(MC-239610)](https://bugs.mojang.com/browse/MC-239610), which leads to [chunk corruption and regeneration](https://bugs.mojang.com/secure/attachment/452741/2021-10-16_20.55.34.png).\n\nIf you have used Lithium in the past and you want upgrade your world to Minecraft 1.18 snapshots, you need to follow these instructions for each world to avoid severe chunk corruption:\n### Instructions to avoid chunk corruption when updating to 1.18 snapshots:\nIf you are upgrading a world that has never been used with Lithium, or you are upgrading to a version that includes a fix for [MC-239610](https://bugs.mojang.com/browse/MC-239610), you are likely to be unaffected by this issue. If you are unsure, follow the instructions anyway. \n\n- **Singleplayer instructions**: Start the game with Lithium 0.7.5 installed. Instead of opening your world, select it in the list of worlds, press \"Edit\", press \"Optimize World\", then \"Create Backup and Load\". Wait for the world to load, this will take a long time depending on the world size. After closing the world you can upgrade it to a newer Minecraft version.\n- **Server Instructions**: Make a backup of the world. Start the game with the launch parameter `--forceUpgrade=true`, e.g. by launching the server.jar with `java -jar server.jar --forceUpgrade=true`. Wait for the world to load, this will take a long time depending on the world size. After closing the server you can upgrade it to a newer Minecraft version.\n\nThe changelog is available on GitHub right [here](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17.1-0.7.5).",
         "changelog_url": null,
         "date_published": "2021-11-05T16:45:48.729181Z",
-        "downloads": 6291,
+        "downloads": 6676,
         "version_type": "release",
         "files": [
             {
@@ -103,7 +134,7 @@
         "changelog": "The changelog is available on GitHub right [here](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17.1-0.7.4).",
         "changelog_url": null,
         "date_published": "2021-08-25T15:11:04.183885Z",
-        "downloads": 13980,
+        "downloads": 13984,
         "version_type": "release",
         "files": [
             {
@@ -135,7 +166,7 @@
         "changelog": "The changelog is available on GitHub right [here](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17.1-0.7.3).",
         "changelog_url": null,
         "date_published": "2021-07-07T15:19:45.667011Z",
-        "downloads": 11101,
+        "downloads": 11102,
         "version_type": "release",
         "files": [
             {
@@ -167,7 +198,7 @@
         "changelog": "The changelog is available on GitHub right [here](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17-0.7.2).",
         "changelog_url": null,
         "date_published": "2021-06-21T15:47:40.697756Z",
-        "downloads": 2737,
+        "downloads": 2742,
         "version_type": "release",
         "files": [
             {
@@ -229,7 +260,7 @@
         "changelog": "The changelog is available on GitHub right [here](https://github.com/jellysquid3/lithium-fabric/releases/tag/mc1.16.5-0.6.6).",
         "changelog_url": null,
         "date_published": "2021-06-09T13:10:44.980214Z",
-        "downloads": 6432,
+        "downloads": 6554,
         "version_type": "release",
         "files": [
             {
@@ -268,8 +299,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "533614aa733d74cf049d31a731f53873103987b2",
-                    "sha512": "9c0c9a98896966b4728d9ccb1b7605b3229599197f9ffaf6c12cb15deb28e0cb99be85e46772d1d258820e2385f1aa73aa7cb862ec9383e7e242baefc6eb7921"
+                    "sha512": "9c0c9a98896966b4728d9ccb1b7605b3229599197f9ffaf6c12cb15deb28e0cb99be85e46772d1d258820e2385f1aa73aa7cb862ec9383e7e242baefc6eb7921",
+                    "sha1": "533614aa733d74cf049d31a731f53873103987b2"
                 },
                 "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.0/lithium-fabric-mc1.17-0.7.0.jar",
                 "filename": "lithium-fabric-mc1.17-0.7.0.jar",
@@ -294,7 +325,7 @@
         "changelog": "The changelog is available on GitHub right [here](https://github.com/jellysquid3/lithium-fabric/releases/tag/mc1.16.5-0.6.5).",
         "changelog_url": null,
         "date_published": "2021-06-08T13:48:35.642184Z",
-        "downloads": 222,
+        "downloads": 228,
         "version_type": "release",
         "files": [
             {
@@ -328,13 +359,13 @@
         "changelog": "The changelog is available on GitHub right [here](https://github.com/jellysquid3/lithium-fabric/releases/tag/mc1.16.5-0.6.4).",
         "changelog_url": null,
         "date_published": "2021-02-24T14:15:07.080780Z",
-        "downloads": 4438,
+        "downloads": 4441,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "188f85adab94146bdfff931592e8405c213cb87a",
-                    "sha512": "a5d54bace83489e878e14ddb1792c97e75b0ecc61bfd43de53342646d4c4ba49543874d5d2f63558a6b52419024e83895b0715c7dec19248de89e9b80b2da092"
+                    "sha512": "a5d54bace83489e878e14ddb1792c97e75b0ecc61bfd43de53342646d4c4ba49543874d5d2f63558a6b52419024e83895b0715c7dec19248de89e9b80b2da092",
+                    "sha1": "188f85adab94146bdfff931592e8405c213cb87a"
                 },
                 "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.4/lithium-fabric-mc1.16.5-0.6.4.jar",
                 "filename": "lithium-fabric-mc1.16.5-0.6.4.jar",
@@ -367,8 +398,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "5acd33822982835ca8c7d9abfea00a5088d3800d",
-                    "sha512": "5eda84d07a36b7c2e5d723c35c4c94ec8a487a762ce818290eaa946b68c927492c49bf1cd02f52dd51ab523b55d7b072ffe9806b1ba0f81d4156c1a18a76af4f"
+                    "sha512": "5eda84d07a36b7c2e5d723c35c4c94ec8a487a762ce818290eaa946b68c927492c49bf1cd02f52dd51ab523b55d7b072ffe9806b1ba0f81d4156c1a18a76af4f",
+                    "sha1": "5acd33822982835ca8c7d9abfea00a5088d3800d"
                 },
                 "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.3/lithium-fabric-mc1.16.5-0.6.3.jar",
                 "filename": "lithium-fabric-mc1.16.5-0.6.3.jar",
@@ -401,8 +432,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "07b00fa9ec12c3c455b3f5c2870ececae11904a6450e206474404b96126bd64753b56be47c4e4d752e364f40cfad3efd78ac4b2862000d91f5b1aa671770395e",
-                    "sha1": "b9e8a58de7013fae72e676bb55593d476727b2c7"
+                    "sha1": "b9e8a58de7013fae72e676bb55593d476727b2c7",
+                    "sha512": "07b00fa9ec12c3c455b3f5c2870ececae11904a6450e206474404b96126bd64753b56be47c4e4d752e364f40cfad3efd78ac4b2862000d91f5b1aa671770395e"
                 },
                 "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-v0.6.1/lithium-fabric-mc1.16.5-0.6.1.jar",
                 "filename": "lithium-fabric-mc1.16.5-0.6.1.jar",

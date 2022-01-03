@@ -9,7 +9,7 @@
         "changelog": "Improved compatibility with older and newer Minecraft versions: LazyDFU now supports Minecraft 1.14 through Minecraft 1.18 (as of this writing). Thanks to MrMangoHands for this contribution!",
         "changelog_url": null,
         "date_published": "2021-02-19T22:53:25.812236Z",
-        "downloads": 36894,
+        "downloads": 38510,
         "version_type": "release",
         "files": [
             {
@@ -57,7 +57,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-01-15T19:05:30.486786Z",
-        "downloads": 973,
+        "downloads": 983,
         "version_type": "release",
         "files": [
             {

@@ -9,7 +9,7 @@
         "changelog": "- Fixed pling",
         "changelog_url": null,
         "date_published": "2021-12-07T08:42:59.859430Z",
-        "downloads": 1774,
+        "downloads": 2189,
         "version_type": "beta",
         "files": [
             {
@@ -40,13 +40,13 @@
         "changelog": "- Fixed pling",
         "changelog_url": null,
         "date_published": "2021-12-07T08:42:28.147022Z",
-        "downloads": 405,
+        "downloads": 499,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "57088656203d704b7dd81b6fea1d4eeb4bae47a2b6df5aef74dd9733ff52e935e19453d68f58ca33d443dadff94ec3e1d43a303085d5badc01bed9da3d22db41",
-                    "sha1": "d085ad2ee3177c967df956663546961394076f19"
+                    "sha1": "d085ad2ee3177c967df956663546961394076f19",
+                    "sha512": "57088656203d704b7dd81b6fea1d4eeb4bae47a2b6df5aef74dd9733ff52e935e19453d68f58ca33d443dadff94ec3e1d43a303085d5badc01bed9da3d22db41"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc11-1.17/dashloader-def-3.0-rc.11-1.17.jar",
                 "filename": "dashloader-def-3.0-rc.11-1.17.jar",
@@ -72,13 +72,13 @@
         "changelog": "- Fixed config Options\n- Disabled unstable block state init because it was causing server issues.",
         "changelog_url": null,
         "date_published": "2021-12-06T08:43:58.644190Z",
-        "downloads": 26,
+        "downloads": 28,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "94b20877cf033c378dae9ade2bc56778f0099c66",
-                    "sha512": "13e72b263ce6825b437ec50f6c3e172a21738162e83eff29a06805da9fe1ce4f549b18b38b6842693a8c9f3ba4ac90baa04135a2122f8989464f905a40835c6f"
+                    "sha512": "13e72b263ce6825b437ec50f6c3e172a21738162e83eff29a06805da9fe1ce4f549b18b38b6842693a8c9f3ba4ac90baa04135a2122f8989464f905a40835c6f",
+                    "sha1": "94b20877cf033c378dae9ade2bc56778f0099c66"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc10-1.17/dashloader-def-3.0-rc.10-1.17.jar",
                 "filename": "dashloader-def-3.0-rc.10-1.17.jar",
@@ -109,8 +109,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "17c0454f8fb29fae33b8ddd8751dae083d1c28813178b227260fd7174402952bace364e8fa6a1b9dd982746a47b774197270fbbf6ee0fd83c1417cfd1c22091a",
-                    "sha1": "b7378107e76c5d162b8be63f03aa12ce283c436c"
+                    "sha1": "b7378107e76c5d162b8be63f03aa12ce283c436c",
+                    "sha512": "17c0454f8fb29fae33b8ddd8751dae083d1c28813178b227260fd7174402952bace364e8fa6a1b9dd982746a47b774197270fbbf6ee0fd83c1417cfd1c22091a"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc10-1.18/dashloader-def-3.0-rc10-1.18.jar",
                 "filename": "dashloader-def-3.0-rc10-1.18.jar",
@@ -140,8 +140,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "114e78d10d061322948bec5b56f62421ccf6fecc61c4bc06ee40df5618185629ac0ec57afbb2367bd3f73b57d2b2ea04934d0de31a96bf8cd3656ec990696b15",
-                    "sha1": "8e7628ce076940dda9d885c32fa9ae2f5f3a2a64"
+                    "sha1": "8e7628ce076940dda9d885c32fa9ae2f5f3a2a64",
+                    "sha512": "114e78d10d061322948bec5b56f62421ccf6fecc61c4bc06ee40df5618185629ac0ec57afbb2367bd3f73b57d2b2ea04934d0de31a96bf8cd3656ec990696b15"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc6-1.18/dashloader-def-3.0-rc6-1.18.jar",
                 "filename": "dashloader-def-3.0-rc6-1.18.jar",
@@ -166,13 +166,13 @@
         "changelog": "- Cleaned up Mixin Accessors\n- Made a highly unsafe change to Blockstates which makes them way faster.",
         "changelog_url": null,
         "date_published": "2021-12-05T14:41:03.502468Z",
-        "downloads": 12,
+        "downloads": 13,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "605211f1ba629be5fac11d31f38e582135c329b28ece50d4aa368933f3f6a41a7fddada7d4924ed7013e390f6bb1a892f46bbdb4a77763d639dc5f8ac77f510a",
-                    "sha1": "dfee048d678b1ce80af674959c4bee9dadd2a5d7"
+                    "sha1": "dfee048d678b1ce80af674959c4bee9dadd2a5d7",
+                    "sha512": "605211f1ba629be5fac11d31f38e582135c329b28ece50d4aa368933f3f6a41a7fddada7d4924ed7013e390f6bb1a892f46bbdb4a77763d639dc5f8ac77f510a"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc6/dashloader-def-3.0-rc.6-1.17.jar",
                 "filename": "dashloader-def-3.0-rc.6-1.17.jar",
@@ -203,8 +203,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "9f912731f720a240effcccdb5204865487314c54",
-                    "sha512": "b8a7954496da8cb1206d2c66cae1ddec61e408acc34194c014009e9a2262fcabde895e9223cfc18bdd85681eee2c3d5e55a111df7e897736ab226f581d4f17bd"
+                    "sha512": "b8a7954496da8cb1206d2c66cae1ddec61e408acc34194c014009e9a2262fcabde895e9223cfc18bdd85681eee2c3d5e55a111df7e897736ab226f581d4f17bd",
+                    "sha1": "9f912731f720a240effcccdb5204865487314c54"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-beta4/dashloader-def-3.0-beta4.jar",
                 "filename": "dashloader-def-3.0-beta4.jar",
@@ -235,8 +235,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "1b9964fa8cc507fd9aa79172fc636edeef83390c7c5fe08ddeb233ff4152e96b16687875a2320efe81eae3b238fef58d7796ce809c36a77ed9508168fb4185bb",
-                    "sha1": "4af21e8b90753a072b86d1d6110ca4e96d005075"
+                    "sha1": "4af21e8b90753a072b86d1d6110ca4e96d005075",
+                    "sha512": "1b9964fa8cc507fd9aa79172fc636edeef83390c7c5fe08ddeb233ff4152e96b16687875a2320efe81eae3b238fef58d7796ce809c36a77ed9508168fb4185bb"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-beta3/dashloader-def-3.0-beta3.jar",
                 "filename": "dashloader-def-3.0-beta3.jar",
@@ -294,13 +294,13 @@
         "changelog": "- Fixes sodium support",
         "changelog_url": null,
         "date_published": "2021-10-07T16:01:04.965766Z",
-        "downloads": 1867,
+        "downloads": 1883,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "fd50d0431d162c31e88c37a3335cacd74a13373a",
-                    "sha512": "3c399e8574772686d3b71c857fbf1018b507ff511e4d019c2f0eadf6e2fdb5a6378da774cc7db1a0c02a139233a3dd3f49bf1ff6bad913e693d2b5d86a835357"
+                    "sha512": "3c399e8574772686d3b71c857fbf1018b507ff511e4d019c2f0eadf6e2fdb5a6378da774cc7db1a0c02a139233a3dd3f49bf1ff6bad913e693d2b5d86a835357",
+                    "sha1": "fd50d0431d162c31e88c37a3335cacd74a13373a"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0.1/dashloader-2.0.1.jar",
                 "filename": "dashloader-2.0.1.jar",
@@ -363,8 +363,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "bed314ab52d5527665d9e5e9e630344a9b1056e5",
-                    "sha512": "c44ea2d5e5723ba8f2250e727877a155c88cc55af181e34754dae1a949a9b859e226363ad717899c1608d18470084e450ac7f7809fe20edc4c3022ae6d59376f"
+                    "sha512": "c44ea2d5e5723ba8f2250e727877a155c88cc55af181e34754dae1a949a9b859e226363ad717899c1608d18470084e450ac7f7809fe20edc4c3022ae6d59376f",
+                    "sha1": "bed314ab52d5527665d9e5e9e630344a9b1056e5"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0-pre3/dashloader-2.0-pre3.jar",
                 "filename": "dashloader-2.0-pre3.jar",
@@ -395,8 +395,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "e0e3e9b4e3b7ada2f05a204798e28bef252ca640",
-                    "sha512": "729d39fdcbb1aa532dbd8380154a5cb9e7c3f02f74cf9bd290fa5fd705739d26d2b808ad6a1ed6927ef3c41421e3fac946ec587b1ff3a487a87e717a264ce35b"
+                    "sha512": "729d39fdcbb1aa532dbd8380154a5cb9e7c3f02f74cf9bd290fa5fd705739d26d2b808ad6a1ed6927ef3c41421e3fac946ec587b1ff3a487a87e717a264ce35b",
+                    "sha1": "e0e3e9b4e3b7ada2f05a204798e28bef252ca640"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0-pre2/dashloader-2.0-pre2.jar",
                 "filename": "dashloader-2.0-pre2.jar",
@@ -453,13 +453,13 @@
         "changelog": "1.17",
         "changelog_url": null,
         "date_published": "2021-06-04T15:36:30.281523Z",
-        "downloads": 658,
+        "downloads": 659,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "05ec4aee0ccb61c26db401f2dd4715d8cf7063f7",
-                    "sha512": "6152c570575c7efaac7a451e8c734269961b0b478de6a77df9133fe4549446e6989c30a67964462f538d562033ceeafbc349feeb049652b865b0c3ed8e7ca069"
+                    "sha512": "6152c570575c7efaac7a451e8c734269961b0b478de6a77df9133fe4549446e6989c30a67964462f538d562033ceeafbc349feeb049652b865b0c3ed8e7ca069",
+                    "sha1": "05ec4aee0ccb61c26db401f2dd4715d8cf7063f7"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.5/dashloader-1.5.jar",
                 "filename": "dashloader-1.5.jar",
@@ -486,13 +486,13 @@
         "changelog": "- Fixed redstone not showing up.\n- Added the new API",
         "changelog_url": null,
         "date_published": "2021-05-23T17:14:41.739504Z",
-        "downloads": 2437,
+        "downloads": 2574,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "a5cde3ffa83826c3ed418f2fe1d26ea3a47eda06",
-                    "sha512": "656b23c52b72107c2a8eac4d2c9860ea45c6e0de3259f5b2f3db13e4baff889301e1b2e99ac9b87fd4af0a77af616068fe120bef7b54b71ae32ead191dc007df"
+                    "sha512": "656b23c52b72107c2a8eac4d2c9860ea45c6e0de3259f5b2f3db13e4baff889301e1b2e99ac9b87fd4af0a77af616068fe120bef7b54b71ae32ead191dc007df",
+                    "sha1": "a5cde3ffa83826c3ed418f2fe1d26ea3a47eda06"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.4.5-experimental/dashloader-1.4.5.jar",
                 "filename": "dashloader-1.4.5.jar",
@@ -517,7 +517,7 @@
         "changelog": "Fixed Serializer instability\nReverted image change\nAdded more mods to incompat list",
         "changelog_url": null,
         "date_published": "2021-05-13T14:34:33.462305Z",
-        "downloads": 89,
+        "downloads": 90,
         "version_type": "beta",
         "files": [
             {
@@ -548,13 +548,13 @@
         "changelog": "- fixed rare NPE on potion effects.\n\n- Multithreaded heavily \n\n- Improved API loading.",
         "changelog_url": null,
         "date_published": "2021-05-11T06:07:49.968186Z",
-        "downloads": 110,
+        "downloads": 115,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "20166d26e4e6569f2f81b8c11dacd52b7061f7db2369853497f7acc77e04f5fa139c2f51cd113328bd12d0edad7b6a7802045bbe35aecb39b6fc98d92f4ecbd4",
-                    "sha1": "0910502b9ddeb4dc4909a7d624b0516b8d1fcbb2"
+                    "sha1": "0910502b9ddeb4dc4909a7d624b0516b8d1fcbb2",
+                    "sha512": "20166d26e4e6569f2f81b8c11dacd52b7061f7db2369853497f7acc77e04f5fa139c2f51cd113328bd12d0edad7b6a7802045bbe35aecb39b6fc98d92f4ecbd4"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.4.3-stable/dashloader-1.4.3.jar",
                 "filename": "dashloader-1.4.3.jar",
@@ -584,8 +584,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "d5d42e99559bd0eaf5a9cbae881f34db0611170f4bb6e4de6b5df15de5e0c183d48ae60ed50b6ca4909655dad14ebf5f3350ad9e9c49546bfc645eca3c006154",
-                    "sha1": "5d025ceb5769ab109f4f74bb0629b5f2fba9ce0f"
+                    "sha1": "5d025ceb5769ab109f4f74bb0629b5f2fba9ce0f",
+                    "sha512": "d5d42e99559bd0eaf5a9cbae881f34db0611170f4bb6e4de6b5df15de5e0c183d48ae60ed50b6ca4909655dad14ebf5f3350ad9e9c49546bfc645eca3c006154"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/ 1.4.1-experemental/dashloader-1.4.1.jar",
                 "filename": "dashloader-1.4.1.jar",
@@ -615,8 +615,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "19dc73afa899c3b6745cf526925091a8a60ec655",
-                    "sha512": "b80acdadc2d754225c8632df94bf1fea8cb92b83744430c5483cfab79f3c8b9624f6657a4675e3bd1ea4c29674f3dcfd1f96a24577d9d24a2d0fc51ee056d62c"
+                    "sha512": "b80acdadc2d754225c8632df94bf1fea8cb92b83744430c5483cfab79f3c8b9624f6657a4675e3bd1ea4c29674f3dcfd1f96a24577d9d24a2d0fc51ee056d62c",
+                    "sha1": "19dc73afa899c3b6745cf526925091a8a60ec655"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.4-experemental/dashloader-1.4.jar",
                 "filename": "dashloader-1.4.jar",
@@ -641,7 +641,7 @@
         "changelog": "- Added timer on some stages in console.\n- Made dash less dependant on Unsafe operations.",
         "changelog_url": null,
         "date_published": "2021-05-03T15:34:17.899961Z",
-        "downloads": 107,
+        "downloads": 108,
         "version_type": "release",
         "files": [
             {
@@ -677,8 +677,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "9602885bec8097aed4b1f76438e505c97d51935f",
-                    "sha512": "66566bebea317ce51c010b6dbf4c9a7edec20e986e6cd9857d49694573ba5beb869004348897ac9aa4c6e45152d8e3d5ed5bc1a620f9587cf1f3e244d2dda85d"
+                    "sha512": "66566bebea317ce51c010b6dbf4c9a7edec20e986e6cd9857d49694573ba5beb869004348897ac9aa4c6e45152d8e3d5ed5bc1a620f9587cf1f3e244d2dda85d",
+                    "sha1": "9602885bec8097aed4b1f76438e505c97d51935f"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.3-alpha/dashloader-1.3-alpha.jar",
                 "filename": "dashloader-1.3-alpha.jar",
@@ -770,8 +770,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "4b3dc8635119b2bbe3f71fecbf1ef0ba1cf103364e7b5129af9f56e86d362f758bcb6a80fa2d73e8b3632b8b05744d66ace90e6c27d23f4f6275477459c18ad1",
-                    "sha1": "fb7238211a6e504d7771a91435497ca82562c594"
+                    "sha1": "fb7238211a6e504d7771a91435497ca82562c594",
+                    "sha512": "4b3dc8635119b2bbe3f71fecbf1ef0ba1cf103364e7b5129af9f56e86d362f758bcb6a80fa2d73e8b3632b8b05744d66ace90e6c27d23f4f6275477459c18ad1"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.0.2-alpha/dash-1.0.2-alpha.jar",
                 "filename": "dash-1.0.2-alpha.jar",

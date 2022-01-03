@@ -32,7 +32,7 @@
     "gameId": 432,
     "summary": "Performance and logic upgrades for mod AIs",
     "defaultFileId": 3543562,
-    "downloadCount": 26882794.0,
+    "downloadCount": 27225063.0,
     "latestFiles": [
         {
             "id": 2291537,
@@ -116,7 +116,7 @@
                     "value": "fd26b8f19485a2cd13a92369c9be2684"
                 }
             ],
-            "downloadCount": 6012
+            "downloadCount": 6059
         },
         {
             "id": 2468387,
@@ -241,7 +241,7 @@
                     "value": "89be2aa1464314c1e4474825036f3ccf"
                 }
             ],
-            "downloadCount": 2464827
+            "downloadCount": 2467800
         },
         {
             "id": 2524666,
@@ -361,7 +361,7 @@
                     "value": "b9fbddfe338d263b0f2f18134e3ca935"
                 }
             ],
-            "downloadCount": 129798
+            "downloadCount": 131602
         },
         {
             "id": 3005709,
@@ -446,7 +446,7 @@
                     "value": "e889a8ddd2881bc917654239cd87f6e5"
                 }
             ],
-            "downloadCount": 377683
+            "downloadCount": 377868
         },
         {
             "id": 3543562,
@@ -539,23 +539,10 @@
                     "value": "46659413d023b8135750cdc6f2b22a0a"
                 }
             ],
-            "downloadCount": 174206
+            "downloadCount": 249611
         }
     ],
     "categories": [
-        {
-            "categoryId": 435,
-            "name": "Server Utility",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 233019,
-            "avatarId": 6048,
-            "gameId": 432,
-            "slug": "server-utility",
-            "dateModified": "2014-05-08T17:44:55.057Z"
-        },
         {
             "categoryId": 411,
             "name": "Mobs",
@@ -568,6 +555,19 @@
             "gameId": 432,
             "slug": "world-mobs",
             "dateModified": "2014-05-08T17:46:59.507Z"
+        },
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 233019,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
         }
     ],
     "status": 4,
@@ -732,8 +732,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 31163.869140625,
-    "gamePopularityRank": 107,
+    "popularityScore": 31245.630859375,
+    "gamePopularityRank": 105,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [

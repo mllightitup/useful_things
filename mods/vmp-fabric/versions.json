@@ -1,5 +1,36 @@
 [
     {
+        "id": "xZyKz0JY",
+        "mod_id": "wnEe9KBa",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+beta.2.18 devbuild for 1.18.1",
+        "version_number": "0.2.0+beta.2.18 1.18.1",
+        "changelog": "Fix some chunks not being sent to client  \nOptimize entity iteration for cramming and possibly other things  \nUse square instead of circle  \n",
+        "changelog_url": null,
+        "date_published": "2022-01-01T14:31:08.417414Z",
+        "downloads": 56,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "9ab1663e80757ee3e51102a3a104d061c7b902a6064d6710b3de492467a2831490ffbe88effea27829b983ebd0fbb9a144e670896bef412d6bb86aeb0096792c",
+                    "sha1": "9ed693b58d36f52deefa4a3853557196161468a2"
+                },
+                "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.2.18 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.2.18-all.jar",
+                "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.2.18-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
         "id": "zpFSkywE",
         "mod_id": "wnEe9KBa",
         "author_id": "KdStZyTU",
@@ -9,7 +40,7 @@
         "changelog": "This release fixes an important crash and adds a minor performance improvements.",
         "changelog_url": null,
         "date_published": "2021-12-19T07:20:43.912063Z",
-        "downloads": 177,
+        "downloads": 277,
         "version_type": "beta",
         "files": [
             {
@@ -45,8 +76,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "f2e8db11f6a0fd592c33c54970dc23afa12156ab",
-                    "sha512": "df5c5dde91c16bea8a3dce92a91072d68e6d861634889ad3db60f52ac396884886a14b4461c0a14440b780f2b9ee7cbddc9d1228daf9899a105d3b0aca0e58ec"
+                    "sha512": "df5c5dde91c16bea8a3dce92a91072d68e6d861634889ad3db60f52ac396884886a14b4461c0a14440b780f2b9ee7cbddc9d1228daf9899a105d3b0aca0e58ec",
+                    "sha1": "f2e8db11f6a0fd592c33c54970dc23afa12156ab"
                 },
                 "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.1.5 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.1.5-all.jar",
                 "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.1.5-all.jar",
@@ -71,13 +102,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-12-05T03:00:09.286680Z",
-        "downloads": 111,
+        "downloads": 113,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "74cf8a885114818e736284c4fc356aca1309b2da",
-                    "sha512": "f2008357dc8e35b3def98c932f0d80992729eb506e2ecb7d3e94977cd9888a9d26457d6938ad108886ae841e98552838f61f4148218d4b873c8edf01e04a40d3"
+                    "sha512": "f2008357dc8e35b3def98c932f0d80992729eb506e2ecb7d3e94977cd9888a9d26457d6938ad108886ae841e98552838f61f4148218d4b873c8edf01e04a40d3",
+                    "sha1": "74cf8a885114818e736284c4fc356aca1309b2da"
                 },
                 "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.1 1.18.1-pre1/vmp-fabric-mc1.18.1-pre1-0.2.0+beta.1-all.jar",
                 "filename": "vmp-fabric-mc1.18.1-pre1-0.2.0+beta.1-all.jar",
@@ -103,13 +134,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-12-05T03:00:09.274528Z",
-        "downloads": 39,
+        "downloads": 56,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "4cc66080c23d3d58fa1a430d18e732f61de4112f715c8282fe3feba409dbdd87acc5e76b93f693f4f8e71905e0150e4ae97445c250a4db0b9d13a52cbb3d2290",
-                    "sha1": "6eb02c1f4db7246aabd6ab21ef2ac630c7f2fb7e"
+                    "sha1": "6eb02c1f4db7246aabd6ab21ef2ac630c7f2fb7e",
+                    "sha512": "4cc66080c23d3d58fa1a430d18e732f61de4112f715c8282fe3feba409dbdd87acc5e76b93f693f4f8e71905e0150e4ae97445c250a4db0b9d13a52cbb3d2290"
                 },
                 "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.1.0+beta.1 1.17.1/vmp-fabric-mc1.17.1-0.1.0+beta.1-all.jar",
                 "filename": "vmp-fabric-mc1.17.1-0.1.0+beta.1-all.jar",

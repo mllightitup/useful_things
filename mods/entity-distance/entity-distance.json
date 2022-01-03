@@ -7,7 +7,7 @@
     "body": "Allows the user to adjust the (client) distance at which different entities render. Distance setting for each entity can be found in the mod's Mod Menu settings.\n</br></br>\nRequires [fabric-api](https://modrinth.com/mod/fabric-api), [Mod Menu](https://modrinth.com/mod/modmenu), and [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config).",
     "body_url": null,
     "published": "2021-06-22T07:45:27.941958Z",
-    "updated": "2021-07-21T00:00:28.038813Z",
+    "updated": "2022-01-03T00:23:37.332294Z",
     "status": "approved",
     "license": {
         "id": "mit",
@@ -16,7 +16,7 @@
     },
     "client_side": "required",
     "server_side": "unsupported",
-    "downloads": 1787,
+    "downloads": 1838,
     "followers": 12,
     "categories": [
         "utility"
@@ -24,7 +24,10 @@
     "versions": [
         "W6uodD31",
         "WOdLQLd0",
+        "YZ60r5Ss",
         "q35Bju4S",
+        "G40M64K7",
+        "GSstfQ67",
         "GqFOY354"
     ],
     "icon_url": "https://cdn.modrinth.com/data/msRGy0cC/icon.png",

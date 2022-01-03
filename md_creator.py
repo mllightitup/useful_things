@@ -6,8 +6,6 @@ import author as author
 
 from const import links, header, footer
 
-# BAAAD CODE, I KNOW, NEED REFACTOR
-# BUT ITS WORKING :))))))))
 
 def curseforge(values):
     lines = []

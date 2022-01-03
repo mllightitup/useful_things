@@ -9,7 +9,7 @@
         "changelog": " - Update to 1.18\n - FIx crash when the config directory does not exist (?)",
         "changelog_url": null,
         "date_published": "2021-12-05T09:24:19.903405Z",
-        "downloads": 2386,
+        "downloads": 2812,
         "version_type": "beta",
         "files": [
             {
@@ -40,13 +40,13 @@
         "changelog": " - New: Do not store NBT data for already loaded parts of partially loaded chunks, saves 80-90 MB on servers\n- Add compatibility for environments using newer guava versions\n- Fix rare crash with FRAPI\n- Improve performance of StateHolder#hasProperty",
         "changelog_url": null,
         "date_published": "2021-10-09T11:10:07.129418Z",
-        "downloads": 746,
+        "downloads": 793,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "32da6f8089af2d4b060b006be2713725804cce574b25fe759641aa67005d1acdaeb857fae0d3623887e70ac00203750264319ce50222aa97c82a1364d06886f9",
-                    "sha1": "3ebad2a2f420d34069dd1799ed6dd809652aeb3e"
+                    "sha1": "3ebad2a2f420d34069dd1799ed6dd809652aeb3e",
+                    "sha512": "32da6f8089af2d4b060b006be2713725804cce574b25fe759641aa67005d1acdaeb857fae0d3623887e70ac00203750264319ce50222aa97c82a1364d06886f9"
                 },
                 "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2.1.0/ferritecore-2.1.0-fabric.jar",
                 "filename": "ferritecore-2.1.0-fabric.jar",
@@ -71,13 +71,13 @@
         "changelog": " - New optimization: Do not keep chunk data around after it has been loaded\n - Support for environments where (for whatever reason) guava 27 is loaded instead of guava 21\n - Fix (very) rare crash with FRAPI and multipart models",
         "changelog_url": null,
         "date_published": "2021-09-27T14:57:08.849709Z",
-        "downloads": 1976,
+        "downloads": 2027,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "d9e537185a3d39736ac765df5ba3a05f8ace5a3af87b350da57da8fd7e466b7b84a378c0f721f5ae6e685e2d24f28d58a760311287c4c0a8df0fbdbf610fb075",
-                    "sha1": "33459a6f05597428405c398a9acf3f278e1d8806"
+                    "sha1": "33459a6f05597428405c398a9acf3f278e1d8806",
+                    "sha512": "d9e537185a3d39736ac765df5ba3a05f8ace5a3af87b350da57da8fd7e466b7b84a378c0f721f5ae6e685e2d24f28d58a760311287c4c0a8df0fbdbf610fb075"
                 },
                 "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar",
                 "filename": "ferritecore-3.1.0-fabric.jar",
@@ -102,13 +102,13 @@
         "changelog": " - Fix compatibility with sodium",
         "changelog_url": null,
         "date_published": "2021-08-22T18:15:49.492873Z",
-        "downloads": 1857,
+        "downloads": 1869,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "08955a13f40c4b45089fe1d7ed62410e941382d7",
-                    "sha512": "24f293baa8a493c7cd34d810694aef2fe398d1d1ecd6c5ab38ba1888563b8dd3628fe07026739f6840ebe17b894bb54e39344ab2c0f6bc4fcd9ed56ebae6f9e1"
+                    "sha512": "24f293baa8a493c7cd34d810694aef2fe398d1d1ecd6c5ab38ba1888563b8dd3628fe07026739f6840ebe17b894bb54e39344ab2c0f6bc4fcd9ed56ebae6f9e1",
+                    "sha1": "08955a13f40c4b45089fe1d7ed62410e941382d7"
                 },
                 "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.3/ferritecore-3.0.3-fabric.jar",
                 "filename": "ferritecore-3.0.3-fabric.jar",
@@ -133,7 +133,7 @@
         "changelog": " - Fix crash with sodium",
         "changelog_url": null,
         "date_published": "2021-08-22T18:01:29.532465Z",
-        "downloads": 263,
+        "downloads": 265,
         "version_type": "release",
         "files": [
             {
@@ -164,7 +164,7 @@
         "changelog": "- Fix potential crash with multipart models with many states",
         "changelog_url": null,
         "date_published": "2021-08-22T09:10:59.291184Z",
-        "downloads": 39,
+        "downloads": 40,
         "version_type": "release",
         "files": [
             {
@@ -226,7 +226,7 @@
         "changelog": " - Fix compatibility with Hydrogen",
         "changelog_url": null,
         "date_published": "2021-07-02T10:38:01.407339Z",
-        "downloads": 1234,
+        "downloads": 1235,
         "version_type": "beta",
         "files": [
             {
@@ -262,8 +262,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "b8ebc4be2786048c3db06c07045e0493f212e996",
-                    "sha512": "5e1ac32801b9d7d5207a91e48a5bf11c6d8c2141a44efe5e4a25b40660cab37c0ec8fe8bf9eeff0ee0f507897179a32fdfed460cea356e4683cc4dde75ee682b"
+                    "sha512": "5e1ac32801b9d7d5207a91e48a5bf11c6d8c2141a44efe5e4a25b40660cab37c0ec8fe8bf9eeff0ee0f507897179a32fdfed460cea356e4683cc4dde75ee682b",
+                    "sha1": "b8ebc4be2786048c3db06c07045e0493f212e996"
                 },
                 "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.0/ferritecore-3.0.0-fabric.jar",
                 "filename": "ferritecore-3.0.0-fabric.jar",

@@ -9,7 +9,7 @@
         "changelog": "Changes:\n- Configurable nether portal search radius\n- Don't load chunks for raytracing\n\nFixes:\n- Fixed several issues with player respawning and entities going through end portals.\n- Fixed incompatibility with VMP",
         "changelog_url": null,
         "date_published": "2021-12-10T14:02:21.649138Z",
-        "downloads": 585,
+        "downloads": 760,
         "version_type": "release",
         "files": [
             {
@@ -41,13 +41,13 @@
         "changelog": "Fixed an issue where respawn points wouldn't work in unloaded chunks.",
         "changelog_url": null,
         "date_published": "2021-11-30T16:43:01.859984Z",
-        "downloads": 391,
+        "downloads": 392,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "c29286a90c2b2fe865c95dd3efe99f3af5c814f1",
-                    "sha512": "75265ecffd0999a78f9897774e6ff989fb69f0a92b92246f4bf54dc9d1507adaf19118bbcb5354709064c4655fcdcefc7cf7d9be04277b1b369e7e63192abed9"
+                    "sha512": "75265ecffd0999a78f9897774e6ff989fb69f0a92b92246f4bf54dc9d1507adaf19118bbcb5354709064c4655fcdcefc7cf7d9be04277b1b369e7e63192abed9",
+                    "sha1": "c29286a90c2b2fe865c95dd3efe99f3af5c814f1"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.5-1.18/servercore-1.2.5-1.18.jar",
                 "filename": "servercore-1.2.5-1.18.jar",
@@ -72,7 +72,7 @@
         "changelog": "Changes:\n- Removed per player spawns (use other / standalone mods for this feature, as my implementation broke too much)\n- Fixed inconsistencies with vanilla with fast_xp_merging enabled.\n- Better mod compatibility\n\n",
         "changelog_url": null,
         "date_published": "2021-11-29T11:54:24.491410Z",
-        "downloads": 88,
+        "downloads": 109,
         "version_type": "release",
         "files": [
             {
@@ -108,8 +108,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "b06b986037c596436dd1e062100c94b3f98678b0",
-                    "sha512": "7f41585be695d2f68550709f7c04b9fa0e9b505bcbeba1f74f98eb4c3378b38d010b31b588043ae327bd5230e008439799f34ce96d60f578c94e512fd42eca19"
+                    "sha512": "7f41585be695d2f68550709f7c04b9fa0e9b505bcbeba1f74f98eb4c3378b38d010b31b588043ae327bd5230e008439799f34ce96d60f578c94e512fd42eca19",
+                    "sha1": "b06b986037c596436dd1e062100c94b3f98678b0"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.4-1.17.1/servercore-1.2.4-1.17.1.jar",
                 "filename": "servercore-1.2.4-1.17.1.jar",
@@ -174,8 +174,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "6d0b5a077b98a5d8502cc2239206da3956b814b4",
-                    "sha512": "9dea3ee24cc240ff10c6c325f1d40cfa7ae035c3db4485b55a3cc4ef13904e68666aa906664b8ea318b22ddbea3c3edf0540b1a535142b00b3108dc5bc6d2151"
+                    "sha512": "9dea3ee24cc240ff10c6c325f1d40cfa7ae035c3db4485b55a3cc4ef13904e68666aa906664b8ea318b22ddbea3c3edf0540b1a535142b00b3108dc5bc6d2151",
+                    "sha1": "6d0b5a077b98a5d8502cc2239206da3956b814b4"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.4-1.18-pre2/servercore-1.2.4-1.18-pre2.jar",
                 "filename": "servercore-1.2.4-1.18-pre2.jar",
@@ -205,8 +205,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "0e39ce2b2c1f261de115cc23690111af20c44f18635662e42bdad15d6f22687af4851ea14bd3284b87a63300191e1106980d6ed763d491206e795de308be9e1f",
-                    "sha1": "40a24e6217c0745427570b951ae1887fa34b65d1"
+                    "sha1": "40a24e6217c0745427570b951ae1887fa34b65d1",
+                    "sha512": "0e39ce2b2c1f261de115cc23690111af20c44f18635662e42bdad15d6f22687af4851ea14bd3284b87a63300191e1106980d6ed763d491206e795de308be9e1f"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.3-1.18-pre1/servercore-1.2.3-1.18-pre1.jar",
                 "filename": "servercore-1.2.3-1.18-pre1.jar",
@@ -267,8 +267,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "6557040f7cb1e0898f30b33c5c759bf75bc876bd8a6c967cad10ff59f6231fe6acc748b40dcbd8f6273c1cd441815cd5f1afe8a6055981fbb07704f6908718df",
-                    "sha1": "f6d41cd99c78eec3c6b613995351631651fb3d63"
+                    "sha1": "f6d41cd99c78eec3c6b613995351631651fb3d63",
+                    "sha512": "6557040f7cb1e0898f30b33c5c759bf75bc876bd8a6c967cad10ff59f6231fe6acc748b40dcbd8f6273c1cd441815cd5f1afe8a6055981fbb07704f6908718df"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.3-1.17.1/servercore-1.2.3-1.17.1.jar",
                 "filename": "servercore-1.2.3-1.17.1.jar",

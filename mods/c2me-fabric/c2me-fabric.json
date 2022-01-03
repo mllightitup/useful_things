@@ -7,7 +7,7 @@
     "body": "# Concurrent Chunk Management Engine (Fabric)\n\nA Fabric mod designed to improve the chunk performance of Minecraft.\n\n## So what is C2ME?\nC^2M-Engine, or C2ME for short, is a Fabric mod designed to improve the performance of chunk generation, I/O, and loading. This is done by taking advantage of multiple CPU cores in parallel. For the best performance it is recommended to use C2ME with [Lithium](https://modrinth.com/mod/lithium) and [Starlight](https://modrinth.com/mod/starlight).\n\n## What does C2ME stand for?\nConcurrent chunk management engine, it's about making the game better threaded and more scalable in regard to world gen and chunk io performance.\n\n## So what is C2ME not?\n**C2ME is currently in alpha stage and pretty experimental.**  \nAlthough it is usable in most cases and tested during build time, it doesn't mean that it is fully stable for a production server.  \nSo backup your worlds and practice good game modding skills.\n\n## Support\nOur issue tracker: [link](https://github.com/RelativityMC/C2ME-fabric/issues)  \nOur discord server: [link](https://discord.io/ishlandbukkit)\n\n## More information\nCheck out the README.md here: https://github.com/RelativityMC/C2ME-fabric\n",
     "body_url": null,
     "published": "2021-10-02T10:14:46.020070Z",
-    "updated": "2021-12-19T07:22:28.028760Z",
+    "updated": "2022-01-01T14:26:14.142354Z",
     "status": "approved",
     "license": {
         "id": "mit",
@@ -16,8 +16,8 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 4095,
-    "followers": 116,
+    "downloads": 4648,
+    "followers": 126,
     "categories": [
         "misc"
     ],
@@ -36,6 +36,7 @@
         "E3cvbFES",
         "1SfzeCfa",
         "G1RN9hkt",
+        "GExDMas5",
         "L4GQmy36",
         "LFqvAnbE",
         "2IaFivhp",

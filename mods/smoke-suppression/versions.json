@@ -9,7 +9,7 @@
         "changelog": " Marked as compatible with 1.18.1\n\nA cumulative changelog can be found [here](https://gitlab.com/supersaiyansubtlety/smoke_suppression/-/blob/master/CHANGELOG.md)",
         "changelog_url": null,
         "date_published": "2021-12-13T09:21:46.924920Z",
-        "downloads": 49,
+        "downloads": 56,
         "version_type": "release",
         "files": [
             {
@@ -77,8 +77,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "5e24e72757fe53c1026df4dd893fbb5941353bb8512f116eb58555aa956e10c41d5d6bd7eada444ae79825f08d87efbbce40bf4ef7962442fa70b40e1e3b3296",
-                    "sha1": "859bbefb121578723248035792d92df4d1353a74"
+                    "sha1": "859bbefb121578723248035792d92df4d1353a74",
+                    "sha512": "5e24e72757fe53c1026df4dd893fbb5941353bb8512f116eb58555aa956e10c41d5d6bd7eada444ae79825f08d87efbbce40bf4ef7962442fa70b40e1e3b3296"
                 },
                 "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.5+MC1.17-1.17.1/smoke-suppression-1.0.5+MC1.17-1.17.1.jar",
                 "filename": "smoke-suppression-1.0.5+MC1.17-1.17.1.jar",
@@ -109,8 +109,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "0bc4437a8bde6707aaafce2cabaef7cfad07e26eb82135ff8055253542ab2d2c61acdfe395a7aceb1fa4ba1b37a32dec09b69518ac72009dd76a080f2bcd13fe",
-                    "sha1": "327eda3ab7c74f9d02901b21a6cc91bf62dc91fa"
+                    "sha1": "327eda3ab7c74f9d02901b21a6cc91bf62dc91fa",
+                    "sha512": "0bc4437a8bde6707aaafce2cabaef7cfad07e26eb82135ff8055253542ab2d2c61acdfe395a7aceb1fa4ba1b37a32dec09b69518ac72009dd76a080f2bcd13fe"
                 },
                 "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.4+MC1.17-1.17.1/smoke-suppression-1.0.4+MC1.17-1.17.1.jar",
                 "filename": "smoke-suppression-1.0.4+MC1.17-1.17.1.jar",
@@ -172,8 +172,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "ceecec553734a95461b4ec97bb354c57e056f3121cdc7f05b58303c05a0bc049d712fa226414477bba9f95979653da9126bed926166782598f8b789495ce9c77",
-                    "sha1": "fdb3386d558b2e4bd19b394aff9f65757b6dff7c"
+                    "sha1": "fdb3386d558b2e4bd19b394aff9f65757b6dff7c",
+                    "sha512": "ceecec553734a95461b4ec97bb354c57e056f3121cdc7f05b58303c05a0bc049d712fa226414477bba9f95979653da9126bed926166782598f8b789495ce9c77"
                 },
                 "url": "https://cdn.modrinth.com/data/nKcekY2P/versions/1.0.3+MC1.17-1.17.1/smoke-suppression-1.0.3+MC1.17-1.17.1.jar",
                 "filename": "smoke-suppression-1.0.3+MC1.17-1.17.1.jar",

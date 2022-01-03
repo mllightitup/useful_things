@@ -62,7 +62,7 @@
     "gameId": 432,
     "summary": "Improves biome color blending",
     "defaultFileId": 3554486,
-    "downloadCount": 2420307.0,
+    "downloadCount": 2546440.0,
     "latestFiles": [
         {
             "id": 3421283,
@@ -187,7 +187,7 @@
                     "value": "0d9c8f004076dfc3522383d42ee8d230"
                 }
             ],
-            "downloadCount": 146013
+            "downloadCount": 149247
         },
         {
             "id": 3554486,
@@ -292,7 +292,7 @@
                     "value": "6ccdc64158479267c78237682e977040"
                 }
             ],
-            "downloadCount": 1482
+            "downloadCount": 2431
         }
     ],
     "categories": [
@@ -398,8 +398,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 10905.0615234375,
-    "gamePopularityRank": 578,
+    "popularityScore": 10886.9541015625,
+    "gamePopularityRank": 589,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [

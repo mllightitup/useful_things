@@ -7,7 +7,7 @@
     "body": "# Very Many Players\n\nA Fabric mod designed to improve server performance at high playercounts. \n\n**VMP is still in early development and things are expected to break. Please report any issues to our issue tracker.**\n\n## So what is VMP? \nVery Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount \n**without sacrificing vanilla functionality or behavior**.  \nFor the best performance it is recommended to use VMP with [Lithium](https://modrinth.com/mod/lithium).\n\n## Support\nOur issue tracker: [link](https://github.com/RelativityMC/VMP-fabric/issues)  \nOur discord server: [link](https://discord.io/ishlandbukkit)\n\n## More information\nCheck out the README.md here: https://github.com/RelativityMC/VMP-fabric\n",
     "body_url": null,
     "published": "2021-12-05T03:00:09.272223Z",
-    "updated": "2021-12-19T07:20:43.542258Z",
+    "updated": "2022-01-01T14:31:08.030249Z",
     "status": "approved",
     "license": {
         "id": "mit",
@@ -16,18 +16,19 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 474,
-    "followers": 15,
+    "downloads": 649,
+    "followers": 17,
     "categories": [
         "misc"
     ],
     "versions": [
         "b0hxL475",
+        "xZyKz0JY",
         "zpFSkywE",
         "6upkwnNd",
         "IUbVXDBv"
     ],
-    "icon_url": "https://cdn.modrinth.com/data/wnEe9KBa/icon.jpg",
+    "icon_url": "https://cdn.modrinth.com/data/wnEe9KBa/icon.png",
     "issues_url": "https://github.com/RelativityMC/VMP-fabric/issues",
     "source_url": "https://github.com/RelativityMC/VMP-fabric",
     "wiki_url": null,

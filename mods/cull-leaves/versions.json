@@ -9,7 +9,7 @@
         "changelog": "Update to MidnightLib 0.2.9",
         "changelog_url": null,
         "date_published": "2021-10-30T13:49:13.443840Z",
-        "downloads": 2460,
+        "downloads": 2707,
         "version_type": "release",
         "files": [
             {
@@ -43,7 +43,7 @@
         "changelog": "Update MidnightLib to fix bugs, optimize and reduce file size.",
         "changelog_url": null,
         "date_published": "2021-10-19T20:39:18.420111Z",
-        "downloads": 359,
+        "downloads": 360,
         "version_type": "release",
         "files": [
             {
@@ -85,8 +85,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "d4c5ad2cc573f974a806f1185e7c376c3d570295",
-                    "sha512": "fce2b27c774752787b873cfd6c4e02da8445c75f31bcaa982e487cb4d3824c5b55bdd066ab8bfb73381e27ebc49e2ce4971424b9cb64bbbe226c4511b223cf4c"
+                    "sha512": "fce2b27c774752787b873cfd6c4e02da8445c75f31bcaa982e487cb4d3824c5b55bdd066ab8bfb73381e27ebc49e2ce4971424b9cb64bbbe226c4511b223cf4c",
+                    "sha1": "d4c5ad2cc573f974a806f1185e7c376c3d570295"
                 },
                 "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.0/cullleaves-2.3.0.jar",
                 "filename": "cullleaves-2.3.0.jar",
@@ -119,8 +119,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "4e108ceb97489ba0426c5967c714a87a815323617368948951026985f330c81327e8f3e53f13be279dda8abbef0448c4ffc06a1ffd6fa971d1c1a082bbaf0e6c",
-                    "sha1": "fdc1c169151e252b68597e84eda88b642cf6cce8"
+                    "sha1": "fdc1c169151e252b68597e84eda88b642cf6cce8",
+                    "sha512": "4e108ceb97489ba0426c5967c714a87a815323617368948951026985f330c81327e8f3e53f13be279dda8abbef0448c4ffc06a1ffd6fa971d1c1a082bbaf0e6c"
                 },
                 "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.2.0/cullleaves-2.2.0.jar",
                 "filename": "cullleaves-2.2.0.jar",
@@ -147,7 +147,7 @@
         "changelog": "Use MidnightConfig instead of AutoConfig/ClothConfig, decreasing file size substantially and increasing compatibility.  \nFile size is now just 44KB instead of 589KB  \nAlso fix z-fighting in smart leaves resourcepack.",
         "changelog_url": null,
         "date_published": "2021-03-01T19:25:13.555441Z",
-        "downloads": 2011,
+        "downloads": 2022,
         "version_type": "release",
         "files": [
             {
@@ -161,8 +161,8 @@
             },
             {
                 "hashes": {
-                    "sha512": "ed9d1b969dda1454c440589f0dffa68cec0ae674a4e6daeb1cddceb02a884fd69b292879a7c4f052ef995eba260895cbacb0889404418c19c7cd0d6b20526eac",
-                    "sha1": "1ab8a22169bbe19c48328258bfb5fa608dac9ef1"
+                    "sha1": "1ab8a22169bbe19c48328258bfb5fa608dac9ef1",
+                    "sha512": "ed9d1b969dda1454c440589f0dffa68cec0ae674a4e6daeb1cddceb02a884fd69b292879a7c4f052ef995eba260895cbacb0889404418c19c7cd0d6b20526eac"
                 },
                 "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar",
                 "filename": "cullleaves-2.1.0.jar",
