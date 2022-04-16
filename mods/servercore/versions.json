@@ -1,7 +1,100 @@
 [
     {
+        "id": "IOuEmJ7r",
+        "project_id": "4WWQxlQP",
+        "author_id": "M6QxQqoY",
+        "featured": true,
+        "name": "ServerCore 1.2.8",
+        "version_number": "1.2.8-1.18.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2022-03-01T19:50:46.990477Z",
+        "downloads": 642,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "bf868496595564b8f934c9fd269b2f217d78ab111307970e280b9e02a160dc1195b1c6a45abcc0447b7bcbde70f0c1498d1df02a285674daade5283eca571b7a",
+                    "sha1": "bc756dcf90e45b40b633d19789c5c8028322906d"
+                },
+                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.8-1.18.1/servercore-1.2.8-1.18.1.jar",
+                "filename": "servercore-1.2.8-1.18.1.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "4PbPJU10",
+        "project_id": "4WWQxlQP",
+        "author_id": "M6QxQqoY",
+        "featured": true,
+        "name": "ServerCore 1.2.8",
+        "version_number": "1.2.8-1.18.2",
+        "changelog": "Updated to 1.18.2\n\nChanges:\n- Re-added /sc as alias for /servercore.\n- Fixed incompatibility with mods that include custom mobspawning.\n- Fixed incompatibility with mods constructing entities without worlds.\n- Improved villager lobotomization ",
+        "changelog_url": null,
+        "date_published": "2022-02-28T15:08:24.395055Z",
+        "downloads": 0,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "4ec5077382341ae48522de9ae74f8a8dac2d84cec0b9f4a149f8b078e0af9cb8c343f587dd61f0878b6dfdb884f7fdc081d0d2c5afe62883c7092ee57c7e8f9c",
+                    "sha1": "949d3e5c84d1f42e917766ed90795d9809307397"
+                },
+                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.8/servercore-1.2.8-1.18.2.jar",
+                "filename": "servercore-1.2.8-1.18.2.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "HbKbVB8Y",
+        "project_id": "4WWQxlQP",
+        "author_id": "M6QxQqoY",
+        "featured": false,
+        "name": "ServerCore",
+        "version_number": "1.2.7-1.18.1",
+        "changelog": "Version 1.2.7 - The Bugfix Update\n- Fixes ocelot/cat despawning outside of activation range.\n- Fixes dynamic settings not always being synchronized.\n- Fixes spawnRadius gamerule not working for respawning players.\n- Fixes a lot of bugs caused by the `disable_spawn_chunks` option, including broken datapacks and forceloaded chunks.\n- And more...\n\nMod compatibilities resolved:\n- carpet-fixes\n- essentials commands (/rtp)\n- better nether map\n- paradise lost / the aether reborn\n\nChanged:\n- Added a few extra lagspike optimizations.\n- Added configurable update rates for the dynamic system.\n- /sc status -> /servercore status",
+        "changelog_url": null,
+        "date_published": "2022-01-08T17:37:40.167462Z",
+        "downloads": 915,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "8b383c8ebca847b1e259f468a5d2d4e91fd36a0515baad27b6917238ce352ba08fbc13d299b332ee7b44f298d3a83c01cc9ba1845be567e5d730a40fbb061746",
+                    "sha1": "a0269b98487f89cd52588945186491fed2755919"
+                },
+                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.7-1.18.1/servercore-1.2.7-1.18.1.jar",
+                "filename": "servercore-1.2.7-1.18.1.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
         "id": "LdRH09D2",
-        "mod_id": "4WWQxlQP",
+        "project_id": "4WWQxlQP",
         "author_id": "M6QxQqoY",
         "featured": false,
         "name": "ServerCore",
@@ -9,13 +102,13 @@
         "changelog": "Changes:\n- Configurable nether portal search radius\n- Don't load chunks for raytracing\n\nFixes:\n- Fixed several issues with player respawning and entities going through end portals.\n- Fixed incompatibility with VMP",
         "changelog_url": null,
         "date_published": "2021-12-10T14:02:21.649138Z",
-        "downloads": 760,
+        "downloads": 877,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "0435bf82b2756d4f256f8255d3817c0fe018bbc7",
-                    "sha512": "8e8eb020447c362c5ecce7d8a6d6756ca5c7dfdb001d35c87787de54f5b07de239566d47c94955b4372e461cb1160915773e7160484e3f9380d432066ce57b7b"
+                    "sha512": "8e8eb020447c362c5ecce7d8a6d6756ca5c7dfdb001d35c87787de54f5b07de239566d47c94955b4372e461cb1160915773e7160484e3f9380d432066ce57b7b",
+                    "sha1": "0435bf82b2756d4f256f8255d3817c0fe018bbc7"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.6-1.18.1/servercore-1.2.6-1.18.1.jar",
                 "filename": "servercore-1.2.6-1.18.1.jar",
@@ -33,7 +126,7 @@
     },
     {
         "id": "OKdqaWsX",
-        "mod_id": "4WWQxlQP",
+        "project_id": "4WWQxlQP",
         "author_id": "M6QxQqoY",
         "featured": false,
         "name": "ServerCore",
@@ -41,7 +134,7 @@
         "changelog": "Fixed an issue where respawn points wouldn't work in unloaded chunks.",
         "changelog_url": null,
         "date_published": "2021-11-30T16:43:01.859984Z",
-        "downloads": 392,
+        "downloads": 410,
         "version_type": "release",
         "files": [
             {
@@ -64,7 +157,7 @@
     },
     {
         "id": "XcHqpCID",
-        "mod_id": "4WWQxlQP",
+        "project_id": "4WWQxlQP",
         "author_id": "M6QxQqoY",
         "featured": false,
         "name": "ServerCore",
@@ -72,13 +165,13 @@
         "changelog": "Changes:\n- Removed per player spawns (use other / standalone mods for this feature, as my implementation broke too much)\n- Fixed inconsistencies with vanilla with fast_xp_merging enabled.\n- Better mod compatibility\n\n",
         "changelog_url": null,
         "date_published": "2021-11-29T11:54:24.491410Z",
-        "downloads": 109,
+        "downloads": 241,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "85bcf2902147239d407d7a7f2e3bb4f9fff8ba17",
-                    "sha512": "fb6cb40b75aed5f49c08aeb3c754cae4af62fbd0c6a2ef8da9afa49ab3f8e437f39f515a58af4e6f8ef664c17596cd56d5d2c8c0eb756551d86e58f8a048e215"
+                    "sha512": "fb6cb40b75aed5f49c08aeb3c754cae4af62fbd0c6a2ef8da9afa49ab3f8e437f39f515a58af4e6f8ef664c17596cd56d5d2c8c0eb756551d86e58f8a048e215",
+                    "sha1": "85bcf2902147239d407d7a7f2e3bb4f9fff8ba17"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.5-1.17.1/servercore-1.2.5-1.17.1.jar",
                 "filename": "servercore-1.2.5-1.17.1.jar",
@@ -95,7 +188,7 @@
     },
     {
         "id": "zrc8Lb7r",
-        "mod_id": "4WWQxlQP",
+        "project_id": "4WWQxlQP",
         "author_id": "M6QxQqoY",
         "featured": false,
         "name": "ServerCore",
@@ -103,13 +196,13 @@
         "changelog": "Changes:\n- Support for singleplayer / internal servers.\n- More bugfixes / adjustments for activation range.",
         "changelog_url": null,
         "date_published": "2021-11-18T12:50:19.013086Z",
-        "downloads": 119,
+        "downloads": 125,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "7f41585be695d2f68550709f7c04b9fa0e9b505bcbeba1f74f98eb4c3378b38d010b31b588043ae327bd5230e008439799f34ce96d60f578c94e512fd42eca19",
-                    "sha1": "b06b986037c596436dd1e062100c94b3f98678b0"
+                    "sha1": "b06b986037c596436dd1e062100c94b3f98678b0",
+                    "sha512": "7f41585be695d2f68550709f7c04b9fa0e9b505bcbeba1f74f98eb4c3378b38d010b31b588043ae327bd5230e008439799f34ce96d60f578c94e512fd42eca19"
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.4-1.17.1/servercore-1.2.4-1.17.1.jar",
                 "filename": "servercore-1.2.4-1.17.1.jar",
@@ -126,7 +219,7 @@
     },
     {
         "id": "iIO82sHi",
-        "mod_id": "4WWQxlQP",
+        "project_id": "4WWQxlQP",
         "author_id": "M6QxQqoY",
         "featured": false,
         "name": "ServerCore",
@@ -134,7 +227,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-11-17T19:16:54.252446Z",
-        "downloads": 41,
+        "downloads": 43,
         "version_type": "beta",
         "files": [
             {
@@ -160,101 +253,8 @@
         ]
     },
     {
-        "id": "4WvwFKzG",
-        "mod_id": "4WWQxlQP",
-        "author_id": "M6QxQqoY",
-        "featured": false,
-        "name": "ServerCore",
-        "version_number": "1.2.4-1.18-pre2",
-        "changelog": "Changes:\n- Added support for singleplayer / internal servers.\n- Several bugfixes for entity activation range.",
-        "changelog_url": null,
-        "date_published": "2021-11-17T09:43:11.241796Z",
-        "downloads": 2,
-        "version_type": "beta",
-        "files": [
-            {
-                "hashes": {
-                    "sha512": "9dea3ee24cc240ff10c6c325f1d40cfa7ae035c3db4485b55a3cc4ef13904e68666aa906664b8ea318b22ddbea3c3edf0540b1a535142b00b3108dc5bc6d2151",
-                    "sha1": "6d0b5a077b98a5d8502cc2239206da3956b814b4"
-                },
-                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.4-1.18-pre2/servercore-1.2.4-1.18-pre2.jar",
-                "filename": "servercore-1.2.4-1.18-pre2.jar",
-                "primary": false
-            }
-        ],
-        "dependencies": [],
-        "game_versions": [
-            "1.18-pre2"
-        ],
-        "loaders": [
-            "fabric"
-        ]
-    },
-    {
-        "id": "G3PGqA5R",
-        "mod_id": "4WWQxlQP",
-        "author_id": "M6QxQqoY",
-        "featured": false,
-        "name": "ServerCore",
-        "version_number": "1.2.3-1.18-pre1",
-        "changelog": "",
-        "changelog_url": null,
-        "date_published": "2021-11-13T13:27:27.252658Z",
-        "downloads": 12,
-        "version_type": "beta",
-        "files": [
-            {
-                "hashes": {
-                    "sha1": "40a24e6217c0745427570b951ae1887fa34b65d1",
-                    "sha512": "0e39ce2b2c1f261de115cc23690111af20c44f18635662e42bdad15d6f22687af4851ea14bd3284b87a63300191e1106980d6ed763d491206e795de308be9e1f"
-                },
-                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.3-1.18-pre1/servercore-1.2.3-1.18-pre1.jar",
-                "filename": "servercore-1.2.3-1.18-pre1.jar",
-                "primary": false
-            }
-        ],
-        "dependencies": [],
-        "game_versions": [
-            "1.18-pre1"
-        ],
-        "loaders": [
-            "fabric"
-        ]
-    },
-    {
-        "id": "2qcsla5Y",
-        "mod_id": "4WWQxlQP",
-        "author_id": "M6QxQqoY",
-        "featured": false,
-        "name": "ServerCore",
-        "version_number": "1.2.3-21w44a",
-        "changelog": "",
-        "changelog_url": null,
-        "date_published": "2021-11-06T14:55:40.854272Z",
-        "downloads": 17,
-        "version_type": "beta",
-        "files": [
-            {
-                "hashes": {
-                    "sha512": "857a97c3b36d7d543d8bd76bfa54c85866407e2c0d69c70c3a763de2832febd353301f92a11e2147f984ae025be1f6e1545d937d97f6aad6f032cbc05274dd95",
-                    "sha1": "44635f6270eacf196e2728ffd9e99c8313651dc7"
-                },
-                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.3-21w44a/servercore-1.2.3-21w44a.jar",
-                "filename": "servercore-1.2.3-21w44a.jar",
-                "primary": false
-            }
-        ],
-        "dependencies": [],
-        "game_versions": [
-            "21w44a"
-        ],
-        "loaders": [
-            "fabric"
-        ]
-    },
-    {
         "id": "jdWMQF3q",
-        "mod_id": "4WWQxlQP",
+        "project_id": "4WWQxlQP",
         "author_id": "M6QxQqoY",
         "featured": false,
         "name": "ServerCore",
@@ -262,7 +262,7 @@
         "changelog": "- Backported Entity Activation Range to 1.17.1\n- Large config and command improvements.",
         "changelog_url": null,
         "date_published": "2021-10-31T22:04:17.534623Z",
-        "downloads": 226,
+        "downloads": 231,
         "version_type": "release",
         "files": [
             {
@@ -272,101 +272,6 @@
                 },
                 "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.3-1.17.1/servercore-1.2.3-1.17.1.jar",
                 "filename": "servercore-1.2.3-1.17.1.jar",
-                "primary": false
-            }
-        ],
-        "dependencies": [],
-        "game_versions": [
-            "1.17.1"
-        ],
-        "loaders": [
-            "fabric"
-        ]
-    },
-    {
-        "id": "XAYyQZbz",
-        "mod_id": "4WWQxlQP",
-        "author_id": "M6QxQqoY",
-        "featured": false,
-        "name": "ServerCore",
-        "version_number": "1.2.3-21w43a",
-        "changelog": "- Updated to 21w43a.\n- Added configurable entity activation range.",
-        "changelog_url": null,
-        "date_published": "2021-10-28T09:54:41.878877Z",
-        "downloads": 17,
-        "version_type": "beta",
-        "files": [
-            {
-                "hashes": {
-                    "sha512": "ce6448507d67b3983bc410dcde8284e58730a75160272ee7a186249c61e00bdab6c986ead5bbd08539bb360e8334d3b147277ac3b7892dea9721e8cd54aa3f94",
-                    "sha1": "cf7181e4ccb7283ce9b5e32df32edab247afe5ca"
-                },
-                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.3-21w43a/servercore-1.2.3-21w43a.jar",
-                "filename": "servercore-1.2.3-21w43a.jar",
-                "primary": false
-            }
-        ],
-        "dependencies": [],
-        "game_versions": [
-            "21w43a"
-        ],
-        "loaders": [
-            "fabric"
-        ]
-    },
-    {
-        "id": "KDWBO3iX",
-        "mod_id": "4WWQxlQP",
-        "author_id": "M6QxQqoY",
-        "featured": false,
-        "name": "ServerCore",
-        "version_number": "1.2.2-21w42a",
-        "changelog": "",
-        "changelog_url": null,
-        "date_published": "2021-10-15T20:39:18.775843Z",
-        "downloads": 12,
-        "version_type": "beta",
-        "files": [
-            {
-                "hashes": {
-                    "sha512": "c003863e9cd8e8a1809023238bd512c8e119ace8bf34f1b28fd7e2ce7abfc3138341531972151b47ca5c36a56603850d7afa0c958ce12ad359ac153a71abe40d",
-                    "sha1": "8257c2163cefe89d4ab59f3e627c026382691199"
-                },
-                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.2-21w42a/servercore-1.2.2-21w42a.jar",
-                "filename": "servercore-1.2.2-21w42a.jar",
-                "primary": false
-            }
-        ],
-        "dependencies": [],
-        "game_versions": [
-            "21w40a",
-            "21w41a",
-            "21w42a"
-        ],
-        "loaders": [
-            "fabric"
-        ]
-    },
-    {
-        "id": "RVvoTqKz",
-        "mod_id": "4WWQxlQP",
-        "author_id": "M6QxQqoY",
-        "featured": false,
-        "name": "ServerCore",
-        "version_number": "1.2.1-1.17.1",
-        "changelog": "",
-        "changelog_url": null,
-        "date_published": "2021-09-26T19:01:42.459650Z",
-        "downloads": 55,
-        "version_type": "beta",
-        "files": [
-            {
-                "hashes": {
-                    "sha1": "86219ebce9b9b7c3735ce15743e15fa206e2ba57",
-                    "sha512": "87a4b6a235e4a613b5de09a625c4b8009709326b7adfa23e44e0782655bcd18c2085e14b70d4629e796759991496667cb44eceb8b02e9755f22325c4f0429cc7"
-                },
-                "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/1.2.1-1.17.1/servercore-1.2.1-1.17.1.jar",
-                "filename": "servercore-1.2.1-1.17.1.jar",
                 "primary": false
             }
         ],

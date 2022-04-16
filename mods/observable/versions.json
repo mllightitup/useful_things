@@ -1,0 +1,218 @@
+[
+    {
+        "id": "zSXedEa4",
+        "project_id": "VYRu7qmG",
+        "author_id": "ZFl6gVYX",
+        "featured": true,
+        "name": "2.2.3 [fabric]",
+        "version_number": "2.2.3",
+        "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases/) for all changes between prior versions.",
+        "changelog_url": null,
+        "date_published": "2022-04-11T04:32:43.439077Z",
+        "downloads": 21,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "b0808a3b4dab60763f2b8e666c22da64a5e43edae1374f470286bd4948f6232b4e63ab026a14e2fe99bc0fca6389a5dbee992aa32d300513979c3ad6a97444d0",
+                    "sha1": "d5682dc84b2adc318b24e3a8026e76e94433b857"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/2.2.3/observable-2.2.3-fabric.jar",
+                "filename": "observable-2.2.3-fabric.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "NthB3dhp",
+        "project_id": "VYRu7qmG",
+        "author_id": "ZFl6gVYX",
+        "featured": false,
+        "name": "1.2.3",
+        "version_number": "1.2.3",
+        "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases) for all changes between prior versions.",
+        "changelog_url": null,
+        "date_published": "2022-01-28T12:14:17.400719Z",
+        "downloads": 314,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "5e74ea1309634e7dfb998704ed5fc36feaa3367b",
+                    "sha512": "633438dbbbb8b010528df7cf9cb7141a4bdebfc3c7d929164872d4ea69d878e66ea802e1dbcbb81d5184a9f72fe975ad7c4397ce3a8a9131e4a9eda5e5d16492"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-fabric.jar",
+                "filename": "observable-1.2.3-fabric.jar",
+                "primary": false
+            },
+            {
+                "hashes": {
+                    "sha512": "4f9e1b6c1e16eee7b53153145cd431378aa800cedcd9f2ddd3cc293079377b86ab3b3f62a786a5ad51b251999e8f5401a7695aa96d186550a58ac9edc22a90a3",
+                    "sha1": "670a386f094aac4e37f856a586cbaff2bb6b12cc"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-forge.jar",
+                "filename": "observable-1.2.3-forge.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric",
+            "forge"
+        ]
+    },
+    {
+        "id": "Pg3uqzyX",
+        "project_id": "VYRu7qmG",
+        "author_id": "ZFl6gVYX",
+        "featured": false,
+        "name": "0.2.1",
+        "version_number": "0.2.1",
+        "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases) for all changes between versions.",
+        "changelog_url": null,
+        "date_published": "2022-01-28T12:12:18.552460Z",
+        "downloads": 148,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "9f1c655bdac13e40bb9447dcce87f5946bc4c7369ddfc717c90a23675b8fd4c1583b5ea46031ce9bae2f417f527d7d197fa432857ddb21267f742c073308c3f8",
+                    "sha1": "ed7bf6fffa7c12b111aa84c7da6495d510e7b3bc"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.2.1/observable-0.2.1-fabric.jar",
+                "filename": "observable-0.2.1-fabric.jar",
+                "primary": false
+            },
+            {
+                "hashes": {
+                    "sha1": "1a7d3b1af5b6f9c6cfc7b27f931dec519f26ed7a",
+                    "sha512": "308979ec47b3e5156e93a4d2a002b218ef3c06181cb035e6af1c5a429341bdcbd801c6f3f808ded02b44790dbf37c98e2fcf65b294b692f37e4d87ef4fda1990"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.2.1/observable-0.2.1-forge.jar",
+                "filename": "observable-0.2.1-forge.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric",
+            "forge"
+        ]
+    },
+    {
+        "id": "KrfQIpz6",
+        "project_id": "VYRu7qmG",
+        "author_id": "ZFl6gVYX",
+        "featured": false,
+        "name": "0.1.2",
+        "version_number": "0.1.2",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-08-16T21:38:20.720800Z",
+        "downloads": 57,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "512e2461c2541665f0f80b458724f34a4309ecfd",
+                    "sha512": "196853e1df99bbf1724326b89673e98189d5c1a0b7a5a09b859b363e5f4e185dac4906a6cc810eff9c1953b29cb18f725261082e4c4bcd7ce8965eaba46b216f"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.1.2/observable-0.1.2-fabric.jar",
+                "filename": "observable-0.1.2-fabric.jar",
+                "primary": false
+            },
+            {
+                "hashes": {
+                    "sha1": "d8f7281e44d4a58080076e1e14b243286780adbe",
+                    "sha512": "0a335781ecbfa71d2ea186413192cb36c4c142f52a4fe766ec781fe0e0a642f2ef074771c52e4f88d04a85d5ba7f80002a5db8a823a86a6fa5758dd97cf6d88c"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.1.2/observable-0.1.2-forge.jar",
+                "filename": "observable-0.1.2-forge.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric",
+            "forge"
+        ]
+    },
+    {
+        "id": "HZfVw28G",
+        "project_id": "VYRu7qmG",
+        "author_id": "ZFl6gVYX",
+        "featured": false,
+        "name": "0.0.1",
+        "version_number": "0.0.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-07-30T21:45:12.630453Z",
+        "downloads": 52,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "3c127b3754f797a9ab00a060ef131241852e02177549b382db90a9f098f3793afe8d27465793992b26f394637f2c86e903c735b56ccdc3fd6e0487121b338443",
+                    "sha1": "5682ab51b808f8ca43a53bad63db5774275af4c5"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.0.1/observable-0.0.1-forge.jar",
+                "filename": "observable-0.0.1-forge.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "t8jflv5Y",
+        "project_id": "VYRu7qmG",
+        "author_id": "ZFl6gVYX",
+        "featured": false,
+        "name": "0.0.1",
+        "version_number": "0.0.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-07-30T21:45:12.616961Z",
+        "downloads": 11,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "7a4b05af34167c195bb1816e5e84b0a265b3da6f21a84ad4e04a655730d528df5ff0d2cc8ee3185c99949d6be2615c105926fcc53066ec355e11f40de415f532",
+                    "sha1": "d6c3171ef28cea716f4e5ea4a2f8a9c5b3dd50d4"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.0.1/observable-0.0.1-fabric.jar",
+                "filename": "observable-0.0.1-fabric.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.16.5"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

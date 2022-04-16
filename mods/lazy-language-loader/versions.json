@@ -1,15 +1,50 @@
 [
     {
-        "id": "PJ7zhWNk",
-        "mod_id": "Nz0RSWrF",
+        "id": "dlxs43xF",
+        "project_id": "Nz0RSWrF",
         "author_id": "Nrex64Q7",
-        "featured": false,
+        "featured": true,
+        "name": "0.3.0",
+        "version_number": "0.3.0",
+        "changelog": "# 0.3.0\n### **NOTE: DO NOT DOWNLOAD THE DEV, SOURCES, OR SOURCES-DEV UNLESS YOU ARE A DEVELOPER!**\n## Additions\n- [Fix injection site on 1.18.2](https://github.com/ChachyDev/lazy-language-loader/commit/18bc591fa5f128504116db8f491924ced69f7be7)\n\n## Links\n[Modrinth](https://modrinth.com/mod/lazy-language-loader)\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)\n[Github](https://github.com/ChachyDev/lazy-language-loader)",
+        "changelog_url": null,
+        "date_published": "2022-03-04T20:07:10.657903Z",
+        "downloads": 300,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "00d621dbda8c74791553ad8e9ad372e5ac65764b89d64fb8c26e3e3730ea0bf0a3ae3fd35de093be7c433b767c990d21cd1a82c2e5436588d6bf5ecfb72242f9",
+                    "sha1": "305a2f59667ae14efbfd11eca21aa30220ee764b"
+                },
+                "url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.3.0/lazy-language-loader-0.3.0.jar",
+                "filename": "lazy-language-loader-0.3.0.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.2-pre1",
+            "1.18.2-pre2",
+            "1.18.2-pre3",
+            "1.18.2-rc1",
+            "1.18.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "PJ7zhWNk",
+        "project_id": "Nz0RSWrF",
+        "author_id": "Nrex64Q7",
+        "featured": true,
         "name": "0.2.6",
         "version_number": "0.2.6",
         "changelog": "# 0.2.6\n### **NOTE: DO NOT DOWNLOAD THE DEV, SOURCES, OR SOURCES-DEV UNLESS YOU ARE A DEVELOPER!**\n## Additions\n- Implement a search bar in the language menu (https://github.com/ChachyDev/lazy-language-loader/commit/37749f68d77be1592ed72c9d64b2a02a05da7cd5)\n- Remove the splash overlay when loading a new language (https://github.com/ChachyDev/lazy-language-loader/commit/c4146ebe4e0acfee854d86cb432dab0d0c80fa1b)\n\n## Links\n[Modrinth](https://modrinth.com/mod/lazy-language-loader)\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)\n[Github](https://github.com/ChachyDev/lazy-language-loader)",
         "changelog_url": null,
         "date_published": "2021-12-02T20:08:49.988854Z",
-        "downloads": 139,
+        "downloads": 336,
         "version_type": "release",
         "files": [
             {
@@ -19,12 +54,11 @@
                 },
                 "url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.6/lazy-language-loader-0.2.6.jar",
                 "filename": "lazy-language-loader-0.2.6.jar",
-                "primary": false
+                "primary": true
             }
         ],
         "dependencies": [],
         "game_versions": [
-            "1.18",
             "1.18-pre1",
             "1.18-pre2",
             "1.18-pre3",
@@ -36,7 +70,13 @@
             "1.18-rc1",
             "1.18-rc2",
             "1.18-rc3",
-            "1.18-rc4"
+            "1.18-rc4",
+            "1.18",
+            "1.18.1-pre1",
+            "1.18.1-rc1",
+            "1.18.1-rc2",
+            "1.18.1-rc3",
+            "1.18.1"
         ],
         "loaders": [
             "fabric"
@@ -44,7 +84,7 @@
     },
     {
         "id": "cbpDCPIJ",
-        "mod_id": "Nz0RSWrF",
+        "project_id": "Nz0RSWrF",
         "author_id": "Nrex64Q7",
         "featured": false,
         "name": "0.2.5 - Major fix!!",
@@ -52,13 +92,13 @@
         "changelog": "# 0.2.5\n### **NOTE: DO NOT DOWNLOAD THE DEV, SOURCES, OR SOURCES-DEV UNLESS YOU ARE A DEVELOPER!**\n## Additions\n```diff\n+ Fix loading on 1.18.x due to incorrectly specified minimum Minecraft version\n```\n## Links\n[Modrinth](https://modrinth.com/mod/lazy-language-loader)\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)\n[Github](https://github.com/ChachyDev/lazy-language-loader)",
         "changelog_url": null,
         "date_published": "2021-12-01T17:23:06.412792Z",
-        "downloads": 22,
+        "downloads": 28,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "7b2ea0b7865fcd05168195ce22a207353ae4db11376a63e20038130196789cd54958d863e4ee3065f0164ffac6e4878f3bd0f2b079719db8ba9cf5cda3682c85",
-                    "sha1": "feb136c022099b73a7f28adc996ac83add7929e7"
+                    "sha1": "feb136c022099b73a7f28adc996ac83add7929e7",
+                    "sha512": "7b2ea0b7865fcd05168195ce22a207353ae4db11376a63e20038130196789cd54958d863e4ee3065f0164ffac6e4878f3bd0f2b079719db8ba9cf5cda3682c85"
                 },
                 "url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.5/lazy-language-loader-0.2.5.jar",
                 "filename": "lazy-language-loader-0.2.5.jar",
@@ -67,7 +107,6 @@
         ],
         "dependencies": [],
         "game_versions": [
-            "1.18",
             "1.18-pre1",
             "1.18-pre2",
             "1.18-pre3",
@@ -79,7 +118,8 @@
             "1.18-rc1",
             "1.18-rc2",
             "1.18-rc3",
-            "1.18-rc4"
+            "1.18-rc4",
+            "1.18"
         ],
         "loaders": [
             "fabric"
@@ -87,7 +127,7 @@
     },
     {
         "id": "gbbefmHf",
-        "mod_id": "Nz0RSWrF",
+        "project_id": "Nz0RSWrF",
         "author_id": "Nrex64Q7",
         "featured": false,
         "name": "0.2.4 - Bug fixes",
@@ -108,7 +148,7 @@
     },
     {
         "id": "m8ve59qv",
-        "mod_id": "Nz0RSWrF",
+        "project_id": "Nz0RSWrF",
         "author_id": "Nrex64Q7",
         "featured": false,
         "name": "1.18 support!",
@@ -116,7 +156,7 @@
         "changelog": "# 0.2.3\n### **NOTE: DO NOT DOWNLOAD THE DEV, SOURCES, OR SOURCES-DEV UNLESS YOU ARE A DEVELOPER!**\n## Additions\n```diff\n+ Add 1.18 support\n```\n## Links\n[Modrinth](https://modrinth.com/mod/lazy-language-loader)\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)\n[Github](https://github.com/ChachyDev/lazy-language-loader)",
         "changelog_url": null,
         "date_published": "2021-11-30T18:39:14.403963Z",
-        "downloads": 17,
+        "downloads": 18,
         "version_type": "release",
         "files": [
             {
@@ -139,7 +179,7 @@
     },
     {
         "id": "RBCX5Fwv",
-        "mod_id": "Nz0RSWrF",
+        "project_id": "Nz0RSWrF",
         "author_id": "Nrex64Q7",
         "featured": false,
         "name": "0.2.2 - Bug fixes!",
@@ -147,13 +187,13 @@
         "changelog": "# 0.2.2\n## Fixes\n```diff\n+ Fix the search manager (which controls searching, especially for the creative menu) being disabled on language reloads\n```\n## Developer notes\n```diff\n+ Add a note about \"forcefully allowing\" your resource reloader\n```\n## Links\n[Modrinth](https://modrinth.com/mod/lazy-language-loader)\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)\n[Github](https://github.com/ChachyDev/lazy-language-loader)",
         "changelog_url": null,
         "date_published": "2021-09-25T07:14:44.411640Z",
-        "downloads": 123,
+        "downloads": 151,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "f7c05370b23cfbc6c3467591d6588085ba03ff564ac69116d726289f2b940f4e6da11d4e0e6254b72e6d242477ddaf67ab448cdf4af37948e7a08da419f78738",
-                    "sha1": "c2c6dc621197deb69170996c68bf2e1c73e1c7d1"
+                    "sha1": "c2c6dc621197deb69170996c68bf2e1c73e1c7d1",
+                    "sha512": "f7c05370b23cfbc6c3467591d6588085ba03ff564ac69116d726289f2b940f4e6da11d4e0e6254b72e6d242477ddaf67ab448cdf4af37948e7a08da419f78738"
                 },
                 "url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.2/lazy-language-loader-0.2.2.jar",
                 "filename": "lazy-language-loader-0.2.2.jar",
@@ -171,7 +211,7 @@
     },
     {
         "id": "PALv5M6V",
-        "mod_id": "Nz0RSWrF",
+        "project_id": "Nz0RSWrF",
         "author_id": "Nrex64Q7",
         "featured": false,
         "name": "0.2.1 - Initial Release!",
@@ -179,13 +219,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-08-28T18:51:23.585799Z",
-        "downloads": 63,
+        "downloads": 67,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "aecbe10dd597fc5bb3693b4dade95ad93fb4e60a",
-                    "sha512": "53bd1d3612e5b9e6172323fc816d44b770b77e0e9fc2184110c74568292d2402f5f51f50fe3582f067fafeea3aa7db173ccda8fb886cb37c05b0871d1c1d7cd7"
+                    "sha512": "53bd1d3612e5b9e6172323fc816d44b770b77e0e9fc2184110c74568292d2402f5f51f50fe3582f067fafeea3aa7db173ccda8fb886cb37c05b0871d1c1d7cd7",
+                    "sha1": "aecbe10dd597fc5bb3693b4dade95ad93fb4e60a"
                 },
                 "url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.1/lazy-language-loader-0.2.1.jar",
                 "filename": "lazy-language-loader-0.2.1.jar",

@@ -1,0 +1,573 @@
+{
+    "id": 532724,
+    "name": "Magnesium",
+    "authors": [
+        {
+            "name": "someoneelsewastaken",
+            "url": "https://www.curseforge.com/members/102684158-someoneelsewastaken?username=someoneelsewastaken",
+            "projectId": 532724,
+            "id": 451296,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 102684158,
+            "twitchId": 726251598
+        }
+    ],
+    "attachments": [
+        {
+            "id": 440075,
+            "projectId": 532724,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/440/75/256/256/637688046346980761.png",
+            "title": "637688046346980761.png",
+            "url": "https://media.forgecdn.net/avatars/440/75/637688046346980761.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/Someone-Else-Was-Taken/Periodic-Table-Reforged/issues",
+    "wikiUrl": "",
+    "sourceUrl": "https://github.com/Someone-Else-Was-Taken/Magnesium",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sodium-reforged",
+    "gameId": 432,
+    "summary": "Unofficial Port of CaffeineMC's \"Sodium\" Mod From Fabric to Forge",
+    "defaultFileId": 3526076,
+    "downloadCount": 1843410.0,
+    "latestFiles": [
+        {
+            "id": 3490531,
+            "displayName": "Magnesium 1.0",
+            "fileName": "Magnesium-1.0.jar",
+            "fileDate": "2021-10-14T03:17:35.143Z",
+            "fileLength": 516446,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3490/531/Magnesium-1.0.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1576862654,
+                    "type": 3
+                },
+                {
+                    "foldername": "me",
+                    "fingerprint": 3711100126,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 970186348,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.mixins.json",
+                    "fingerprint": 1731946837,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1655206508,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE.txt",
+                    "fingerprint": 1181525937,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.refmap.json",
+                    "fingerprint": 1893924399,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 3633965986,
+            "gameVersion": [
+                "1.16.5"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2539497,
+            "fileLegacyMappingId": null,
+            "projectId": 532724,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 761953287,
+            "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+            "gameVersionMappingId": 3380611,
+            "gameVersionId": 8203,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "9d37ba71bf337af10a3f8c7e8d74a1a8e306f267"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "fda0de3d00a34de3c9dd4cda6b156e09"
+                }
+            ],
+            "downloadCount": 3656
+        },
+        {
+            "id": 3526076,
+            "displayName": "Magnesium 1.5",
+            "fileName": "magnesium-1.5.jar",
+            "fileDate": "2021-11-14T21:18:06.113Z",
+            "fileLength": 541088,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3526/76/magnesium-1.5.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1818385055,
+                    "type": 3
+                },
+                {
+                    "foldername": "me",
+                    "fingerprint": 690994544,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 1400131260,
+                    "type": 3
+                },
+                {
+                    "foldername": "iris-batched-entity-rendering.mixins.json",
+                    "fingerprint": 1203999764,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.mixins.json",
+                    "fingerprint": 2585353584,
+                    "type": 3
+                },
+                {
+                    "foldername": "mixins.iris.bettermipmaps.json",
+                    "fingerprint": 2968451171,
+                    "type": 3
+                },
+                {
+                    "foldername": "mixins.iris.fantastic.json",
+                    "fingerprint": 1637905992,
+                    "type": 3
+                },
+                {
+                    "foldername": "mixins.iris.vertexformat.json",
+                    "fingerprint": 2363811309,
+                    "type": 3
+                },
+                {
+                    "foldername": "mixins.iris.yeetphysicsmod.json",
+                    "fingerprint": 4004089230,
+                    "type": 3
+                },
+                {
+                    "foldername": "mixins.pupil.json",
+                    "fingerprint": 2979317835,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1655206508,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE.txt",
+                    "fingerprint": 1181525937,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.refmap.json",
+                    "fingerprint": 2627932595,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 2419099626,
+            "gameVersion": [
+                "1.16.5",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2584558,
+            "fileLegacyMappingId": null,
+            "projectId": 532724,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 784996165,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3467543,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "84c1ed7343dc20763dae5a05e9191de97e5bdcc1"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "e399ec4581df33a5cb7a0d6a0450a08b"
+                }
+            ],
+            "downloadCount": 872275
+        },
+        {
+            "id": 3528352,
+            "displayName": "Pupil-Magnesium ",
+            "fileName": "magnesium-1.6-pupil.jar",
+            "fileDate": "2021-11-17T06:17:29.853Z",
+            "fileLength": 541862,
+            "releaseType": 3,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3528/352/magnesium-1.6-pupil.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 3976282884,
+                    "type": 3
+                },
+                {
+                    "foldername": "me",
+                    "fingerprint": 982752287,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 970186348,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.mixins.json",
+                    "fingerprint": 2585353584,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1655206508,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE.txt",
+                    "fingerprint": 1181525937,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.refmap.json",
+                    "fingerprint": 2627932595,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 321698565,
+            "gameVersion": [
+                "1.16.5",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2587411,
+            "fileLegacyMappingId": null,
+            "projectId": 532724,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 786378758,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3472928,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "bf90630716879c4473d2012f9ca9bdd77ab17d56"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "70842ef5a4bb35e17b7503d1bcfedec5"
+                }
+            ],
+            "downloadCount": 6793
+        },
+        {
+            "id": 3556734,
+            "displayName": "Magnesium 0.4.0 Alpha6",
+            "fileName": "magnesium-0.4.0-alpha6.jar",
+            "fileDate": "2021-12-10T00:28:25.497Z",
+            "fileLength": 1253154,
+            "releaseType": 2,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3556/734/magnesium-0.4.0-alpha6.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1132444360,
+                    "type": 3
+                },
+                {
+                    "foldername": "me",
+                    "fingerprint": 1449079392,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 22853783,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.mixins.json",
+                    "fingerprint": 3341123786,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1075814017,
+                    "type": 3
+                },
+                {
+                    "foldername": "org",
+                    "fingerprint": 292694197,
+                    "type": 3
+                },
+                {
+                    "foldername": "net",
+                    "fingerprint": 3860189701,
+                    "type": 3
+                },
+                {
+                    "foldername": "magapi.mixins.json",
+                    "fingerprint": 3444766287,
+                    "type": 3
+                },
+                {
+                    "foldername": "magapi.refmap.json",
+                    "fingerprint": 1290889573,
+                    "type": 3
+                },
+                {
+                    "foldername": "magnesium.refmap.json",
+                    "fingerprint": 4053702680,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 535857454,
+            "gameVersion": [
+                "Forge",
+                "1.18"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018",
+                    "gameVersion": "1.18",
+                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                    "gameVersionName": "1.18",
+                    "gameVersionTypeId": 73250
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2621839,
+            "fileLegacyMappingId": null,
+            "projectId": 532724,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 804285424,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3545948,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "422370e7f7e56a86c1ed5552ee779f914a4972a0"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "af9b70bf73ba9fa5ba74394492e3bdd2"
+                }
+            ],
+            "downloadCount": 30291
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 425,
+            "name": "Miscellaneous",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 532724,
+            "avatarId": 6040,
+            "gameId": 432,
+            "slug": "mc-miscellaneous",
+            "dateModified": "2014-06-15T04:27:14.543Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 425,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "sodium-reforged",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3556734,
+            "projectFileName": "magnesium-0.4.0-alpha6.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3528352,
+            "projectFileName": "magnesium-1.6-pupil.jar",
+            "fileType": 3,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3526076,
+            "projectFileName": "magnesium-1.5.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3490531,
+            "projectFileName": "Magnesium-1.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 11537.4404296875,
+    "gamePopularityRank": 693,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2021-12-10T00:30:02.717Z",
+    "dateCreated": "2021-10-01T00:53:51.92Z",
+    "dateReleased": "2021-12-10T00:28:25.497Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": true
+}

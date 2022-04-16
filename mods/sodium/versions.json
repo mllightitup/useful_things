@@ -1,21 +1,114 @@
 [
     {
-        "id": "6YGRDUVT",
-        "mod_id": "AANobbMI",
+        "id": "74Y5Z8fo",
+        "project_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": true,
+        "name": "Sodium 0.4.1",
+        "version_number": "mc1.18.2-0.4.1",
+        "changelog": "This release is a mostly straightforward port of the most recent version, with some additional bug fixes. Also, we're dropping the alpha version and making this a proper release.\n\n### Highlights\n- Requires Minecraft 1.18.2\n\n### Fixes\n- Fixed a problem where the game could crash at random when teleporting or loading chunks\n- Fixed a problem where biome colors would be incorrect at the edge of chunks which neighbor empty space",
+        "changelog_url": null,
+        "date_published": "2022-03-02T00:43:40.084050Z",
+        "downloads": 36030,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "f839863a6be7014b8d80058ea1f361521148d049",
+                    "sha512": "86eb4db8fdb9f0bb06274c4f150b55273b5b770ffc89e0ba68011152a231b79ebe0b1adda0dd194f92cdcb386f7a60863d9fee5d15c1c3547ffa22a19083a1ee"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar",
+                "filename": "sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "5JyduDNN",
+        "project_id": "AANobbMI",
         "author_id": "TEZXhE2U",
         "featured": false,
-        "name": "Sodium 0.4.0-alpha5 for Minecraft 1.18",
-        "version_number": "mc1.18-0.4.0-alpha5",
-        "changelog": "[View the changelog on GitHub.](https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.18-0.4.0-alpha5)",
+        "name": "Sodium 0.4.0a6",
+        "version_number": "mc1.18.1-0.4.0-alpha6",
+        "changelog": "This release is a minor patch for 0.4.0-alpha5 which fixes a number of reported issues. We're currently working on some pretty big changes for the next major release and are pressed for time, so this patch only a small set of issues.\n\n### Highlights\n\n- Lag spikes caused by block updates should be significantly improved\n- Fog effects now match those introduced in Minecraft 1.18.1\n- Fixed a slow memory leak that would occur from fence objects being leaked\n- Server view distance is now respected, preventing discrepancies between client/server\n- Biome blending effects have been improved slightly\n- World rendering bugs/flickering caused by being far away from world center (i.e. near the world border) no longer occurs  \n\n### Known issues\n- Some parts of the world may not load correctly unless the player exits and loads the world file again",
         "changelog_url": null,
-        "date_published": "2021-11-30T18:31:28.512175Z",
-        "downloads": 17152,
+        "date_published": "2022-01-14T02:35:42.634514Z",
+        "downloads": 22507,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "dc1bcac9330388b43bfb81eabfa36d1ff15efb3009460b3b1fb290feb70e52a55f726ad93fc09b1c9186ced595f8478fbef762ae1f5144568536e4c26f5464d6",
-                    "sha1": "1af975fd055377f419baccd1784a3b2ae252de66"
+                    "sha512": "8a63bfb819930c5cb470664cc6a266e9478fc1219e34307058e3111ef9e400ccf14adbe31ed705f70d682199640540d7e896965b6fe5e69bce543e475ccc7fbf",
+                    "sha1": "795d4c12bffdb1b21eed5ff87c07ce5ca3c0dcbf"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
+                "filename": "sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "Fz37KqRh",
+        "project_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": true,
+        "name": "Sodium 0.3.4",
+        "version_number": "mc1.17.1-0.3.4",
+        "changelog": "This release contains a few important bug fixes and improvements for Minecraft 1.17.1.\n\n### Highlights\n- Flickering and other rendering bugs caused by the player being far away from the center of the world (i.e. near the world border) should no longer happen\n- Fixed a memory leak that would slowly develop each time a chunk is updated",
+        "changelog_url": null,
+        "date_published": "2022-01-14T01:53:03.621701Z",
+        "downloads": 5584,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "85f5d67f0ce9e995e738eb6b60034bc919a1859d",
+                    "sha512": "febd84274e8e55222c45e73685d5bc93a08ac7194a61f9065fc626420acd1c5279d51f98c1af1888b6718cbce098ce1d67c778739f3ebe1597d2ee99e6bd8382"
+                },
+                "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
+                "filename": "sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "6YGRDUVT",
+        "project_id": "AANobbMI",
+        "author_id": "TEZXhE2U",
+        "featured": false,
+        "name": "Sodium 0.4.0a5",
+        "version_number": "mc1.18-0.4.0-alpha5",
+        "changelog": "This is a port of Sodium 0.3.3 to Minecraft 1.18 with some changes for compatibility. Fabric Loader 0.12 or newer and Java 17 is required.\n\n### Known issues\n- Placing and breaking blocks may cause stutters and other pauses when \"Biome Blend Distance\" is set to high values\n- Some parts of the world may not load correctly unless the player exits and loads the world file again\n- Server view distance is not respected, causing incorrect fog effects (#994)",
+        "changelog_url": null,
+        "date_published": "2021-11-30T18:31:28.512175Z",
+        "downloads": 20626,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "1af975fd055377f419baccd1784a3b2ae252de66",
+                    "sha512": "dc1bcac9330388b43bfb81eabfa36d1ff15efb3009460b3b1fb290feb70e52a55f726ad93fc09b1c9186ced595f8478fbef762ae1f5144568536e4c26f5464d6"
                 },
                 "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
                 "filename": "sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
@@ -32,15 +125,15 @@
     },
     {
         "id": "3JJvf9Kn",
-        "mod_id": "AANobbMI",
+        "project_id": "AANobbMI",
         "author_id": "TEZXhE2U",
         "featured": false,
-        "name": "Sodium 0.3.3 for Minecraft 1.17.1",
+        "name": "Sodium 0.3.3",
         "version_number": "mc1.17.1-0.3.3",
-        "changelog": "Please see the changelog on [GitHub](https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.3).",
+        "changelog": "This release contains a few important bug fixes and improvements for Minecraft 1.17.1.\n\n### Highlights\n- Improved frame rates when loading or updating chunks.\n- Fixed a memory leak caused by sync objects never getting released.\n- Added options to control how many threads are used for chunk building, and to always defer chunk updates for improved frame times. The default number of threads used for chunk building is more optimally chosen and should help improve frame rates on slower CPUs.\n- Improved the precision of the compressed vertex format, reducing texture glitches found with some texture packs and vanilla blocks\n- The inner faces of leaves are no longer rendered if fast graphics are enabled, significantly reducing the geometry count of scenes with lots of foliage (thanks ADudeCalledLeo.)\n- Config file handling has been greatly improved, and if a corrupted config file is found, the user will be prompted to fix the problem instead of the game crashing.\n\n### And everything else...\n- Mods which provide config file overrides will no longer crash on first startup (thanks tbejos.)\n- Improved our shader code slightly to reduce overhead in the vertex stage, potentially helping older graphics cards.\n- Improved compatibility with the legacy AMD graphics drivers on Windows.\n- Fixed a problem where empty draw calls would be submitted during chunk rendering.\n- Some other minor improvements and fixes...",
         "changelog_url": null,
         "date_published": "2021-11-23T16:34:07.617401Z",
-        "downloads": 6732,
+        "downloads": 7949,
         "version_type": "release",
         "files": [
             {
@@ -63,25 +156,25 @@
     },
     {
         "id": "xuWxRZPd",
-        "mod_id": "AANobbMI",
+        "project_id": "AANobbMI",
         "author_id": "TEZXhE2U",
         "featured": false,
-        "name": "Sodium 0.3.2 for Minecraft 1.17.1",
+        "name": "Sodium 0.3.2",
         "version_number": "mc1.17.1-0.3.2",
-        "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.2\n",
+        "changelog": "This release fixes a few more issues in Sodium 0.3 for Minecraft 1.17.1.\n\n### Changes and fixes\n- Fixed an issue where OpenGL 4.x buffer targets would be accessed on OpenGL 3.x hardware, leading to a flood of OpenGL errors and degraded performance\n- Fixed the \"Use Block Face Culling\" option not applying\n- Fixed some strings not being translatable in the Video Settings screen\n- Fixed a number of cases where the world would suddenly disappear at specific camera angles\n- Fixed an issue where particles using animated sprites would not be animated\n- Merged the cloud toggle and quality controls into one option to reduce confusion\n- Fixed entities with spectral effects not being rendered through walls due to entity culling \n",
         "changelog_url": null,
         "date_published": "2021-08-29T19:13:40.823951Z",
-        "downloads": 37059,
+        "downloads": 37183,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "11076f2aba94a421fd2a1514a88bde85717b6cab5614dbb59094fcae931446977a6c1ea3929f3896bc2ca226b2386d54264cc3c39376b78f929786429d82b4ce",
-                    "sha1": "0c5fafd45e987710546bba0cbeb450e3f2a497bc"
+                    "sha1": "0c5fafd45e987710546bba0cbeb450e3f2a497bc",
+                    "sha512": "11076f2aba94a421fd2a1514a88bde85717b6cab5614dbb59094fcae931446977a6c1ea3929f3896bc2ca226b2386d54264cc3c39376b78f929786429d82b4ce"
                 },
                 "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2+build.7.jar",
                 "filename": "sodium-fabric-mc1.17.1-0.3.2+build.7.jar",
-                "primary": false
+                "primary": true
             }
         ],
         "dependencies": [],
@@ -94,25 +187,25 @@
     },
     {
         "id": "80jYkEVr",
-        "mod_id": "AANobbMI",
+        "project_id": "AANobbMI",
         "author_id": "TEZXhE2U",
         "featured": false,
-        "name": "Sodium 0.3.1 for Minecraft 1.17.1",
+        "name": "Sodium 0.3.1",
         "version_number": "mc1.17.1-0.3.1",
-        "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.1",
+        "changelog": "This release fixes many issues and performance problems that were introduced with the first release of Sodium for Minecraft 1.17.1. \n\n### Changes and fixes\n\n- Improved frame times when loading/updating chunks through the use of persistently mapped staging buffer (requires OpenGL 4.4+)    \n- Fixed chunk rendering corruption on older AMD/Windows systems\n- Fixed missing chunk and \"hole in the world\" issues that could appear on some AMD systems\n- Fixed the \"Only Animate Visible Textures\" option not disabling the optimization if ticked\n- Fixed config files sometimes becoming corrupt after the game crashes\n- Fixed an issue where fog effects would not respect other mods which modify the camera\n- Fixed compatibility with LWJGL 3.2.3 and macOS M1 hardware\n- Fixed an issue where some blocks wouldn't render their waterlogged state against glass.\n- Changed how camera transformation matrices are handled in our shader code for better compatibility with Iris",
         "changelog_url": null,
         "date_published": "2021-08-28T22:21:35.853159Z",
-        "downloads": 1617,
+        "downloads": 1644,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "089f8e45e19dc35ed04f08402e7bae4d813b7df04767d471e7d16198da4ddc7edfa7947ad1c3665d5da65508dbc14e6a1928856b5fe63a124874cef05523fea8",
-                    "sha1": "109cc66669151097838c389b8338c505787d95af"
+                    "sha1": "109cc66669151097838c389b8338c505787d95af",
+                    "sha512": "089f8e45e19dc35ed04f08402e7bae4d813b7df04767d471e7d16198da4ddc7edfa7947ad1c3665d5da65508dbc14e6a1928856b5fe63a124874cef05523fea8"
                 },
                 "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1+build.6.jar",
                 "filename": "sodium-fabric-mc1.17.1-0.3.1+build.6.jar",
-                "primary": false
+                "primary": true
             }
         ],
         "dependencies": [],
@@ -125,21 +218,21 @@
     },
     {
         "id": "1b0GhKHj",
-        "mod_id": "AANobbMI",
+        "project_id": "AANobbMI",
         "author_id": "TEZXhE2U",
         "featured": false,
-        "name": "Sodium 0.3.0 for Minecraft 1.17.1",
+        "name": "Sodium 0.3.0",
         "version_number": "mc1.17.1-0.3.0",
-        "changelog": "See the changelog here: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.17.1-0.3.0",
+        "changelog": "This release adds official support for Minecraft 1.17.1 and with it many new improvements and fixes.\n\n### Changes and fixes\n\n- A brand new chunk rendering backend has been introduced, bringing the best performance yet to any hardware that can run Minecraft. \n- Added support for some Fabric API features, such custom fluid rendering and blocks with attached data.\n- Many improvements to how we use and allocate VRAM, reducing stutters caused by loading chunks and overall GPU memory usage.\n- Additionally, chunk loading was improved to prevent overload and to better stabilize frame rates. This can help with loading into worlds or when many blocks are changing at once.\n- Improved the amount of time it takes to rebuild the chunk graph. This can reduce lag associated with moving around in the world or loading chunks at higher render distances. \n- Many new optimizations for high resolution texture packs, especially when animated textures are used.\n- Fixes and improvements for fog effects during sunrise/sunset and while underwater, helping to improve visuals drastically.\n- Reduced VRAM usage in ocean biomes and other environments with lots of water. \n- Support for custom translations (to be added in a future release)\n- Improvements to particle rendering/culling, helping performance in particle heavy servers.\n- Additional optimizations for biome color blending.\n- ... and many other smaller, miscellaneous optimizations specific to Minecraft 1.17.",
         "changelog_url": null,
         "date_published": "2021-07-17T20:29:41.734817Z",
-        "downloads": 36923,
+        "downloads": 37032,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "4cc166a86f8cb20983ac85950f6c8b58eed9fa3b",
-                    "sha512": "000d00496ed4e945c4d8c4d6b70584ffec5af6034c39e22d3ccc69734ccaadd37e7e9d31129da84c82d08798416a1a8daaf305656fa46406738a36505b7fd2e7"
+                    "sha512": "000d00496ed4e945c4d8c4d6b70584ffec5af6034c39e22d3ccc69734ccaadd37e7e9d31129da84c82d08798416a1a8daaf305656fa46406738a36505b7fd2e7",
+                    "sha1": "4cc166a86f8cb20983ac85950f6c8b58eed9fa3b"
                 },
                 "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0+build.5.jar",
                 "filename": "sodium-fabric-mc1.17.1-0.3.0+build.5.jar",
@@ -156,15 +249,15 @@
     },
     {
         "id": "YAGZ1cCS",
-        "mod_id": "AANobbMI",
+        "project_id": "AANobbMI",
         "author_id": "TEZXhE2U",
-        "featured": false,
-        "name": "Sodium 0.2.0 for Minecraft 1.16.5",
+        "featured": true,
+        "name": "Sodium 0.2.0",
         "version_number": "mc1.16.5-0.2.0",
-        "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.16.5-0.2.0",
+        "changelog": "This is the first major release of Sodium since launch, so there are nearly a year's worth of improvements and bug fixes in this one! Hardware support has been greatly improved, and there's been many new optimizations to help out everyone.\n\n### Highlights\n- Added a new and optimized system for vertex writing. Depending on the situation, significant performance improvements can be seen for both [block entity rendering](https://cdn.discordapp.com/attachments/791199652410032150/792627201463287818/unknown.png), [mob rendering](https://cdn.discordapp.com/attachments/791199652410032150/792627353401950208/unknown.png), and text rendering.\n- Improved hardware support for AMD and Intel GPUs on Windows, allowing the use of multi-draw rendering where it was otherwise broken in the past. Multi-draw chunk rendering can drastically improve frame rates where supported.\n- Switched to using the new ThinGL library, which allows Sodium code to use a stateless abstraction over OpenGL. This helps to improve performance, mod compatibility, stability, and future compatibility with Minecraft 1.17.\n- Preparing chunk updates for rendering now takes much less time by better taking advantage of multi-threading, greatly improving frame times while loading or updating chunks.\n- Many new optimizations for our chunk graph and culling algorithm, helping to reduce CPU load and improve frame rates while playing.\n- Improved compatibility with many mods depending on additional block data to be available during chunk building, such as LambdaBetterGrass.\n- Added an API other mods can use to disable Sodium features. Sometimes, incompatibilities can arise, but mods supporting this functionality can ask Sodium to disable specific parts of itself automatically to avoid these.\n- Fixed large memory leaks that could occur when unloading and loading many worlds repeatedly.\n- Fixed terrain stitching issues caused by high-resolution texture packs and exotic block models.   \n- Fixed some issues with smooth block and entity lighting, notably with emissive properties.\n- Fixed issues where the top-face of fluids would disappear at certain camera angle, or while inside a fluid.\n- Fixed many issues causing chunks not to update or appear when looking in certain directions.\n- Issues with render distance and fog effects when using certain mods have been fixed.\n... and much, much more.\n\nYou can find a number of issues that were fixed with this release [here](https://github.com/CaffeineMC/sodium-fabric/milestone/2?closed=1). For the complete list of changes, you can review the Git commit log [here](https://github.com/CaffeineMC/sodium-fabric/commits/1.16.x/next).",
         "changelog_url": null,
         "date_published": "2021-06-17T21:43:30.893775Z",
-        "downloads": 14843,
+        "downloads": 19915,
         "version_type": "release",
         "files": [
             {
@@ -179,6 +272,8 @@
         ],
         "dependencies": [],
         "game_versions": [
+            "1.16.3",
+            "1.16.4",
             "1.16.5"
         ],
         "loaders": [
@@ -187,16 +282,16 @@
     },
     {
         "id": "yaoBL9D9",
-        "mod_id": "AANobbMI",
+        "project_id": "AANobbMI",
         "author_id": "TEZXhE2U",
         "featured": false,
         "name": "Sodium 0.1.0",
         "version_number": "mc1.16.3-0.1.0",
-        "changelog": "",
+        "changelog": "Initial release.",
         "changelog_url": null,
         "date_published": "2021-01-03T00:54:22.597152Z",
-        "downloads": 8454,
-        "version_type": "beta",
+        "downloads": 8704,
+        "version_type": "release",
         "files": [
             {
                 "hashes": {
@@ -204,7 +299,7 @@
                 },
                 "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar",
                 "filename": "sodium-fabric-mc1.16.3-0.1.0.jar",
-                "primary": false
+                "primary": true
             }
         ],
         "dependencies": [],

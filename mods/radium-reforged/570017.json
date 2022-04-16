@@ -1,0 +1,212 @@
+{
+    "id": 570017,
+    "name": "Radium Reforged",
+    "authors": [
+        {
+            "name": "Asek3",
+            "url": "https://www.curseforge.com/members/100828852-asek3?username=asek3",
+            "projectId": 570017,
+            "id": 491004,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 100828852,
+            "twitchId": 231807407
+        }
+    ],
+    "attachments": [
+        {
+            "id": 482559,
+            "projectId": 570017,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/482/559/256/256/637781330810941375.png",
+            "title": "637781330810941375.png",
+            "url": "https://media.forgecdn.net/avatars/482/559/637781330810941375.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/Asek3/Radium/issues",
+    "wikiUrl": "",
+    "sourceUrl": "https://github.com/Asek3/Radium",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/radium-reforged",
+    "gameId": 432,
+    "summary": "Unofficial Fork of CaffeineMC's \"Lithium\", made to work with FML",
+    "defaultFileId": 3707226,
+    "downloadCount": 225685.0,
+    "latestFiles": [
+        {
+            "id": 3707226,
+            "displayName": "Radium mc1.18.2-0.7.10",
+            "fileName": "radium-0.7.10.jar",
+            "fileDate": "2022-03-21T13:14:53.633Z",
+            "fileLength": 501920,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3707/226/radium-0.7.10.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1643047931,
+                    "type": 3
+                },
+                {
+                    "foldername": "radium.mixins.json",
+                    "fingerprint": 1010115991,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 4263929476,
+                    "type": 3
+                },
+                {
+                    "foldername": "icon.png",
+                    "fingerprint": 3100141374,
+                    "type": 3
+                },
+                {
+                    "foldername": "radium-refmap.json",
+                    "fingerprint": 1345908232,
+                    "type": 3
+                },
+                {
+                    "foldername": "me",
+                    "fingerprint": 1607096176,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 1959055938,
+            "gameVersion": [
+                "1.18.2",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2804080,
+            "fileLegacyMappingId": null,
+            "projectId": 570017,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 885214106,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3898868,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "5ef8ecf547ceebc4d1e678b6cd2441756e283e48"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "d72376e7e73009740ff0cc0f5618fd45"
+                }
+            ],
+            "downloadCount": 0
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 425,
+            "name": "Miscellaneous",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 570017,
+            "avatarId": 6040,
+            "gameId": 432,
+            "slug": "mc-miscellaneous",
+            "dateModified": "2014-06-15T04:27:14.543Z"
+        },
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 570017,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 425,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "radium-reforged",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3707226,
+            "projectFileName": "radium-0.7.10.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3637704,
+            "projectFileName": "radium-0.7.7g.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 3576.822021484375,
+    "gamePopularityRank": 1798,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2022-03-21T13:18:02.053Z",
+    "dateCreated": "2022-01-18T20:04:41.03Z",
+    "dateReleased": "2022-03-21T13:14:53.633Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": true
+}

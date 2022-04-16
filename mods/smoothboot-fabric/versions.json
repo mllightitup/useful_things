@@ -1,7 +1,7 @@
 [
     {
         "id": "nPGcelzS",
-        "mod_id": "FWumhS4T",
+        "project_id": "FWumhS4T",
         "author_id": "uAypbXSw",
         "featured": false,
         "name": "1.16.5-1.6.0",
@@ -9,13 +9,13 @@
         "changelog": "Cloth config implementation is removed to make the mod more flexible and reduce file size.\n\n[https://github.com/UltimateBoomer/mc-smoothboot/releases/tag/1.16.5-1.6.0](https://github.com/UltimateBoomer/mc-smoothboot/releases/tag/1.16.5-1.6.0)\n\nNote: This version works for 1.17 snapshots as well.",
         "changelog_url": null,
         "date_published": "2021-03-22T19:30:42.082391Z",
-        "downloads": 2930,
+        "downloads": 3455,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "a0d5419980f8c65c6256483b864269cfe302894d",
-                    "sha512": "6ce1272a1e82e62299419a09c24263c303f4e233c7331eb83df66a65bfb9f1f6bd33a4b65aaa42f83166f431033c962901a07762a84fc99d07cf07c6cfe9254c"
+                    "sha512": "6ce1272a1e82e62299419a09c24263c303f4e233c7331eb83df66a65bfb9f1f6bd33a4b65aaa42f83166f431033c962901a07762a84fc99d07cf07c6cfe9254c",
+                    "sha1": "a0d5419980f8c65c6256483b864269cfe302894d"
                 },
                 "url": "https://cdn.modrinth.com/data/FWumhS4T/versions/1.16.5-1.6.0/smoothboot-fabric-1.16.5-1.6.0.jar",
                 "filename": "smoothboot-fabric-1.16.5-1.6.0.jar",
@@ -36,7 +36,7 @@
     },
     {
         "id": "WqFUP76H",
-        "mod_id": "FWumhS4T",
+        "project_id": "FWumhS4T",
         "author_id": "uAypbXSw",
         "featured": false,
         "name": "1.16.5-1.5.0",
@@ -44,7 +44,7 @@
         "changelog": "[https://github.com/UltimateBoomer/mc-smoothboot/releases/tag/1.16.5-1.5.0](https://github.com/UltimateBoomer/mc-smoothboot/releases/tag/1.16.5-1.5.0)",
         "changelog_url": null,
         "date_published": "2021-03-07T03:02:29.467404Z",
-        "downloads": 168,
+        "downloads": 180,
         "version_type": "release",
         "files": [
             {
@@ -70,7 +70,7 @@
     },
     {
         "id": "8AE6vYrt",
-        "mod_id": "FWumhS4T",
+        "project_id": "FWumhS4T",
         "author_id": "uAypbXSw",
         "featured": false,
         "name": "1.16.4-1.4.0",
@@ -78,7 +78,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-02-01T21:46:03.975674Z",
-        "downloads": 334,
+        "downloads": 341,
         "version_type": "release",
         "files": [
             {

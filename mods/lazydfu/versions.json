@@ -1,7 +1,7 @@
 [
     {
         "id": "C6e265zK",
-        "mod_id": "hvFnDODi",
+        "project_id": "hvFnDODi",
         "author_id": "y0WF9UR5",
         "featured": false,
         "name": "0.1.2",
@@ -9,17 +9,17 @@
         "changelog": "Improved compatibility with older and newer Minecraft versions: LazyDFU now supports Minecraft 1.14 through Minecraft 1.18 (as of this writing). Thanks to MrMangoHands for this contribution!",
         "changelog_url": null,
         "date_published": "2021-02-19T22:53:25.812236Z",
-        "downloads": 38510,
+        "downloads": 64851,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498",
-                    "sha1": "2efec5781f1271bdcdae462eee402ccb97bff6fe"
+                    "sha1": "2efec5781f1271bdcdae462eee402ccb97bff6fe",
+                    "sha512": "20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498"
                 },
                 "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
                 "filename": "lazydfu-0.1.2.jar",
-                "primary": false
+                "primary": true
             }
         ],
         "dependencies": [],
@@ -41,7 +41,8 @@
             "1.17",
             "1.17.1",
             "1.18",
-            "1.18.1"
+            "1.18.1",
+            "1.18.2"
         ],
         "loaders": [
             "fabric"
@@ -49,7 +50,7 @@
     },
     {
         "id": "aBDhdWUD",
-        "mod_id": "hvFnDODi",
+        "project_id": "hvFnDODi",
         "author_id": "y0WF9UR5",
         "featured": false,
         "name": "0.1.1",
@@ -57,13 +58,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-01-15T19:05:30.486786Z",
-        "downloads": 983,
+        "downloads": 1197,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "c5c2fe768a4839ab7ca27a13c03bdc8704fbe08d",
-                    "sha512": "c677103437d2336dd15415b32f0260db424ad9636994abf586b6ec4fb05358cbf94268af4b6680aebe0b745d63227db166f1d4de2c2f04f15ad4608462d5b16b"
+                    "sha512": "c677103437d2336dd15415b32f0260db424ad9636994abf586b6ec4fb05358cbf94268af4b6680aebe0b745d63227db166f1d4de2c2f04f15ad4608462d5b16b",
+                    "sha1": "c5c2fe768a4839ab7ca27a13c03bdc8704fbe08d"
                 },
                 "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.1/lazydfu-0.1.1.jar",
                 "filename": "lazydfu-0.1.1.jar",
@@ -81,7 +82,7 @@
     },
     {
         "id": "8tFjDrHf",
-        "mod_id": "hvFnDODi",
+        "project_id": "hvFnDODi",
         "author_id": "y0WF9UR5",
         "featured": false,
         "name": "0.1.0",
@@ -89,7 +90,7 @@
         "changelog": "",
         "changelog_url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.0/changelog.md",
         "date_published": "2021-01-04T05:14:07.262636Z",
-        "downloads": 198,
+        "downloads": 226,
         "version_type": "release",
         "files": [
             {

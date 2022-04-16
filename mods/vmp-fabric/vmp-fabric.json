@@ -1,14 +1,16 @@
 {
     "id": "wnEe9KBa",
     "slug": "vmp-fabric",
+    "project_type": "mod",
     "team": "GFM8VfAH",
     "title": "Very Many Players (Fabric)",
     "description": "A Fabric mod designed to improve server performance at high playercounts.",
-    "body": "# Very Many Players\n\nA Fabric mod designed to improve server performance at high playercounts. \n\n**VMP is still in early development and things are expected to break. Please report any issues to our issue tracker.**\n\n## So what is VMP? \nVery Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount \n**without sacrificing vanilla functionality or behavior**.  \nFor the best performance it is recommended to use VMP with [Lithium](https://modrinth.com/mod/lithium).\n\n## Support\nOur issue tracker: [link](https://github.com/RelativityMC/VMP-fabric/issues)  \nOur discord server: [link](https://discord.io/ishlandbukkit)\n\n## More information\nCheck out the README.md here: https://github.com/RelativityMC/VMP-fabric\n",
+    "body": "# Very Many Players\n\nA Fabric mod designed to improve server performance at high playercounts. \n\n**VMP is still in early development and things are expected to break. Please report any issues to our issue tracker.**\n\n## So what is VMP? \nVery Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount \n**without sacrificing vanilla functionality or behavior**.  \nFor the best performance it is recommended to use VMP with [Lithium](https://modrinth.com/mod/lithium).\n\n## How VMP achieves its performance improvements?\n- Using area maps to optimize nearby packet sending and player lookups\n- Using cache to optimize entity trackers, fluid state lookups and ingredient matching for mob AIs\n- Optimize entity iteration for collisions and some other things\n- Optimize ticket propagator using MCUtil from Paper project (patch licensed under MIT)\n- Make clientside time source to use built-in Java time source instead of JNI calls\n- ... and more\n\n## Support\nOur issue tracker: [link](https://github.com/RelativityMC/VMP-fabric/issues)  \nOur discord server: [link](https://discord.io/ishlandbukkit)\n\n## More information\nCheck out the README.md here: https://github.com/RelativityMC/VMP-fabric\n",
     "body_url": null,
     "published": "2021-12-05T03:00:09.272223Z",
-    "updated": "2022-01-01T14:31:08.030249Z",
+    "updated": "2022-03-02T09:15:40.117278Z",
     "status": "approved",
+    "moderator_message": null,
     "license": {
         "id": "mit",
         "name": "MIT License",
@@ -16,22 +18,26 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 649,
-    "followers": 17,
+    "downloads": 3138,
+    "followers": 65,
     "categories": [
-        "misc"
+        "misc",
+        "optimization"
     ],
     "versions": [
-        "b0hxL475",
-        "xZyKz0JY",
-        "zpFSkywE",
+        "jpGiQw5a",
+        "nQ6HZ4e8",
+        "vhwFulNh",
         "6upkwnNd",
-        "IUbVXDBv"
+        "zpFSkywE",
+        "IUbVXDBv",
+        "xZyKz0JY"
     ],
     "icon_url": "https://cdn.modrinth.com/data/wnEe9KBa/icon.png",
     "issues_url": "https://github.com/RelativityMC/VMP-fabric/issues",
     "source_url": "https://github.com/RelativityMC/VMP-fabric",
     "wiki_url": null,
     "discord_url": "https://discord.io/ishlandbukkit",
-    "donation_urls": []
+    "donation_urls": [],
+    "gallery": []
 }

@@ -1,0 +1,207 @@
+{
+    "id": 526854,
+    "name": "Starlight (Forge)",
+    "authors": [
+        {
+            "name": "Spottedstar",
+            "url": "https://www.curseforge.com/members/11525464-spottedstar?username=spottedstar",
+            "projectId": 526854,
+            "id": 445003,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 11525464,
+            "twitchId": 99834265
+        }
+    ],
+    "attachments": [
+        {
+            "id": 432789,
+            "projectId": 526854,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/432/789/256/256/637670638359989351.png",
+            "title": "637670638359989351.png",
+            "url": "https://media.forgecdn.net/avatars/432/789/637670638359989351.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/PaperMC/Starlight/issues",
+    "sourceUrl": "https://github.com/PaperMC/Starlight",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/starlight-forge",
+    "gameId": 432,
+    "summary": "Rewrites the light engine to fix lighting performance and lighting errors",
+    "defaultFileId": 3706539,
+    "downloadCount": 242260.0,
+    "latestFiles": [
+        {
+            "id": 3706539,
+            "displayName": "Starlight 1.0.2 1.18.2 (Forge)",
+            "fileName": "starlight-1.0.2+forge.546ae87.jar",
+            "fileDate": "2022-03-20T21:27:30.243Z",
+            "fileLength": 110596,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3706/539/starlight-1.0.2+forge.546ae87.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 3410397848,
+                    "type": 3
+                },
+                {
+                    "foldername": "ca",
+                    "fingerprint": 392013360,
+                    "type": 3
+                },
+                {
+                    "foldername": "logo.png",
+                    "fingerprint": 412109875,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1134070014,
+                    "type": 3
+                },
+                {
+                    "foldername": "starlight.mixins.json",
+                    "fingerprint": 819915525,
+                    "type": 3
+                },
+                {
+                    "foldername": "starlight.refmap.json",
+                    "fingerprint": 3217527489,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 3166153814,
+            "gameVersion": [
+                "1.18.2",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2803265,
+            "fileLegacyMappingId": null,
+            "projectId": 526854,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 884470454,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3897171,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "2a103e58f0f8e3fda3ab4676966bcbb4"
+                }
+            ],
+            "downloadCount": 0
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 425,
+            "name": "Miscellaneous",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 526854,
+            "avatarId": 6040,
+            "gameId": 432,
+            "slug": "mc-miscellaneous",
+            "dateModified": "2014-06-15T04:27:14.543Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 425,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "starlight-forge",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3706539,
+            "projectFileName": "starlight-1.0.2+forge.546ae87.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3667412,
+            "projectFileName": "starlight-1.0.1+forge.fef9eb9.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3457784,
+            "projectFileName": "starlight-1.0.0+forge.5d16647.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 3897.301513671875,
+    "gamePopularityRank": 2010,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2022-03-20T21:30:36.113Z",
+    "dateCreated": "2021-09-12T17:17:15.92Z",
+    "dateReleased": "2022-03-20T21:27:30.243Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": true
+}

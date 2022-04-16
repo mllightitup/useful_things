@@ -1,6 +1,7 @@
 {
     "id": "FWumhS4T",
     "slug": "smoothboot-fabric",
+    "project_type": "mod",
     "team": "lc4qWpPH",
     "title": "Smooth Boot (Fabric)",
     "description": "Improve Minecraft CPU scheduling",
@@ -9,6 +10,7 @@
     "published": "2021-02-01T21:46:03.972621Z",
     "updated": "2021-03-22T19:30:34.058178Z",
     "status": "approved",
+    "moderator_message": null,
     "license": {
         "id": "mit",
         "name": "MIT License",
@@ -16,11 +18,12 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 3432,
-    "followers": 119,
+    "downloads": 3976,
+    "followers": 153,
     "categories": [
+        "utility",
         "misc",
-        "utility"
+        "optimization"
     ],
     "versions": [
         "WqFUP76H",
@@ -32,5 +35,6 @@
     "source_url": "https://github.com/UltimateBoomer/mc-smoothboot",
     "wiki_url": "https://github.com/UltimateBoomer/mc-smoothboot/wiki",
     "discord_url": "",
-    "donation_urls": []
+    "donation_urls": [],
+    "gallery": []
 }

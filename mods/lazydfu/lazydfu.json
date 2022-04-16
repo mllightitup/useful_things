@@ -1,14 +1,16 @@
 {
     "id": "hvFnDODi",
     "slug": "lazydfu",
+    "project_type": "mod",
     "team": "7w9mvv0o",
     "title": "LazyDFU",
-    "description": "Makes the initialization of DataFixerUpper \"lazy\", making the game start more quickly",
-    "body": "LazyDFU is an optimization mod that makes the initialization of DataFixerUpper \"lazy\" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so.\n\n## Sponsor me!\n\nDid this mod make Minecraft playable for you? [Chip in a bit of money](https://github.com/sponsors/astei) so I can continue developing it.\n\n## Why does it work?\n\nIn vanilla, all the conversion rules are pre-compiled upon game startup, and this process is extremely slow - almost 9 seconds on a high-end PC (with a Ryzen 9 3900X) and over 50 seconds on a mid-range 2017 laptop (with an Core i5-8250U!) What LazyDFU does is allow DataFixerUpper to initialize, but do not pre-cache any of the rules. As a result, the DFU rules are only compiled when a world needs to be converted. This means it is possible you may see lag spikes if LazyDFU forces the game to compile migration rules, but once complete there is no performance penalty.\n\n## Prove it to me\n\nI [recorded a video](https://www.youtube.com/watch?v=gXDqJ598kKA) that shows you how effective LazyDFU is.\n\n## Comparing it to other mods\n\nIn comparison to other mods, LazyDFU has the primary advantage of being _simple_, _safe_, and having _low impact_ on the game.\n\n* LazyDFU is a very _simple_ mod. The entire mod is about a dozen lines of code, about as uncomplicated as a mod can get, while still delivering huge benefits. (This means it's also an ideal mod to use to experiment with a new Mixin platform!)\n* LazyDFU is very _safe_. This mod is based on a similar patch in [Paper](https://papermc.io) that has been in use for over a year with no reported issues with migrating to newer versions of Minecraft.\n\nIt's also objectively better than other options out there:\n\n* LazyDFU and Cadmium are complementary to each other, however the improvements Cadmium makes are outweighed by LazyDFU avoiding DFU rule compilation as much as possible.\n* LazyDFU is superior to Smooth Boot by removing the primary source of game CPU usage in the first few seconds to minutes of Minecraft boot times.\n* LazyDFU is far safer than using a mod that removes DataFixerUpper entirely, which can lead to **world corruption**.",
+    "description": "Makes the game boot faster by deferring non-essential initialization",
+    "body": "LazyDFU is an optimization mod for Minecraft that defers unnecessary initialization work so that it is only performed if required. Specifically, it makes the initialization of DataFixerUpper \"lazy\" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so.\n\n## Sponsor me!\n\nDid this mod make Minecraft playable for you? [Chip in a bit of money](https://github.com/sponsors/astei) so I can continue developing it.\n\n## Why hasn't LazyDFU been updated?\n\nUnsurprisingly, LazyDFU is fundamentally a _very simple_ mod. The code in question works all the way back to Minecraft 1.14 entirely unmodified, even though the mod is built against Minecraft 1.16.5 and Java 8, thanks to the use of intermediary mappings in Fabric.\n\nDon't believe me? **Try it!** The mod worked out of the box on Minecraft 1.17 and its snapshots, and on Minecraft 1.18 and its snapshots without even so much as a recompile, and it is extremely likely (even with the fundamental changes Mojang is doing to the game) that LazyDFU will continue to work unmodified on future versions of the game.\n\n## Why does it work?\n\nDataFixerUpper (often abbreviated to DFU) is the Minecraft component responsible for handling world upgrades from older versions of Minecraft to newer versions. DFU is initialized very early in the Minecraft startup process - in fact, it's initialized before the game window even appears. It is laughably overengineered and very slow, but it's what Mojang gives us to work with.\n\nAs part of the DFU initialization process, it caches rules required to convert from older versions to MInecraft through every version in between, up to the version of the game being launched. This process takes place in the background, but it is _extremely_ slow, as it is both CPU and memory intensive. With Minecraft 1.16.5, I have measured this process take 9 seconds on a Ryzen 9 3900X desktop (a high-end desktop CPU released in 2019) and 57 seconds on a laptop with an i5-8250U (a mid-range laptop chip from 2017).\n\nAll LazyDFU does is stop this process - it lets DFU initialize, but it will force it to not cache all these rules. As a result, the DFU rules are only compiled when a world needs to be converted. This means it is possible you may see lag spikes if LazyDFU forces the game to compile migration rules, but once complete there is no performance penalty.\n\n## Prove it to me\n\nI [recorded a video](https://www.youtube.com/watch?v=gXDqJ598kKA) that shows you how effective LazyDFU is.\n\n## Comparing it to other mods\n\nIn comparison to other mods, LazyDFU has the primary advantage of being _simple_, _safe_, and having _low impact_ on the game.\n\n* LazyDFU is a very _simple_ mod. The entire mod is about a dozen lines of code, about as uncomplicated as a mod can get, while still delivering huge benefits. (This means it's also an ideal mod to use to experiment with a new Mixin platform!)\n* LazyDFU is very _safe_. This mod is based on a similar patch in [Paper](https://papermc.io) that has been in use for over a year with no reported issues with migrating to newer versions of Minecraft.\n\nIt's also objectively better than other options out there:\n\n* LazyDFU and Cadmium are complementary to each other, however the improvements Cadmium makes are outweighed by LazyDFU avoiding DFU rule compilation as much as possible.\n* LazyDFU is superior to Smooth Boot by removing the primary source of game CPU usage in the first few seconds to minutes of Minecraft boot times.\n* LazyDFU is far safer than using a mod that removes DataFixerUpper entirely, which can lead to **world corruption**.",
     "body_url": "https://cdn.modrinth.com/data/hvFnDODi/description.md",
     "published": "2021-01-04T05:14:07.259717Z",
     "updated": "2021-12-11T02:17:26.473625Z",
     "status": "approved",
+    "moderator_message": null,
     "license": {
         "id": "mit",
         "name": "MIT License",
@@ -16,21 +18,21 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 39691,
-    "followers": 430,
+    "downloads": 66274,
+    "followers": 649,
     "categories": [
-        "misc",
-        "utility"
+        "optimization"
     ],
     "versions": [
         "aBDhdWUD",
-        "8tFjDrHf",
-        "C6e265zK"
+        "C6e265zK",
+        "8tFjDrHf"
     ],
     "icon_url": "https://cdn.modrinth.com/data/hvFnDODi/icon.png",
     "issues_url": "https://github.com/astei/lazydfu/issues",
     "source_url": "https://github.com/astei/lazydfu",
     "wiki_url": null,
     "discord_url": "https://discord.gg/RUGArxEQ8J",
-    "donation_urls": []
+    "donation_urls": [],
+    "gallery": []
 }

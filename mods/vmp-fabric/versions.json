@@ -1,7 +1,100 @@
 [
     {
+        "id": "nQ6HZ4e8",
+        "project_id": "wnEe9KBa",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+beta.3.17 devbuild for 1.18.2",
+        "version_number": "0.2.0+beta.3.17+1.18.2",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2022-03-02T09:15:40.770943Z",
+        "downloads": 1092,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "b93339fec6fa102739d95184d4fef7982fa902e784dafa6c4144a2b97dfb2a501fe74ada5a930e6e45bafeb562e88eaca9b0140a752279f50ceb5eaa348adef2",
+                    "sha1": "160eefb8b0bb1c9f9ecc755c53d060a7755955bf"
+                },
+                "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.3.17+1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.17-all.jar",
+                "filename": "vmp-fabric-mc1.18.2-0.2.0+beta.3.17-all.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "jpGiQw5a",
+        "project_id": "wnEe9KBa",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+beta.3.8 devbuild for 1.18.1",
+        "version_number": "0.2.0+beta.3.8 1.18.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2022-01-20T08:28:34.426514Z",
+        "downloads": 925,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "1bbf215f46e1c507c3ca86b083fef90b5d4f93d890aff4ad2ebb018580a7635d1e0ffd8648bc57c4fc64a684f16df4d55d89d1dbcd2743e9b4110e5b5aca42e8",
+                    "sha1": "684370ee1f517677a51789099a0cb7d4e3bcfdff"
+                },
+                "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.3.8 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.3.8-all.jar",
+                "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.3.8-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "vhwFulNh",
+        "project_id": "wnEe9KBa",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+beta.3 for 1.18.1",
+        "version_number": "0.2.0+beta.3.0 1.18.1",
+        "changelog": "**VMP 0.2.0+beta.3 for Minecraft 1.18.1 is released**\n\nThis release fixes bugs, improves compatibility and adds some measurable performance improvements. \n\nChangelog: \n- Delays initialization of ingredient cache (#5)\n- Handles chunk sending using AreaMap (Fixes some chunks not properly sending)\n- Improves entity iteration further for collision and possibly other things\n- Fixes incompatibility with `Carpet-TIS-Addition`\n\n**Full Changelog**: https://github.com/RelativityMC/VMP-fabric/compare/0.2.0+beta.2...0.2.0+beta.3\n",
+        "changelog_url": null,
+        "date_published": "2022-01-06T07:07:22.082307Z",
+        "downloads": 328,
+        "version_type": "beta",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "ebadf301c32858a20a46f88b7c58c19617994cfd",
+                    "sha512": "0d12511055a0cfdf774531723bd0eaebc3af8866249ed3fc74eaa76b200f86335f22886ee65f02582ad5767f2295347206d17a159b5035d5787d48474ba78b05"
+                },
+                "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.3.0 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.3.0-all.jar",
+                "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.3.0-all.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
         "id": "xZyKz0JY",
-        "mod_id": "wnEe9KBa",
+        "project_id": "wnEe9KBa",
         "author_id": "KdStZyTU",
         "featured": false,
         "name": "0.2.0+beta.2.18 devbuild for 1.18.1",
@@ -9,7 +102,7 @@
         "changelog": "Fix some chunks not being sent to client  \nOptimize entity iteration for cramming and possibly other things  \nUse square instead of circle  \n",
         "changelog_url": null,
         "date_published": "2022-01-01T14:31:08.417414Z",
-        "downloads": 56,
+        "downloads": 120,
         "version_type": "beta",
         "files": [
             {
@@ -32,7 +125,7 @@
     },
     {
         "id": "zpFSkywE",
-        "mod_id": "wnEe9KBa",
+        "project_id": "wnEe9KBa",
         "author_id": "KdStZyTU",
         "featured": false,
         "name": "0.2.0+beta.2 for 1.18.1",
@@ -40,7 +133,7 @@
         "changelog": "This release fixes an important crash and adds a minor performance improvements.",
         "changelog_url": null,
         "date_published": "2021-12-19T07:20:43.912063Z",
-        "downloads": 277,
+        "downloads": 287,
         "version_type": "beta",
         "files": [
             {
@@ -63,7 +156,7 @@
     },
     {
         "id": "IUbVXDBv",
-        "mod_id": "wnEe9KBa",
+        "project_id": "wnEe9KBa",
         "author_id": "KdStZyTU",
         "featured": false,
         "name": "0.2.0+beta.1.5 devbuild for 1.18.1",
@@ -71,7 +164,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-12-11T05:40:24.808994Z",
-        "downloads": 147,
+        "downloads": 157,
         "version_type": "beta",
         "files": [
             {
@@ -94,7 +187,7 @@
     },
     {
         "id": "6upkwnNd",
-        "mod_id": "wnEe9KBa",
+        "project_id": "wnEe9KBa",
         "author_id": "KdStZyTU",
         "featured": false,
         "name": "0.2.0+beta.1 for 1.18.1-pre1 & 1.18",
@@ -102,7 +195,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-12-05T03:00:09.286680Z",
-        "downloads": 113,
+        "downloads": 137,
         "version_type": "beta",
         "files": [
             {
@@ -119,37 +212,6 @@
         "game_versions": [
             "1.18",
             "1.18.1-pre1"
-        ],
-        "loaders": [
-            "fabric"
-        ]
-    },
-    {
-        "id": "b0hxL475",
-        "mod_id": "wnEe9KBa",
-        "author_id": "KdStZyTU",
-        "featured": false,
-        "name": "0.1.0+beta.1 for 1.17.1",
-        "version_number": "0.1.0+beta.1 1.17.1",
-        "changelog": "",
-        "changelog_url": null,
-        "date_published": "2021-12-05T03:00:09.274528Z",
-        "downloads": 56,
-        "version_type": "beta",
-        "files": [
-            {
-                "hashes": {
-                    "sha1": "6eb02c1f4db7246aabd6ab21ef2ac630c7f2fb7e",
-                    "sha512": "4cc66080c23d3d58fa1a430d18e732f61de4112f715c8282fe3feba409dbdd87acc5e76b93f693f4f8e71905e0150e4ae97445c250a4db0b9d13a52cbb3d2290"
-                },
-                "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.1.0+beta.1 1.17.1/vmp-fabric-mc1.17.1-0.1.0+beta.1-all.jar",
-                "filename": "vmp-fabric-mc1.17.1-0.1.0+beta.1-all.jar",
-                "primary": false
-            }
-        ],
-        "dependencies": [],
-        "game_versions": [
-            "1.17.1"
         ],
         "loaders": [
             "fabric"
