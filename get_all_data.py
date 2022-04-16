@@ -14,7 +14,7 @@ async def main():
         unique_links_modrinth = [x for x in unique_links if not isinstance(x, int)]
         tasks = []
         for unique_link in unique_links_modrinth:
-            url = unique_link.replace('https://modrinth.com/mod/', 'https://api.modrinth.com/api/v1/mod/')
+            url = unique_link.replace('https://modrinth.com/mod/', 'https://api.modrinth.com/v2/project/')
             task = asyncio.ensure_future(get_data(session, url))
             tasks.append(task)
         mods_data = await asyncio.gather(*tasks)
@@ -25,7 +25,7 @@ async def main():
         tasks.clear()
         tasks = []
         for mod_id in mod_ids:
-            url = f"https://api.modrinth.com/api/v1/mod/{mod_id}/version"
+            url = f"https://api.modrinth.com/v2/project/{mod_id}/version"
             task = asyncio.ensure_future(get_data(session, url))
             tasks.append(task)
         versions_data = await asyncio.gather(*tasks)
@@ -35,7 +35,7 @@ async def main():
     async with aiohttp.ClientSession() as session:
         tasks.clear()
         for author_id in author_ids:
-            url = f"https://api.modrinth.com/api/v1/user/{author_id}"
+            url = f"https://api.modrinth.com/v2/user/{author_id}"
             task = asyncio.ensure_future(get_data(session, url))
             tasks.append(task)
         author_data = await asyncio.gather(*tasks)
