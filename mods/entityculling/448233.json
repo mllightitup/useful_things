@@ -30,8 +30,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
     "gameId": 432,
     "summary": "Using async path-tracing to hide Tiles/Entities that are not visible",
-    "defaultFileId": 3523465,
-    "downloadCount": 1655794.0,
+    "defaultFileId": 3743933,
+    "downloadCount": 4404447.0,
     "latestFiles": [
         {
             "id": 3208944,
@@ -136,17 +136,17 @@
                     "value": "cfe88ea2e20a6782e0ebd8800a44d647"
                 }
             ],
-            "downloadCount": 280
+            "downloadCount": 310
         },
         {
-            "id": 3221962,
-            "displayName": "1.0.2 - Forge",
-            "fileName": "entityculling-1.0.2.jar",
-            "fileDate": "2021-02-28T19:55:11.3Z",
-            "fileLength": 18351,
-            "releaseType": 1,
+            "id": 3743929,
+            "displayName": "1.5.1 - Forge(1.18)",
+            "fileName": "entityculling-forge-mc1.18-1.5.1.jar",
+            "fileDate": "2022-04-10T18:43:03.84Z",
+            "fileLength": 45276,
+            "releaseType": 2,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3221/962/entityculling-1.0.2.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3743/929/entityculling-forge-mc1.18-1.5.1.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -154,43 +154,71 @@
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 3927530658,
+                    "fingerprint": 2613628609,
                     "type": 3
                 },
                 {
                     "foldername": "dev",
-                    "fingerprint": 934263971,
+                    "fingerprint": 2736009221,
                     "type": 3
                 },
                 {
-                    "foldername": "entityculling.forge.mixins.json",
-                    "fingerprint": 1772869896,
+                    "foldername": "entityculling.mixins.json",
+                    "fingerprint": 1036044504,
                     "type": 3
                 },
                 {
                     "foldername": "pack.mcmeta",
-                    "fingerprint": 1438559181,
+                    "fingerprint": 889149621,
                     "type": 3
                 },
                 {
-                    "foldername": "entityculling.forge.refmap.json",
-                    "fingerprint": 4231006284,
+                    "foldername": "assets",
+                    "fingerprint": 398729729,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE",
+                    "fingerprint": 1929528592,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 1355395268,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE-EntityCulling",
+                    "fingerprint": 3421239066,
+                    "type": 3
+                },
+                {
+                    "foldername": "entityculling.refmap.json",
+                    "fingerprint": 1526885505,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 1373606438,
+            "packageFingerprint": 1931998913,
             "gameVersion": [
-                "1.16.5",
+                "1.18.1",
+                "1.18.2",
                 "Forge",
-                "1.16.4"
+                "1.18"
             ],
             "sortableGameVersion": [
                 {
-                    "gameVersionPadded": "0000000001.0000000016.0000000005",
-                    "gameVersion": "1.16.5",
-                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-                    "gameVersionName": "1.16.5",
-                    "gameVersionTypeId": 70886
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
                 },
                 {
                     "gameVersionPadded": "0",
@@ -200,11 +228,11 @@
                     "gameVersionTypeId": 68441
                 },
                 {
-                    "gameVersionPadded": "0000000001.0000000016.0000000004",
-                    "gameVersion": "1.16.4",
-                    "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
-                    "gameVersionName": "1.16.4",
-                    "gameVersionTypeId": 70886
+                    "gameVersionPadded": "0000000001.0000000018",
+                    "gameVersion": "1.18",
+                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                    "gameVersionName": "1.18",
+                    "gameVersionTypeId": 73250
                 }
             ],
             "installMetadata": null,
@@ -214,16 +242,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2195362,
+            "renderCacheId": 2849508,
             "fileLegacyMappingId": null,
             "projectId": 448233,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 614794442,
+            "packageFingerprintId": 899263396,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 2759232,
+            "gameVersionMappingId": 3974838,
             "gameVersionId": 7498,
             "gameId": 432,
             "isServerPack": false,
@@ -232,44 +260,47 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "eac7db4cc4e7000422aae18970f5169a488fab51"
+                    "value": "fbf6368cd26d878ce3d75e899f039a1e51fa49a3"
                 },
                 {
                     "algorithm": 2,
-                    "value": "8ee50c09f26c9e9a6adc4b24ae8cca63"
+                    "value": "46ee14a0bc294c908512334696ae92ab"
                 }
             ],
-            "downloadCount": 670428
+            "downloadCount": 0
         },
         {
-            "id": 3523465,
-            "displayName": " 1.3.3 - Fabric",
-            "fileName": "EntityCulling-Fabric-1.3.3.jar",
-            "fileDate": "2021-11-12T15:17:41.913Z",
-            "fileLength": 42628,
+            "id": 3743933,
+            "displayName": "1.5.1 - Fabric(1.18)",
+            "fileName": "entityculling-fabric-mc1.18-1.5.1.jar",
+            "fileDate": "2022-04-10T18:45:08.82Z",
+            "fileLength": 44983,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3523/465/EntityCulling-Fabric-1.3.3.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3743/933/entityculling-fabric-mc1.18-1.5.1.jar",
             "isAlternate": false,
             "alternateFileId": 0,
-            "dependencies": [
-                {
-                    "id": 81339769,
-                    "addonId": 306612,
-                    "type": 3,
-                    "fileId": 3523465
-                }
-            ],
+            "dependencies": [],
             "isAvailable": true,
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 1663828586,
+                    "fingerprint": 1372711540,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE-EntityCulling",
+                    "fingerprint": 3421239066,
                     "type": 3
                 },
                 {
                     "foldername": "LICENSE",
                     "fingerprint": 1929528592,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 2517315681,
                     "type": 3
                 },
                 {
@@ -283,30 +314,26 @@
                     "type": 3
                 },
                 {
-                    "foldername": "fabric.mod.json",
-                    "fingerprint": 3400447552,
-                    "type": 3
-                },
-                {
                     "foldername": "entityculling.refmap.json",
-                    "fingerprint": 3061951379,
-                    "type": 3
-                },
-                {
-                    "foldername": "dev",
-                    "fingerprint": 4217111494,
+                    "fingerprint": 2984481287,
                     "type": 3
                 },
                 {
                     "foldername": "com",
-                    "fingerprint": 2819387681,
+                    "fingerprint": 349428128,
+                    "type": 3
+                },
+                {
+                    "foldername": "dev",
+                    "fingerprint": 966668315,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 91561999,
+            "packageFingerprint": 361840395,
             "gameVersion": [
                 "1.18.1",
                 "Fabric",
+                "1.18.2",
                 "1.18"
             ],
             "sortableGameVersion": [
@@ -325,6 +352,13 @@
                     "gameVersionTypeId": 68441
                 },
                 {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                },
+                {
                     "gameVersionPadded": "0000000001.0000000018",
                     "gameVersion": "1.18",
                     "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
@@ -339,16 +373,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2581201,
+            "renderCacheId": 2849512,
             "fileLegacyMappingId": null,
             "projectId": 448233,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 783053512,
+            "packageFingerprintId": 899263671,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3460264,
+            "gameVersionMappingId": 3974855,
             "gameVersionId": 7499,
             "gameId": 432,
             "isServerPack": false,
@@ -357,129 +391,14 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "17e958986004107f980fe17fbe902abffb662a1a"
+                    "value": "523c57485a469c581d7a9bd18ec86c7a92a0ec93"
                 },
                 {
                     "algorithm": 2,
-                    "value": "2f5881b642113e14d7553bae9ebacfca"
+                    "value": "6b350a387b0fbf932b1818a10521dbae"
                 }
             ],
-            "downloadCount": 282900
-        },
-        {
-            "id": 3585129,
-            "displayName": "1.3.3 - Forge(1.8.9)",
-            "fileName": "entityculling-forge-mc1.8.9-1.3.3-beta.jar",
-            "fileDate": "2021-12-30T00:46:16.167Z",
-            "fileLength": 3659075,
-            "releaseType": 2,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3585/129/entityculling-forge-mc1.8.9-1.3.3-beta.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 1585435546,
-                    "type": 3
-                },
-                {
-                    "foldername": "assets",
-                    "fingerprint": 398729729,
-                    "type": 3
-                },
-                {
-                    "foldername": "dev",
-                    "fingerprint": 1342763879,
-                    "type": 3
-                },
-                {
-                    "foldername": "entityculling.mixins.json",
-                    "fingerprint": 4041155860,
-                    "type": 3
-                },
-                {
-                    "foldername": "entityculling.refmap.json",
-                    "fingerprint": 1502687186,
-                    "type": 3
-                },
-                {
-                    "foldername": "com",
-                    "fingerprint": 4067424323,
-                    "type": 3
-                },
-                {
-                    "foldername": "LICENSE",
-                    "fingerprint": 1929528592,
-                    "type": 3
-                },
-                {
-                    "foldername": "org",
-                    "fingerprint": 64894546,
-                    "type": 3
-                },
-                {
-                    "foldername": "LICENSE.txt",
-                    "fingerprint": 3933732671,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 462697085,
-            "gameVersion": [
-                "Forge",
-                "1.8.9"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Forge",
-                    "gameVersionTypeId": 68441
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000008.0000000009",
-                    "gameVersion": "1.8.9",
-                    "gameVersionReleaseDate": "2015-12-09T06:00:00Z",
-                    "gameVersionName": "1.8.9",
-                    "gameVersionTypeId": 4
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2655852,
-            "fileLegacyMappingId": null,
-            "projectId": 448233,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 822005640,
-            "gameVersionDateReleased": "2015-12-09T06:00:00Z",
-            "gameVersionMappingId": 3618690,
-            "gameVersionId": 5806,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "eba23f203679c22a40a16b1f9a96e96adf947669"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "955e73badc44021362df7d8a02ebf606"
-                }
-            ],
-            "downloadCount": 68
+            "downloadCount": 0
         }
     ],
     "categories": [
@@ -525,27 +444,27 @@
     "slug": "entityculling",
     "gameVersionLatestFiles": [
         {
-            "gameVersion": "1.8.9",
-            "projectFileId": 3585129,
-            "projectFileName": "entityculling-forge-mc1.8.9-1.3.3-beta.jar",
-            "fileType": 2,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 4,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.18",
-            "projectFileId": 3556528,
-            "projectFileName": "entityculling-forge-mc1.18-1.3.3.jar",
-            "fileType": 2,
+            "gameVersion": "1.18.1",
+            "projectFileId": 3743933,
+            "projectFileName": "entityculling-fabric-mc1.18-1.5.1.jar",
+            "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
-            "modLoader": 1
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3743933,
+            "projectFileName": "entityculling-fabric-mc1.18-1.5.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
         },
         {
             "gameVersion": "1.18",
-            "projectFileId": 3523465,
-            "projectFileName": "EntityCulling-Fabric-1.3.3.jar",
+            "projectFileId": 3743933,
+            "projectFileName": "entityculling-fabric-mc1.18-1.5.1.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -553,71 +472,35 @@
         },
         {
             "gameVersion": "1.18.1",
-            "projectFileId": 3523465,
-            "projectFileName": "EntityCulling-Fabric-1.3.3.jar",
-            "fileType": 1,
+            "projectFileId": 3743929,
+            "projectFileName": "entityculling-forge-mc1.18-1.5.1.jar",
+            "fileType": 2,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.17",
-            "projectFileId": 3454234,
-            "projectFileName": "entityculling-1.3.3.jar",
-            "fileType": 2,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
             "modLoader": 1
         },
         {
-            "gameVersion": "1.17.1",
-            "projectFileId": 3454234,
-            "projectFileName": "entityculling-1.3.3.jar",
+            "gameVersion": "1.18.2",
+            "projectFileId": 3743929,
+            "projectFileName": "entityculling-forge-mc1.18-1.5.1.jar",
             "fileType": 2,
             "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
+            "gameVersionTypeId": 73250,
             "modLoader": 1
         },
         {
-            "gameVersion": "1.17",
-            "projectFileId": 3388827,
-            "projectFileName": "EntityCulling-Fabric-1.3.3.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.17.1",
-            "projectFileId": 3388827,
-            "projectFileName": "EntityCulling-Fabric-1.3.3.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3358824,
-            "projectFileName": "entityculling-1.3.0.jar",
+            "gameVersion": "1.18",
+            "projectFileId": 3743929,
+            "projectFileName": "entityculling-forge-mc1.18-1.5.1.jar",
             "fileType": 2,
             "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.4",
-            "projectFileId": 3358824,
-            "projectFileName": "entityculling-1.3.0.jar",
-            "fileType": 2,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
+            "gameVersionTypeId": 73250,
             "modLoader": 1
         },
         {
             "gameVersion": "1.16.5",
-            "projectFileId": 3358819,
-            "projectFileName": "EntityCulling-Fabric-1.3.0.jar",
+            "projectFileId": 3686564,
+            "projectFileName": "entityculling-fabric-mc1.16.5-1.5.1.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 70886,
@@ -625,8 +508,8 @@
         },
         {
             "gameVersion": "1.16.4",
-            "projectFileId": 3358819,
-            "projectFileName": "EntityCulling-Fabric-1.3.0.jar",
+            "projectFileId": 3686564,
+            "projectFileName": "entityculling-fabric-mc1.16.5-1.5.1.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 70886,
@@ -634,8 +517,35 @@
         },
         {
             "gameVersion": "1.16.3",
-            "projectFileId": 3225475,
-            "projectFileName": "EntityCulling-Fabric-1.0.3.jar",
+            "projectFileId": 3686564,
+            "projectFileName": "entityculling-fabric-mc1.16.5-1.5.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3686564,
+            "projectFileName": "entityculling-fabric-mc1.16.5-1.5.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16",
+            "projectFileId": 3686564,
+            "projectFileName": "entityculling-fabric-mc1.16.5-1.5.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3686564,
+            "projectFileName": "entityculling-fabric-mc1.16.5-1.5.1.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 70886,
@@ -643,20 +553,110 @@
         },
         {
             "gameVersion": "1.16.5",
-            "projectFileId": 3221962,
-            "projectFileName": "entityculling-1.0.2.jar",
-            "fileType": 1,
+            "projectFileId": 3686561,
+            "projectFileName": "entityculling-forge-mc1.16.5-1.5.1.jar",
+            "fileType": 2,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 70886,
             "modLoader": 1
         },
         {
             "gameVersion": "1.16.4",
-            "projectFileId": 3221962,
-            "projectFileName": "entityculling-1.0.2.jar",
-            "fileType": 1,
+            "projectFileId": 3686561,
+            "projectFileName": "entityculling-forge-mc1.16.5-1.5.1.jar",
+            "fileType": 2,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3686561,
+            "projectFileName": "entityculling-forge-mc1.16.5-1.5.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3686561,
+            "projectFileName": "entityculling-forge-mc1.16.5-1.5.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16",
+            "projectFileId": 3686561,
+            "projectFileName": "entityculling-forge-mc1.16.5-1.5.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3686561,
+            "projectFileName": "entityculling-forge-mc1.16.5-1.5.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17",
+            "projectFileId": 3642141,
+            "projectFileName": "entityculling-fabric-mc1.17.1-1.5.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3642141,
+            "projectFileName": "entityculling-fabric-mc1.17.1-1.5.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17",
+            "projectFileId": 3642139,
+            "projectFileName": "entityculling-forge-mc1.17.1-1.5.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3642139,
+            "projectFileName": "entityculling-forge-mc1.17.1-1.5.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.8.8",
+            "projectFileId": 3642136,
+            "projectFileName": "entityculling-forge-mc1.8.9-1.5.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 4,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.8.9",
+            "projectFileId": 3642136,
+            "projectFileName": "entityculling-forge-mc1.8.9-1.5.0.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 4,
             "modLoader": 1
         },
         {
@@ -677,8 +677,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 14350.9853515625,
-    "gamePopularityRank": 402,
+    "popularityScore": 21231.439453125,
+    "gamePopularityRank": 189,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -687,9 +687,9 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2021-12-30T00:47:47.673Z",
+    "dateModified": "2022-04-10T18:54:04.723Z",
     "dateCreated": "2021-02-18T16:39:06.283Z",
-    "dateReleased": "2021-12-30T00:46:16.167Z",
+    "dateReleased": "2022-04-10T18:45:08.82Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": false

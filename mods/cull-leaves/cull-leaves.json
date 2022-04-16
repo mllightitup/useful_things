@@ -1,14 +1,16 @@
 {
     "id": "GNxdLCoP",
     "slug": "cull-leaves",
+    "project_type": "mod",
     "team": "95SIWdX6",
     "title": "Cull Leaves",
     "description": "Adds culling to leaf blocks, providing a huge performance boost over vanilla.",
-    "body": "",
+    "body": "<center><p style=\"text-align: center;\">Adds culling to leaf blocks, providing a huge performance boost over vanilla.</p>\n<p style=\"text-align: center;\">This is a recreation of the OptiFine feature 'Smart Leaves'</p>\n<p style=\"text-align: center;\">Yes, it's that simple.</p>\n<p style=\"text-align: center;\">This mod can also be used to increase framerates with my <a href=\"https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves\">Better Leaves Resourcepack</a></p>\n<p style=\"text-align: center;\">Completely compatible with Sodium, Canvas, LambaBetterGrass, etc.</p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/LzFXtm8/Oak-Leaves-JE4-1.png\" width=\"768\" height=\"132\" /></p>\n<p style=\"text-align: center;\"><img src=\"https://i.imgur.com/U55i4uD.png\" alt=\"\" width=\"655\" height=\"368\" /></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://github.com/Motschen/Assets/blob/main/quilt+fabric-banner.png?raw=true\" alt=\"\" width=\"586\" height=\"56\" /></p>",
     "body_url": "https://cdn.modrinth.com/data/GNxdLCoP/description.md",
     "published": "2021-01-01T13:46:00.961732Z",
     "updated": "2021-10-30T13:49:12.676471Z",
     "status": "approved",
+    "moderator_message": null,
     "license": {
         "id": "mit",
         "name": "MIT License",
@@ -16,24 +18,26 @@
     },
     "client_side": "required",
     "server_side": "unsupported",
-    "downloads": 8370,
-    "followers": 176,
+    "downloads": 15769,
+    "followers": 265,
     "categories": [
-        "misc"
+        "misc",
+        "optimization"
     ],
     "versions": [
-        "YVhVO5vK",
-        "d6b1Ezyz",
-        "qXQsntrr",
-        "718Klypf",
-        "85IJZOPp",
         "DdSy1eAp",
-        "NfeMW5mF"
+        "718Klypf",
+        "NfeMW5mF",
+        "qXQsntrr",
+        "d6b1Ezyz",
+        "85IJZOPp",
+        "YVhVO5vK"
     ],
     "icon_url": "https://cdn.modrinth.com/data/GNxdLCoP/icon.png",
     "issues_url": "https://github.com/TeamMidnightDust/CullLeaves/issues",
     "source_url": "https://github.com/TeamMidnightDust/CullLeaves",
     "wiki_url": null,
     "discord_url": "https://discord.gg/jAGnWYHm3r",
-    "donation_urls": []
+    "donation_urls": [],
+    "gallery": []
 }

@@ -1,0 +1,42 @@
+{
+    "id": "2ecVyZ49",
+    "slug": "ksyxis",
+    "project_type": "mod",
+    "team": "dgnbkbrG",
+    "title": "Ksyxis",
+    "description": "Speed up the loading of your world.",
+    "body": "Speed up your world loading by not loading nearby chunks every time.\n\n*WARNING: This mod may be unstable and incompatible with some mods.*\n### How.\nVanilla Minecraft loads 21x21 (441) chunks every time you load a world. This mod disables this feature.\n### It does not work.\nThe effect may not be noticeable on high-end PCs. This mod is designed primarily for low-end devices. There's [a video](https://www.youtube.com/watch?v=PXWdDoVU1C4) through.\n###### Note: Some Forge versions require additional mods to use the Mixin environment. [More info...](https://gist.github.com/VidTu/84c331a7741b3217c088c8b495be473e)",
+    "body_url": null,
+    "published": "2021-10-16T22:17:54.245733Z",
+    "updated": "2021-10-24T12:22:05.693191Z",
+    "status": "approved",
+    "moderator_message": null,
+    "license": {
+        "id": "mit",
+        "name": "MIT License",
+        "url": "https://cdn.modrinth.com/licenses/mit.txt"
+    },
+    "client_side": "optional",
+    "server_side": "optional",
+    "downloads": 2420,
+    "followers": 44,
+    "categories": [
+        "utility",
+        "misc"
+    ],
+    "versions": [
+        "Ww07ze0G",
+        "T0Bym3Zk",
+        "FsjKfArq",
+        "6upT4ffn",
+        "ZR63N1i2",
+        "uEeD9JQx"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/2ecVyZ49/icon.png",
+    "issues_url": "https://github.com/VidTu/Ksyxis/issues",
+    "source_url": "https://github.com/VidTu/Ksyxis",
+    "wiki_url": null,
+    "discord_url": "https://discord.gg/kmzepGP9uz",
+    "donation_urls": [],
+    "gallery": []
+}

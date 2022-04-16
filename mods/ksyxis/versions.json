@@ -1,0 +1,224 @@
+[
+    {
+        "id": "uEeD9JQx",
+        "project_id": "2ecVyZ49",
+        "author_id": "7nbTzIvd",
+        "featured": false,
+        "name": "Ksyxis-1.1",
+        "version_number": "1.1",
+        "changelog": "- Fixed [#1](https://github.com/VidTuGit/Ksyxis/issues/1)\n- Fixed [#2](https://github.com/VidTuGit/Ksyxis/issues/2)",
+        "changelog_url": null,
+        "date_published": "2021-10-24T12:22:05.941233Z",
+        "downloads": 1928,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "09852cf9267f9f40796552571cad7021ff3d3d9e",
+                    "sha512": "dc68280c02c1eca07635ab399a8ab2ec599b41c2d6d5eb14e9cc9f30f1c7e2d8c85f1fba306c65f6aef2962ad571a4f10f7d8250dfb37da5575efd8897167788"
+                },
+                "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/1.1/Ksyxis-1.1.jar",
+                "filename": "Ksyxis-1.1.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4",
+            "1.15",
+            "1.15.1",
+            "1.15.2",
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "ZR63N1i2",
+        "project_id": "2ecVyZ49",
+        "author_id": "7nbTzIvd",
+        "featured": false,
+        "name": "Ksyxis-Forge1.17and1.18-1.1",
+        "version_number": "1.1-fo1.17",
+        "changelog": "- Fixed [#1](https://github.com/VidTuGit/Ksyxis/issues/1)\n- Fixed [#2](https://github.com/VidTuGit/Ksyxis/issues/2)",
+        "changelog_url": null,
+        "date_published": "2021-10-24T12:20:48.281945Z",
+        "downloads": 223,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "8f5a4bf6f6da288961b8bbfceccfcb95e7a08c00114ec6e39510db8a1722d2105c822860d224c4b29202fe0de3e1338c2d46c8a32ee422fc6c198672fecc0829",
+                    "sha1": "15de04d92b32e1a62be953afeb25231cd36c954b"
+                },
+                "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/1.1-fo1.17/Ksyxis-Forge1.17-1.1.jar",
+                "filename": "Ksyxis-Forge1.17-1.1.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "Ww07ze0G",
+        "project_id": "2ecVyZ49",
+        "author_id": "7nbTzIvd",
+        "featured": false,
+        "name": "Ksyxis-Forge1.14thru1.16-1.1",
+        "version_number": "1.1-fo1.16",
+        "changelog": "- Fixed [#1](https://github.com/VidTuGit/Ksyxis/issues/1)\n- Fixed [#2](https://github.com/VidTuGit/Ksyxis/issues/2)",
+        "changelog_url": null,
+        "date_published": "2021-10-24T12:19:55.400421Z",
+        "downloads": 169,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "875df6a17ba2b51ad8f4864cc16403d878301e7572c2e99d1bf3e8211d701b4439093547fdfded1122087ff33691256b2d8c5cd338c10ae98eebf331ffcebbe3",
+                    "sha1": "506eede2c4c04ee96c440d5e7e865fc80a009bd3"
+                },
+                "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/1.1-fo1.16/Ksyxis-Forge1.14thru1.16-1.1.jar",
+                "filename": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14.4",
+            "1.15",
+            "1.15.1",
+            "1.15.2",
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "6upT4ffn",
+        "project_id": "2ecVyZ49",
+        "author_id": "7nbTzIvd",
+        "featured": false,
+        "name": "Ksyxis-Forge1.17-1.0",
+        "version_number": "1.0-fo1.17",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-22T15:49:58.666328Z",
+        "downloads": 9,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "12bfe2ed7664bf053d3647946433d979723de469c6343a7db86b161a694842567cdd32bce587b2bc4c0dc0cc8e9c541af0e057d3f64db526ccb36161a2c48beb",
+                    "sha1": "b45b21e9dedda41977310151d01a7a34e6363bd2"
+                },
+                "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/1.0-fo1.17/Ksyxis-Forge1.17-1.0.jar",
+                "filename": "Ksyxis-Forge1.17-1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "FsjKfArq",
+        "project_id": "2ecVyZ49",
+        "author_id": "7nbTzIvd",
+        "featured": false,
+        "name": "Ksyxis-Forge1.14thru1.16-1.0",
+        "version_number": "1.0-fo1.16",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-22T15:48:46.428730Z",
+        "downloads": 12,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "ae2e0433015683059631c94bc54d10eb229a18461a91c3c405595c0b98dcdea45530bd4312ff65684de286e74dea26a19353ff0328b945883aeeff070ca59856",
+                    "sha1": "c5f2c9736c136e3af9de097b2dca452f9c7f9263"
+                },
+                "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/1.0-fo1.16/Ksyxis-Forge1.14thru1.16-1.0.jar",
+                "filename": "Ksyxis-Forge1.14thru1.16-1.0.jar",
+                "primary": false
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14.4",
+            "1.15.2",
+            "1.16.5"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "T0Bym3Zk",
+        "project_id": "2ecVyZ49",
+        "author_id": "7nbTzIvd",
+        "featured": false,
+        "name": "Ksyxis-1.0",
+        "version_number": "1.0",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-10-16T22:17:54.248165Z",
+        "downloads": 79,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "b023ff0873f5ac422cc29e9eefa15913968cb9b275e1ec43f24e0b23f22e0ae5330dfa6ab0ae34ea716100ec9bd4e5b64e244c26896354f0169217df3c5419c3",
+                    "sha1": "c0cf2f4a720dbfa86183c5d0a93f08428eef9c1d"
+                },
+                "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/1.0/Ksyxis-1.0.jar",
+                "filename": "Ksyxis-1.0.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.14.4",
+            "1.15.2",
+            "1.16.5",
+            "1.17.1"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    }
+]

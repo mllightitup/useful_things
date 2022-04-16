@@ -1,6 +1,7 @@
 {
     "id": "msRGy0cC",
     "slug": "entity-distance",
+    "project_type": "mod",
     "team": "2qc8CaFv",
     "title": "Entity Distance",
     "description": "Allows the user to adjust the (client) distance at which different entities render.",
@@ -9,6 +10,7 @@
     "published": "2021-06-22T07:45:27.941958Z",
     "updated": "2022-01-03T00:23:37.332294Z",
     "status": "approved",
+    "moderator_message": null,
     "license": {
         "id": "mit",
         "name": "MIT License",
@@ -16,24 +18,25 @@
     },
     "client_side": "required",
     "server_side": "unsupported",
-    "downloads": 1838,
-    "followers": 12,
+    "downloads": 2501,
+    "followers": 17,
     "categories": [
         "utility"
     ],
     "versions": [
-        "W6uodD31",
+        "GSstfQ67",
+        "GqFOY354",
         "WOdLQLd0",
-        "YZ60r5Ss",
+        "W6uodD31",
         "q35Bju4S",
         "G40M64K7",
-        "GSstfQ67",
-        "GqFOY354"
+        "YZ60r5Ss"
     ],
     "icon_url": "https://cdn.modrinth.com/data/msRGy0cC/icon.png",
     "issues_url": "https://github.com/capnkork/entity-distance/issues",
     "source_url": "https://github.com/capnkork/entity-distance",
     "wiki_url": null,
     "discord_url": null,
-    "donation_urls": []
+    "donation_urls": [],
+    "gallery": []
 }

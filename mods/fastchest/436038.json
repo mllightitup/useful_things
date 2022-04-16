@@ -31,7 +31,7 @@
     "gameId": 432,
     "summary": "Makes Chests use static models instead of BERs.",
     "defaultFileId": 3544190,
-    "downloadCount": 176866.0,
+    "downloadCount": 241537.0,
     "latestFiles": [
         {
             "id": 3544190,
@@ -80,16 +80,32 @@
             ],
             "packageFingerprint": 2721805013,
             "gameVersion": [
+                "1.18.1",
                 "Fabric",
+                "1.18.2",
                 "1.18"
             ],
             "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
                 {
                     "gameVersionPadded": "0",
                     "gameVersion": "",
                     "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
                     "gameVersionName": "Fabric",
                     "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
                 },
                 {
                     "gameVersionPadded": "0000000001.0000000018",
@@ -131,7 +147,7 @@
                     "value": "0e576ea076d1168a22da371778f7badc"
                 }
             ],
-            "downloadCount": 24111
+            "downloadCount": 77152
         }
     ],
     "categories": [
@@ -163,6 +179,24 @@
     },
     "slug": "fastchest",
     "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3544190,
+            "projectFileName": "fast-chest-1.2+1.18.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3544190,
+            "projectFileName": "fast-chest-1.2+1.18.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
         {
             "gameVersion": "1.18",
             "projectFileId": 3544190,
@@ -273,8 +307,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 2083.449951171875,
-    "gamePopularityRank": 3071,
+    "popularityScore": 2202.023193359375,
+    "gamePopularityRank": 3296,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -282,10 +316,10 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2021-12-01T20:06:37.887Z",
+    "dateModified": "2022-03-08T18:02:25.16Z",
     "dateCreated": "2021-01-13T03:33:27.92Z",
     "dateReleased": "2021-12-01T20:05:47.257Z",
     "isAvailable": true,
     "isExperiemental": false,
-    "allowModDistribution": null
+    "allowModDistribution": true
 }

@@ -15,16 +15,6 @@
     ],
     "attachments": [
         {
-            "id": 143405,
-            "projectId": 288885,
-            "description": "",
-            "isDefault": false,
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/143/405/256/256/636549215976380264.png",
-            "title": "636549215976380264.png",
-            "url": "https://media.forgecdn.net/avatars/143/405/636549215976380264.png",
-            "status": 1
-        },
-        {
             "id": 164244,
             "projectId": 288885,
             "description": "",
@@ -41,8 +31,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
     "gameId": 432,
     "summary": "A performance upgrade for the crafting table.",
-    "defaultFileId": 3567080,
-    "downloadCount": 52562408.0,
+    "defaultFileId": 3717873,
+    "downloadCount": 59695465.0,
     "latestFiles": [
         {
             "id": 3002687,
@@ -136,7 +126,7 @@
                     "value": "9c283c2943cb6bd2520546b9cbc90beb"
                 }
             ],
-            "downloadCount": 7798
+            "downloadCount": 7970
         },
         {
             "id": 3245271,
@@ -238,32 +228,32 @@
                     "value": "1e212d41ceb23cdf505f39372b746890"
                 }
             ],
-            "downloadCount": 5157352
+            "downloadCount": 5566113
         },
         {
-            "id": 3567080,
-            "displayName": "FastWorkbench-1.18.1-6.0.0.jar",
-            "fileName": "FastWorkbench-1.18.1-6.0.0.jar",
-            "fileDate": "2021-12-15T01:27:30.77Z",
-            "fileLength": 22573,
+            "id": 3717873,
+            "displayName": "FastWorkbench-1.18.2-6.0.2.jar",
+            "fileName": "FastWorkbench-1.18.2-6.0.2.jar",
+            "fileDate": "2022-03-27T07:50:45.933Z",
+            "fileLength": 22921,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3567/80/FastWorkbench-1.18.1-6.0.0.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3717/873/FastWorkbench-1.18.2-6.0.2.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [
                 {
-                    "id": 81077381,
+                    "id": 90190055,
                     "addonId": 283644,
                     "type": 3,
-                    "fileId": 3567080
+                    "fileId": 3717873
                 }
             ],
             "isAvailable": true,
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 2926181864,
+                    "fingerprint": 2102885436,
                     "type": 3
                 },
                 {
@@ -273,7 +263,7 @@
                 },
                 {
                     "foldername": "assets",
-                    "fingerprint": 2383280829,
+                    "fingerprint": 570473012,
                     "type": 3
                 },
                 {
@@ -292,17 +282,17 @@
                     "type": 3
                 }
             ],
-            "packageFingerprint": 1117675962,
+            "packageFingerprint": 944071921,
             "gameVersion": [
-                "1.18.1",
+                "1.18.2",
                 "Forge"
             ],
             "sortableGameVersion": [
                 {
-                    "gameVersionPadded": "0000000001.0000000018.0000000001",
-                    "gameVersion": "1.18.1",
-                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                    "gameVersionName": "1.18.1",
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
                     "gameVersionTypeId": 73250
                 },
                 {
@@ -320,16 +310,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2633598,
+            "renderCacheId": 2817300,
             "fileLegacyMappingId": null,
             "projectId": 288885,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 809649931,
+            "packageFingerprintId": 889027453,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3570116,
+            "gameVersionMappingId": 3919822,
             "gameVersionId": 7498,
             "gameId": 432,
             "isServerPack": false,
@@ -338,11 +328,11 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "a94a36ce151a838dd5361e09043cf07b09717c71"
+                    "value": "a8225d92bf202e95dc21b56275718efa91d5cdf2"
                 },
                 {
                     "algorithm": 2,
-                    "value": "6b16826b6234a97c7fcb6e7a8d42467e"
+                    "value": "7bca3861fc0ddb1d774bd6fdcfdbcfa7"
                 }
             ],
             "downloadCount": 0
@@ -378,9 +368,18 @@
     "slug": "fastworkbench",
     "gameVersionLatestFiles": [
         {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3717873,
+            "projectFileName": "FastWorkbench-1.18.2-6.0.2.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
             "gameVersion": "1.18.1",
-            "projectFileId": 3567080,
-            "projectFileName": "FastWorkbench-1.18.1-6.0.0.jar",
+            "projectFileId": 3639779,
+            "projectFileName": "FastWorkbench-1.18.1-6.0.1.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -494,8 +493,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 40758.2890625,
-    "gamePopularityRank": 40,
+    "popularityScore": 41600.92578125,
+    "gamePopularityRank": 34,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -503,10 +502,10 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2021-12-15T01:28:35.127Z",
+    "dateModified": "2022-03-27T07:55:36.673Z",
     "dateCreated": "2018-02-22T18:39:57.607Z",
-    "dateReleased": "2021-12-15T01:27:30.77Z",
+    "dateReleased": "2022-03-27T07:50:45.933Z",
     "isAvailable": true,
     "isExperiemental": false,
-    "allowModDistribution": null
+    "allowModDistribution": true
 }

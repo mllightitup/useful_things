@@ -1,7 +1,7 @@
 [
     {
         "id": "gqJWYgtD",
-        "mod_id": "AZomiSrC",
+        "project_id": "AZomiSrC",
         "author_id": "TEZXhE2U",
         "featured": false,
         "name": "Hydrogen 0.3.1 for Minecraft 1.17.1",
@@ -9,7 +9,7 @@
         "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/hydrogen-fabric/releases/tag/mc1.17.1-0.3.1",
         "changelog_url": null,
         "date_published": "2021-07-15T22:33:20.513972Z",
-        "downloads": 39325,
+        "downloads": 44972,
         "version_type": "beta",
         "files": [
             {
@@ -33,7 +33,7 @@
     },
     {
         "id": "nc84mXki",
-        "mod_id": "AZomiSrC",
+        "project_id": "AZomiSrC",
         "author_id": "TEZXhE2U",
         "featured": false,
         "name": "Hydrogen 0.3.0 for Minecraft 1.17",
@@ -41,13 +41,13 @@
         "changelog": "See the change-log on GitHub here: https://github.com/CaffeineMC/hydrogen-fabric/releases/tag/mc1.17-0.3.0",
         "changelog_url": null,
         "date_published": "2021-06-18T23:00:13.457814Z",
-        "downloads": 6192,
+        "downloads": 6250,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "7c7958d2d0646b20e8e5f587e50581c43b4b04839921b6340c6e4da76f52f9cde21713a20dc19857da1f358a9d0cf2c25b321f7c9c4598ebbb467fce66be05b3",
-                    "sha1": "b5cb63186344149eea7b1326afea404ffea25eda"
+                    "sha1": "b5cb63186344149eea7b1326afea404ffea25eda",
+                    "sha512": "7c7958d2d0646b20e8e5f587e50581c43b4b04839921b6340c6e4da76f52f9cde21713a20dc19857da1f358a9d0cf2c25b321f7c9c4598ebbb467fce66be05b3"
                 },
                 "url": "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17-v0.3.0/hydrogen-fabric-mc1.17-0.3.jar",
                 "filename": "hydrogen-fabric-mc1.17-0.3.jar",
@@ -64,7 +64,7 @@
     },
     {
         "id": "aOtQ7hz2",
-        "mod_id": "AZomiSrC",
+        "project_id": "AZomiSrC",
         "author_id": "TEZXhE2U",
         "featured": false,
         "name": "Hydrogen 0.2.0 for Minecraft 1.16.5",
@@ -72,7 +72,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-01-17T21:23:01.032928Z",
-        "downloads": 24171,
+        "downloads": 27758,
         "version_type": "beta",
         "files": [
             {

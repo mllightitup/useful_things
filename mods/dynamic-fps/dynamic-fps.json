@@ -1,0 +1,44 @@
+{
+    "id": "LQ3K71Q1",
+    "slug": "dynamic-fps",
+    "project_type": "mod",
+    "team": "qgYomxyl",
+    "title": "Dynamic FPS",
+    "description": "Improve performance when Minecraft is in the background.",
+    "body": "Dynamic FPS automatically reduces the speed at which Minecraft renders when it's not focused (to 1 FPS) or hidden (no renders at all).\n\nIt also fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should, as well as making the game not render while reloading resources (which can make it take forever on machines with integrated GPUs).\n\nThere is an in-game config screen. To access it, install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)—find Dynamic FPS in the mod list, then click the gear button.",
+    "body_url": "https://cdn.modrinth.com/data/LQ3K71Q1/description.md",
+    "published": "2020-12-01T15:57:46.862046Z",
+    "updated": "2022-01-15T14:43:06.648119Z",
+    "status": "approved",
+    "moderator_message": null,
+    "license": {
+        "id": "mit",
+        "name": "MIT License",
+        "url": "https://cdn.modrinth.com/licenses/mit.txt"
+    },
+    "client_side": "required",
+    "server_side": "unsupported",
+    "downloads": 22501,
+    "followers": 458,
+    "categories": [
+        "utility",
+        "optimization"
+    ],
+    "versions": [
+        "Co2w6nIh",
+        "muZxaaxq",
+        "gVvtLF6M",
+        "kurPEwi6",
+        "oIZUkvvs",
+        "XlBOTUIQ",
+        "RgJGw0dO",
+        "LttnLLIj"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/LQ3K71Q1/icon.png",
+    "issues_url": "https://github.com/juliand665/Dynamic-FPS/issues",
+    "source_url": "https://github.com/juliand665/Dynamic-FPS",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": []
+}

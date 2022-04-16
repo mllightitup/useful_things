@@ -60,34 +60,27 @@
     "sourceUrl": "https://github.com/FionaTheMortal/Better-Biome-Blend",
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-biome-blend",
     "gameId": 432,
-    "summary": "Improves biome color blending",
-    "defaultFileId": 3554486,
-    "downloadCount": 2546440.0,
+    "summary": "Improves and fixes biome color blending",
+    "defaultFileId": 3727559,
+    "downloadCount": 3653168.0,
     "latestFiles": [
         {
-            "id": 3421283,
-            "displayName": "betterbiomeblend-1.17.0-1.2.9-fabric.jar",
-            "fileName": "betterbiomeblend-1.17.0-1.2.9-fabric.jar",
-            "fileDate": "2021-08-10T13:30:58.607Z",
-            "fileLength": 205731,
+            "id": 3727557,
+            "displayName": "betterbiomeblend-1.18.1-1.3.4-fabric.jar",
+            "fileName": "betterbiomeblend-1.18.1-1.3.4-fabric.jar",
+            "fileDate": "2022-04-01T14:44:37.053Z",
+            "fileLength": 216749,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3421/283/betterbiomeblend-1.17.0-1.2.9-fabric.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3727/557/betterbiomeblend-1.18.1-1.3.4-fabric.jar",
             "isAlternate": false,
             "alternateFileId": 0,
-            "dependencies": [
-                {
-                    "id": 71062198,
-                    "addonId": 306612,
-                    "type": 3,
-                    "fileId": 3421283
-                }
-            ],
+            "dependencies": [],
             "isAvailable": true,
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 2464251221,
+                    "fingerprint": 3829223514,
                     "type": 3
                 },
                 {
@@ -96,13 +89,18 @@
                     "type": 3
                 },
                 {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 2250302750,
+                    "type": 3
+                },
+                {
                     "foldername": "fabric.mod.json",
-                    "fingerprint": 3283014389,
+                    "fingerprint": 3474303668,
                     "type": 3
                 },
                 {
                     "foldername": "betterbiomeblend.mixins.json",
-                    "fingerprint": 191867414,
+                    "fingerprint": 4112954535,
                     "type": 3
                 },
                 {
@@ -112,40 +110,32 @@
                 },
                 {
                     "foldername": "assets",
-                    "fingerprint": 706917597,
+                    "fingerprint": 3908619780,
                     "type": 3
                 },
                 {
                     "foldername": "betterbiomeblend-refmap.json",
-                    "fingerprint": 784112220,
+                    "fingerprint": 761622442,
                     "type": 3
                 },
                 {
                     "foldername": "fionathemortal",
-                    "fingerprint": 1856734426,
+                    "fingerprint": 3268568985,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 656350430,
+            "packageFingerprint": 488189148,
             "gameVersion": [
-                "1.17.1",
-                "1.17",
+                "1.18.1",
                 "Fabric"
             ],
             "sortableGameVersion": [
                 {
-                    "gameVersionPadded": "0000000001.0000000017.0000000001",
-                    "gameVersion": "1.17.1",
-                    "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
-                    "gameVersionName": "1.17.1",
-                    "gameVersionTypeId": 73242
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000017",
-                    "gameVersion": "1.17",
-                    "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-                    "gameVersionName": "1.17",
-                    "gameVersionTypeId": 73242
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
                 },
                 {
                     "gameVersionPadded": "0",
@@ -162,16 +152,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2450765,
+            "renderCacheId": 2829377,
             "fileLegacyMappingId": null,
             "projectId": 446253,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 723451492,
+            "packageFingerprintId": 892653140,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3210664,
+            "gameVersionMappingId": 3940997,
             "gameVersionId": 7499,
             "gameId": 432,
             "isServerPack": false,
@@ -180,24 +170,24 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "b0591061085dbeea11256de8fdedac0cc738a7c7"
+                    "value": "0685d5530aef0ca72b0feab951b1a5bf58168ef7"
                 },
                 {
                     "algorithm": 2,
-                    "value": "0d9c8f004076dfc3522383d42ee8d230"
+                    "value": "3ab3543450bb0089c012773ad8a15f2a"
                 }
             ],
-            "downloadCount": 149247
+            "downloadCount": 0
         },
         {
-            "id": 3554486,
-            "displayName": "betterbiomeblend-1.12.2-1.1.7-forge.jar",
-            "fileName": "betterbiomeblend-1.12.2-1.1.7-forge.jar",
-            "fileDate": "2021-12-08T01:53:08.967Z",
-            "fileLength": 37657,
+            "id": 3727559,
+            "displayName": "betterbiomeblend-1.18.1-1.3.4-forge.jar",
+            "fileName": "betterbiomeblend-1.18.1-1.3.4-forge.jar",
+            "fileDate": "2022-04-01T14:45:14.74Z",
+            "fileLength": 44051,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3554/486/betterbiomeblend-1.12.2-1.1.7-forge.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3727/559/betterbiomeblend-1.18.1-1.3.4-forge.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -205,59 +195,54 @@
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 3162715809,
+                    "fingerprint": 1669155173,
                     "type": 3
                 },
                 {
                     "foldername": "fionathemortal",
-                    "fingerprint": 2262711923,
+                    "fingerprint": 39177064,
                     "type": 3
                 },
                 {
                     "foldername": "assets",
-                    "fingerprint": 2957873138,
+                    "fingerprint": 360364717,
                     "type": 3
                 },
                 {
-                    "foldername": "mcmod.info",
-                    "fingerprint": 3388657740,
-                    "type": 3
-                },
-                {
-                    "foldername": "mixins.betterbiomeblend.json",
-                    "fingerprint": 3192564492,
+                    "foldername": "betterbiomeblend.mixins.json",
+                    "fingerprint": 633641801,
                     "type": 3
                 },
                 {
                     "foldername": "pack.mcmeta",
-                    "fingerprint": 383560506,
+                    "fingerprint": 1483798180,
                     "type": 3
                 },
                 {
-                    "foldername": "refmap.betterbiomeblend.json",
-                    "fingerprint": 3668938309,
+                    "foldername": "betterbiomeblend.refmap.json",
+                    "fingerprint": 1742370113,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 3162109178,
+            "packageFingerprint": 2862974419,
             "gameVersion": [
-                "Forge",
-                "1.12.2"
+                "1.18.1",
+                "Forge"
             ],
             "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
                 {
                     "gameVersionPadded": "0",
                     "gameVersion": "",
                     "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
                     "gameVersionName": "Forge",
                     "gameVersionTypeId": 68441
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000012.0000000002",
-                    "gameVersion": "1.12.2",
-                    "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-                    "gameVersionName": "1.12.2",
-                    "gameVersionTypeId": 628
                 }
             ],
             "installMetadata": null,
@@ -267,17 +252,17 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2619112,
+            "renderCacheId": 2829379,
             "fileLegacyMappingId": null,
             "projectId": 446253,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 802688275,
-            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-            "gameVersionMappingId": 3539675,
-            "gameVersionId": 4458,
+            "packageFingerprintId": 892653207,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3941005,
+            "gameVersionId": 7498,
             "gameId": 432,
             "isServerPack": false,
             "serverPackFileId": null,
@@ -285,14 +270,14 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "a9463fed7357f39515707b5bbb4cac780916abf5"
+                    "value": "ceca7430bebf5d29bf6a6c8f866d796455e42699"
                 },
                 {
                     "algorithm": 2,
-                    "value": "6ccdc64158479267c78237682e977040"
+                    "value": "527a3bdd35357977951fbb567734df25"
                 }
             ],
-            "downloadCount": 2431
+            "downloadCount": 0
         }
     ],
     "categories": [
@@ -324,6 +309,42 @@
     },
     "slug": "better-biome-blend",
     "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3727559,
+            "projectFileName": "betterbiomeblend-1.18.1-1.3.4-forge.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3727557,
+            "projectFileName": "betterbiomeblend-1.18.1-1.3.4-fabric.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3692464,
+            "projectFileName": "betterbiomeblend-1.18.2-1.3.4-forge.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3692463,
+            "projectFileName": "betterbiomeblend-1.18.2-1.3.4-fabric.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
         {
             "gameVersion": "1.12.2",
             "projectFileId": 3554486,
@@ -398,8 +419,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 10886.9541015625,
-    "gamePopularityRank": 589,
+    "popularityScore": 13786.9501953125,
+    "gamePopularityRank": 562,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -408,9 +429,9 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2021-12-08T01:53:27.773Z",
+    "dateModified": "2022-04-01T14:54:49.613Z",
     "dateCreated": "2021-02-13T02:22:01.767Z",
-    "dateReleased": "2021-12-08T01:53:08.967Z",
+    "dateReleased": "2022-04-01T14:45:14.74Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

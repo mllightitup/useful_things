@@ -32,7 +32,7 @@
     "gameId": 432,
     "summary": "Performance and logic upgrades for mod AIs",
     "defaultFileId": 3543562,
-    "downloadCount": 27225063.0,
+    "downloadCount": 32065894.0,
     "latestFiles": [
         {
             "id": 2291537,
@@ -116,7 +116,7 @@
                     "value": "fd26b8f19485a2cd13a92369c9be2684"
                 }
             ],
-            "downloadCount": 6059
+            "downloadCount": 6278
         },
         {
             "id": 2468387,
@@ -241,7 +241,7 @@
                     "value": "89be2aa1464314c1e4474825036f3ccf"
                 }
             ],
-            "downloadCount": 2467800
+            "downloadCount": 2479175
         },
         {
             "id": 2524666,
@@ -361,7 +361,7 @@
                     "value": "b9fbddfe338d263b0f2f18134e3ca935"
                 }
             ],
-            "downloadCount": 131602
+            "downloadCount": 146372
         },
         {
             "id": 3005709,
@@ -446,11 +446,11 @@
                     "value": "e889a8ddd2881bc917654239cd87f6e5"
                 }
             ],
-            "downloadCount": 377868
+            "downloadCount": 378564
         },
         {
             "id": 3543562,
-            "displayName": "AI-Improvements-1.18-0.4.0.jar",
+            "displayName": "AI-Improvements-1.18.2-0.4.0.jar",
             "fileName": "AI-Improvements-1.18-0.4.0.jar",
             "fileDate": "2021-12-01T12:57:26.273Z",
             "fileLength": 25323,
@@ -481,6 +481,7 @@
             "packageFingerprint": 1822903046,
             "gameVersion": [
                 "1.18.1",
+                "1.18.2",
                 "Forge",
                 "1.18"
             ],
@@ -490,6 +491,13 @@
                     "gameVersion": "1.18.1",
                     "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
                     "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
                     "gameVersionTypeId": 73250
                 },
                 {
@@ -539,23 +547,10 @@
                     "value": "46659413d023b8135750cdc6f2b22a0a"
                 }
             ],
-            "downloadCount": 249611
+            "downloadCount": 1177994
         }
     ],
     "categories": [
-        {
-            "categoryId": 411,
-            "name": "Mobs",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-            "parentId": 406,
-            "rootId": 6,
-            "projectId": 233019,
-            "avatarId": 6053,
-            "gameId": 432,
-            "slug": "world-mobs",
-            "dateModified": "2014-05-08T17:46:59.507Z"
-        },
         {
             "categoryId": 435,
             "name": "Server Utility",
@@ -568,6 +563,19 @@
             "gameId": 432,
             "slug": "server-utility",
             "dateModified": "2014-05-08T17:44:55.057Z"
+        },
+        {
+            "categoryId": 411,
+            "name": "Mobs",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+            "parentId": 406,
+            "rootId": 6,
+            "projectId": 233019,
+            "avatarId": 6053,
+            "gameId": 432,
+            "slug": "world-mobs",
+            "dateModified": "2014-05-08T17:46:59.507Z"
         }
     ],
     "status": 4,
@@ -586,6 +594,15 @@
     "gameVersionLatestFiles": [
         {
             "gameVersion": "1.18.1",
+            "projectFileId": 3543562,
+            "projectFileName": "AI-Improvements-1.18-0.4.0.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.2",
             "projectFileId": 3543562,
             "projectFileName": "AI-Improvements-1.18-0.4.0.jar",
             "fileType": 1,
@@ -732,8 +749,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 31245.630859375,
-    "gamePopularityRank": 105,
+    "popularityScore": 33716.1796875,
+    "gamePopularityRank": 73,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -741,7 +758,7 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2021-12-13T10:01:25.63Z",
+    "dateModified": "2022-03-19T18:27:15.373Z",
     "dateCreated": "2015-07-22T04:15:26.557Z",
     "dateReleased": "2021-12-01T12:57:26.273Z",
     "isAvailable": true,

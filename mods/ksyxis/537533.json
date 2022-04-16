@@ -1,0 +1,721 @@
+{
+    "id": 537533,
+    "name": "Ksyxis",
+    "authors": [
+        {
+            "name": "VidTu",
+            "url": "https://www.curseforge.com/members/46091307-vidtu?username=vidtu",
+            "projectId": 537533,
+            "id": 456437,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 46091307,
+            "twitchId": 194399738
+        }
+    ],
+    "attachments": [
+        {
+            "id": 444893,
+            "projectId": 537533,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/444/893/256/256/637700199435397339.png",
+            "title": "637700199435397339.png",
+            "url": "https://media.forgecdn.net/avatars/444/893/637700199435397339.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/VidTu/Ksyxis/issues",
+    "sourceUrl": "https://github.com/VidTu/Ksyxis",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ksyxis",
+    "gameId": 432,
+    "summary": " Speed up the loading of your world.",
+    "defaultFileId": 3502167,
+    "downloadCount": 159822.0,
+    "latestFiles": [
+        {
+            "id": 3502166,
+            "displayName": "Ksyxis-Forge1.17and1.18-1.1.jar",
+            "fileName": "Ksyxis-Forge1.17-1.1.jar",
+            "fileDate": "2021-10-24T12:25:38.583Z",
+            "fileLength": 9147,
+            "releaseType": 2,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3502/166/Ksyxis-Forge1.17-1.1.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1677130908,
+                    "type": 3
+                },
+                {
+                    "foldername": "ru",
+                    "fingerprint": 1154724685,
+                    "type": 3
+                },
+                {
+                    "foldername": "ksyxis.mixins.json",
+                    "fingerprint": 1439179164,
+                    "type": 3
+                },
+                {
+                    "foldername": "ksyxis.png",
+                    "fingerprint": 4237418597,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 795157652,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE_Ksyxis-Forge1.17",
+                    "fingerprint": 3898319657,
+                    "type": 3
+                },
+                {
+                    "foldername": "ksyxis.refmap.json",
+                    "fingerprint": 2670770685,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 3260231196,
+            "gameVersion": [
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "Forge",
+                "1.18"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000017.0000000001",
+                    "gameVersion": "1.17.1",
+                    "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+                    "gameVersionName": "1.17.1",
+                    "gameVersionTypeId": 73242
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018",
+                    "gameVersion": "1.18",
+                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                    "gameVersionName": "1.18",
+                    "gameVersionTypeId": 73250
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2554277,
+            "fileLegacyMappingId": null,
+            "projectId": 537533,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 769242504,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3408738,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "15de04d92b32e1a62be953afeb25231cd36c954b"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "ea237c5617c66ee921ba3d357d793eff"
+                }
+            ],
+            "downloadCount": 5622
+        },
+        {
+            "id": 3502167,
+            "displayName": "Ksyxis-1.1.jar",
+            "fileName": "Ksyxis-1.1.jar",
+            "fileDate": "2021-10-24T12:26:22.487Z",
+            "fileLength": 9605,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3502/167/Ksyxis-1.1.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "LICENSE_Ksyxis",
+                    "fingerprint": 3898319657,
+                    "type": 3
+                },
+                {
+                    "foldername": "ksyxis.png",
+                    "fingerprint": 4237418597,
+                    "type": 3
+                },
+                {
+                    "foldername": "ksyxis.mixins.json",
+                    "fingerprint": 904423130,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 3574436613,
+                    "type": 3
+                },
+                {
+                    "foldername": "Ksyxis-refmap.json",
+                    "fingerprint": 3383317369,
+                    "type": 3
+                },
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 2464251221,
+                    "type": 3
+                },
+                {
+                    "foldername": "ru",
+                    "fingerprint": 1494341640,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 3387606957,
+            "gameVersion": [
+                "1.17.1",
+                "1.16.3",
+                "1.16.1",
+                "1.18.1",
+                "1.14.4",
+                "1.17",
+                "Fabric",
+                "1.15",
+                "1.16",
+                "1.19-Snapshot",
+                "1.16.5",
+                "1.18.2",
+                "1.15.2",
+                "1.18",
+                "1.16.4",
+                "1.16.2",
+                "1.15.1"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000017.0000000001",
+                    "gameVersion": "1.17.1",
+                    "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+                    "gameVersionName": "1.17.1",
+                    "gameVersionTypeId": 73242
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000003",
+                    "gameVersion": "1.16.3",
+                    "gameVersionReleaseDate": "2020-09-10T14:44:20.443Z",
+                    "gameVersionName": "1.16.3",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000001",
+                    "gameVersion": "1.16.1",
+                    "gameVersionReleaseDate": "2020-06-24T12:41:11.823Z",
+                    "gameVersionName": "1.16.1",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000014.0000000004",
+                    "gameVersion": "1.14.4",
+                    "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+                    "gameVersionName": "1.14.4",
+                    "gameVersionTypeId": 64806
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000017",
+                    "gameVersion": "1.17",
+                    "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+                    "gameVersionName": "1.17",
+                    "gameVersionTypeId": 73242
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Fabric",
+                    "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000015",
+                    "gameVersion": "1.15",
+                    "gameVersionReleaseDate": "2019-12-10T15:26:51.027Z",
+                    "gameVersionName": "1.15",
+                    "gameVersionTypeId": 68722
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016",
+                    "gameVersion": "1.16",
+                    "gameVersionReleaseDate": "2020-06-23T13:41:08.75Z",
+                    "gameVersionName": "1.16",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000019",
+                    "gameVersion": "1.19",
+                    "gameVersionReleaseDate": "2022-02-21T00:00:00Z",
+                    "gameVersionName": "1.19-Snapshot",
+                    "gameVersionTypeId": 73407
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000015.0000000002",
+                    "gameVersion": "1.15.2",
+                    "gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+                    "gameVersionName": "1.15.2",
+                    "gameVersionTypeId": 68722
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018",
+                    "gameVersion": "1.18",
+                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                    "gameVersionName": "1.18",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000004",
+                    "gameVersion": "1.16.4",
+                    "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+                    "gameVersionName": "1.16.4",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000016.0000000002",
+                    "gameVersion": "1.16.2",
+                    "gameVersionReleaseDate": "2020-08-11T16:42:21.863Z",
+                    "gameVersionName": "1.16.2",
+                    "gameVersionTypeId": 70886
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000015.0000000001",
+                    "gameVersion": "1.15.1",
+                    "gameVersionReleaseDate": "2019-12-17T00:00:00Z",
+                    "gameVersionName": "1.15.1",
+                    "gameVersionTypeId": 68722
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2554278,
+            "fileLegacyMappingId": null,
+            "projectId": 537533,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 769242521,
+            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+            "gameVersionMappingId": 3408743,
+            "gameVersionId": 4458,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "09852cf9267f9f40796552571cad7021ff3d3d9e"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "f73eb71367fd65a53d0976ad08afa595"
+                }
+            ],
+            "downloadCount": 145539
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 406,
+            "name": "World Gen",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 537533,
+            "avatarId": 6026,
+            "gameId": 432,
+            "slug": "world-gen",
+            "dateModified": "2017-10-16T21:40:11.473Z"
+        },
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 537533,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
+        },
+        {
+            "categoryId": 425,
+            "name": "Miscellaneous",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 537533,
+            "avatarId": 6040,
+            "gameId": 432,
+            "slug": "mc-miscellaneous",
+            "dateModified": "2014-06-15T04:27:14.543Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 425,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "ksyxis",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.14.4",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 64806,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.15",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.15.1",
+            "projectFileId": 3502167,
+            "projectFileName": "Ksyxis-1.1.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.17.1",
+            "projectFileId": 3502166,
+            "projectFileName": "Ksyxis-Forge1.17-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73242,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3502166,
+            "projectFileName": "Ksyxis-Forge1.17-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3502166,
+            "projectFileName": "Ksyxis-Forge1.17-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18",
+            "projectFileId": 3502166,
+            "projectFileName": "Ksyxis-Forge1.17-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.14.4",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 64806,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.15.2",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.3",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.1",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.15",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.4",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.16.2",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.15.1",
+            "projectFileId": 3502164,
+            "projectFileName": "Ksyxis-Forge1.14thru1.16-1.1.jar",
+            "fileType": 2,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 68722,
+            "modLoader": 1
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 3181.91552734375,
+    "gamePopularityRank": 2653,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2022-04-14T07:21:11.523Z",
+    "dateCreated": "2021-10-16T22:25:43.497Z",
+    "dateReleased": "2021-10-24T12:26:22.487Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": true
+}

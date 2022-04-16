@@ -1,0 +1,229 @@
+{
+    "id": 582640,
+    "name": "Better Fps - Render Distance[Fabric]",
+    "authors": [
+        {
+            "name": "someaddon",
+            "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon",
+            "projectId": 582640,
+            "id": 505477,
+            "projectTitleId": null,
+            "projectTitleTitle": null,
+            "userId": 100114338,
+            "twitchId": 446731041
+        }
+    ],
+    "attachments": [
+        {
+            "id": 531772,
+            "projectId": 582640,
+            "description": "",
+            "isDefault": true,
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/531/772/256/256/637854365197294123.png",
+            "title": "637854365197294123.png",
+            "url": "https://media.forgecdn.net/avatars/531/772/637854365197294123.png",
+            "status": 1
+        }
+    ],
+    "issueTrackerUrl": "https://github.com/someaddons/betterfpsdistances/issues",
+    "wikiUrl": "",
+    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric",
+    "gameId": 432,
+    "summary": "Better fps for 1.16+ minecraft, improved render distances",
+    "defaultFileId": 3659147,
+    "downloadCount": 138022.0,
+    "latestFiles": [
+        {
+            "id": 3659147,
+            "displayName": "betterfpsdist-fabric-1.18-1.7.jar",
+            "fileName": "betterfpsdist-fabric-1.18-1.7.jar",
+            "fileDate": "2022-02-23T16:56:10.657Z",
+            "fileLength": 20779,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3659/147/betterfpsdist-fabric-1.18-1.7.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 3878706575,
+                    "type": 3
+                },
+                {
+                    "foldername": "LICENSE_betterfpsdist-fabric",
+                    "fingerprint": 18375977,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1438559181,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 2588566022,
+                    "type": 3
+                },
+                {
+                    "foldername": "betterfpsdist.mixins.json",
+                    "fingerprint": 3196812388,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 4288801447,
+                    "type": 3
+                },
+                {
+                    "foldername": "betterfpsdist-fabric-refmap.json",
+                    "fingerprint": 1578594931,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 2351117538,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 553165522,
+            "gameVersion": [
+                "1.18.1",
+                "Fabric",
+                "1.18.2"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Fabric",
+                    "gameVersionTypeId": 68441
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2747806,
+            "fileLegacyMappingId": null,
+            "projectId": 582640,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 866137793,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3798964,
+            "gameVersionId": 7499,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "cc5a1e4751607f975cfaa9fbbb92c0e66dacd646"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "9e79d0cbc5add64f9015890241eafc73"
+                }
+            ],
+            "downloadCount": 47966
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 425,
+            "name": "Miscellaneous",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 582640,
+            "avatarId": 6040,
+            "gameId": 432,
+            "slug": "mc-miscellaneous",
+            "dateModified": "2014-06-15T04:27:14.543Z"
+        },
+        {
+            "categoryId": 424,
+            "name": "Cosmetic",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 582640,
+            "avatarId": 6039,
+            "gameId": 432,
+            "slug": "cosmetic",
+            "dateModified": "2014-05-08T17:42:35.597Z"
+        }
+    ],
+    "status": 4,
+    "primaryCategoryId": 425,
+    "categorySection": {
+        "id": 8,
+        "gameId": 432,
+        "name": "Mods",
+        "packageType": 6,
+        "path": "mods",
+        "initialInclusionPattern": ".",
+        "extraIncludePattern": null,
+        "gameCategoryId": 6
+    },
+    "slug": "better-fps-render-distance-fabric",
+    "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3659147,
+            "projectFileName": "betterfpsdist-fabric-1.18-1.7.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3659147,
+            "projectFileName": "betterfpsdist-fabric-1.18-1.7.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 4
+        }
+    ],
+    "isFeatured": false,
+    "popularityScore": 3255.930419921875,
+    "gamePopularityRank": 2034,
+    "primaryLanguage": "enUS",
+    "gameSlug": "minecraft",
+    "gameName": "Minecraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2022-03-18T12:14:41.963Z",
+    "dateCreated": "2022-02-23T16:54:10.243Z",
+    "dateReleased": "2022-02-23T16:56:10.657Z",
+    "isAvailable": true,
+    "isExperiemental": false,
+    "allowModDistribution": true
+}

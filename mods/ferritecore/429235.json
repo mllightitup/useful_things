@@ -31,8 +31,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
     "gameId": 432,
     "summary": "Memory usage optimizations",
-    "defaultFileId": 3485636,
-    "downloadCount": 11394478.0,
+    "defaultFileId": 3672146,
+    "downloadCount": 15411893.0,
     "latestFiles": [
         {
             "id": 3222546,
@@ -167,147 +167,7 @@
                     "value": "f159602c47b69c1f193a802b7720e80f"
                 }
             ],
-            "downloadCount": 11745
-        },
-        {
-            "id": 3485636,
-            "displayName": "ferritecore-2.1.0-forge.jar",
-            "fileName": "ferritecore-2.1.0-forge.jar",
-            "fileDate": "2021-10-09T11:07:30.687Z",
-            "fileLength": 108520,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3485/636/ferritecore-2.1.0-forge.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 2628354756,
-                    "type": 3
-                },
-                {
-                    "foldername": "googleaccess",
-                    "fingerprint": 2003153283,
-                    "type": 3
-                },
-                {
-                    "foldername": "logo.png",
-                    "fingerprint": 3369927219,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.predicates.mixin.json",
-                    "fingerprint": 1322969185,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.mrl.mixin.json",
-                    "fingerprint": 1186793239,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.fastmap.mixin.json",
-                    "fingerprint": 1274405922,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.dedupmultipart.mixin.json",
-                    "fingerprint": 4096495031,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.dedupbakedquad.mixin.json",
-                    "fingerprint": 1286500205,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.chunknbt.mixin.json",
-                    "fingerprint": 4009643519,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.blockstatecache.mixin.json",
-                    "fingerprint": 352172374,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore-common-refmap.json",
-                    "fingerprint": 4148642999,
-                    "type": 3
-                },
-                {
-                    "foldername": "pack.mcmeta",
-                    "fingerprint": 2809587253,
-                    "type": 3
-                },
-                {
-                    "foldername": "assets",
-                    "fingerprint": 3448462194,
-                    "type": 3
-                },
-                {
-                    "foldername": "malte0811",
-                    "fingerprint": 601212093,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 3613242926,
-            "gameVersion": [
-                "1.16.5",
-                "Forge"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0000000001.0000000016.0000000005",
-                    "gameVersion": "1.16.5",
-                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-                    "gameVersionName": "1.16.5",
-                    "gameVersionTypeId": 70886
-                },
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Forge",
-                    "gameVersionTypeId": 68441
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2533142,
-            "fileLegacyMappingId": null,
-            "projectId": 429235,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 759315853,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3367961,
-            "gameVersionId": 7498,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "50e7db5712b5ab8a2d96624eaff11cacb067824a"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "6b469b99aa6f89b6ebad7aefa3cb9843"
-                }
-            ],
-            "downloadCount": 2705820
+            "downloadCount": 13905
         },
         {
             "id": 3550045,
@@ -445,7 +305,142 @@
                     "value": "7285abe0869cfb4862b8ab33985627fa"
                 }
             ],
-            "downloadCount": 234169
+            "downloadCount": 734077
+        },
+        {
+            "id": 3672146,
+            "displayName": "ferritecore-4.2.0-forge.jar",
+            "fileName": "ferritecore-4.2.0-forge.jar",
+            "fileDate": "2022-03-04T15:16:31.067Z",
+            "fileLength": 106664,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3672/146/ferritecore-4.2.0-forge.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 1668293732,
+                    "type": 3
+                },
+                {
+                    "foldername": "googleaccess",
+                    "fingerprint": 2160947373,
+                    "type": 3
+                },
+                {
+                    "foldername": "logo.png",
+                    "fingerprint": 3369927219,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.threaddetec.mixin.json",
+                    "fingerprint": 1873930925,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.predicates.mixin.json",
+                    "fingerprint": 1051624304,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.mrl.mixin.json",
+                    "fingerprint": 1400714887,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.fastmap.mixin.json",
+                    "fingerprint": 2840470744,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.dedupmultipart.mixin.json",
+                    "fingerprint": 1879826279,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.dedupbakedquad.mixin.json",
+                    "fingerprint": 3150701946,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.blockstatecache.mixin.json",
+                    "fingerprint": 3228485139,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore-common-refmap.json",
+                    "fingerprint": 370183679,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 2809587253,
+                    "type": 3
+                },
+                {
+                    "foldername": "malte0811",
+                    "fingerprint": 1458058363,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 3241999197,
+            "gameVersion": [
+                "1.18.2",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2763074,
+            "fileLegacyMappingId": null,
+            "projectId": 429235,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 872199701,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 3828241,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "304cc2f2733ae944b04082d77138bf69c465ff08"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "434a15e402e85f4699451e9e6c95db32"
+                }
+            ],
+            "downloadCount": 0
         }
     ],
     "categories": [
@@ -477,6 +472,24 @@
     },
     "slug": "ferritecore",
     "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3672146,
+            "projectFileName": "ferritecore-4.2.0-forge.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3652644,
+            "projectFileName": "ferritecore-4.1.2-forge.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
         {
             "gameVersion": "1.18.1",
             "projectFileId": 3550045,
@@ -542,8 +555,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 33501.99609375,
-    "gamePopularityRank": 91,
+    "popularityScore": 33330.42578125,
+    "gamePopularityRank": 94,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -552,9 +565,9 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2021-12-17T08:18:27.407Z",
+    "dateModified": "2022-03-04T15:18:13.237Z",
     "dateCreated": "2020-12-18T07:53:54.373Z",
-    "dateReleased": "2021-12-05T09:21:46.763Z",
+    "dateReleased": "2022-03-04T15:16:31.067Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true
