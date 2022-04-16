@@ -15,11 +15,11 @@
 2. Create all files in md_creator at once for each version and loader
 
 ### Future plans:
-
-1. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
+1. Create an md file to check the versions of mods (from a common list), rather than a manually filled in list for each version
+2. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
 prepare template for maintainer
-2. Rework md_creator, version and loader check(coz bad code)
-3. Authors REWORK(replace authors -> teams)
+3. Rework md_creator, version and loader check(coz bad code)
+4. Authors REWORK(replace authors -> teams)
 
 ### TEST:
 
