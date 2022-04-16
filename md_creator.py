@@ -2,7 +2,7 @@ import glob
 import json
 import os
 
-import author as author
+#import author as author
 
 from const import links, header, footer
 
@@ -61,7 +61,7 @@ def modrinth(values):
             else:
                 author_name = author_json['name']
 
-            line = f"| [{mod_json['title']}]({link}) | {mod_json['description']} | {author_name} | {environment} | {discord} [Github]({mod_json['issues_url']}) {wiki}"
+            line = f"| [{mod_json['title'].capitalize()}]({link}) | {mod_json['description']} | {author_name} | {environment} | {discord} [Github]({mod_json['issues_url']}) {wiki}"
             lines.append(line)
     return lines
 
@@ -69,17 +69,13 @@ def modrinth(values):
 def md_create(version, loader):
     for keys, values in links.items():
         if version in keys and loader in keys:
-            cf_lines = curseforge(values)
-            mr_lines = modrinth(values)
-            # print(cf_lines)
-            # print(mr_lines)
-            cf = '\n'.join(cf_lines)
-            mr = '\n'.join(mr_lines)
+            merged = sorted((curseforge(values) + modrinth(values)))
+            cf_mr = '\n'.join(merged)
             path = f"./performance/{keys}.md"
             os.makedirs(os.path.dirname(path), exist_ok=True)
             with open(path, "w", encoding='utf8') as out_file:
                 header1 = header.replace('{versions}', f'{version}').replace('{loaders}', f'{loader.capitalize()}')
-                out_file.write(header1 + mr + cf + footer)
+                out_file.write(header1 + cf_mr + footer)
 
 
 if __name__ == '__main__':
