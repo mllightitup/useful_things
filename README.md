@@ -15,7 +15,7 @@
 2. Create all files in md_creator at once for each version and loader
 
 ### Future plans:
-1. Create an md file to check the versions of mods (from a common list), rather than a manually filled in list for each version
+1. md_creator based on checking the general list of mods and their versions, rather than manually filling in the list of mods for each individual version
 2. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
 prepare template for maintainer
 3. Rework md_creator, version and loader check(coz bad code)
