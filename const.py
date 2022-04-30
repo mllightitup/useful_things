@@ -65,7 +65,7 @@ links = {
     '1.18.x-forge':
         [
 
-            548115,
+            'https://modrinth.com/mod/alternate-current',
             233019,
             551520,
             446253,
