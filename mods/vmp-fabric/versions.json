@@ -9,7 +9,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-03-02T09:15:40.770943Z",
-        "downloads": 1092,
+        "downloads": 1489,
         "version_type": "beta",
         "files": [
             {
@@ -40,13 +40,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-01-20T08:28:34.426514Z",
-        "downloads": 925,
+        "downloads": 981,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "1bbf215f46e1c507c3ca86b083fef90b5d4f93d890aff4ad2ebb018580a7635d1e0ffd8648bc57c4fc64a684f16df4d55d89d1dbcd2743e9b4110e5b5aca42e8",
-                    "sha1": "684370ee1f517677a51789099a0cb7d4e3bcfdff"
+                    "sha1": "684370ee1f517677a51789099a0cb7d4e3bcfdff",
+                    "sha512": "1bbf215f46e1c507c3ca86b083fef90b5d4f93d890aff4ad2ebb018580a7635d1e0ffd8648bc57c4fc64a684f16df4d55d89d1dbcd2743e9b4110e5b5aca42e8"
                 },
                 "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.3.8 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.3.8-all.jar",
                 "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.3.8-all.jar",
@@ -71,7 +71,7 @@
         "changelog": "**VMP 0.2.0+beta.3 for Minecraft 1.18.1 is released**\n\nThis release fixes bugs, improves compatibility and adds some measurable performance improvements. \n\nChangelog: \n- Delays initialization of ingredient cache (#5)\n- Handles chunk sending using AreaMap (Fixes some chunks not properly sending)\n- Improves entity iteration further for collision and possibly other things\n- Fixes incompatibility with `Carpet-TIS-Addition`\n\n**Full Changelog**: https://github.com/RelativityMC/VMP-fabric/compare/0.2.0+beta.2...0.2.0+beta.3\n",
         "changelog_url": null,
         "date_published": "2022-01-06T07:07:22.082307Z",
-        "downloads": 328,
+        "downloads": 337,
         "version_type": "beta",
         "files": [
             {
@@ -102,13 +102,13 @@
         "changelog": "Fix some chunks not being sent to client  \nOptimize entity iteration for cramming and possibly other things  \nUse square instead of circle  \n",
         "changelog_url": null,
         "date_published": "2022-01-01T14:31:08.417414Z",
-        "downloads": 120,
+        "downloads": 124,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "9ab1663e80757ee3e51102a3a104d061c7b902a6064d6710b3de492467a2831490ffbe88effea27829b983ebd0fbb9a144e670896bef412d6bb86aeb0096792c",
-                    "sha1": "9ed693b58d36f52deefa4a3853557196161468a2"
+                    "sha1": "9ed693b58d36f52deefa4a3853557196161468a2",
+                    "sha512": "9ab1663e80757ee3e51102a3a104d061c7b902a6064d6710b3de492467a2831490ffbe88effea27829b983ebd0fbb9a144e670896bef412d6bb86aeb0096792c"
                 },
                 "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.2.18 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.2.18-all.jar",
                 "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.2.18-all.jar",
@@ -133,13 +133,13 @@
         "changelog": "This release fixes an important crash and adds a minor performance improvements.",
         "changelog_url": null,
         "date_published": "2021-12-19T07:20:43.912063Z",
-        "downloads": 287,
+        "downloads": 292,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "77680f821e6e3d013ab8b6112c77a5c35c2bda439560e0505289da674ec17afde89e4000bfdb66ad5b386e54355ddb259aebf0e35fbb8cece8828f772f4e4d71",
-                    "sha1": "09905b7db78ba8caba0afcd81a4408763556cb00"
+                    "sha1": "09905b7db78ba8caba0afcd81a4408763556cb00",
+                    "sha512": "77680f821e6e3d013ab8b6112c77a5c35c2bda439560e0505289da674ec17afde89e4000bfdb66ad5b386e54355ddb259aebf0e35fbb8cece8828f772f4e4d71"
                 },
                 "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.2 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.2.0-all.jar",
                 "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.2.0-all.jar",
@@ -164,13 +164,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-12-11T05:40:24.808994Z",
-        "downloads": 157,
+        "downloads": 160,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "df5c5dde91c16bea8a3dce92a91072d68e6d861634889ad3db60f52ac396884886a14b4461c0a14440b780f2b9ee7cbddc9d1228daf9899a105d3b0aca0e58ec",
-                    "sha1": "f2e8db11f6a0fd592c33c54970dc23afa12156ab"
+                    "sha1": "f2e8db11f6a0fd592c33c54970dc23afa12156ab",
+                    "sha512": "df5c5dde91c16bea8a3dce92a91072d68e6d861634889ad3db60f52ac396884886a14b4461c0a14440b780f2b9ee7cbddc9d1228daf9899a105d3b0aca0e58ec"
                 },
                 "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.1.5 1.18.1/vmp-fabric-mc1.18.1-0.2.0+beta.1.5-all.jar",
                 "filename": "vmp-fabric-mc1.18.1-0.2.0+beta.1.5-all.jar",
@@ -195,7 +195,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-12-05T03:00:09.286680Z",
-        "downloads": 137,
+        "downloads": 143,
         "version_type": "beta",
         "files": [
             {

@@ -30,7 +30,7 @@
     "gameId": 432,
     "summary": "Caches recipe finding for crafting and furnaces",
     "defaultFileId": 3487949,
-    "downloadCount": 99674.0,
+    "downloadCount": 144955.0,
     "latestFiles": [
         {
             "id": 3487949,
@@ -245,8 +245,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 1580.845947265625,
-    "gamePopularityRank": 3516,
+    "popularityScore": 1563.7021484375,
+    "gamePopularityRank": 3505,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [

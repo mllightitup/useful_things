@@ -9,7 +9,7 @@
         "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases/) for all changes between prior versions.",
         "changelog_url": null,
         "date_published": "2022-04-11T04:32:43.439077Z",
-        "downloads": 21,
+        "downloads": 58,
         "version_type": "beta",
         "files": [
             {
@@ -40,13 +40,13 @@
         "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases) for all changes between prior versions.",
         "changelog_url": null,
         "date_published": "2022-01-28T12:14:17.400719Z",
-        "downloads": 314,
+        "downloads": 336,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "5e74ea1309634e7dfb998704ed5fc36feaa3367b",
-                    "sha512": "633438dbbbb8b010528df7cf9cb7141a4bdebfc3c7d929164872d4ea69d878e66ea802e1dbcbb81d5184a9f72fe975ad7c4397ce3a8a9131e4a9eda5e5d16492"
+                    "sha512": "633438dbbbb8b010528df7cf9cb7141a4bdebfc3c7d929164872d4ea69d878e66ea802e1dbcbb81d5184a9f72fe975ad7c4397ce3a8a9131e4a9eda5e5d16492",
+                    "sha1": "5e74ea1309634e7dfb998704ed5fc36feaa3367b"
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-fabric.jar",
                 "filename": "observable-1.2.3-fabric.jar",
@@ -54,8 +54,8 @@
             },
             {
                 "hashes": {
-                    "sha512": "4f9e1b6c1e16eee7b53153145cd431378aa800cedcd9f2ddd3cc293079377b86ab3b3f62a786a5ad51b251999e8f5401a7695aa96d186550a58ac9edc22a90a3",
-                    "sha1": "670a386f094aac4e37f856a586cbaff2bb6b12cc"
+                    "sha1": "670a386f094aac4e37f856a586cbaff2bb6b12cc",
+                    "sha512": "4f9e1b6c1e16eee7b53153145cd431378aa800cedcd9f2ddd3cc293079377b86ab3b3f62a786a5ad51b251999e8f5401a7695aa96d186550a58ac9edc22a90a3"
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-forge.jar",
                 "filename": "observable-1.2.3-forge.jar",
@@ -81,13 +81,13 @@
         "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases) for all changes between versions.",
         "changelog_url": null,
         "date_published": "2022-01-28T12:12:18.552460Z",
-        "downloads": 148,
+        "downloads": 158,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "9f1c655bdac13e40bb9447dcce87f5946bc4c7369ddfc717c90a23675b8fd4c1583b5ea46031ce9bae2f417f527d7d197fa432857ddb21267f742c073308c3f8",
-                    "sha1": "ed7bf6fffa7c12b111aa84c7da6495d510e7b3bc"
+                    "sha1": "ed7bf6fffa7c12b111aa84c7da6495d510e7b3bc",
+                    "sha512": "9f1c655bdac13e40bb9447dcce87f5946bc4c7369ddfc717c90a23675b8fd4c1583b5ea46031ce9bae2f417f527d7d197fa432857ddb21267f742c073308c3f8"
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.2.1/observable-0.2.1-fabric.jar",
                 "filename": "observable-0.2.1-fabric.jar",
@@ -95,8 +95,8 @@
             },
             {
                 "hashes": {
-                    "sha1": "1a7d3b1af5b6f9c6cfc7b27f931dec519f26ed7a",
-                    "sha512": "308979ec47b3e5156e93a4d2a002b218ef3c06181cb035e6af1c5a429341bdcbd801c6f3f808ded02b44790dbf37c98e2fcf65b294b692f37e4d87ef4fda1990"
+                    "sha512": "308979ec47b3e5156e93a4d2a002b218ef3c06181cb035e6af1c5a429341bdcbd801c6f3f808ded02b44790dbf37c98e2fcf65b294b692f37e4d87ef4fda1990",
+                    "sha1": "1a7d3b1af5b6f9c6cfc7b27f931dec519f26ed7a"
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.2.1/observable-0.2.1-forge.jar",
                 "filename": "observable-0.2.1-forge.jar",
@@ -122,7 +122,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-08-16T21:38:20.720800Z",
-        "downloads": 57,
+        "downloads": 59,
         "version_type": "beta",
         "files": [
             {
@@ -163,7 +163,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-07-30T21:45:12.630453Z",
-        "downloads": 52,
+        "downloads": 54,
         "version_type": "alpha",
         "files": [
             {

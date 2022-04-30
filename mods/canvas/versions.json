@@ -9,7 +9,7 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2308. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2022-03-05T20:32:50.382953Z",
-        "downloads": 153,
+        "downloads": 199,
         "version_type": "beta",
         "files": [
             {
@@ -40,7 +40,7 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2282. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2022-01-10T17:03:48.877034Z",
-        "downloads": 222,
+        "downloads": 232,
         "version_type": "beta",
         "files": [
             {
@@ -71,7 +71,7 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2279. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-24T19:52:29.507133Z",
-        "downloads": 88,
+        "downloads": 89,
         "version_type": "beta",
         "files": [
             {
@@ -102,7 +102,7 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2264. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-24T18:42:45.921426Z",
-        "downloads": 8,
+        "downloads": 10,
         "version_type": "beta",
         "files": [
             {
@@ -133,13 +133,13 @@
         "changelog": "The project has been updated to fabric-mc117-1.0.2230. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-11T03:51:17.895786Z",
-        "downloads": 51,
+        "downloads": 54,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "b97e91dfdc21993c0d51d793b744bbc276136563068931cfc642e5a03f4457c3f1e17d7159d309431050d0bb56533ec725cc480f5d9558882c93d5b9797b186a",
-                    "sha1": "cadaeeea5d309dcea7608ab17ebcbca116e53767"
+                    "sha1": "cadaeeea5d309dcea7608ab17ebcbca116e53767",
+                    "sha512": "b97e91dfdc21993c0d51d793b744bbc276136563068931cfc642e5a03f4457c3f1e17d7159d309431050d0bb56533ec725cc480f5d9558882c93d5b9797b186a"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc117-1.0.2230/canvas-fabric-mc117-1.0.2230.jar",
                 "filename": "canvas-fabric-mc117-1.0.2230.jar",
@@ -164,13 +164,13 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2256. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-11T03:48:41.461197Z",
-        "downloads": 81,
+        "downloads": 83,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "2e9fda5dc65f656be87bb754846507cb637a54f36f116a5174f756d7db08c3331b459f396e1c200deecf0e287fcc8114df2d36ac78a177f815edd3e5776874de",
-                    "sha1": "e0c631aac7abffe3b62d1c12d99d1efd817becdc"
+                    "sha1": "e0c631aac7abffe3b62d1c12d99d1efd817becdc",
+                    "sha512": "2e9fda5dc65f656be87bb754846507cb637a54f36f116a5174f756d7db08c3331b459f396e1c200deecf0e287fcc8114df2d36ac78a177f815edd3e5776874de"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc118-1.0.2256/canvas-fabric-mc118-1.0.2256.jar",
                 "filename": "canvas-fabric-mc118-1.0.2256.jar",
@@ -195,13 +195,13 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2248. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-06T06:14:55.634623Z",
-        "downloads": 50,
+        "downloads": 53,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "0f3e6288eedfdbcd6d73e0946fa32f626c350fe5",
-                    "sha512": "797f0dc56b3306449d35452b3607e36cea59cb5cbd8050bb83ce2ffc925b1276dcf72ff1fb4ee5a6e84c71ebdd003c376e033b680652c165f21369e4f9e63861"
+                    "sha512": "797f0dc56b3306449d35452b3607e36cea59cb5cbd8050bb83ce2ffc925b1276dcf72ff1fb4ee5a6e84c71ebdd003c376e033b680652c165f21369e4f9e63861",
+                    "sha1": "0f3e6288eedfdbcd6d73e0946fa32f626c350fe5"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc118-1.0.2248/canvas-fabric-mc118-1.0.2248.jar",
                 "filename": "canvas-fabric-mc118-1.0.2248.jar",
@@ -226,7 +226,7 @@
         "changelog": "The project has been updated to fabric-mc117-1.0.2222. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-05T21:47:20.992871Z",
-        "downloads": 11,
+        "downloads": 12,
         "version_type": "beta",
         "files": [
             {
@@ -257,13 +257,13 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2246. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-03T20:26:18.434824Z",
-        "downloads": 39,
+        "downloads": 41,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "546c2057d906c124762a5e3f7739974396293d18c725652510935f353cd353ef3d32038de393fd1695c1dcd51f5788b43b3e3e66c793ed11108196819c7e925e",
-                    "sha1": "d02941c44cf57a787bdc4e8d48d3f66d4eda5e21"
+                    "sha1": "d02941c44cf57a787bdc4e8d48d3f66d4eda5e21",
+                    "sha512": "546c2057d906c124762a5e3f7739974396293d18c725652510935f353cd353ef3d32038de393fd1695c1dcd51f5788b43b3e3e66c793ed11108196819c7e925e"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc118-1.0.2246/canvas-fabric-mc118-1.0.2246.jar",
                 "filename": "canvas-fabric-mc118-1.0.2246.jar",
@@ -288,13 +288,13 @@
         "changelog": "The project has been updated to fabric-mc117-1.0.2219. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-12-03T20:07:33.891379Z",
-        "downloads": 9,
+        "downloads": 10,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "6b054a280fc49c90b4f3e1ed63b8fda6e1b0c532c326c786281ccbce5fa0fb61765f0dad28e2a24a208fe348a1ab324495c50d3f76f14458ac61aad2312065f8",
-                    "sha1": "79dd86f37fa3672544a6284a6f30e5e72fca12ab"
+                    "sha1": "79dd86f37fa3672544a6284a6f30e5e72fca12ab",
+                    "sha512": "6b054a280fc49c90b4f3e1ed63b8fda6e1b0c532c326c786281ccbce5fa0fb61765f0dad28e2a24a208fe348a1ab324495c50d3f76f14458ac61aad2312065f8"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc117-1.0.2219/canvas-fabric-mc117-1.0.2219.jar",
                 "filename": "canvas-fabric-mc117-1.0.2219.jar",
@@ -319,13 +319,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-11-21T22:24:51.543412Z",
-        "downloads": 20,
+        "downloads": 22,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "36b1232f3581c0df7a6343fde6b2fd3c66295d240f81d71125b2b59d4aa4ac7835e18cdb99d5080fcc993e8d8cc679ea41f1f66846ae6c54bbcb2202dd82f3a9",
-                    "sha1": "6e7a1acf61dc184290676a4eb3dd972e36eeebac"
+                    "sha1": "6e7a1acf61dc184290676a4eb3dd972e36eeebac",
+                    "sha512": "36b1232f3581c0df7a6343fde6b2fd3c66295d240f81d71125b2b59d4aa4ac7835e18cdb99d5080fcc993e8d8cc679ea41f1f66846ae6c54bbcb2202dd82f3a9"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc118-1.0.2230/canvas-fabric-mc118-1.0.2230.jar",
                 "filename": "canvas-fabric-mc118-1.0.2230.jar",
@@ -350,13 +350,13 @@
         "changelog": "The project has been updated to fabric-mc117-1.0.2207. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-11-21T20:24:48.909692Z",
-        "downloads": 20,
+        "downloads": 23,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "ef06a0e1bbc97883e1feab50ab933d125d17623a8e7d1454d8af1fbec5b79b90bed461d13d27285c3170d0ab9de8aceaf6c3659aaabc6205bc956f5c3d9bcf5d",
-                    "sha1": "ca61e9c9ac7c5a3090b1951915305f4b6109bb35"
+                    "sha1": "ca61e9c9ac7c5a3090b1951915305f4b6109bb35",
+                    "sha512": "ef06a0e1bbc97883e1feab50ab933d125d17623a8e7d1454d8af1fbec5b79b90bed461d13d27285c3170d0ab9de8aceaf6c3659aaabc6205bc956f5c3d9bcf5d"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc117-1.0.2207/canvas-fabric-mc117-1.0.2207.jar",
                 "filename": "canvas-fabric-mc117-1.0.2207.jar",
@@ -381,7 +381,7 @@
         "changelog": "The project has been updated to fabric-mc118-1.0.2223. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-11-18T16:10:05.030711Z",
-        "downloads": 14,
+        "downloads": 17,
         "version_type": "beta",
         "files": [
             {
@@ -417,8 +417,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "2093c4624415bb28fab60fe44582ac6ff2c80dde",
-                    "sha512": "d5e2b6280508def9621b6ba25388d42ae119973f599e086d88d009c619d21645964b515c0f100a0fd1dc3bb353299e04f6041693bb16c4dc23d2d31b4633ef68"
+                    "sha512": "d5e2b6280508def9621b6ba25388d42ae119973f599e086d88d009c619d21645964b515c0f100a0fd1dc3bb353299e04f6041693bb16c4dc23d2d31b4633ef68",
+                    "sha1": "2093c4624415bb28fab60fe44582ac6ff2c80dde"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc117-1.0.2202/canvas-fabric-mc117-1.0.2202.jar",
                 "filename": "canvas-fabric-mc117-1.0.2202.jar",
@@ -443,13 +443,13 @@
         "changelog": "The project has been updated to fabric-mc117-1.0.2201. No changelog was specified.",
         "changelog_url": null,
         "date_published": "2021-11-17T15:38:01.199422Z",
-        "downloads": 3,
+        "downloads": 5,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "02778f865e28b7350640f151dadb9172a9eb3677",
-                    "sha512": "6a571beecc18fca37dd660bb725f7597c7e3edded5e1a80d0f051e00bdd25338f5f4c8b057790dcd323bca0ccbd4905430d44f0c6b84753d7a01be40b6bca233"
+                    "sha512": "6a571beecc18fca37dd660bb725f7597c7e3edded5e1a80d0f051e00bdd25338f5f4c8b057790dcd323bca0ccbd4905430d44f0c6b84753d7a01be40b6bca233",
+                    "sha1": "02778f865e28b7350640f151dadb9172a9eb3677"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc117-1.0.2201/canvas-fabric-mc117-1.0.2201.jar",
                 "filename": "canvas-fabric-mc117-1.0.2201.jar",
@@ -479,8 +479,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "e0a1358b931ecbf3db0d87d3dddc4f181569080cefc8b2750bc3a99958ddd3a3970cfc0aacb8e39684c8f81bfa9e7fc07b07cce90a7845ef2a5dfa457360a1d4",
-                    "sha1": "2024e1e4ac8cc81cbac2d5ef27a793d0f323a089"
+                    "sha1": "2024e1e4ac8cc81cbac2d5ef27a793d0f323a089",
+                    "sha512": "e0a1358b931ecbf3db0d87d3dddc4f181569080cefc8b2750bc3a99958ddd3a3970cfc0aacb8e39684c8f81bfa9e7fc07b07cce90a7845ef2a5dfa457360a1d4"
                 },
                 "url": "https://cdn.modrinth.com/data/VOYxIjFI/versions/fabric-mc117-1.0.2200/canvas-fabric-mc117-1.0.2200.jar",
                 "filename": "canvas-fabric-mc117-1.0.2200.jar",
@@ -536,7 +536,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-08-16T03:23:23.798007Z",
-        "downloads": 6,
+        "downloads": 8,
         "version_type": "beta",
         "files": [
             {

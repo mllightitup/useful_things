@@ -31,7 +31,7 @@
     "gameId": 432,
     "summary": "Rewrites the light engine to fix lighting performance and lighting errors",
     "defaultFileId": 3706539,
-    "downloadCount": 242260.0,
+    "downloadCount": 262862.0,
     "latestFiles": [
         {
             "id": 3706539,
@@ -192,8 +192,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 3897.301513671875,
-    "gamePopularityRank": 2010,
+    "popularityScore": 3724.357177734375,
+    "gamePopularityRank": 2272,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "gameName": "Minecraft",

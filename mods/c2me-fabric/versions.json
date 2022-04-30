@@ -1,5 +1,67 @@
 [
     {
+        "id": "ExoP2rex",
+        "project_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.7.30 devbuild for 22w17a",
+        "version_number": "0.2.0+alpha.7.30+22w17a",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2022-04-29T15:15:33.687737Z",
+        "downloads": 4,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "cc1bd8ef1e1220770c1390e7a825606ceafe7f860fad6d4cb400737320bec9bbaf9cbf0bbc951c7bec9dd99e08fae627cdf15af113423d8e2dac0442607f0177",
+                    "sha1": "39f42446010ec2f31f7145dc81237a830ce4d438"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.7.30+22w17a/c2me-fabric-mc22w17a-0.2.0%2Balpha.7.30.jar",
+                "filename": "c2me-fabric-mc22w17a-0.2.0+alpha.7.30.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "22w17a"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "anltmjSp",
+        "project_id": "VSNURh3q",
+        "author_id": "KdStZyTU",
+        "featured": false,
+        "name": "0.2.0+alpha.7.29 devbuild for 22w16b",
+        "version_number": "0.2.0+alpha.7.29+22w16b",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2022-04-22T15:31:52.339517Z",
+        "downloads": 56,
+        "version_type": "alpha",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "c70ee0f5640afb86b44d64075a9f6b7f16a3fccb",
+                    "sha512": "780d74eb8a8eed270b47deb37331ce4c8cfabfbd2b1d56890dd9619181acdf2cb08b8d6b253b14039599140d320f5df623e32df826f2e53a1c7d23927c08ac66"
+                },
+                "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.7.29+22w16b/c2me-fabric-mc22w16b-0.2.0%2Balpha.7.29.jar",
+                "filename": "c2me-fabric-mc22w16b-0.2.0+alpha.7.29.jar",
+                "primary": true
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "22w16b"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
         "id": "7hUUNuox",
         "project_id": "VSNURh3q",
         "author_id": "KdStZyTU",
@@ -9,7 +71,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-04-10T03:20:43.853472Z",
-        "downloads": 27,
+        "downloads": 45,
         "version_type": "alpha",
         "files": [
             {
@@ -102,13 +164,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-03-19T15:17:12.495307Z",
-        "downloads": 38,
+        "downloads": 40,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha1": "8f1dab3db12120ef6a8009e440697225d4dd3a0b",
-                    "sha512": "3a698e1716316d54abf02ba00d31547e69ba98cd79e442051f07a4cec858f66728c17fc63278f4ef5a006a8bf70b306af9452ad32cf20535075c5712bf87a844"
+                    "sha512": "3a698e1716316d54abf02ba00d31547e69ba98cd79e442051f07a4cec858f66728c17fc63278f4ef5a006a8bf70b306af9452ad32cf20535075c5712bf87a844",
+                    "sha1": "8f1dab3db12120ef6a8009e440697225d4dd3a0b"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.7.11+22w11a/c2me-fabric-mc22w11a-0.2.0%2Balpha.7.11.jar",
                 "filename": "c2me-fabric-mc22w11a-0.2.0+alpha.7.11.jar",
@@ -133,13 +195,13 @@
         "changelog": "**C2ME 0.2.0+alpha.7 for Minecraft 1.18.2 is released**\n\nThis release improves overall performance and stability and fixes some bugs. \n\nChangelog: \n- Optimizes entity filtering in no-tick chunks to reduce lag when tons of entities in no-tick chunks\n- Disables perlin noise vectorization with Vector API due to performance issues in JDK17\n- Optimizes perlin noise with 25% speedup over vanilla\n- Optimizes aquifer without changing vanilla behavior\n- Rewrites chunk IO system focused on overall throughput  \n  (can be enabled manually with `ioSystem.replaceImpl` in config)\n- Adds parallel scheduling to further reduce server thread load  \n  (can be enabled manually with `asyncScheduling.enabled` in config)\n- Re-enabled noise caching in The End dimension when lithium is present\n- Allows changing auto-save behavior  \n  Now defaults to saving chunks after ticking with periodical saving  \n  You can still use the original vanilla behavior or revert to pre-1.18 behaviors in config\n- Fixes high cpu usage on scheduler thread when idle\n- Fixes large lag in singleplayer creating world screen. \n- Fixes compatibility issues with lithium 0.7.8 and later\n- Fixes some crashes with certain datapacks and mods\n\nNotes: \n- The calculation of default parallelism has been changed to reduce stuttering in singleplayer worlds.  \n  This means that some features may get disabled if you are on a relatively lower-end devices.  \n  You can always re-enable them manually in config. \n",
         "changelog_url": null,
         "date_published": "2022-03-05T09:07:35.812318Z",
-        "downloads": 3249,
+        "downloads": 4401,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha1": "972a35c39823885b2853d6a6053b13de53a01272",
-                    "sha512": "0e86aaf6c739fd5547ea60f8102222066a12b6553bd459fc66856667f5a8e6ee5a7593aa7d6415611ff9ea341ccaed0c0dcdf105d694a505412b010c787fd523"
+                    "sha512": "0e86aaf6c739fd5547ea60f8102222066a12b6553bd459fc66856667f5a8e6ee5a7593aa7d6415611ff9ea341ccaed0c0dcdf105d694a505412b010c787fd523",
+                    "sha1": "972a35c39823885b2853d6a6053b13de53a01272"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.7.0+1.18.2/c2me-fabric-mc1.18.2-0.2.0%2Balpha.7.0-all.jar",
                 "filename": "c2me-fabric-mc1.18.2-0.2.0+alpha.7.0-all.jar",
@@ -164,7 +226,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-03-02T09:07:06.658888Z",
-        "downloads": 314,
+        "downloads": 327,
         "version_type": "alpha",
         "files": [
             {
@@ -195,7 +257,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-02-26T09:42:28.172635Z",
-        "downloads": 67,
+        "downloads": 69,
         "version_type": "alpha",
         "files": [
             {
@@ -226,13 +288,13 @@
         "changelog": "Fixes some crashes with certain datapacks and mods",
         "changelog_url": null,
         "date_published": "2022-02-20T01:51:46.712809Z",
-        "downloads": 934,
+        "downloads": 1040,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha1": "dcc477b1b2f92d5ccad62435657aa985ad8bd8ce",
-                    "sha512": "57baeff4f67b1029b3827b8ec492400b4915c904001d6bc481ee9d3bb82804980d7b1ae815ca045af5ce89296a7dad2fb6bfb38c9b11ebefbfe1ed6d4b95a034"
+                    "sha512": "57baeff4f67b1029b3827b8ec492400b4915c904001d6bc481ee9d3bb82804980d7b1ae815ca045af5ce89296a7dad2fb6bfb38c9b11ebefbfe1ed6d4b95a034",
+                    "sha1": "dcc477b1b2f92d5ccad62435657aa985ad8bd8ce"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.55+1.18.1/c2me-fabric-mc1.18.1-0.2.0%2Balpha.6.55-all.jar",
                 "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.6.55-all.jar",
@@ -262,8 +324,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "dc129019d647d8e510cedc49176d90e595a71f07631e013e27547c8f97b03bf933aaa5fa7a6690150943acc8c601d4c618435fed82dfac41d082c0a51fc28e9d",
-                    "sha1": "9f63998fde63e299d49fe1a62c4ec04cfb736cac"
+                    "sha1": "9f63998fde63e299d49fe1a62c4ec04cfb736cac",
+                    "sha512": "dc129019d647d8e510cedc49176d90e595a71f07631e013e27547c8f97b03bf933aaa5fa7a6690150943acc8c601d4c618435fed82dfac41d082c0a51fc28e9d"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.54+1.18.2-pre1/c2me-fabric-mc1.18.2-pre1-0.2.0%2Balpha.6.54-all.jar",
                 "filename": "c2me-fabric-mc1.18.2-pre1-0.2.0+alpha.6.54-all.jar",
@@ -288,7 +350,7 @@
         "changelog": "Fixes cave tweaks incompatibility",
         "changelog_url": null,
         "date_published": "2022-02-12T02:37:09.716045Z",
-        "downloads": 448,
+        "downloads": 451,
         "version_type": "alpha",
         "files": [
             {
@@ -319,7 +381,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-02-10T06:28:23.386634Z",
-        "downloads": 15,
+        "downloads": 16,
         "version_type": "alpha",
         "files": [
             {
@@ -350,13 +412,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2022-02-06T03:46:55.811199Z",
-        "downloads": 16,
+        "downloads": 18,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "0668b07f78ea6e2ab0fbac541fbdf9074d02b4e90a67ea4b7c83013ac66c6949118cd6a9467e27746f913c75a59eb982c5432410f748c3221b8b95b6dfad97c3",
-                    "sha1": "13396dbed597cc08832f20b9f8a94a744036ab95"
+                    "sha1": "13396dbed597cc08832f20b9f8a94a744036ab95",
+                    "sha512": "0668b07f78ea6e2ab0fbac541fbdf9074d02b4e90a67ea4b7c83013ac66c6949118cd6a9467e27746f913c75a59eb982c5432410f748c3221b8b95b6dfad97c3"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.48+22w05a/c2me-fabric-mc22w05a-0.2.0%2Balpha.6.48-all.jar",
                 "filename": "c2me-fabric-mc22w05a-0.2.0+alpha.6.48-all.jar",
@@ -412,13 +474,13 @@
         "changelog": "Fixes stronghold logspam",
         "changelog_url": null,
         "date_published": "2022-01-20T10:17:36.387696Z",
-        "downloads": 888,
+        "downloads": 891,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "05a5945d26250ad4abd547533e64a07da00bfb26f527ef5391460b68ac7caf23b1e770e7ee9f2bf9d74baa2feb7da393777abdabaa17d3daeeb3a90c5071299d",
-                    "sha1": "c983e0f5bef87e98e920b7ca837cdc65ad47e692"
+                    "sha1": "c983e0f5bef87e98e920b7ca837cdc65ad47e692",
+                    "sha512": "05a5945d26250ad4abd547533e64a07da00bfb26f527ef5391460b68ac7caf23b1e770e7ee9f2bf9d74baa2feb7da393777abdabaa17d3daeeb3a90c5071299d"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.25 1.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.6.25-all.jar",
                 "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.6.25-all.jar",
@@ -474,7 +536,7 @@
         "changelog": "Fixes an incompatibility with lithium\n\nFull changelog: https://modrinth.com/mod/c2me-fabric/version/e7NAaeNt",
         "changelog_url": null,
         "date_published": "2022-01-06T06:39:26.695674Z",
-        "downloads": 837,
+        "downloads": 839,
         "version_type": "alpha",
         "files": [
             {
@@ -536,7 +598,7 @@
         "changelog": "Allow no-tick to only send chunks once\nFix some config issues",
         "changelog_url": null,
         "date_published": "2022-01-01T14:26:15.695655Z",
-        "downloads": 352,
+        "downloads": 353,
         "version_type": "alpha",
         "files": [
             {
@@ -567,13 +629,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-12-19T07:22:29.532919Z",
-        "downloads": 890,
+        "downloads": 891,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "8c2ff89e8e3a73582090c61602a508b984894fbb9a23dd2b36e04668eaec59930eda14913a3bc414c16c090675b3e86d77480bf4b17ba8be8b78b7f480b22b07",
-                    "sha1": "4ae211592f502252ae02be9226530be65cdd2dd2"
+                    "sha1": "4ae211592f502252ae02be9226530be65cdd2dd2",
+                    "sha512": "8c2ff89e8e3a73582090c61602a508b984894fbb9a23dd2b36e04668eaec59930eda14913a3bc414c16c090675b3e86d77480bf4b17ba8be8b78b7f480b22b07"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.106 1.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.106-all.jar",
                 "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.5.106-all.jar",
@@ -598,7 +660,7 @@
         "changelog": "Fix a rare crash when holder map isn't updated yet",
         "changelog_url": null,
         "date_published": "2021-12-12T08:27:45.724162Z",
-        "downloads": 630,
+        "downloads": 631,
         "version_type": "alpha",
         "files": [
             {
@@ -629,7 +691,7 @@
         "changelog": "Added chunk prioritization (should fix chunks loading too slow)",
         "changelog_url": null,
         "date_published": "2021-12-12T02:25:42.881334Z",
-        "downloads": 41,
+        "downloads": 42,
         "version_type": "alpha",
         "files": [
             {
@@ -660,13 +722,13 @@
         "changelog": "Fix some issues on settings",
         "changelog_url": null,
         "date_published": "2021-12-11T05:05:03.935310Z",
-        "downloads": 115,
+        "downloads": 117,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "d180d2746d2d22a8b4066755dad98a027c98328dff03c53a36a61b44019f5f0d6da5bfa0d8e3ece36b3c89d883fde7ab434345086efa8a3275e6af8a1e971513",
-                    "sha1": "f4937652b856b3fede01c4e48c422d4c8e1cebe4"
+                    "sha1": "f4937652b856b3fede01c4e48c422d4c8e1cebe4",
+                    "sha512": "d180d2746d2d22a8b4066755dad98a027c98328dff03c53a36a61b44019f5f0d6da5bfa0d8e3ece36b3c89d883fde7ab434345086efa8a3275e6af8a1e971513"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.99 1.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.99-all.jar",
                 "filename": "c2me-fabric-mc1.18.1-0.2.0+alpha.5.99-all.jar",
@@ -691,13 +753,13 @@
         "changelog": "Fix simulation distance slider being too big",
         "changelog_url": null,
         "date_published": "2021-12-04T12:51:42.449687Z",
-        "downloads": 912,
+        "downloads": 921,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "966053f4f1090f68a7bcfc9f152f71bb0807888035370d349d5e9a7be94e79a2e0d2a9554e003d40f2234394dd37cf17bef563611cbcdf43c7246fc31003eb3d",
-                    "sha1": "b6ebcc8f21f5aef9c349a95d1aa7632d4f477312"
+                    "sha1": "b6ebcc8f21f5aef9c349a95d1aa7632d4f477312",
+                    "sha512": "966053f4f1090f68a7bcfc9f152f71bb0807888035370d349d5e9a7be94e79a2e0d2a9554e003d40f2234394dd37cf17bef563611cbcdf43c7246fc31003eb3d"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.96 1.18.1-pre1/c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.96-all.jar",
                 "filename": "c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.96-all.jar",
@@ -728,8 +790,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "407fdb46650f8b763daec2e4902ed460adb7a38043b192595cf91f7b4520a27e7695b239114e392ced34fb66b73a66cb50357035ad04dafa21041aa26ee83336",
-                    "sha1": "339b4823f26aec6469617c82fcb7b83df1139794"
+                    "sha1": "339b4823f26aec6469617c82fcb7b83df1139794",
+                    "sha512": "407fdb46650f8b763daec2e4902ed460adb7a38043b192595cf91f7b4520a27e7695b239114e392ced34fb66b73a66cb50357035ad04dafa21041aa26ee83336"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.94 1.18.1-pre1/c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.94-all.jar",
                 "filename": "c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.94-all.jar",
@@ -755,13 +817,13 @@
         "changelog": "Fixes a small issue",
         "changelog_url": null,
         "date_published": "2021-11-28T01:40:50.456499Z",
-        "downloads": 171,
+        "downloads": 177,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "efb098db32d4107045a868d4390b6c48387c04e29374b91831378733e2120f82430b760f5290a042780d3b37a1378952c79fefbb3e2579309ad9fa00c987046d",
-                    "sha1": "1b590ae3101cbaf2648e55784314449f31adc81c"
+                    "sha1": "1b590ae3101cbaf2648e55784314449f31adc81c",
+                    "sha512": "efb098db32d4107045a868d4390b6c48387c04e29374b91831378733e2120f82430b760f5290a042780d3b37a1378952c79fefbb3e2579309ad9fa00c987046d"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87 1.18-rc3/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar",
                 "filename": "c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar",
@@ -822,8 +884,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "45a0f37c75a264077cb47881b32d1e6731ea9b92",
-                    "sha512": "2a7d16abe6a27318ff863fe0e8081dc39c9f1c91cbde41fa5abfef8bece26eb4a79b39b06aa793982816a623608fc93eb1e79d640d447db05b0c929d701d623a"
+                    "sha512": "2a7d16abe6a27318ff863fe0e8081dc39c9f1c91cbde41fa5abfef8bece26eb4a79b39b06aa793982816a623608fc93eb1e79d640d447db05b0c929d701d623a",
+                    "sha1": "45a0f37c75a264077cb47881b32d1e6731ea9b92"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.77 1.18-pre5/c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.77-all.jar",
                 "filename": "c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.77-all.jar",
@@ -848,13 +910,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-11-20T11:05:21.426789Z",
-        "downloads": 18,
+        "downloads": 19,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha1": "5ea7d5aa83f20ee207ea7ac579974116051c94ac",
-                    "sha512": "0880d9f9e9d2c79be4f0a4b7c382a67056154130ffc22d1b03e4a1a7da758c537a437cf8538e486c09e4e76f2273228d88cba11ef7844264599e3958955ffabd"
+                    "sha512": "0880d9f9e9d2c79be4f0a4b7c382a67056154130ffc22d1b03e4a1a7da758c537a437cf8538e486c09e4e76f2273228d88cba11ef7844264599e3958955ffabd",
+                    "sha1": "5ea7d5aa83f20ee207ea7ac579974116051c94ac"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.70 1.18-pre5/c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.70-all.jar",
                 "filename": "c2me-fabric-mc1.18-pre5-0.2.0+alpha.5.70-all.jar",
@@ -879,13 +941,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-11-12T16:25:09.102009Z",
-        "downloads": 69,
+        "downloads": 70,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "f63bcd9059a5e190cb7a08a236485a03c2164be8deb82fac5b00988ecd70d26f96b7a2594f50502806e9c474408ca66899313567ee72a153a5e71ef12ad5d79c",
-                    "sha1": "cfec47b4d5687b1a4145d132d56d5ede217de48f"
+                    "sha1": "cfec47b4d5687b1a4145d132d56d5ede217de48f",
+                    "sha512": "f63bcd9059a5e190cb7a08a236485a03c2164be8deb82fac5b00988ecd70d26f96b7a2594f50502806e9c474408ca66899313567ee72a153a5e71ef12ad5d79c"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.63 1.18-pre1/c2me-fabric-mc1.18-pre1-0.2.0+alpha.5.63-all.jar",
                 "filename": "c2me-fabric-mc1.18-pre1-0.2.0+alpha.5.63-all.jar",
@@ -915,8 +977,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "4a1f349af6fd716def699619864fefc0b579b87d4ae0c345e3d8685193a33e8eeaf855dc504b6f316f475331ebfe84433f0ca1a03640e0fde694c053045c1ce2",
-                    "sha1": "e83165d6edd634d0e09f733d8322462895f421d4"
+                    "sha1": "e83165d6edd634d0e09f733d8322462895f421d4",
+                    "sha512": "4a1f349af6fd716def699619864fefc0b579b87d4ae0c345e3d8685193a33e8eeaf855dc504b6f316f475331ebfe84433f0ca1a03640e0fde694c053045c1ce2"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.54 21w44a/c2me-fabric-mc21w44a-0.2.0+alpha.5.54-all.jar",
                 "filename": "c2me-fabric-mc21w44a-0.2.0+alpha.5.54-all.jar",
@@ -941,13 +1003,13 @@
         "changelog": "Note that this version will reset your config",
         "changelog_url": null,
         "date_published": "2021-10-30T05:56:20.067563Z",
-        "downloads": 43,
+        "downloads": 44,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "0829045c4b941619c1c0f7933b21dc8ee69bef55e876782536dc25b6c470e6e8428ff1c98d9a0e36a695b7cfb716107af94ed4b9f1c596dc7e7dfcdd69d5867b",
-                    "sha1": "8305fd59776d89da524e652bd682eed377a2694b"
+                    "sha1": "8305fd59776d89da524e652bd682eed377a2694b",
+                    "sha512": "0829045c4b941619c1c0f7933b21dc8ee69bef55e876782536dc25b6c470e6e8428ff1c98d9a0e36a695b7cfb716107af94ed4b9f1c596dc7e7dfcdd69d5867b"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.48 21w43a/c2me-fabric-mc21w43a-0.2.0+alpha.5.48-all.jar",
                 "filename": "c2me-fabric-mc21w43a-0.2.0+alpha.5.48-all.jar",
@@ -972,7 +1034,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-10-22T16:19:08.913675Z",
-        "downloads": 51,
+        "downloads": 52,
         "version_type": "alpha",
         "files": [
             {
@@ -1003,13 +1065,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-10-16T05:01:21.974989Z",
-        "downloads": 44,
+        "downloads": 45,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha1": "e47d5d8763809ae32a96b7cb8ee3ede26f63cff7",
-                    "sha512": "75e6e3701c9cf2971c6e8c5f22b911a6361cf3c8b2c4735f18c5defde5104386ca6e5828936f8dd0d3e2ee1ff022a7036f9739d89b34a15dbc78c7a019bb1820"
+                    "sha512": "75e6e3701c9cf2971c6e8c5f22b911a6361cf3c8b2c4735f18c5defde5104386ca6e5828936f8dd0d3e2ee1ff022a7036f9739d89b34a15dbc78c7a019bb1820",
+                    "sha1": "e47d5d8763809ae32a96b7cb8ee3ede26f63cff7"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.40 21w41a/c2me-fabric-mc21w41a-0.2.0+alpha.5.40-all.jar",
                 "filename": "c2me-fabric-mc21w41a-0.2.0+alpha.5.40-all.jar",
@@ -1039,8 +1101,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "bf459680fc43af18dda82214cf863fd2f70086a86f5f92cabf2dbb5748c23307da7007dd3404754dec418e9d6a4f17ca8f58f30f98d5d677a7019bfe65f6bc10",
-                    "sha1": "a1dff7661e341b10825150539fbc15e9f61614e3"
+                    "sha1": "a1dff7661e341b10825150539fbc15e9f61614e3",
+                    "sha512": "bf459680fc43af18dda82214cf863fd2f70086a86f5f92cabf2dbb5748c23307da7007dd3404754dec418e9d6a4f17ca8f58f30f98d5d677a7019bfe65f6bc10"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.35 21w40a/c2me-fabric-mc21w40a-0.2.0+alpha.5.35-all.jar",
                 "filename": "c2me-fabric-mc21w40a-0.2.0+alpha.5.35-all.jar",
@@ -1101,8 +1163,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "816e8bb4f172ec8887c9cd0f8668523a10fc61172be4290fd1d7cc7cef4c89a1c007e60452dadf6abcd0a9a0acc187d582c342884a3f84bd412706d0184b9196",
-                    "sha1": "394bcaa6abf6cf06b169279fa8d2e65ff3f3aa60"
+                    "sha1": "394bcaa6abf6cf06b169279fa8d2e65ff3f3aa60",
+                    "sha512": "816e8bb4f172ec8887c9cd0f8668523a10fc61172be4290fd1d7cc7cef4c89a1c007e60452dadf6abcd0a9a0acc187d582c342884a3f84bd412706d0184b9196"
                 },
                 "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/0/c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar",
                 "filename": "c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar",

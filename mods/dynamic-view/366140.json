@@ -15,13 +15,13 @@
     ],
     "attachments": [
         {
-            "id": 253053,
+            "id": 536616,
             "projectId": 366140,
             "description": "",
             "isDefault": true,
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/253/53/256/256/637191895264042970.png",
-            "title": "637191895264042970.png",
-            "url": "https://media.forgecdn.net/avatars/253/53/637191895264042970.png",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/536/616/256/256/637858797561019715.png",
+            "title": "637858797561019715.png",
+            "url": "https://media.forgecdn.net/avatars/536/616/637858797561019715.png",
             "status": 1
         }
     ],
@@ -31,8 +31,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamic-view",
     "gameId": 432,
     "summary": "Dynamically changes chunk view(and simulation) distance based on load",
-    "defaultFileId": 3740657,
-    "downloadCount": 10026751.0,
+    "defaultFileId": 3758057,
+    "downloadCount": 10202330.0,
     "latestFiles": [
         {
             "id": 3740656,
@@ -133,14 +133,14 @@
             "downloadCount": 0
         },
         {
-            "id": 3740657,
-            "displayName": "dynview.fabric-1.18.2-2.0.jar",
-            "fileName": "dynview.fabric-1.18.2-2.0.jar",
-            "fileDate": "2022-04-08T20:39:39.687Z",
-            "fileLength": 19046,
+            "id": 3758057,
+            "displayName": "dynview.fabric-1.18.2-2.1.jar",
+            "fileName": "dynview.fabric-1.18.2-2.1.jar",
+            "fileDate": "2022-04-18T12:02:44.49Z",
+            "fileLength": 19045,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3740/657/dynview.fabric-1.18.2-2.0.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3758/57/dynview.fabric-1.18.2-2.1.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -158,7 +158,7 @@
                 },
                 {
                     "foldername": "fabric.mod.json",
-                    "fingerprint": 1039770572,
+                    "fingerprint": 431156728,
                     "type": 3
                 },
                 {
@@ -178,11 +178,11 @@
                 },
                 {
                     "foldername": "com",
-                    "fingerprint": 3090062086,
+                    "fingerprint": 960086820,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 426280691,
+            "packageFingerprint": 658621170,
             "gameVersion": [
                 "1.18.1",
                 "Fabric",
@@ -218,16 +218,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2844570,
+            "renderCacheId": 2866914,
             "fileLegacyMappingId": null,
             "projectId": 366140,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 897900868,
+            "packageFingerprintId": 906686485,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3968174,
+            "gameVersionMappingId": 4005207,
             "gameVersionId": 7499,
             "gameId": 432,
             "isServerPack": false,
@@ -236,30 +236,17 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "536c3ec579bc06b9dab78c5656d6d2ddc0e22654"
+                    "value": "94437b40fd46dbdd5f5b29f6b26b04873b79c6e3"
                 },
                 {
                     "algorithm": 2,
-                    "value": "28a3ede11ed9b4b8e7322bc2c960fad7"
+                    "value": "a5a9c20cc06c5e5cc270ac1decae600c"
                 }
             ],
             "downloadCount": 0
         }
     ],
     "categories": [
-        {
-            "categoryId": 406,
-            "name": "World Gen",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 366140,
-            "avatarId": 6026,
-            "gameId": 432,
-            "slug": "world-gen",
-            "dateModified": "2017-10-16T21:40:11.473Z"
-        },
         {
             "categoryId": 435,
             "name": "Server Utility",
@@ -272,6 +259,19 @@
             "gameId": 432,
             "slug": "server-utility",
             "dateModified": "2014-05-08T17:44:55.057Z"
+        },
+        {
+            "categoryId": 406,
+            "name": "World Gen",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 366140,
+            "avatarId": 6026,
+            "gameId": 432,
+            "slug": "world-gen",
+            "dateModified": "2017-10-16T21:40:11.473Z"
         }
     ],
     "status": 4,
@@ -290,8 +290,8 @@
     "gameVersionLatestFiles": [
         {
             "gameVersion": "1.18.2",
-            "projectFileId": 3740657,
-            "projectFileName": "dynview.fabric-1.18.2-2.0.jar",
+            "projectFileId": 3758057,
+            "projectFileName": "dynview.fabric-1.18.2-2.1.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -299,8 +299,8 @@
         },
         {
             "gameVersion": "1.18.1",
-            "projectFileId": 3740657,
-            "projectFileName": "dynview.fabric-1.18.2-2.0.jar",
+            "projectFileId": 3758057,
+            "projectFileName": "dynview.fabric-1.18.2-2.1.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -533,8 +533,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 16258.2158203125,
-    "gamePopularityRank": 393,
+    "popularityScore": 16482.31640625,
+    "gamePopularityRank": 374,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -542,9 +542,9 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2022-04-08T20:53:47.963Z",
+    "dateModified": "2022-04-18T12:04:43.05Z",
     "dateCreated": "2020-03-07T14:52:06.323Z",
-    "dateReleased": "2022-04-08T20:39:39.687Z",
+    "dateReleased": "2022-04-18T12:02:44.49Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

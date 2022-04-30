@@ -9,7 +9,7 @@
         "changelog": "This release contains the compatibility update to 1.18.\nAdditionally, a small optimization is added to reduce the workload for the lightmap complexity initialization upon chunk loading added by Phosphor.\n\n### Installation on servers:\nFabric needs to be installed using `fabric-installer >= 0.10.0` on servers in order to properly work with Mixins for Java 17. If the game crashes with error message `The requested compatibility level JAVA_17 could not be set. Level is not supported by the active JRE or ASM version (Java 17.0, ASM 9.0 (ASM10_EXPERIMENTAL))`, please reinstall Fabric.",
         "changelog_url": null,
         "date_published": "2021-12-19T19:34:48.656409Z",
-        "downloads": 22494,
+        "downloads": 26663,
         "version_type": "release",
         "files": [
             {
@@ -42,7 +42,7 @@
         "changelog": "This release contains mainly internal changes and the compatibility update to 1.17.\nThe approach for initial lighting is changed, which should lead to a small speedup. Together with some other changes, this furthermore establishes compatibility with the 1.17 world height changes.",
         "changelog_url": null,
         "date_published": "2021-11-26T15:31:32.285639Z",
-        "downloads": 3216,
+        "downloads": 3378,
         "version_type": "release",
         "files": [
             {
@@ -74,7 +74,7 @@
         "changelog": "This release contains mainly internal changes.\nThe approach for initial lighting is changed, which should lead to a small speedup. Together with some other changes, this furthermore establishes compatibility with the 1.17 world height changes.",
         "changelog_url": null,
         "date_published": "2021-11-26T15:29:14.139415Z",
-        "downloads": 2088,
+        "downloads": 2394,
         "version_type": "release",
         "files": [
             {
@@ -108,13 +108,13 @@
         "changelog": "This release fixes a data loss bug present in 0.7.1 and 0.7.0.\n\n### Bug Fix\n* Fixed a concurrency issue that could lead to lightmaps being discarded upon reloading chunks ([#49](https://github.com/CaffeineMC/phosphor-fabric/issues/49)). The fix will only prevent new glitches but will not repair already existing ones. If upgrading an already corrupted world to 0.7.2, you need to erase the light cache once, see the note on [MC-142134](https://bugs.mojang.com/browse/MC-142134) for complete instructions.\n\n### Change\n* Mark `Starlight` as incompatible. Having both `Phosphor` and `Starlight` installed will now lead to a crash instead of loading the game normally and causing unexpected logic errors later on. `Phosphor` and `Starlight` were always incompatible and will always be, as they reimplement the lighting engine to a certain extent, hence modifying the same code in conflicting ways. With this change the game simply shuts down gracefully instead of causing undefined behavior.\n",
         "changelog_url": null,
         "date_published": "2021-04-30T21:39:17.254683Z",
-        "downloads": 10837,
+        "downloads": 10841,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "97a371892a6a1636c38654866b2407913df107ce",
-                    "sha512": "8bd972912641d0d4b09174689daee97b76829bfaf7eb89ef51bdb1ac291b47966dc6c734891dd413a5686029aa6b2e5aaeb4445a4f1b865c50b79579e3113e0c"
+                    "sha512": "8bd972912641d0d4b09174689daee97b76829bfaf7eb89ef51bdb1ac291b47966dc6c734891dd413a5686029aa6b2e5aaeb4445a4f1b865c50b79579e3113e0c",
+                    "sha1": "97a371892a6a1636c38654866b2407913df107ce"
                 },
                 "url": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.7.2/phosphor-fabric-mc1.16.3-0.7.2+build.12.jar",
                 "filename": "phosphor-fabric-mc1.16.3-0.7.2+build.12.jar",
@@ -142,7 +142,7 @@
         "changelog": "This release fixes two critical bugs introduced in 0.7.0.\n\n### Bug Fixes\n* Fixed a game hangup that occured in some situations where chunks were resent due to large numbers of block updates or specific servers ([#36](https://github.com/CaffeineMC/phosphor-fabric/issues/36), [#39](https://github.com/CaffeineMC/phosphor-fabric/issues/39))\n* Fixed that some chunks were missing skylight after worldgen, due to wrong order of operations caused by a missing update notification.\nThe fix will only prevent new glitches in chunks generated with 0.7.1 but will not repair already existing glitches. If upgrading an already corrupted world to 0.7.1, you need to erase the light cache once, see the note on [MC-142134](https://bugs.mojang.com/browse/MC-142134) for complete instructions.",
         "changelog_url": null,
         "date_published": "2021-02-13T18:04:24.306915Z",
-        "downloads": 2947,
+        "downloads": 2951,
         "version_type": "release",
         "files": [
             {
@@ -176,7 +176,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-01-05T17:58:58.514678Z",
-        "downloads": 1258,
+        "downloads": 1259,
         "version_type": "release",
         "files": [
             {

@@ -31,8 +31,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
     "gameId": 432,
     "summary": "Memory usage optimizations",
-    "defaultFileId": 3672146,
-    "downloadCount": 15411893.0,
+    "defaultFileId": 3767288,
+    "downloadCount": 16262697.0,
     "latestFiles": [
         {
             "id": 3222546,
@@ -308,14 +308,14 @@
             "downloadCount": 734077
         },
         {
-            "id": 3672146,
-            "displayName": "ferritecore-4.2.0-forge.jar",
-            "fileName": "ferritecore-4.2.0-forge.jar",
-            "fileDate": "2022-03-04T15:16:31.067Z",
-            "fileLength": 106664,
+            "id": 3767288,
+            "displayName": "ferritecore-4.2.1-forge.jar",
+            "fileName": "ferritecore-4.2.1-forge.jar",
+            "fileDate": "2022-04-24T16:29:08.213Z",
+            "fileLength": 116552,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3672/146/ferritecore-4.2.0-forge.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3767/288/ferritecore-4.2.1-forge.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -323,12 +323,52 @@
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 1668293732,
+                    "fingerprint": 535622800,
+                    "type": 3
+                },
+                {
+                    "foldername": "malte0811",
+                    "fingerprint": 96030668,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.blockstatecache.mixin.json",
+                    "fingerprint": 2656421278,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.dedupbakedquad.mixin.json",
+                    "fingerprint": 3081362880,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.dedupmultipart.mixin.json",
+                    "fingerprint": 1442370142,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.fastmap.mixin.json",
+                    "fingerprint": 3545426013,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.mrl.mixin.json",
+                    "fingerprint": 3344989000,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.predicates.mixin.json",
+                    "fingerprint": 2801144224,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.threaddetec.mixin.json",
+                    "fingerprint": 4027117364,
                     "type": 3
                 },
                 {
                     "foldername": "googleaccess",
-                    "fingerprint": 2160947373,
+                    "fingerprint": 2484448736,
                     "type": 3
                 },
                 {
@@ -337,57 +377,22 @@
                     "type": 3
                 },
                 {
-                    "foldername": "ferritecore.threaddetec.mixin.json",
-                    "fingerprint": 1873930925,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.predicates.mixin.json",
-                    "fingerprint": 1051624304,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.mrl.mixin.json",
-                    "fingerprint": 1400714887,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.fastmap.mixin.json",
-                    "fingerprint": 2840470744,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.dedupmultipart.mixin.json",
-                    "fingerprint": 1879826279,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.dedupbakedquad.mixin.json",
-                    "fingerprint": 3150701946,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore.blockstatecache.mixin.json",
-                    "fingerprint": 3228485139,
-                    "type": 3
-                },
-                {
-                    "foldername": "ferritecore-common-refmap.json",
-                    "fingerprint": 370183679,
-                    "type": 3
-                },
-                {
                     "foldername": "pack.mcmeta",
                     "fingerprint": 2809587253,
                     "type": 3
                 },
                 {
-                    "foldername": "malte0811",
-                    "fingerprint": 1458058363,
+                    "foldername": "roadrunner.overrides.properties",
+                    "fingerprint": 36475463,
+                    "type": 3
+                },
+                {
+                    "foldername": "ferritecore.refmap.json",
+                    "fingerprint": 1724321757,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 3241999197,
+            "packageFingerprint": 1529932398,
             "gameVersion": [
                 "1.18.2",
                 "Forge"
@@ -415,16 +420,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2763074,
+            "renderCacheId": 2878916,
             "fileLegacyMappingId": null,
             "projectId": 429235,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 872199701,
+            "packageFingerprintId": 911065361,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3828241,
+            "gameVersionMappingId": 4026548,
             "gameVersionId": 7498,
             "gameId": 432,
             "isServerPack": false,
@@ -433,11 +438,11 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "304cc2f2733ae944b04082d77138bf69c465ff08"
+                    "value": "ba3071bf50a8ffae349b7eca514415014e939267"
                 },
                 {
                     "algorithm": 2,
-                    "value": "434a15e402e85f4699451e9e6c95db32"
+                    "value": "3b470ce3be52837936b0fdd4aa642f72"
                 }
             ],
             "downloadCount": 0
@@ -474,8 +479,8 @@
     "gameVersionLatestFiles": [
         {
             "gameVersion": "1.18.2",
-            "projectFileId": 3672146,
-            "projectFileName": "ferritecore-4.2.0-forge.jar",
+            "projectFileId": 3767288,
+            "projectFileName": "ferritecore-4.2.1-forge.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -555,8 +560,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 33330.42578125,
-    "gamePopularityRank": 94,
+    "popularityScore": 33798.17578125,
+    "gamePopularityRank": 96,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -565,9 +570,9 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2022-03-04T15:18:13.237Z",
+    "dateModified": "2022-04-24T16:33:14.373Z",
     "dateCreated": "2020-12-18T07:53:54.373Z",
-    "dateReleased": "2022-03-04T15:16:31.067Z",
+    "dateReleased": "2022-04-24T16:29:08.213Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

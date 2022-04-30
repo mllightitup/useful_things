@@ -9,13 +9,13 @@
         "changelog": "Update to 1.17-pre1\nFix missing texture reference in fancy beds resourcepack",
         "changelog_url": null,
         "date_published": "2021-06-07T16:54:48.012781Z",
-        "downloads": 4403,
+        "downloads": 5190,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "970e34b6bc69a581aadca2786b9a4490319f35f9",
-                    "sha512": "82549a703487c950c47201456e6d4d12da424dbeb6c583ff49b432fa6b909f192c7909cde9564d92bff96792b90262518fbd7110ad040d088cd6d29791498f1b"
+                    "sha512": "82549a703487c950c47201456e6d4d12da424dbeb6c583ff49b432fa6b909f192c7909cde9564d92bff96792b90262518fbd7110ad040d088cd6d29791498f1b",
+                    "sha1": "970e34b6bc69a581aadca2786b9a4490319f35f9"
                 },
                 "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.2.0/betterbeds-1.2.0.jar",
                 "filename": "betterbeds-1.2.0.jar",
@@ -33,7 +33,8 @@
             "22w12a"
         ],
         "loaders": [
-            "fabric"
+            "fabric",
+            "quilt"
         ]
     },
     {
@@ -46,7 +47,7 @@
         "changelog": "Included resourcepacks into the mod.",
         "changelog_url": null,
         "date_published": "2021-02-08T10:53:53.666295Z",
-        "downloads": 1816,
+        "downloads": 2156,
         "version_type": "release",
         "files": [
             {
@@ -82,7 +83,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-02-06T12:02:55.568180Z",
-        "downloads": 29,
+        "downloads": 34,
         "version_type": "release",
         "files": [
             {

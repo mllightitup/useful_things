@@ -31,8 +31,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/clumps",
     "gameId": 432,
     "summary": "Clumps XP orbs together to reduce lag",
-    "defaultFileId": 3672163,
-    "downloadCount": 72428382.0,
+    "defaultFileId": 3757581,
+    "downloadCount": 76545732.0,
     "latestFiles": [
         {
             "id": 2666198,
@@ -112,14 +112,14 @@
             "downloadCount": 31243162
         },
         {
-            "id": 3672161,
-            "displayName": "Clumps-fabric-1.18.2-8.0.0+7.jar",
-            "fileName": "Clumps-fabric-1.18.2-8.0.0+7.jar",
-            "fileDate": "2022-03-04T15:31:30.57Z",
-            "fileLength": 9949,
+            "id": 3757580,
+            "displayName": "Clumps-fabric-1.18.2-8.0.0+8.jar",
+            "fileName": "Clumps-fabric-1.18.2-8.0.0+8.jar",
+            "fileDate": "2022-04-18T00:35:50.717Z",
+            "fileLength": 9959,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3672/161/Clumps-fabric-1.18.2-8.0.0+7.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3757/580/Clumps-fabric-1.18.2-8.0.0+8.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -127,17 +127,17 @@
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 3763071945,
-                    "type": 3
-                },
-                {
-                    "foldername": "fabric.mod.json",
-                    "fingerprint": 78307148,
+                    "fingerprint": 3918147224,
                     "type": 3
                 },
                 {
                     "foldername": "clumps.mixins.json",
                     "fingerprint": 213540018,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 438443657,
                     "type": 3
                 },
                 {
@@ -147,11 +147,11 @@
                 },
                 {
                     "foldername": "com",
-                    "fingerprint": 2837569168,
+                    "fingerprint": 999334363,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 3570555350,
+            "packageFingerprint": 3960520409,
             "gameVersion": [
                 "Fabric",
                 "1.18.2"
@@ -179,16 +179,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2763089,
+            "renderCacheId": 2866314,
             "fileLegacyMappingId": null,
             "projectId": 256717,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 872205090,
+            "packageFingerprintId": 906408404,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3828275,
+            "gameVersionMappingId": 4004078,
             "gameVersionId": 7499,
             "gameId": 432,
             "isServerPack": false,
@@ -197,24 +197,24 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "d84d81b9cd41659b5b3472720a925ce263f15fc6"
+                    "value": "0ae22ad30554828e3f76ddb172ddc275412d9785"
                 },
                 {
                     "algorithm": 2,
-                    "value": "207173d88c7b4867567cf521f8c83636"
+                    "value": "2d3f41551da018c2ae13cd97a21479ae"
                 }
             ],
             "downloadCount": 0
         },
         {
-            "id": 3672163,
-            "displayName": "Clumps-forge-1.18.2-8.0.0+7.jar",
-            "fileName": "Clumps-forge-1.18.2-8.0.0+7.jar",
-            "fileDate": "2022-03-04T15:31:34.443Z",
-            "fileLength": 10214,
+            "id": 3757581,
+            "displayName": "Clumps-forge-1.18.2-8.0.0+8.jar",
+            "fileName": "Clumps-forge-1.18.2-8.0.0+8.jar",
+            "fileDate": "2022-04-18T00:35:52.83Z",
+            "fileLength": 10209,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3672/163/Clumps-forge-1.18.2-8.0.0+7.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3757/581/Clumps-forge-1.18.2-8.0.0+8.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -222,17 +222,12 @@
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 3648628391,
+                    "fingerprint": 2264289012,
                     "type": 3
                 },
                 {
                     "foldername": "com",
-                    "fingerprint": 2917569202,
-                    "type": 3
-                },
-                {
-                    "foldername": "pack.mcmeta",
-                    "fingerprint": 3623522934,
+                    "fingerprint": 3153484830,
                     "type": 3
                 },
                 {
@@ -241,12 +236,17 @@
                     "type": 3
                 },
                 {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 3623522934,
+                    "type": 3
+                },
+                {
                     "foldername": "clumps.refmap.json",
                     "fingerprint": 1735700876,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 4173395774,
+            "packageFingerprint": 3353913679,
             "gameVersion": [
                 "1.18.2",
                 "Forge"
@@ -274,16 +274,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2763091,
+            "renderCacheId": 2866315,
             "fileLegacyMappingId": null,
             "projectId": 256717,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 872207665,
+            "packageFingerprintId": 906408419,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3828278,
+            "gameVersionMappingId": 4004081,
             "gameVersionId": 7498,
             "gameId": 432,
             "isServerPack": false,
@@ -292,11 +292,11 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "59fa79c70016f02a89601c775c5f35376a70ed16"
+                    "value": "09f702445fb8ec8954318747c282ca84c093a63b"
                 },
                 {
                     "algorithm": 2,
-                    "value": "76c967e14b403aa6a9fa59f96fda0557"
+                    "value": "ca8e5fd501510be97e7aded64f3e9a8d"
                 }
             ],
             "downloadCount": 0
@@ -304,17 +304,17 @@
     ],
     "categories": [
         {
-            "categoryId": 435,
-            "name": "Server Utility",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "categoryId": 420,
+            "name": "Storage",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
             "parentId": 6,
             "rootId": 6,
             "projectId": 256717,
-            "avatarId": 6048,
+            "avatarId": 6035,
             "gameId": 432,
-            "slug": "server-utility",
-            "dateModified": "2014-05-08T17:44:55.057Z"
+            "slug": "storage",
+            "dateModified": "2014-05-08T17:41:17.203Z"
         },
         {
             "categoryId": 5191,
@@ -330,17 +330,17 @@
             "dateModified": "2021-11-17T11:45:09.143Z"
         },
         {
-            "categoryId": 420,
-            "name": "Storage",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
             "parentId": 6,
             "rootId": 6,
             "projectId": 256717,
-            "avatarId": 6035,
+            "avatarId": 6048,
             "gameId": 432,
-            "slug": "storage",
-            "dateModified": "2014-05-08T17:41:17.203Z"
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
         }
     ],
     "status": 4,
@@ -359,8 +359,8 @@
     "gameVersionLatestFiles": [
         {
             "gameVersion": "1.18.2",
-            "projectFileId": 3672163,
-            "projectFileName": "Clumps-forge-1.18.2-8.0.0+7.jar",
+            "projectFileId": 3757581,
+            "projectFileName": "Clumps-forge-1.18.2-8.0.0+8.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -368,8 +368,8 @@
         },
         {
             "gameVersion": "1.18.2",
-            "projectFileId": 3672161,
-            "projectFileName": "Clumps-fabric-1.18.2-8.0.0+7.jar",
+            "projectFileId": 3757580,
+            "projectFileName": "Clumps-fabric-1.18.2-8.0.0+8.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -552,8 +552,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 63548.1953125,
-    "gamePopularityRank": 7,
+    "popularityScore": 62728.10546875,
+    "gamePopularityRank": 6,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -561,9 +561,9 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2022-03-04T15:36:42.15Z",
+    "dateModified": "2022-04-18T00:39:16.6Z",
     "dateCreated": "2017-01-07T11:46:23.243Z",
-    "dateReleased": "2022-03-04T15:31:34.443Z",
+    "dateReleased": "2022-04-18T00:35:52.83Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

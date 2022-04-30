@@ -8,7 +8,7 @@
     "body": "This mod reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).\n\nThe amount of memory saved will depend on the pack. In version 2.5.9 of [All Of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3) it reduces the RAM usage (heap size) from 1,792 MB to 984 MB. For comparison the same setup with Hydrogen instead of FerriteCore uses 1,335 MB.  \nThese values were measured after generating a world with a fixed seed and waiting for two minutes.\nThe project picture is a cropped version of [this](https://commons.wikimedia.org/wiki/File:Magnetic-core_memory,_at_angle.jpg) picture.\n\n### FAQ\n\n#### Should I install this on the server or just on the client?\n\nSome optimizations are client-side only, but there are some rather high-impact optimizations that are relevant on the server too. So you should install it on both sides.\n\n#### Is this compatible with [other mod]?\n\nMost likely yes. The only exception is Hydrogen, which is compatible with all recent FerriteCore versions *on Minecraft versions where Hydrogen is officially released*. This means that 1.18+ builds are not compatible with Hydrogen, since it has been officially archived and won't receive any releases on these versions.",
     "body_url": null,
     "published": "2021-04-03T07:04:43.971189Z",
-    "updated": "2022-03-04T15:13:49.926573Z",
+    "updated": "2022-04-24T16:33:22.127290Z",
     "status": "approved",
     "moderator_message": null,
     "license": {
@@ -18,8 +18,8 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 27360,
-    "followers": 473,
+    "downloads": 30839,
+    "followers": 510,
     "categories": [
         "utility",
         "optimization"
@@ -27,12 +27,14 @@
     "versions": [
         "c9p5gemS",
         "oP38VFTJ",
-        "FMdIAsIi",
         "8s9IAy0y",
         "OhmGV4Hp",
+        "FMdIAsIi",
         "OhuTVpQH",
         "HjttFjoa",
         "GeyB7u1y",
+        "776Z5oW9",
+        "AvWRJcqx",
         "Mc6hHgQU",
         "hjsymojR",
         "LG5zF5LP",

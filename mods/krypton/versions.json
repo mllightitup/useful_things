@@ -9,7 +9,7 @@
         "changelog": "Fixes a regression with 0.1.8.",
         "changelog_url": null,
         "date_published": "2022-03-09T05:36:05.413168Z",
-        "downloads": 7429,
+        "downloads": 9659,
         "version_type": "release",
         "files": [
             {
@@ -41,13 +41,13 @@
         "changelog": "Fix compatibility with 1.18.2",
         "changelog_url": null,
         "date_published": "2022-03-01T05:22:16.286065Z",
-        "downloads": 1430,
+        "downloads": 1438,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "8c9286ce6f17b600407c52ace5387f1f14d142a2",
-                    "sha512": "4b34c066bc51209a3c155615781d4a4a2a4497aa0d8d5e85ec62c13920a543db386d19cf01914e8a03b9adc24b8bafeb570eb51a8385e70bcf4597a3d34d4aba"
+                    "sha512": "4b34c066bc51209a3c155615781d4a4a2a4497aa0d8d5e85ec62c13920a543db386d19cf01914e8a03b9adc24b8bafeb570eb51a8385e70bcf4597a3d34d4aba",
+                    "sha1": "8c9286ce6f17b600407c52ace5387f1f14d142a2"
                 },
                 "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.7/krypton-0.1.7.jar",
                 "filename": "krypton-0.1.7.jar",
@@ -73,7 +73,7 @@
         "changelog": "* Updated to Minecraft 1.18.1",
         "changelog_url": null,
         "date_published": "2021-12-11T02:18:56.145776Z",
-        "downloads": 7076,
+        "downloads": 7090,
         "version_type": "release",
         "files": [
             {
@@ -104,7 +104,7 @@
         "changelog": "Compatible with Minecraft 1.17.1",
         "changelog_url": null,
         "date_published": "2021-07-06T16:24:47.939506Z",
-        "downloads": 12164,
+        "downloads": 12613,
         "version_type": "release",
         "files": [
             {
@@ -135,7 +135,7 @@
         "changelog": "* Updated to Minecraft 1.17. (This release is not compatible with Minecraft 1.16.5 and earlier.)\n* Added VarInt writing optimizations.\n* Fixed packet sending counter.\n* Fixed ViaFabric incompatibility.",
         "changelog_url": null,
         "date_published": "2021-06-08T20:57:53.908095Z",
-        "downloads": 2774,
+        "downloads": 3088,
         "version_type": "release",
         "files": [
             {
@@ -166,13 +166,13 @@
         "changelog": "Fixed several issues with flush consolidation",
         "changelog_url": null,
         "date_published": "2021-02-11T20:25:01.910813Z",
-        "downloads": 6203,
+        "downloads": 6598,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "785618b9a11a7b267659a5583804fcaf20cd14d4",
-                    "sha512": "36fd6bd5a963bdb8f1472b2d1f7ac34a2044f644c7911570ce374665e1de24ef31793b5cd5421222f9e6b4eaa851e1e6358658b306d20df71b8c79a93984710c"
+                    "sha512": "36fd6bd5a963bdb8f1472b2d1f7ac34a2044f644c7911570ce374665e1de24ef31793b5cd5421222f9e6b4eaa851e1e6358658b306d20df71b8c79a93984710c",
+                    "sha1": "785618b9a11a7b267659a5583804fcaf20cd14d4"
                 },
                 "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar",
                 "filename": "krypton-0.1.2.jar",
@@ -200,7 +200,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-01-20T23:06:20.668361Z",
-        "downloads": 185,
+        "downloads": 186,
         "version_type": "release",
         "files": [
             {
@@ -234,7 +234,7 @@
         "changelog": "",
         "changelog_url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.0/changelog.md",
         "date_published": "2020-12-21T17:48:09.053670Z",
-        "downloads": 67,
+        "downloads": 68,
         "version_type": "release",
         "files": [
             {

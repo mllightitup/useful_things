@@ -31,8 +31,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fastsuite",
     "gameId": 432,
     "summary": "A performance upgrade for the JSON recipe system.",
-    "defaultFileId": 3717879,
-    "downloadCount": 1068067.0,
+    "defaultFileId": 3755834,
+    "downloadCount": 1166793.0,
     "latestFiles": [
         {
             "id": 3391318,
@@ -137,34 +137,34 @@
             "downloadCount": 7039
         },
         {
-            "id": 3717879,
-            "displayName": "FastSuite-1.18.2-3.0.1.jar",
-            "fileName": "FastSuite-1.18.2-3.0.1.jar",
-            "fileDate": "2022-03-27T08:05:21.38Z",
-            "fileLength": 10891,
+            "id": 3755834,
+            "displayName": "FastSuite-1.18.2-3.0.2.jar",
+            "fileName": "FastSuite-1.18.2-3.0.2.jar",
+            "fileDate": "2022-04-16T17:45:41.863Z",
+            "fileLength": 11185,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3717/879/FastSuite-1.18.2-3.0.1.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3755/834/FastSuite-1.18.2-3.0.2.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [
                 {
-                    "id": 90190057,
+                    "id": 91914092,
                     "addonId": 283644,
                     "type": 3,
-                    "fileId": 3717879
+                    "fileId": 3755834
                 }
             ],
             "isAvailable": true,
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 584815191,
+                    "fingerprint": 2559772856,
                     "type": 3
                 },
                 {
                     "foldername": "shadows",
-                    "fingerprint": 4171259932,
+                    "fingerprint": 2535602137,
                     "type": 3
                 },
                 {
@@ -183,7 +183,7 @@
                     "type": 3
                 }
             ],
-            "packageFingerprint": 3233412297,
+            "packageFingerprint": 606341225,
             "gameVersion": [
                 "1.18.2",
                 "Forge"
@@ -211,16 +211,16 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2817308,
+            "renderCacheId": 2864102,
             "fileLegacyMappingId": null,
             "projectId": 475117,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 889027646,
+            "packageFingerprintId": 904709691,
             "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3919843,
+            "gameVersionMappingId": 3999686,
             "gameVersionId": 7498,
             "gameId": 432,
             "isServerPack": false,
@@ -229,11 +229,11 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "53708286cc4dc6ebaac94811283201cfae274f3b"
+                    "value": "619808f9824a229344cd0914b7e6a651eb28625a"
                 },
                 {
                     "algorithm": 2,
-                    "value": "b02a987e1e593c341055b6af8e5038c3"
+                    "value": "45d1de27c9e69e614a3b480a03809bc8"
                 }
             ],
             "downloadCount": 0
@@ -270,8 +270,8 @@
     "gameVersionLatestFiles": [
         {
             "gameVersion": "1.18.2",
-            "projectFileId": 3717879,
-            "projectFileName": "FastSuite-1.18.2-3.0.1.jar",
+            "projectFileId": 3755834,
+            "projectFileName": "FastSuite-1.18.2-3.0.2.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
@@ -331,8 +331,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 7912.9912109375,
-    "gamePopularityRank": 1154,
+    "popularityScore": 8228.6904296875,
+    "gamePopularityRank": 1123,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [
@@ -340,9 +340,9 @@
     ],
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2022-03-27T08:09:50.393Z",
+    "dateModified": "2022-04-16T17:53:27.493Z",
     "dateCreated": "2021-04-23T18:13:07.68Z",
-    "dateReleased": "2022-03-27T08:05:21.38Z",
+    "dateReleased": "2022-04-16T17:45:41.863Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

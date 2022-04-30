@@ -31,8 +31,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rubidium",
     "gameId": 432,
     "summary": "Unofficial Fork of CaffeineMC's \"Sodium\", made to work with FML",
-    "defaultFileId": 3749094,
-    "downloadCount": 254339.0,
+    "defaultFileId": 3769736,
+    "downloadCount": 347343.0,
     "latestFiles": [
         {
             "id": 3630907,
@@ -150,14 +150,14 @@
             "downloadCount": 6
         },
         {
-            "id": 3749094,
-            "displayName": " Rubidium mc1.18.2-0.5.2a",
-            "fileName": "rubidium-0.5.2a.jar",
-            "fileDate": "2022-04-12T13:31:07.327Z",
-            "fileLength": 1336804,
+            "id": 3769736,
+            "displayName": " Rubidium mc1.16.5-0.2.6",
+            "fileName": "rubidium-0.2.6.jar",
+            "fileDate": "2022-04-26T14:41:34.203Z",
+            "fileLength": 565111,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3749/94/rubidium-0.5.2a.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3769/736/rubidium-0.2.6.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -165,17 +165,17 @@
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 2430054725,
+                    "fingerprint": 1920600456,
                     "type": 3
                 },
                 {
                     "foldername": "rubidium.mixins.json",
-                    "fingerprint": 1690146609,
+                    "fingerprint": 184208242,
                     "type": 3
                 },
                 {
                     "foldername": "pack.mcmeta",
-                    "fingerprint": 3011157730,
+                    "fingerprint": 4133141486,
                     "type": 3
                 },
                 {
@@ -185,42 +185,32 @@
                 },
                 {
                     "foldername": "assets",
-                    "fingerprint": 2706226431,
+                    "fingerprint": 3617599792,
                     "type": 3
                 },
                 {
                     "foldername": "rubidium-refmap.json",
-                    "fingerprint": 3351856473,
+                    "fingerprint": 3979270050,
                     "type": 3
                 },
                 {
                     "foldername": "me",
-                    "fingerprint": 2122195991,
-                    "type": 3
-                },
-                {
-                    "foldername": "repack",
-                    "fingerprint": 2105597042,
-                    "type": 3
-                },
-                {
-                    "foldername": "net",
-                    "fingerprint": 1208173587,
+                    "fingerprint": 2711125732,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 1212921633,
+            "packageFingerprint": 1003871217,
             "gameVersion": [
-                "1.18.2",
+                "1.16.5",
                 "Forge"
             ],
             "sortableGameVersion": [
                 {
-                    "gameVersionPadded": "0000000001.0000000018.0000000002",
-                    "gameVersion": "1.18.2",
-                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-                    "gameVersionName": "1.18.2",
-                    "gameVersionTypeId": 73250
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
                 },
                 {
                     "gameVersionPadded": "0",
@@ -237,17 +227,17 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2855171,
+            "renderCacheId": 2881878,
             "fileLegacyMappingId": null,
             "projectId": 574856,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 901065422,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3983349,
-            "gameVersionId": 7498,
+            "packageFingerprintId": 912348176,
+            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+            "gameVersionMappingId": 4033802,
+            "gameVersionId": 4458,
             "gameId": 432,
             "isServerPack": false,
             "serverPackFileId": null,
@@ -255,11 +245,11 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "f2104b404a0508daa1b362de9a491b69aaf26175"
+                    "value": "5d194282e1cb7e98066e714b164d62aedb9d1170"
                 },
                 {
                     "algorithm": 2,
-                    "value": "f96950d6dda6e544cbced5790ea19f03"
+                    "value": "5ebd8a8aeee421879a492893729177ec"
                 }
             ],
             "downloadCount": 0
@@ -295,21 +285,21 @@
     "slug": "rubidium",
     "gameVersionLatestFiles": [
         {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3769736,
+            "projectFileName": "rubidium-0.2.6.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
             "gameVersion": "1.18.2",
             "projectFileId": 3749094,
             "projectFileName": "rubidium-0.5.2a.jar",
             "fileType": 1,
             "gameVersionFlavor": null,
             "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3737406,
-            "projectFileName": "rubidium-0.2.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
             "modLoader": 1
         },
         {
@@ -332,15 +322,15 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 4619.068359375,
-    "gamePopularityRank": 1722,
+    "popularityScore": 5493.7421875,
+    "gamePopularityRank": 1643,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2022-04-12T13:33:59.757Z",
+    "dateModified": "2022-04-26T14:45:58.083Z",
     "dateCreated": "2022-01-30T20:29:36.19Z",
-    "dateReleased": "2022-04-12T13:31:07.327Z",
+    "dateReleased": "2022-04-26T14:41:34.203Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

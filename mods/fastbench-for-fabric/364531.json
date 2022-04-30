@@ -30,7 +30,7 @@
     "gameId": 432,
     "summary": "Crafting table optimizations",
     "defaultFileId": 3579621,
-    "downloadCount": 353376.0,
+    "downloadCount": 408810.0,
     "latestFiles": [
         {
             "id": 3005190,
@@ -281,8 +281,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 2978.811767578125,
-    "gamePopularityRank": 1989,
+    "popularityScore": 3098.97412109375,
+    "gamePopularityRank": 1952,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "modLoaders": [

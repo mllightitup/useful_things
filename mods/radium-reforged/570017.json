@@ -32,7 +32,7 @@
     "gameId": 432,
     "summary": "Unofficial Fork of CaffeineMC's \"Lithium\", made to work with FML",
     "defaultFileId": 3707226,
-    "downloadCount": 225685.0,
+    "downloadCount": 302730.0,
     "latestFiles": [
         {
             "id": 3707226,
@@ -197,8 +197,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 3576.822021484375,
-    "gamePopularityRank": 1798,
+    "popularityScore": 3756.94580078125,
+    "gamePopularityRank": 1744,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "gameName": "Minecraft",

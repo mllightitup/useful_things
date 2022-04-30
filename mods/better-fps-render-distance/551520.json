@@ -30,18 +30,18 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance",
     "gameId": 432,
     "summary": "Better fps for 1.16+ minecraft, improved render distances",
-    "defaultFileId": 3750013,
-    "downloadCount": 1007429.0,
+    "defaultFileId": 3766033,
+    "downloadCount": 1073861.0,
     "latestFiles": [
         {
-            "id": 3750013,
-            "displayName": "betterfpsdist-1.18.2-1.5.jar",
-            "fileName": "betterfpsdist-1.18.2-1.5.jar",
-            "fileDate": "2022-04-13T08:51:17.703Z",
-            "fileLength": 16445,
+            "id": 3766033,
+            "displayName": "betterfpsdist-1.2.jar",
+            "fileName": "betterfpsdist-1.2.jar",
+            "fileDate": "2022-04-24T12:16:41.79Z",
+            "fileLength": 14478,
             "releaseType": 1,
             "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3750/13/betterfpsdist-1.18.2-1.5.jar",
+            "downloadUrl": "https://edge.forgecdn.net/files/3766/33/betterfpsdist-1.2.jar",
             "isAlternate": false,
             "alternateFileId": 0,
             "dependencies": [],
@@ -49,17 +49,17 @@
             "modules": [
                 {
                     "foldername": "META-INF",
-                    "fingerprint": 2139131034,
+                    "fingerprint": 4024347012,
                     "type": 3
                 },
                 {
                     "foldername": "com",
-                    "fingerprint": 1738750238,
+                    "fingerprint": 4084278527,
                     "type": 3
                 },
                 {
                     "foldername": "betterfpsdist.mixins.json",
-                    "fingerprint": 2638675530,
+                    "fingerprint": 3478440666,
                     "type": 3
                 },
                 {
@@ -69,30 +69,22 @@
                 },
                 {
                     "foldername": "betterfpsdist.refmap.json",
-                    "fingerprint": 3420500270,
+                    "fingerprint": 1688435257,
                     "type": 3
                 }
             ],
-            "packageFingerprint": 689593967,
+            "packageFingerprint": 4144400660,
             "gameVersion": [
-                "1.18.1",
-                "1.18.2",
+                "1.16.5",
                 "Forge"
             ],
             "sortableGameVersion": [
                 {
-                    "gameVersionPadded": "0000000001.0000000018.0000000001",
-                    "gameVersion": "1.18.1",
-                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                    "gameVersionName": "1.18.1",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000002",
-                    "gameVersion": "1.18.2",
-                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-                    "gameVersionName": "1.18.2",
-                    "gameVersionTypeId": 73250
+                    "gameVersionPadded": "0000000001.0000000016.0000000005",
+                    "gameVersion": "1.16.5",
+                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                    "gameVersionName": "1.16.5",
+                    "gameVersionTypeId": 70886
                 },
                 {
                     "gameVersionPadded": "0",
@@ -109,17 +101,17 @@
             "categorySectionPackageType": 6,
             "restrictProjectFileAccess": 1,
             "projectStatus": 4,
-            "renderCacheId": 2856327,
+            "renderCacheId": 2876599,
             "fileLegacyMappingId": null,
             "projectId": 551520,
             "parentProjectFileId": null,
             "parentFileLegacyMappingId": null,
             "fileTypeId": null,
             "exposeAsAlternative": null,
-            "packageFingerprintId": 901955178,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3985783,
-            "gameVersionId": 7498,
+            "packageFingerprintId": 910935257,
+            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+            "gameVersionMappingId": 4023959,
+            "gameVersionId": 4458,
             "gameId": 432,
             "isServerPack": false,
             "serverPackFileId": null,
@@ -127,11 +119,11 @@
             "hashes": [
                 {
                     "algorithm": 1,
-                    "value": "00a1e55481f45aa43ab5f72ba146b81c770568d5"
+                    "value": "2bbfb89dbfb5275f0c7f31d8739fdd94461a183e"
                 },
                 {
                     "algorithm": 2,
-                    "value": "51fe964b666b0ab14c40c4f79d029b2b"
+                    "value": "2308031c7afa5e023fd5d988210890f7"
                 }
             ],
             "downloadCount": 0
@@ -180,6 +172,15 @@
     "slug": "better-fps-render-distance",
     "gameVersionLatestFiles": [
         {
+            "gameVersion": "1.16.5",
+            "projectFileId": 3766033,
+            "projectFileName": "betterfpsdist-1.2.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 70886,
+            "modLoader": 1
+        },
+        {
             "gameVersion": "1.18.1",
             "projectFileId": 3750013,
             "projectFileName": "betterfpsdist-1.18.2-1.5.jar",
@@ -225,15 +226,6 @@
             "modLoader": 1
         },
         {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3543461,
-            "projectFileName": "betterfpsdist-1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
             "gameVersion": "1.15.2",
             "projectFileId": 3543461,
             "projectFileName": "betterfpsdist-1.1.jar",
@@ -244,15 +236,15 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 10605.0078125,
-    "gamePopularityRank": 1140,
+    "popularityScore": 10743.728515625,
+    "gamePopularityRank": 1130,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2022-04-13T08:54:14.237Z",
+    "dateModified": "2022-04-24T12:24:13.21Z",
     "dateCreated": "2021-12-01T11:11:50.597Z",
-    "dateReleased": "2022-04-13T08:51:17.703Z",
+    "dateReleased": "2022-04-24T12:16:41.79Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

@@ -9,13 +9,13 @@
         "changelog": "Update to 1.18.2\nAdd Dashloader support (BREAKS with LambdaBetterGrass, known issue with DASHLOADER; If you want to use this mod with LambdaBetterGrass, do not use Dashloader until the issue is resolved)\nUse SpruceUI for config UI\nAdd text color to config UI",
         "changelog_url": null,
         "date_published": "2022-03-27T05:21:42.338537Z",
-        "downloads": 2620,
+        "downloads": 4248,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "d4a4ce2f0249cd636eb3f820225082645885bd74",
-                    "sha512": "fad866d1a1abae275b3c0bbd9003b228a2006262e23cc20f0a22b22d830b82a261b2cb8255377910f6fe2e44de87ae54a92f18021988ad3cca7c08f176a97b7c"
+                    "sha512": "fad866d1a1abae275b3c0bbd9003b228a2006262e23cc20f0a22b22d830b82a261b2cb8255377910f6fe2e44de87ae54a92f18021988ad3cca7c08f176a97b7c",
+                    "sha1": "d4a4ce2f0249cd636eb3f820225082645885bd74"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.6+1.18.2/enhancedblockentities-0.6%2B1.18.2.jar",
                 "filename": "enhancedblockentities-0.6+1.18.2.jar",
@@ -24,19 +24,19 @@
         ],
         "dependencies": [
             {
-                "version_id": "INRZVF8u",
-                "project_id": "P7dR8mSH",
-                "dependency_type": "required"
-            },
-            {
                 "version_id": "JQ7pEK4s",
                 "project_id": "ZfQ3kTvR",
                 "dependency_type": "optional"
             },
             {
-                "version_id": "Ui2loaCY",
+                "version_id": "y8cYdaYa",
                 "project_id": "mOgUt4GM",
                 "dependency_type": "optional"
+            },
+            {
+                "version_id": "yLERB0ld",
+                "project_id": "P7dR8mSH",
+                "dependency_type": "required"
             }
         ],
         "game_versions": [
@@ -56,7 +56,7 @@
         "changelog": "Updated to 1.18",
         "changelog_url": null,
         "date_published": "2021-12-10T05:52:15.168253Z",
-        "downloads": 5451,
+        "downloads": 5512,
         "version_type": "release",
         "files": [
             {
@@ -87,13 +87,13 @@
         "changelog": "Completely fixed resource pack induced invisible chest bugs <br/>\nCompletely fixed phantom chest lids/bells and glitched animations <br/>\nAdded enhanced shulker boxes <br/>\nAdded more experimental particle support for other blocks",
         "changelog_url": null,
         "date_published": "2021-09-17T03:21:28.735278Z",
-        "downloads": 4592,
+        "downloads": 4603,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6d572a378c1097a829767db34d25cc83f04020bfba8828fc2ef8ea9f1",
-                    "sha1": "a05ce552fc175f49c02f477bfc8a4003c2af7c97"
+                    "sha1": "a05ce552fc175f49c02f477bfc8a4003c2af7c97",
+                    "sha512": "1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6d572a378c1097a829767db34d25cc83f04020bfba8828fc2ef8ea9f1"
                 },
                 "url": "https://cdn.modrinth.com//data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar",
                 "filename": "enhancedblockentities-0.5+1.17.jar",
@@ -118,7 +118,7 @@
         "changelog": "Fix the mod not working (Mixin apply error)",
         "changelog_url": null,
         "date_published": "2021-07-08T01:53:25.217525Z",
-        "downloads": 3484,
+        "downloads": 3485,
         "version_type": "release",
         "files": [
             {
@@ -150,7 +150,7 @@
         "changelog": "Update to 1.17 <br/>\n<br/>\nAdd enhanced beds <br/>\nAdd experimental chest particles <br/>\nImprove reloading in config gui",
         "changelog_url": null,
         "date_published": "2021-07-08T00:50:28.456400Z",
-        "downloads": 20,
+        "downloads": 22,
         "version_type": "release",
         "files": [
             {
@@ -182,13 +182,13 @@
         "changelog": "Add enhanced beds <br/>\nAdd experimental chest particles <br/>\nImprove reloading in config gui",
         "changelog_url": null,
         "date_published": "2021-07-06T01:47:44.462664Z",
-        "downloads": 1906,
+        "downloads": 1956,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d",
-                    "sha1": "5b815b595ac5e40123845e1bb03c95392ad1a7dd"
+                    "sha1": "5b815b595ac5e40123845e1bb03c95392ad1a7dd",
+                    "sha512": "baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar",
                 "filename": "enhancedblockentities-0.4--1.16.x.jar",
@@ -218,8 +218,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha512": "e248404c510655e9deb51ef4a1233355f21d77ded2d0fb22966807c1414bd181effb342d6c04a77c67a98728fcfd37b44b00f820979450fff6d19c849a835590",
-                    "sha1": "a8b86821c4be8985a715f936dc7cd7f2d90227ac"
+                    "sha1": "a8b86821c4be8985a715f936dc7cd7f2d90227ac",
+                    "sha512": "e248404c510655e9deb51ef4a1233355f21d77ded2d0fb22966807c1414bd181effb342d6c04a77c67a98728fcfd37b44b00f820979450fff6d19c849a835590"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.3.1/enhancedblockentities-0.3.1--1.16.x.jar",
                 "filename": "enhancedblockentities-0.3.1--1.16.x.jar",
@@ -275,7 +275,7 @@
         "changelog": "- Adds Configuration Screen (accessible in video settings) <br/>\n- All features can be disabled <br/>\n- Enhanced Sign Rendering <br/>\n- Smooth Lighting option for chests and signs <br/>\n- More control over when the Christmas chest texture is used for chests <br/>\n- Fix texture mapping on double chest locks",
         "changelog_url": null,
         "date_published": "2021-05-06T05:38:38.413448Z",
-        "downloads": 64,
+        "downloads": 66,
         "version_type": "release",
         "files": [
             {

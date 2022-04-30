@@ -9,7 +9,7 @@
         "changelog": "Update to MidnightLib 0.2.9",
         "changelog_url": null,
         "date_published": "2021-10-30T13:49:13.443840Z",
-        "downloads": 8082,
+        "downloads": 9511,
         "version_type": "release",
         "files": [
             {
@@ -33,7 +33,8 @@
             "22w12a"
         ],
         "loaders": [
-            "fabric"
+            "fabric",
+            "quilt"
         ]
     },
     {
@@ -46,7 +47,7 @@
         "changelog": "Update MidnightLib to fix bugs, optimize and reduce file size.",
         "changelog_url": null,
         "date_published": "2021-10-19T20:39:18.420111Z",
-        "downloads": 376,
+        "downloads": 380,
         "version_type": "release",
         "files": [
             {
@@ -83,13 +84,13 @@
         "changelog": "This release includes the full, updated MidnightLib package, fixing bugs and allowing you to access the config even without ModMenu installed.\n\nThe smart leaves pack is no longer enabled by default, resulting in better FPS on default settings.\n\nRussian translations by @Disguys\nBrazilian translations by @Percario\n",
         "changelog_url": null,
         "date_published": "2021-09-25T10:53:11.692557Z",
-        "downloads": 768,
+        "downloads": 772,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "d4c5ad2cc573f974a806f1185e7c376c3d570295",
-                    "sha512": "fce2b27c774752787b873cfd6c4e02da8445c75f31bcaa982e487cb4d3824c5b55bdd066ab8bfb73381e27ebc49e2ce4971424b9cb64bbbe226c4511b223cf4c"
+                    "sha512": "fce2b27c774752787b873cfd6c4e02da8445c75f31bcaa982e487cb4d3824c5b55bdd066ab8bfb73381e27ebc49e2ce4971424b9cb64bbbe226c4511b223cf4c",
+                    "sha1": "d4c5ad2cc573f974a806f1185e7c376c3d570295"
                 },
                 "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.0/cullleaves-2.3.0.jar",
                 "filename": "cullleaves-2.3.0.jar",
@@ -117,7 +118,7 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-06-07T16:51:58.603061Z",
-        "downloads": 2324,
+        "downloads": 2326,
         "version_type": "release",
         "files": [
             {
@@ -150,13 +151,13 @@
         "changelog": "Use MidnightConfig instead of AutoConfig/ClothConfig, decreasing file size substantially and increasing compatibility.  \nFile size is now just 44KB instead of 589KB  \nAlso fix z-fighting in smart leaves resourcepack.",
         "changelog_url": null,
         "date_published": "2021-03-01T19:25:13.555441Z",
-        "downloads": 3132,
+        "downloads": 3492,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "ed9d1b969dda1454c440589f0dffa68cec0ae674a4e6daeb1cddceb02a884fd69b292879a7c4f052ef995eba260895cbacb0889404418c19c7cd0d6b20526eac",
-                    "sha1": "1ab8a22169bbe19c48328258bfb5fa608dac9ef1"
+                    "sha1": "1ab8a22169bbe19c48328258bfb5fa608dac9ef1",
+                    "sha512": "ed9d1b969dda1454c440589f0dffa68cec0ae674a4e6daeb1cddceb02a884fd69b292879a7c4f052ef995eba260895cbacb0889404418c19c7cd0d6b20526eac"
                 },
                 "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar",
                 "filename": "cullleaves-2.1.0.jar",
@@ -194,7 +195,7 @@
         "changelog": "The mod can now be disabled in modmenu!\nThis release also includes a resourcepack that you can enable to make the leaves look exactly like the optifine's smart leaves!",
         "changelog_url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.0.0/changelog.md",
         "date_published": "2021-01-14T15:33:43.398203Z",
-        "downloads": 1047,
+        "downloads": 1362,
         "version_type": "release",
         "files": [
             {
@@ -235,7 +236,7 @@
         "changelog": "",
         "changelog_url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/1.0.0/changelog.md",
         "date_published": "2021-01-01T13:46:00.964233Z",
-        "downloads": 40,
+        "downloads": 43,
         "version_type": "release",
         "files": [
             {

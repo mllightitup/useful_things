@@ -9,13 +9,13 @@
         "changelog": "- Now has the ability to reduce audio when unfocused (25% by default) and when not visible (0% by default).",
         "changelog_url": null,
         "date_published": "2022-01-15T14:43:07.398647Z",
-        "downloads": 7633,
+        "downloads": 9210,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "3e22e5b613abfb17fa83f74348a3c2cf8fb7bdb2a6a6a8d5b561044b37e54d0a0114df1128c7e34df063776975041c5595feb2f94cbb2bfe0f1bc59193cce9e3",
-                    "sha1": "d4ffc71b2f0ea01b9a6242c23faace5cdc72d947"
+                    "sha1": "d4ffc71b2f0ea01b9a6242c23faace5cdc72d947",
+                    "sha512": "3e22e5b613abfb17fa83f74348a3c2cf8fb7bdb2a6a6a8d5b561044b37e54d0a0114df1128c7e34df063776975041c5595feb2f94cbb2bfe0f1bc59193cce9e3"
                 },
                 "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar",
                 "filename": "dynamic-fps-2.1.0.jar",
@@ -24,7 +24,7 @@
         ],
         "dependencies": [
             {
-                "version_id": "INRZVF8u",
+                "version_id": "yLERB0ld",
                 "project_id": "P7dR8mSH",
                 "dependency_type": "required"
             }
@@ -47,13 +47,13 @@
         "changelog": "- No longer bundles Cloth Config, reducing JAR size by almost 90%—together with another change, the JAR is now under 100 KB.\n- No longer tries to reduce FPS while e.g. rendering a video with ReplayMod (#44—thanks, @altrisi!)\n- Updated Italian, Portuguese, and Estonian localizations (thanks, translators!)",
         "changelog_url": null,
         "date_published": "2021-10-20T18:30:22.181396Z",
-        "downloads": 6093,
+        "downloads": 6181,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "f0bf0e0e75aa95e4f60b2d27ebb6d1c19e9357104e5591f2938f54df8b3457fe52da6b9d666108293d543e4de533dd3f46e9fb42e4f0fbfb42871b6aeb327fc7",
-                    "sha1": "db76cb84fe9abe9301e29a49457c030d6e54d948"
+                    "sha1": "db76cb84fe9abe9301e29a49457c030d6e54d948",
+                    "sha512": "f0bf0e0e75aa95e4f60b2d27ebb6d1c19e9357104e5591f2938f54df8b3457fe52da6b9d666108293d543e4de533dd3f46e9fb42e4f0fbfb42871b6aeb327fc7"
                 },
                 "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.6/dynamic-fps-2.0.6.jar",
                 "filename": "dynamic-fps-2.0.6.jar",
@@ -62,7 +62,7 @@
         ],
         "dependencies": [
             {
-                "version_id": "INRZVF8u",
+                "version_id": "yLERB0ld",
                 "project_id": "P7dR8mSH",
                 "dependency_type": "required"
             }
@@ -85,13 +85,13 @@
         "changelog": "- Worked around reload screen fadeout not working (#35—thanks, altrisi!)\n- File size reduced by ~300 KB (#30—thanks, wafflecoffee!)\n- Localization updates: Russian (#28), Chinese (#34)",
         "changelog_url": null,
         "date_published": "2021-08-08T21:03:25.103818Z",
-        "downloads": 4310,
+        "downloads": 4326,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "07eab9095517baedb1ba8426310e7fa66fd9747d",
-                    "sha512": "84135f5da20608c732ac90439dd7929dcf61cc6471667e5c8842466ec0cbfdf3199d8dc2cdb2088b5ba76cde55c5df015989b00376d6be65c4b8a1c1d3b13be7"
+                    "sha512": "84135f5da20608c732ac90439dd7929dcf61cc6471667e5c8842466ec0cbfdf3199d8dc2cdb2088b5ba76cde55c5df015989b00376d6be65c4b8a1c1d3b13be7",
+                    "sha1": "07eab9095517baedb1ba8426310e7fa66fd9747d"
                 },
                 "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar",
                 "filename": "dynamic-fps-2.0.5.jar",
@@ -116,13 +116,13 @@
         "changelog": "- Added an option to run garbage collection whenever the window loses focus.",
         "changelog_url": null,
         "date_published": "2021-06-29T12:56:14.536461Z",
-        "downloads": 1340,
+        "downloads": 1343,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "a172c61df0a4deffa669d19f7dd83282b2ea0210",
-                    "sha512": "539617d9f1b32fc4ef3859ec6c7cf934de20552b0f3255b8881213c8496fbcb7d646375fd5558cf173d8ce7db9e97add9f2f49b3dd05ee181f6334d14b9c666f"
+                    "sha512": "539617d9f1b32fc4ef3859ec6c7cf934de20552b0f3255b8881213c8496fbcb7d646375fd5558cf173d8ce7db9e97add9f2f49b3dd05ee181f6334d14b9c666f",
+                    "sha1": "a172c61df0a4deffa669d19f7dd83282b2ea0210"
                 },
                 "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.4/dynamic-fps-2.0.4.jar",
                 "filename": "dynamic-fps-2.0.4.jar",
@@ -153,8 +153,8 @@
         "files": [
             {
                 "hashes": {
-                    "sha1": "1b080f859e529dbe87a0b5d7c71adfbb6bca5db4",
-                    "sha512": "b3a8a9e008a3cf6c585c3ddd016374f6e202e8f321259c7c2cd014936884d4658ad5ef0de685e0cee92d51840c12ef8a5438efc2a7e7ffaf4dfe3745dad293d5"
+                    "sha512": "b3a8a9e008a3cf6c585c3ddd016374f6e202e8f321259c7c2cd014936884d4658ad5ef0de685e0cee92d51840c12ef8a5438efc2a7e7ffaf4dfe3745dad293d5",
+                    "sha1": "1b080f859e529dbe87a0b5d7c71adfbb6bca5db4"
                 },
                 "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.0.2/dynamic-fps-2.0.2.jar",
                 "filename": "dynamic-fps-2.0.2.jar",
@@ -163,7 +163,7 @@
         ],
         "dependencies": [
             {
-                "version_id": "INRZVF8u",
+                "version_id": "yLERB0ld",
                 "project_id": "P7dR8mSH",
                 "dependency_type": "required"
             }
@@ -185,13 +185,13 @@
         "changelog": "",
         "changelog_url": null,
         "date_published": "2021-01-21T04:25:08.291787Z",
-        "downloads": 824,
+        "downloads": 827,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "923eb8206fea45bfc455bb195d71ab3eddf986e1cc2cc48fa9543e7601b34c0e184ad463f4c119622218559a7872ea4e3ebc6815c2dc172f41d1cabe1171ffa2",
-                    "sha1": "672904fc5332f7064db872635549b63a10444f59"
+                    "sha1": "672904fc5332f7064db872635549b63a10444f59",
+                    "sha512": "923eb8206fea45bfc455bb195d71ab3eddf986e1cc2cc48fa9543e7601b34c0e184ad463f4c119622218559a7872ea4e3ebc6815c2dc172f41d1cabe1171ffa2"
                 },
                 "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.1/dynamic-fps-2.0.1.jar",
                 "filename": "dynamic-fps-2.0.1.jar",

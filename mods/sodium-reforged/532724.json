@@ -32,7 +32,7 @@
     "gameId": 432,
     "summary": "Unofficial Port of CaffeineMC's \"Sodium\" Mod From Fabric to Forge",
     "defaultFileId": 3526076,
-    "downloadCount": 1843410.0,
+    "downloadCount": 1999246.0,
     "latestFiles": [
         {
             "id": 3490531,
@@ -558,8 +558,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 11537.4404296875,
-    "gamePopularityRank": 693,
+    "popularityScore": 11565.1064453125,
+    "gamePopularityRank": 690,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "gameName": "Minecraft",

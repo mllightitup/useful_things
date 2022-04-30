@@ -30,8 +30,8 @@
     "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric",
     "gameId": 432,
     "summary": "Better fps for 1.16+ minecraft, improved render distances",
-    "defaultFileId": 3659147,
-    "downloadCount": 138022.0,
+    "defaultFileId": 3768225,
+    "downloadCount": 187478.0,
     "latestFiles": [
         {
             "id": 3659147,
@@ -150,22 +150,122 @@
                 }
             ],
             "downloadCount": 47966
+        },
+        {
+            "id": 3768225,
+            "displayName": "betterfpsdist-fabric-1.18-1.8.jar",
+            "fileName": "betterfpsdist-fabric-1.18-1.8.jar",
+            "fileDate": "2022-04-25T09:21:55.093Z",
+            "fileLength": 17740,
+            "releaseType": 1,
+            "fileStatus": 4,
+            "downloadUrl": "https://edge.forgecdn.net/files/3768/225/betterfpsdist-fabric-1.18-1.8.jar",
+            "isAlternate": false,
+            "alternateFileId": 0,
+            "dependencies": [],
+            "isAvailable": true,
+            "modules": [
+                {
+                    "foldername": "META-INF",
+                    "fingerprint": 3878706575,
+                    "type": 3
+                },
+                {
+                    "foldername": "pack.mcmeta",
+                    "fingerprint": 1438559181,
+                    "type": 3
+                },
+                {
+                    "foldername": "fabric.mod.json",
+                    "fingerprint": 102165255,
+                    "type": 3
+                },
+                {
+                    "foldername": "betterfpsdist.mixins.json",
+                    "fingerprint": 1005721072,
+                    "type": 3
+                },
+                {
+                    "foldername": "assets",
+                    "fingerprint": 4288801447,
+                    "type": 3
+                },
+                {
+                    "foldername": "betterfpsdist-fabric-refmap.json",
+                    "fingerprint": 1578594931,
+                    "type": 3
+                },
+                {
+                    "foldername": "com",
+                    "fingerprint": 740213799,
+                    "type": 3
+                }
+            ],
+            "packageFingerprint": 661924418,
+            "gameVersion": [
+                "1.18.1",
+                "1.18.2",
+                "Forge"
+            ],
+            "sortableGameVersion": [
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000001",
+                    "gameVersion": "1.18.1",
+                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                    "gameVersionName": "1.18.1",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionName": "1.18.2",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionName": "Forge",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "installMetadata": null,
+            "changelog": null,
+            "hasInstallScript": false,
+            "isCompatibleWithClient": true,
+            "categorySectionPackageType": 6,
+            "restrictProjectFileAccess": 1,
+            "projectStatus": 4,
+            "renderCacheId": 2880086,
+            "fileLegacyMappingId": null,
+            "projectId": 582640,
+            "parentProjectFileId": null,
+            "parentFileLegacyMappingId": null,
+            "fileTypeId": null,
+            "exposeAsAlternative": null,
+            "packageFingerprintId": 911579792,
+            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+            "gameVersionMappingId": 4028972,
+            "gameVersionId": 7498,
+            "gameId": 432,
+            "isServerPack": false,
+            "serverPackFileId": null,
+            "gameVersionFlavor": null,
+            "hashes": [
+                {
+                    "algorithm": 1,
+                    "value": "e6c34589a586600bae7e7c1135d947229b9263ff"
+                },
+                {
+                    "algorithm": 2,
+                    "value": "e3417e013df9adee4de115681e4b8e09"
+                }
+            ],
+            "downloadCount": 0
         }
     ],
     "categories": [
-        {
-            "categoryId": 425,
-            "name": "Miscellaneous",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 582640,
-            "avatarId": 6040,
-            "gameId": 432,
-            "slug": "mc-miscellaneous",
-            "dateModified": "2014-06-15T04:27:14.543Z"
-        },
         {
             "categoryId": 424,
             "name": "Cosmetic",
@@ -178,6 +278,19 @@
             "gameId": 432,
             "slug": "cosmetic",
             "dateModified": "2014-05-08T17:42:35.597Z"
+        },
+        {
+            "categoryId": 425,
+            "name": "Miscellaneous",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 582640,
+            "avatarId": 6040,
+            "gameId": 432,
+            "slug": "mc-miscellaneous",
+            "dateModified": "2014-06-15T04:27:14.543Z"
         }
     ],
     "status": 4,
@@ -194,6 +307,24 @@
     },
     "slug": "better-fps-render-distance-fabric",
     "gameVersionLatestFiles": [
+        {
+            "gameVersion": "1.18.1",
+            "projectFileId": 3768225,
+            "projectFileName": "betterfpsdist-fabric-1.18-1.8.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
+        {
+            "gameVersion": "1.18.2",
+            "projectFileId": 3768225,
+            "projectFileName": "betterfpsdist-fabric-1.18-1.8.jar",
+            "fileType": 1,
+            "gameVersionFlavor": null,
+            "gameVersionTypeId": 73250,
+            "modLoader": 1
+        },
         {
             "gameVersion": "1.18.1",
             "projectFileId": 3659147,
@@ -214,15 +345,15 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 3255.930419921875,
-    "gamePopularityRank": 2034,
+    "popularityScore": 3483.23193359375,
+    "gamePopularityRank": 1967,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "gameName": "Minecraft",
     "portalName": "www.curseforge.com",
-    "dateModified": "2022-03-18T12:14:41.963Z",
+    "dateModified": "2022-04-25T09:24:43.467Z",
     "dateCreated": "2022-02-23T16:54:10.243Z",
-    "dateReleased": "2022-02-23T16:56:10.657Z",
+    "dateReleased": "2022-04-25T09:21:55.093Z",
     "isAvailable": true,
     "isExperiemental": false,
     "allowModDistribution": true

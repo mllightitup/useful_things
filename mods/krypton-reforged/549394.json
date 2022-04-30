@@ -32,7 +32,7 @@
     "gameId": 432,
     "summary": "Unofficial Forge Port of the server networking performance mod \"Krypton\"",
     "defaultFileId": 3590672,
-    "downloadCount": 1150741.0,
+    "downloadCount": 1266143.0,
     "latestFiles": [
         {
             "id": 3590672,
@@ -160,19 +160,6 @@
     ],
     "categories": [
         {
-            "categoryId": 435,
-            "name": "Server Utility",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 549394,
-            "avatarId": 6048,
-            "gameId": 432,
-            "slug": "server-utility",
-            "dateModified": "2014-05-08T17:44:55.057Z"
-        },
-        {
             "categoryId": 5191,
             "name": "Utility & QoL",
             "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -184,6 +171,19 @@
             "gameId": 432,
             "slug": "utility-qol",
             "dateModified": "2021-11-17T11:45:09.143Z"
+        },
+        {
+            "categoryId": 435,
+            "name": "Server Utility",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+            "parentId": 6,
+            "rootId": 6,
+            "projectId": 549394,
+            "avatarId": 6048,
+            "gameId": 432,
+            "slug": "server-utility",
+            "dateModified": "2014-05-08T17:44:55.057Z"
         }
     ],
     "status": 4,
@@ -229,8 +229,8 @@
         }
     ],
     "isFeatured": false,
-    "popularityScore": 8464.9833984375,
-    "gamePopularityRank": 766,
+    "popularityScore": 8560.7509765625,
+    "gamePopularityRank": 810,
     "primaryLanguage": "enUS",
     "gameSlug": "minecraft",
     "gameName": "Minecraft",
