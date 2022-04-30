@@ -7,18 +7,17 @@
 2. Async requests
 3. Curseforge API
 4. Modrinth API v2
+5. Version and loader check(everything is prepared)
+6. Create all files in md_creator at once for each version and loader
+7. md_creator based on checking the general list of mods and their versions, rather than manually filling in the list of mods for each individual version
 
 
 ### Done(but need refactor):
-
-1. Version and loader check(everything is prepared)
-2. Create all files in md_creator at once for each version and loader
+1. NOTHING
 
 ### Future plans:
-1. md_creator based on checking the general list of mods and their versions, rather than manually filling in the list of mods for each individual version
 2. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
 prepare template for maintainer
-3. Rework md_creator, version and loader check(coz bad code)
 4. Authors REWORK(replace authors -> teams)
 
 ### TEST:
