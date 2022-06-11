@@ -24,5 +24,9 @@ prepare template for maintainer
 
 | Version | Loaders |
 | --- | :---: |
+| 1.19.x | [Fabric](performance/1.19.x-fabric.md) & [Forge](performance/1.19.x-forge.md) |
 | 1.18.x | [Fabric](performance/1.18.x-fabric.md) & [Forge](performance/1.18.x-forge.md) |
 | 1.17.x | [Fabric](performance/1.17.x-fabric.md) & [Forge](performance/1.17.x-forge.md) |
+| 1.16.x | [Fabric](performance/1.16.x-fabric.md) & [Forge](performance/1.16.x-forge.md) |
+| 1.15.x | [Fabric](performance/1.15.x-fabric.md) & [Forge](performance/1.15.x-forge.md) |
+| 1.12.x | [Fabric](performance/1.12.x-fabric.md) & [Forge](performance/1.12.x-forge.md) |
