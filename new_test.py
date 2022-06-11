@@ -5,6 +5,7 @@ path = r"C:\Users\Grishin\Desktop\useful_things-main\mods"
 modrinth = []
 curseforge = []
 versions = {
+    '1.19': '1.19',
     '1.18': '1.18',
     '1.17': '1.17',
     '1.16': '1.16',
@@ -20,11 +21,13 @@ loaders = {
 }
 
 links = {
+    '1.19 - fabric': [],
     '1.18 - fabric': [],
     '1.17 - fabric': [],
     '1.16 - fabric': [],
     '1.15 - fabric': [],
     '1.12 - fabric': [],
+    '1.19 - forge': [],
     '1.18 - forge': [],
     '1.17 - forge': [],
     '1.16 - forge': [],
@@ -45,7 +48,8 @@ for path in modrinth:
         for j in range(len(x)):
             version = x[j]['game_versions']
             loader = x[j]['loaders']
-
+            if any("1.19" in s for s in version):
+                links[f'1.19 - {loader[0]}'] += [path[49:-14]]
             if any("1.18" in s for s in version):
                 links[f'1.18 - {loader[0]}'] += [path[49:-14]]
             if any("1.17" in s for s in version):
@@ -59,11 +63,13 @@ for path in modrinth:
 
 for path in curseforge:
     with open(path, "r", encoding='utf-8') as mod_file:
-        versions = json.load(mod_file)['gameVersionLatestFiles']
+        versions = json.load(mod_file)['data']['latestFilesIndexes']
         for k in range(len(versions)):
             version = versions[k]['gameVersion']
             try:
                 loader = versions[k]['modLoader']
+                if '1.19' in version:
+                    links[f'1.19 - {loaders[loader]}'] += [path[49:-12]]
                 if '1.18' in version:
                     links[f'1.18 - {loaders[loader]}'] += [path[49:-12]]
                 if '1.17' in version:

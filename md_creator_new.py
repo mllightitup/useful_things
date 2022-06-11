@@ -45,10 +45,10 @@ def fill_lines(mods_list):
             cf_file_path = f"{path}/{mod}/{cf_file[0]}"
             with open(cf_file_path, "r", encoding='utf-8') as file:
                 cf_mod_json = json.load(file)
-                issue = cf_mod_json['issueTrackerUrl'] if 'issueTrackerUrl' in cf_mod_json else ''
+                issue = cf_mod_json['data']['links']['issuesUrl'] if 'issuesUrl' in cf_mod_json else ''
                 if (
                         'wikiUrl' in cf_mod_json
-                        and cf_mod_json['wikiUrl'] == ""
+                        and cf_mod_json['data']['links']['wikiUrl'] == ""
                         or 'wikiUrl' not in cf_mod_json
                 ):
                     wiki = ""
@@ -56,7 +56,7 @@ def fill_lines(mods_list):
                     wiki = cf_mod_json['wikiUrl']
                 discord = ''
                 environment = 'custom_data'
-                line = f"| [{cf_mod_json['name']}]({cf_mod_json['websiteUrl']}) | {cf_mod_json['summary']} | {cf_mod_json['authors'][0]['name']} | {environment} | {discord} [Github]({issue}) {wiki}"
+                line = f"| [{cf_mod_json['data']['name']}]({cf_mod_json['data']['links']['websiteUrl']}) | {cf_mod_json['data']['summary']} | {cf_mod_json['data']['authors'][0]['name']} | {environment} | {discord} [Github]({issue}) {wiki}"
                 lines.append(line)
     return lines
 

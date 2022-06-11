@@ -28,6 +28,8 @@ footer = """
 links = {
     '1.18.x-fabric':
         [
+            'https://modrinth.com/mod/entityculling',
+            'https://modrinth.com/mod/better-biome-blend',
             'https://modrinth.com/mod/alternate-current',
             'https://modrinth.com/mod/cull-leaves',
             'https://modrinth.com/mod/dashloader',
@@ -42,6 +44,7 @@ links = {
             'https://modrinth.com/mod/smoothboot-fabric',
             'https://modrinth.com/mod/sodium',
             'https://modrinth.com/mod/starlight',
+            'https://modrinth.com/mod/starlight-forge',
             'https://modrinth.com/mod/vmp-fabric',
             'https://modrinth.com/mod/better-beds',
             'https://modrinth.com/mod/c2me-fabric',
@@ -58,17 +61,13 @@ links = {
             364540,
             366140,
             364531,
-            448233,
-            446253,
             582640,
         ],
     '1.18.x-forge':
         [
-
             'https://modrinth.com/mod/alternate-current',
             233019,
             551520,
-            446253,
             549394,
             256717,
             366140,
@@ -79,9 +78,7 @@ links = {
             532724,
             'https://modrinth.com/mod/observable',
             570017,
-            526854,
             574856,
-            429235,
             411045,
         ],
     '1.17.x-fabric':
@@ -106,28 +103,23 @@ links = {
             'https://modrinth.com/mod/canvas',
             'https://modrinth.com/mod/hydrogen',
             'https://modrinth.com/mod/entity-distance',
-            446253,
             256717,
             364540,
             551520,
             473492,
             436038,
             366140,
-            448233,
 
         ],
     '1.17.x-forge':
         [
             233019,
-            446253,
             551520,
             256717,
             366140,
-            448233,
             299540,
             475117,
             288885,
-            429235,
             411045,
         ],
 }

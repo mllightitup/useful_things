@@ -5,6 +5,10 @@ import os
 
 from const import links
 
+headers = {
+  'Accept': 'application/json',
+  'x-api-key': '$2a$10$6qG/T.CNpNk12ZzxOZCwJu4/OQtEfc6e83kPHO4Qrw0AtJIf7u04q'
+}
 
 # MAIN ASYNCHRONOUS FUNCTION
 
@@ -42,11 +46,11 @@ async def main():
 
     save_author(author_data, mod_slugs)
 
-    async with aiohttp.ClientSession() as session:
+    async with aiohttp.ClientSession(headers=headers) as session:
         curseforge_ids = [x for x in unique_links if not isinstance(x, str)]
         tasks.clear()
         for curseforge_id in curseforge_ids:
-            url = f"https://addons-ecs.forgesvc.net/api/v2/addon/{curseforge_id}"
+            url = f"https://api.curseforge.com/v1/mods/{curseforge_id}"
             task = asyncio.ensure_future(get_data(session, url))
             tasks.append(task)
         curseforge_data = await asyncio.gather(*tasks)
@@ -99,7 +103,7 @@ def save_author(author_data, mod_slugs):
 
 def save_curseforge(curseforge_data):
     for i in range(len(curseforge_data)):
-        filename = f"./mods/{curseforge_data[i]['slug']}/{curseforge_data[i]['id']}.json"
+        filename = f"./mods/{curseforge_data[i]['data']['slug']}/{curseforge_data[i]['data']['id']}.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w", encoding='utf-8') as curseforge_file:
             json.dump(curseforge_data[i], curseforge_file, ensure_ascii=False, indent=4)

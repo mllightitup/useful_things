@@ -1,4 +1,23 @@
 {
+    "1.19 - fabric": [
+        "alternate-current",
+        "c2me-fabric",
+        "canvas",
+        "clumps",
+        "cull-leaves",
+        "dashloader",
+        "dynamic-fps",
+        "entityculling",
+        "ferrite-core",
+        "krypton",
+        "ksyxis",
+        "lazydfu",
+        "lithium",
+        "servercore",
+        "sodium",
+        "starlight",
+        "vmp-fabric"
+    ],
     "1.18 - fabric": [
         "alternate-current",
         "better-beds",
@@ -78,7 +97,6 @@
         "entityculling",
         "fastchest",
         "ferrite-core",
-        "ferritecore",
         "hydrogen",
         "krypton",
         "ksyxis",
@@ -97,15 +115,20 @@
         "ksyxis",
         "lazydfu"
     ],
-    "1.12 - fabric": [
-        "alternate-current"
+    "1.12 - fabric": [],
+    "1.19 - forge": [
+        "ai-improvements",
+        "clumps",
+        "entityculling",
+        "ferrite-core",
+        "krypton-reforged",
+        "rubidium"
     ],
     "1.18 - forge": [
         "ai-improvements",
         "alternate-current",
         "better-biome-blend",
         "better-fps-render-distance",
-        "better-fps-render-distance-fabric",
         "clumps",
         "dynamic-view",
         "entityculling",
@@ -113,7 +136,6 @@
         "fastsuite",
         "fastworkbench",
         "ferrite-core",
-        "ferritecore",
         "get-it-together-drops",
         "krypton-reforged",
         "ksyxis",
@@ -132,7 +154,6 @@
         "fastfurnace",
         "fastsuite",
         "fastworkbench",
-        "ferritecore",
         "get-it-together-drops",
         "ksyxis",
         "starlight-forge"
@@ -147,7 +168,6 @@
         "fastfurnace",
         "fastsuite",
         "fastworkbench",
-        "ferritecore",
         "get-it-together-drops",
         "krypton-reforged",
         "ksyxis",
