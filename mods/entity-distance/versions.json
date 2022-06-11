@@ -8,8 +8,8 @@
         "version_number": "1.0.4+1.18",
         "changelog": "First release for 1.18. No change from v1.0.4+1.17.",
         "changelog_url": null,
-        "date_published": "2022-01-03T00:23:37.531468Z",
-        "downloads": 362,
+        "date_published": "2022-01-03T00:23:37+00:00",
+        "downloads": 399,
         "version_type": "release",
         "files": [
             {
@@ -19,7 +19,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.4+1.18/entity-distance-1.0.4.jar",
                 "filename": "entity-distance-1.0.4.jar",
-                "primary": false
+                "primary": false,
+                "size": 70670
             }
         ],
         "dependencies": [],
@@ -40,18 +41,19 @@
         "version_number": "1.0.4+1.17",
         "changelog": "Fixes item frames not being affected by mod and fixes crash with MultiMC.",
         "changelog_url": null,
-        "date_published": "2022-01-03T00:03:05.105287Z",
-        "downloads": 138,
+        "date_published": "2022-01-03T00:03:05+00:00",
+        "downloads": 167,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "3da65a70b077be86d7f56c5f5b37daaf92368b86",
-                    "sha512": "f47a6ebf5cffa4c6fe1c777a660b8e748ec3c48ca39095551a8a08dd7e9f0b785e30dfc62db8eed9f8baf8cb6703a9c25d31e7802ec6170b8f5bffc67c4cfd1a"
+                    "sha512": "f47a6ebf5cffa4c6fe1c777a660b8e748ec3c48ca39095551a8a08dd7e9f0b785e30dfc62db8eed9f8baf8cb6703a9c25d31e7802ec6170b8f5bffc67c4cfd1a",
+                    "sha1": "3da65a70b077be86d7f56c5f5b37daaf92368b86"
                 },
                 "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.4+1.17/entity-distance-1.0.4.jar",
                 "filename": "entity-distance-1.0.4.jar",
-                "primary": false
+                "primary": false,
+                "size": 70278
             }
         ],
         "dependencies": [],
@@ -72,18 +74,19 @@
         "version_number": "1.0.4+1.16",
         "changelog": "Fixes item frames not being affected by mod and fixes crash with MultiMC.",
         "changelog_url": null,
-        "date_published": "2022-01-03T00:01:53.905899Z",
-        "downloads": 220,
+        "date_published": "2022-01-03T00:01:53+00:00",
+        "downloads": 287,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "890d9b7b9bde4a3e94f4d056442faea111845e6f",
-                    "sha512": "642c2d83cfae688a20904d3ae76c089f9027f41de1ef7db314eb7a07e8aac89bca5097ae1ac16fb3bfcf221bd7fedd7c4e625d55883a641eae5a8b0d696805c8"
+                    "sha512": "642c2d83cfae688a20904d3ae76c089f9027f41de1ef7db314eb7a07e8aac89bca5097ae1ac16fb3bfcf221bd7fedd7c4e625d55883a641eae5a8b0d696805c8",
+                    "sha1": "890d9b7b9bde4a3e94f4d056442faea111845e6f"
                 },
                 "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.4+1.16/entity-distance-1.0.4.jar",
                 "filename": "entity-distance-1.0.4.jar",
-                "primary": false
+                "primary": false,
+                "size": 70738
             }
         ],
         "dependencies": [],
@@ -108,18 +111,19 @@
         "version_number": "1.0.3+1.16",
         "changelog": "Backport of 1.0.3 to Minecraft 1.16.",
         "changelog_url": null,
-        "date_published": "2021-07-21T00:00:28.265404Z",
-        "downloads": 611,
+        "date_published": "2021-07-21T00:00:28+00:00",
+        "downloads": 615,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "482323609540f44659ccabf8f4daffd94aa3dbf30747651b2c437f9cd44e7ff097870929327bd6ef83c72a25995c78f421231a9a6046a06d302007263e7e7e05",
-                    "sha1": "38e760905ec29e1d6105ba1bf963012818b33070"
+                    "sha1": "38e760905ec29e1d6105ba1bf963012818b33070",
+                    "sha512": "482323609540f44659ccabf8f4daffd94aa3dbf30747651b2c437f9cd44e7ff097870929327bd6ef83c72a25995c78f421231a9a6046a06d302007263e7e7e05"
                 },
                 "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3+1.16/entity-distance-1.0.3.jar",
                 "filename": "entity-distance-1.0.3.jar",
-                "primary": false
+                "primary": false,
+                "size": 286451
             }
         ],
         "dependencies": [],
@@ -144,7 +148,7 @@
         "version_number": "1.0.3+1.17",
         "changelog": "This version fixes support for entities added by other mods.",
         "changelog_url": null,
-        "date_published": "2021-06-29T21:58:44.264746Z",
+        "date_published": "2021-06-29T21:58:44+00:00",
         "downloads": 1178,
         "version_type": "release",
         "files": [
@@ -155,7 +159,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.3/entity-distance-1.0.3.jar",
                 "filename": "entity-distance-1.0.3.jar",
-                "primary": false
+                "primary": false,
+                "size": 286006
             }
         ],
         "dependencies": [],
@@ -176,18 +181,19 @@
         "version_number": "1.0.2+1.17",
         "changelog": "Internal cleanup and bugfixes, namely fixed cloth config dependency listing",
         "changelog_url": null,
-        "date_published": "2021-06-23T02:44:04.439037Z",
+        "date_published": "2021-06-23T02:44:04+00:00",
         "downloads": 35,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "65278bea25a19ebfff89bc94c5c795d1c0da16f7",
-                    "sha512": "d9af800c94f857ea7a7dd1261def70349dea4f8601e1c4d98555940a01a6565e266983c625662757bab08d194b6706e445c0fbe555cda75619ec334fe9895377"
+                    "sha512": "d9af800c94f857ea7a7dd1261def70349dea4f8601e1c4d98555940a01a6565e266983c625662757bab08d194b6706e445c0fbe555cda75619ec334fe9895377",
+                    "sha1": "65278bea25a19ebfff89bc94c5c795d1c0da16f7"
                 },
                 "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.2/entity-distance-1.0.2.jar",
                 "filename": "entity-distance-1.0.2.jar",
-                "primary": false
+                "primary": false,
+                "size": 287295
             }
         ],
         "dependencies": [],
@@ -207,18 +213,19 @@
         "version_number": "1.0.1+1.17",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-06-22T07:45:27.944587Z",
+        "date_published": "2021-06-22T07:45:27+00:00",
         "downloads": 8,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "9deb41c44a104c6b31511a26be3115fe12cecc81",
-                    "sha512": "cf0bfbe23a167bc9224831f8c762eab7367aa1b3e176ed0c07421379ee640a83cd26ba1500440014364a9b33a8616ba1a4e06fed7bb94c42cb0311b27b0413c5"
+                    "sha512": "cf0bfbe23a167bc9224831f8c762eab7367aa1b3e176ed0c07421379ee640a83cd26ba1500440014364a9b33a8616ba1a4e06fed7bb94c42cb0311b27b0413c5",
+                    "sha1": "9deb41c44a104c6b31511a26be3115fe12cecc81"
                 },
                 "url": "https://cdn.modrinth.com/data/msRGy0cC/versions/1.0.1/entity-distance-1.0.1.jar",
                 "filename": "entity-distance-1.0.1.jar",
-                "primary": false
+                "primary": false,
+                "size": 288638
             }
         ],
         "dependencies": [],

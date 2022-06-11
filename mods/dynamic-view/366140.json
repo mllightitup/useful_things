@@ -1,551 +1,450 @@
 {
-    "id": 366140,
-    "name": "Dynamic View[Forge/Fabric]",
-    "authors": [
-        {
-            "name": "someaddon",
-            "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon",
-            "projectId": 366140,
-            "id": 272044,
-            "projectTitleId": null,
-            "projectTitleTitle": null,
-            "userId": 100114338,
-            "twitchId": 446731041
-        }
-    ],
-    "attachments": [
-        {
-            "id": 536616,
-            "projectId": 366140,
-            "description": "",
-            "isDefault": true,
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/536/616/256/256/637858797561019715.png",
-            "title": "637858797561019715.png",
-            "url": "https://media.forgecdn.net/avatars/536/616/637858797561019715.png",
-            "status": 1
-        }
-    ],
-    "issueTrackerUrl": "https://github.com/ldtteam/Dynview/issues/new",
-    "wikiUrl": "",
-    "sourceUrl": "https://github.com/ldtteam/DynView",
-    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamic-view",
-    "gameId": 432,
-    "summary": "Dynamically changes chunk view(and simulation) distance based on load",
-    "defaultFileId": 3758057,
-    "downloadCount": 10202330.0,
-    "latestFiles": [
-        {
-            "id": 3740656,
-            "displayName": "dynview-1.18.2-2.7.jar",
-            "fileName": "dynview-1.18.2-2.7.jar",
-            "fileDate": "2022-04-08T20:38:36.763Z",
-            "fileLength": 23719,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3740/656/dynview-1.18.2-2.7.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 2294201621,
-                    "type": 3
-                },
-                {
-                    "foldername": "com",
-                    "fingerprint": 923123858,
-                    "type": 3
-                },
-                {
-                    "foldername": "dynview.mixins.json",
-                    "fingerprint": 3982698229,
-                    "type": 3
-                },
-                {
-                    "foldername": "pack.mcmeta",
-                    "fingerprint": 3903986230,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 2863699504,
-            "gameVersion": [
-                "1.18.1",
-                "1.18.2",
-                "Forge"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000001",
-                    "gameVersion": "1.18.1",
-                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                    "gameVersionName": "1.18.1",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000002",
-                    "gameVersion": "1.18.2",
-                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-                    "gameVersionName": "1.18.2",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Forge",
-                    "gameVersionTypeId": 68441
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2844569,
-            "fileLegacyMappingId": null,
-            "projectId": 366140,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 897900842,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3968170,
-            "gameVersionId": 7498,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "43e4c4ba4ef8d62997a71333e67693839cd0943c"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "d7b621567e33ce09bf20b65f9c4da6bc"
-                }
-            ],
-            "downloadCount": 0
-        },
-        {
-            "id": 3758057,
-            "displayName": "dynview.fabric-1.18.2-2.1.jar",
-            "fileName": "dynview.fabric-1.18.2-2.1.jar",
-            "fileDate": "2022-04-18T12:02:44.49Z",
-            "fileLength": 19045,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3758/57/dynview.fabric-1.18.2-2.1.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 397789854,
-                    "type": 3
-                },
-                {
-                    "foldername": "LICENSE_dynview.fabric",
-                    "fingerprint": 18375977,
-                    "type": 3
-                },
-                {
-                    "foldername": "fabric.mod.json",
-                    "fingerprint": 431156728,
-                    "type": 3
-                },
-                {
-                    "foldername": "dynview.mixins.json",
-                    "fingerprint": 865547832,
-                    "type": 3
-                },
-                {
-                    "foldername": "assets",
-                    "fingerprint": 4288801447,
-                    "type": 3
-                },
-                {
-                    "foldername": "dynview.fabric-refmap.json",
-                    "fingerprint": 1493072104,
-                    "type": 3
-                },
-                {
-                    "foldername": "com",
-                    "fingerprint": 960086820,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 658621170,
-            "gameVersion": [
-                "1.18.1",
-                "Fabric",
-                "1.18.2"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000001",
-                    "gameVersion": "1.18.1",
-                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                    "gameVersionName": "1.18.1",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Fabric",
-                    "gameVersionTypeId": 68441
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000002",
-                    "gameVersion": "1.18.2",
-                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-                    "gameVersionName": "1.18.2",
-                    "gameVersionTypeId": 73250
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2866914,
-            "fileLegacyMappingId": null,
-            "projectId": 366140,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 906686485,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 4005207,
-            "gameVersionId": 7499,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "94437b40fd46dbdd5f5b29f6b26b04873b79c6e3"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "a5a9c20cc06c5e5cc270ac1decae600c"
-                }
-            ],
-            "downloadCount": 0
-        }
-    ],
-    "categories": [
-        {
-            "categoryId": 435,
-            "name": "Server Utility",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 366140,
-            "avatarId": 6048,
-            "gameId": 432,
-            "slug": "server-utility",
-            "dateModified": "2014-05-08T17:44:55.057Z"
-        },
-        {
-            "categoryId": 406,
-            "name": "World Gen",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 366140,
-            "avatarId": 6026,
-            "gameId": 432,
-            "slug": "world-gen",
-            "dateModified": "2017-10-16T21:40:11.473Z"
-        }
-    ],
-    "status": 4,
-    "primaryCategoryId": 435,
-    "categorySection": {
-        "id": 8,
+    "data": {
+        "id": 366140,
         "gameId": 432,
-        "name": "Mods",
-        "packageType": 6,
-        "path": "mods",
-        "initialInclusionPattern": ".",
-        "extraIncludePattern": null,
-        "gameCategoryId": 6
-    },
-    "slug": "dynamic-view",
-    "gameVersionLatestFiles": [
-        {
-            "gameVersion": "1.18.2",
-            "projectFileId": 3758057,
-            "projectFileName": "dynview.fabric-1.18.2-2.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 4
+        "name": "Dynamic View[Forge]",
+        "slug": "dynamic-view",
+        "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamic-view",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ldtteam/Dynview/issues/new",
+            "sourceUrl": "https://github.com/ldtteam/DynView"
         },
-        {
-            "gameVersion": "1.18.1",
-            "projectFileId": 3758057,
-            "projectFileName": "dynview.fabric-1.18.2-2.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 4
+        "summary": "Dynamically changes chunk view(and simulation) distance based on load",
+        "status": 4,
+        "downloadCount": 10743422,
+        "isFeatured": false,
+        "primaryCategoryId": 435,
+        "categories": [
+            {
+                "id": 406,
+                "gameId": 432,
+                "name": "World Gen",
+                "slug": "world-gen",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+                "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+                "dateModified": "2017-10-16T21:40:11.473Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            },
+            {
+                "id": 435,
+                "gameId": 432,
+                "name": "Server Utility",
+                "slug": "server-utility",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+                "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+                "dateModified": "2014-05-08T17:44:55.057Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            }
+        ],
+        "classId": 6,
+        "authors": [
+            {
+                "id": 272044,
+                "name": "someaddon",
+                "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
+            }
+        ],
+        "logo": {
+            "id": 536616,
+            "modId": 366140,
+            "title": "637858797561019715.png",
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/536/616/256/256/637858797561019715.png",
+            "url": "https://media.forgecdn.net/avatars/536/616/637858797561019715.png"
         },
-        {
-            "gameVersion": "1.18.2",
-            "projectFileId": 3740656,
-            "projectFileName": "dynview-1.18.2-2.7.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.18.1",
-            "projectFileId": 3740656,
-            "projectFileName": "dynview-1.18.2-2.7.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.18",
-            "projectFileId": 3551560,
-            "projectFileName": "dynview.fabric-1.18-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.17.1",
-            "projectFileId": 3551527,
-            "projectFileName": "dynview.fabric-1.17.1-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3551510,
-            "projectFileName": "dynview.fabric-1.16.5-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.18",
-            "projectFileId": 3548215,
-            "projectFileName": "dynview-1.18-2.3.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.17.1",
-            "projectFileId": 3409870,
-            "projectFileName": "dynviewdist-2.2.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.17",
-            "projectFileId": 3409870,
-            "projectFileName": "dynviewdist-2.2.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.3",
-            "projectFileId": 3358883,
-            "projectFileName": "dynviewdist-2.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3358883,
-            "projectFileName": "dynviewdist-2.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.4",
-            "projectFileId": 3358883,
-            "projectFileName": "dynviewdist-2.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.2",
-            "projectFileId": 3358883,
-            "projectFileName": "dynviewdist-2.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.1",
-            "projectFileId": 3171297,
-            "projectFileName": "dynviewdist-1.8.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16",
-            "projectFileId": 3171297,
-            "projectFileName": "dynviewdist-1.8.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.15",
-            "projectFileId": 2957860,
-            "projectFileName": "dynviewdist-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 68722,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.15.2",
-            "projectFileId": 2957860,
-            "projectFileName": "dynviewdist-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 68722,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.15.1",
-            "projectFileId": 2957860,
-            "projectFileName": "dynviewdist-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 68722,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.14.4",
-            "projectFileId": 2904873,
-            "projectFileName": "dynviewdist-1.4.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 64806,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.14.1",
-            "projectFileId": 2904873,
-            "projectFileName": "dynviewdist-1.4.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 64806,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.14.3",
-            "projectFileId": 2904873,
-            "projectFileName": "dynviewdist-1.4.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 64806,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.14",
-            "projectFileId": 2904873,
-            "projectFileName": "dynviewdist-1.4.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 64806,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.14.2",
-            "projectFileId": 2904873,
-            "projectFileName": "dynviewdist-1.4.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 64806,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.12.1",
-            "projectFileId": 2898681,
-            "projectFileName": "dynviewdist-1.12-1.3.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 628,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.12",
-            "projectFileId": 2898681,
-            "projectFileName": "dynviewdist-1.12-1.3.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 628,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.12.2",
-            "projectFileId": 2898681,
-            "projectFileName": "dynviewdist-1.12-1.3.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 628,
-            "modLoader": 1
-        }
-    ],
-    "isFeatured": false,
-    "popularityScore": 16482.31640625,
-    "gamePopularityRank": 374,
-    "primaryLanguage": "enUS",
-    "gameSlug": "minecraft",
-    "modLoaders": [
-        "Forge"
-    ],
-    "gameName": "Minecraft",
-    "portalName": "www.curseforge.com",
-    "dateModified": "2022-04-18T12:04:43.05Z",
-    "dateCreated": "2020-03-07T14:52:06.323Z",
-    "dateReleased": "2022-04-18T12:02:44.49Z",
-    "isAvailable": true,
-    "isExperiemental": false,
-    "allowModDistribution": true
+        "screenshots": [],
+        "mainFileId": 3814624,
+        "latestFiles": [
+            {
+                "id": 3758057,
+                "gameId": 432,
+                "modId": 366140,
+                "isAvailable": true,
+                "displayName": "dynview.fabric-1.18.2-2.1.jar",
+                "fileName": "dynview.fabric-1.18.2-2.1.jar",
+                "releaseType": 1,
+                "fileStatus": 4,
+                "hashes": [
+                    {
+                        "value": "94437b40fd46dbdd5f5b29f6b26b04873b79c6e3",
+                        "algo": 1
+                    },
+                    {
+                        "value": "a5a9c20cc06c5e5cc270ac1decae600c",
+                        "algo": 2
+                    }
+                ],
+                "fileDate": "2022-04-18T12:02:44.49Z",
+                "fileLength": 19045,
+                "downloadCount": 10076,
+                "downloadUrl": "https://edge.forgecdn.net/files/3758/57/dynview.fabric-1.18.2-2.1.jar",
+                "gameVersions": [
+                    "1.18.1",
+                    "Fabric",
+                    "1.18.2"
+                ],
+                "sortableGameVersions": [
+                    {
+                        "gameVersionName": "1.18.1",
+                        "gameVersionPadded": "0000000001.0000000018.0000000001",
+                        "gameVersion": "1.18.1",
+                        "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                        "gameVersionTypeId": 73250
+                    },
+                    {
+                        "gameVersionName": "Fabric",
+                        "gameVersionPadded": "0",
+                        "gameVersion": "",
+                        "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                        "gameVersionTypeId": 68441
+                    },
+                    {
+                        "gameVersionName": "1.18.2",
+                        "gameVersionPadded": "0000000001.0000000018.0000000002",
+                        "gameVersion": "1.18.2",
+                        "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                        "gameVersionTypeId": 73250
+                    }
+                ],
+                "dependencies": [],
+                "alternateFileId": 0,
+                "isServerPack": false,
+                "fileFingerprint": 658621170,
+                "modules": [
+                    {
+                        "name": "META-INF",
+                        "fingerprint": 397789854
+                    },
+                    {
+                        "name": "LICENSE_dynview.fabric",
+                        "fingerprint": 18375977
+                    },
+                    {
+                        "name": "fabric.mod.json",
+                        "fingerprint": 431156728
+                    },
+                    {
+                        "name": "dynview.mixins.json",
+                        "fingerprint": 865547832
+                    },
+                    {
+                        "name": "assets",
+                        "fingerprint": 4288801447
+                    },
+                    {
+                        "name": "dynview.fabric-refmap.json",
+                        "fingerprint": 1493072104
+                    },
+                    {
+                        "name": "com",
+                        "fingerprint": 960086820
+                    }
+                ]
+            },
+            {
+                "id": 3814624,
+                "gameId": 432,
+                "modId": 366140,
+                "isAvailable": true,
+                "displayName": "dynview-1.18.2-2.8.jar",
+                "fileName": "dynview-1.18.2-2.8.jar",
+                "releaseType": 1,
+                "fileStatus": 4,
+                "hashes": [
+                    {
+                        "value": "2199ad1c21d6ad650434c895b4123461c250edde",
+                        "algo": 1
+                    },
+                    {
+                        "value": "52b557d4a7a533bf317fb577ca57e9b2",
+                        "algo": 2
+                    }
+                ],
+                "fileDate": "2022-06-02T13:32:00.413Z",
+                "fileLength": 23718,
+                "downloadCount": 0,
+                "downloadUrl": "https://edge.forgecdn.net/files/3814/624/dynview-1.18.2-2.8.jar",
+                "gameVersions": [
+                    "1.18.1",
+                    "1.18.2",
+                    "Forge"
+                ],
+                "sortableGameVersions": [
+                    {
+                        "gameVersionName": "1.18.1",
+                        "gameVersionPadded": "0000000001.0000000018.0000000001",
+                        "gameVersion": "1.18.1",
+                        "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                        "gameVersionTypeId": 73250
+                    },
+                    {
+                        "gameVersionName": "1.18.2",
+                        "gameVersionPadded": "0000000001.0000000018.0000000002",
+                        "gameVersion": "1.18.2",
+                        "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                        "gameVersionTypeId": 73250
+                    },
+                    {
+                        "gameVersionName": "Forge",
+                        "gameVersionPadded": "0",
+                        "gameVersion": "",
+                        "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                        "gameVersionTypeId": 68441
+                    }
+                ],
+                "dependencies": [],
+                "alternateFileId": 0,
+                "isServerPack": false,
+                "fileFingerprint": 3163124537,
+                "modules": [
+                    {
+                        "name": "META-INF",
+                        "fingerprint": 3793701372
+                    },
+                    {
+                        "name": "com",
+                        "fingerprint": 3993028031
+                    },
+                    {
+                        "name": "dynview.mixins.json",
+                        "fingerprint": 3982698229
+                    },
+                    {
+                        "name": "pack.mcmeta",
+                        "fingerprint": 3903986230
+                    }
+                ]
+            }
+        ],
+        "latestFilesIndexes": [
+            {
+                "gameVersion": "1.18.1",
+                "fileId": 3814624,
+                "filename": "dynview-1.18.2-2.8.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.2",
+                "fileId": 3814624,
+                "filename": "dynview-1.18.2-2.8.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.1",
+                "fileId": 3758057,
+                "filename": "dynview.fabric-1.18.2-2.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.18.2",
+                "fileId": 3758057,
+                "filename": "dynview.fabric-1.18.2-2.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.18",
+                "fileId": 3551560,
+                "filename": "dynview.fabric-1.18-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.17.1",
+                "fileId": 3551527,
+                "filename": "dynview.fabric-1.17.1-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73242,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.16.5",
+                "fileId": 3551510,
+                "filename": "dynview.fabric-1.16.5-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.18",
+                "fileId": 3548215,
+                "filename": "dynview-1.18-2.3.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.17.1",
+                "fileId": 3409870,
+                "filename": "dynviewdist-2.2.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73242,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.17",
+                "fileId": 3409870,
+                "filename": "dynviewdist-2.2.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73242,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.3",
+                "fileId": 3358883,
+                "filename": "dynviewdist-2.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.5",
+                "fileId": 3358883,
+                "filename": "dynviewdist-2.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.4",
+                "fileId": 3358883,
+                "filename": "dynviewdist-2.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.2",
+                "fileId": 3358883,
+                "filename": "dynviewdist-2.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.1",
+                "fileId": 3171297,
+                "filename": "dynviewdist-1.8.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16",
+                "fileId": 3171297,
+                "filename": "dynviewdist-1.8.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.15",
+                "fileId": 2957860,
+                "filename": "dynviewdist-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 68722,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.15.2",
+                "fileId": 2957860,
+                "filename": "dynviewdist-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 68722,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.15.1",
+                "fileId": 2957860,
+                "filename": "dynviewdist-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 68722,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.14.4",
+                "fileId": 2904873,
+                "filename": "dynviewdist-1.4.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 64806,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.14.1",
+                "fileId": 2904873,
+                "filename": "dynviewdist-1.4.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 64806,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.14.3",
+                "fileId": 2904873,
+                "filename": "dynviewdist-1.4.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 64806,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.14",
+                "fileId": 2904873,
+                "filename": "dynviewdist-1.4.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 64806,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.14.2",
+                "fileId": 2904873,
+                "filename": "dynviewdist-1.4.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 64806,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.12.1",
+                "fileId": 2898681,
+                "filename": "dynviewdist-1.12-1.3.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 628,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.12",
+                "fileId": 2898681,
+                "filename": "dynviewdist-1.12-1.3.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 628,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.12.2",
+                "fileId": 2898681,
+                "filename": "dynviewdist-1.12-1.3.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 628,
+                "modLoader": 1
+            }
+        ],
+        "dateCreated": "2020-03-07T14:52:06.323Z",
+        "dateModified": "2022-06-06T19:32:09.603Z",
+        "dateReleased": "2022-06-02T13:32:00.413Z",
+        "allowModDistribution": true,
+        "gamePopularityRank": 541,
+        "isAvailable": true,
+        "thumbsUpCount": 0
+    }
 }

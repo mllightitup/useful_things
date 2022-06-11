@@ -1,0 +1,43 @@
+{
+    "id": "Rs6c7WyL",
+    "slug": "better-biome-blend",
+    "project_type": "mod",
+    "team": "dY9WqNrP",
+    "title": "Better Biome Blend",
+    "description": "Improves biome colors",
+    "body": "## About\nBetter Biome Blend is a Client-Side performance and bug-fix mod. It adds support for smooth, large scale, sRGB correct biome color transitions. With the mod installed you can set the \"Biome Blend\" setting in your video options from 0x0 to 29x29. Compared to Vanilla, this setting no longer impacts performance.\n\n## About 1.18\nBetter Biome Blend will always use a 29x29 biome blending radius. This is because biomes are now 3D instead of 2D, which makes biome color calculation a lot harder. This required writing a more specialized algorithm, but in return the mod is still as fast as it is in 1.17. Better Biome Blend also completely supports grass, water and leaves in caves, while vanilla currently does not.\n\n## About 1.12\nIn 1.12 the Mixin library is required. The client will notify you in the main menu if Mixin is not installed and send you to Mixin 0.7-0.8 Compatibility. The Mixin library might already be included in some other mod your using. If you are not getting the warning screen on startup Better Biome Blend was able to initialize.\n\n## Compatibility\n- Optifine: Fully compatible in all versions (ISSUE with OptiFine HD U H5 and above) \n- Sodium: Compatibility added in 1.18.2-1.3.5\n\n## Modpacks\nYou do not need explicit permission\n\n \n\nThanks for reading :]",
+    "body_url": null,
+    "published": "2022-05-30T13:59:44+00:00",
+    "updated": "2022-05-30T14:15:25+00:00",
+    "status": "approved",
+    "moderator_message": null,
+    "license": {
+        "id": "unlicense",
+        "name": "The Unlicense",
+        "url": "https://cdn.modrinth.com/licenses/unlicense.txt"
+    },
+    "client_side": "required",
+    "server_side": "optional",
+    "downloads": 327,
+    "followers": 27,
+    "categories": [
+        "misc",
+        "optimization"
+    ],
+    "versions": [
+        "j9VrzXIa",
+        "xBrLoYrU",
+        "Bas97Blg",
+        "EDJltiiI",
+        "EeV0yK3z",
+        "P7Ly1cxI",
+        "S63NmSwB"
+    ],
+    "icon_url": "https://cdn.modrinth.com/data/Rs6c7WyL/725f2909172881fbc2b5325992628bb69fd91eca.jpeg",
+    "issues_url": "https://github.com/FionaTheMortal/better-biome-blend/issues",
+    "source_url": "https://github.com/FionaTheMortal/better-biome-blend",
+    "wiki_url": null,
+    "discord_url": null,
+    "donation_urls": [],
+    "gallery": []
+}

@@ -1,5 +1,71 @@
 [
     {
+        "id": "EUniyxEp",
+        "project_id": "ZfQ3kTvR",
+        "author_id": "Y5jbSs5O",
+        "featured": true,
+        "name": "4.0.0 for 1.19",
+        "version_number": "4.0.0+1.19",
+        "changelog": "how its made: https://www.youtube.com/watch?v=E6H74_P7UYA",
+        "changelog_url": null,
+        "date_published": "2022-06-10T11:43:52+00:00",
+        "downloads": 509,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "c6ecf810365ef16714c6577caba86bd3dfdfa782",
+                    "sha512": "9e72bc1d121005df5079c9474db6f008dfd34f9e5ab795cbbdb42325d9c66bb29010da6e17259e2bc59a2fbb27d8cdcdebf2917bdc4ea39fccddfabac679739d"
+                },
+                "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/4.0.0+1.19/dashloader-4.0.0%2B1.19.jar",
+                "filename": "dashloader-4.0.0+1.19.jar",
+                "primary": true,
+                "size": 5887939
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.19"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "Av1aoyKG",
+        "project_id": "ZfQ3kTvR",
+        "author_id": "Y5jbSs5O",
+        "featured": true,
+        "name": "4.0.0 for 1.18",
+        "version_number": "4.0.0+1.18",
+        "changelog": "- Added language support.\n- Merged Core and Definitions\n- Updated Hyphen\n\n- Fixed rare segfault that may happen if the JVM gcs in the middle of file reading\n- Fixed race condition on exporting.\n- Fixed bug where a failed load would fully crash the game, now it tries to recover.\n- Fixed fabric.mod.json and declared DashLoader as a client mod\n\n\n- Improve sprite handling.\n- Make fonts load off-thread\n- Make search init load off-thread\n- Remove the angry 2.0 message\n\n ",
+        "changelog_url": null,
+        "date_published": "2022-06-06T20:30:19+00:00",
+        "downloads": 458,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "3c1878393470e694bf36b7af03d7b538448da38b",
+                    "sha512": "a0ae70e05a8e284afcf2bc58452afab47e7f2912fed3c7f538f455e36569cacd9bc9e2691acdc105a756d3403bc754ca45663eaa22e692f28717663440ea0ac0"
+                },
+                "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/4.0.0+1.18/dashloader-4.0.0.jar",
+                "filename": "dashloader-4.0.0.jar",
+                "primary": true,
+                "size": 5887346
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18",
+            "1.18.1",
+            "1.18.2"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
         "id": "JQ7pEK4s",
         "project_id": "ZfQ3kTvR",
         "author_id": "Y5jbSs5O",
@@ -8,18 +74,19 @@
         "version_number": "3.1.1+1.17",
         "changelog": "## 3.1.0\n- Add indicator for a failed cache.\n- Fix english 's usage.\n- Make mod hash use MD5 like resource pack hash.\n- Make DashLoader less invasive on sprite injection.\n- Remove BlockState lookup cache.\n- Support for Fabric API hooked Baked Models.\n- Temporarily disable particle cache (i need to rewrite this garbage)\n\n## 3.1.1\n- Made f3 + t also clear cache. (shift + f3 + t does not clear cache)\n- Added Shedaniel requested Cache Screen quotes.",
         "changelog_url": null,
-        "date_published": "2022-03-27T20:11:17.066836Z",
-        "downloads": 449,
+        "date_published": "2022-03-27T20:11:17+00:00",
+        "downloads": 820,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "f96cfd31a944dacfb766f4d27e49b0b2b9e71106",
-                    "sha512": "fea8e55466a697fce12c78adc3f7435e780b3ec2b0f55a8463f6d40b0478f63eeb78912a57e5edaf0b2d9888a0ea169255eeac27dd9896e46af8fedf647ef2ba"
+                    "sha512": "fea8e55466a697fce12c78adc3f7435e780b3ec2b0f55a8463f6d40b0478f63eeb78912a57e5edaf0b2d9888a0ea169255eeac27dd9896e46af8fedf647ef2ba",
+                    "sha1": "f96cfd31a944dacfb766f4d27e49b0b2b9e71106"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.1.1+1.17/dashloader-def-3.1.1%2B1.17.jar",
                 "filename": "dashloader-def-3.1.1+1.17.jar",
-                "primary": true
+                "primary": true,
+                "size": 5865907
             }
         ],
         "dependencies": [],
@@ -35,23 +102,24 @@
         "id": "OTK7ITDv",
         "project_id": "ZfQ3kTvR",
         "author_id": "Y5jbSs5O",
-        "featured": true,
+        "featured": false,
         "name": "3.1.1 for 1.18",
         "version_number": "3.1.1+1.18",
         "changelog": "## 3.1.0\n- Add indicator for a failed cache.\n- Fix english 's usage.\n- Make mod hash use MD5 like resource pack hash.\n- Make DashLoader less invasive on sprite injection.\n- Remove BlockState lookup cache.\n- Support for Fabric API hooked Baked Models.\n- Temporarily disable particle cache (i need to rewrite this garbage)\n\n## 3.1.1\n- Made f3 + t also clear cache. (shift + f3 + t does not clear cache)\n- Added Shedaniel requested Cache Screen quotes.",
         "changelog_url": null,
-        "date_published": "2022-03-27T20:11:16.833594Z",
-        "downloads": 4596,
+        "date_published": "2022-03-27T20:11:16+00:00",
+        "downloads": 8947,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "ca9fb1bfadbf0de7ddd2dcbf3bdd7b6230453e8048373d8d710cbf938e4498a9b788d31787b75ffa5ac89e20e53c6fbb740c5f1df39e0ff90ebefa5fbc7830e3",
-                    "sha1": "52865d6564ba3b4c1f146810932371910bfb217d"
+                    "sha1": "52865d6564ba3b4c1f146810932371910bfb217d",
+                    "sha512": "ca9fb1bfadbf0de7ddd2dcbf3bdd7b6230453e8048373d8d710cbf938e4498a9b788d31787b75ffa5ac89e20e53c6fbb740c5f1df39e0ff90ebefa5fbc7830e3"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.1.1+1.18/dashloader-def-3.1.1%2B1.18.jar",
                 "filename": "dashloader-def-3.1.1+1.18.jar",
-                "primary": true
+                "primary": true,
+                "size": 5866625
             }
         ],
         "dependencies": [],
@@ -73,8 +141,8 @@
         "version_number": "3.0.1+1.17",
         "changelog": "- Fix everything",
         "changelog_url": null,
-        "date_published": "2022-03-20T21:06:15.976068Z",
-        "downloads": 167,
+        "date_published": "2022-03-20T21:06:15+00:00",
+        "downloads": 174,
         "version_type": "release",
         "files": [
             {
@@ -84,7 +152,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0.1+1.17/dashloader-def-3.0.1%2B1.17.jar",
                 "filename": "dashloader-def-3.0.1+1.17.jar",
-                "primary": true
+                "primary": true,
+                "size": 5861328
             }
         ],
         "dependencies": [],
@@ -105,18 +174,19 @@
         "version_number": "3.0.1+1.18",
         "changelog": "- Fix everything",
         "changelog_url": null,
-        "date_published": "2022-03-20T21:06:15.938169Z",
-        "downloads": 1455,
+        "date_published": "2022-03-20T21:06:15+00:00",
+        "downloads": 1468,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "1cd0e6ceece1a349f35e5893675c7647cac2220c55c68687fb9a8739b0691dd8060ab1954f38620f2b169c6ec90d3fa55366e55c5f7cd3c4a07e27966e063d65",
-                    "sha1": "28fa55db839e36a0599278a46412f9dfcf926355"
+                    "sha1": "28fa55db839e36a0599278a46412f9dfcf926355",
+                    "sha512": "1cd0e6ceece1a349f35e5893675c7647cac2220c55c68687fb9a8739b0691dd8060ab1954f38620f2b169c6ec90d3fa55366e55c5f7cd3c4a07e27966e063d65"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0.1+1.18/dashloader-def-3.0.1%2B1.18.jar",
                 "filename": "dashloader-def-3.0.1+1.18.jar",
-                "primary": true
+                "primary": true,
+                "size": 5862035
             }
         ],
         "dependencies": [],
@@ -138,8 +208,8 @@
         "version_number": "3.0.0+1.18",
         "changelog": "## Fallback system\nThe fallback system allows DashLoader to use the Minecraft model loading system to load assets that are not DashCache compatible. This allows mods to work with DashLoader, without adding explicit support which greatly improves compatibility.\n## Rewrite\nDashLoader has been rewritten.\n### Core and Definitions\nThe codebase is now split with Core holding the version independent components and definition holding the Minecraft asset definitions to add DashLoader support to that Minecraft version. This greatly helps with us supporting multiple Minecraft versions.\n### Hyphen\nSo we made the world fastest jvm serializer for Minecraft. This makes DashLoader faster and makes developing DashLoader way easier. Also it has fancy error messages.\n## UX\n### Caching screen\nThe caching screen has been redesigned to be more informative and nice looking.\nIt is also fully customizable in the config.\n### Config\nThe config has been overhauled and is now way more powerful. Customize your screen or tune DashLoader to your liking.\n### Profiling\nThe profiling system has been remade and is now cleaner and contains more statistics.\n\n## A lot of fixes. Im not counting them.\n\n## Mods that are now compatible\n- BCLib\n- Better End\n- Botania\n- Campanion\n- CC: Restitched\n- Connected Block Textures Fabric\n- Conntected Textures Mod\n- FerriteCore\n- Hydrogen\n- Industrial Revolution\n- LambdaBetterGrass\n- Pling\n- Applied Energistics 2",
         "changelog_url": null,
-        "date_published": "2022-03-20T19:31:36.927299Z",
-        "downloads": 43,
+        "date_published": "2022-03-20T19:31:36+00:00",
+        "downloads": 50,
         "version_type": "release",
         "files": [
             {
@@ -149,7 +219,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0.0+1.18/dashloader-def-3.0.0%2B1.18.jar",
                 "filename": "dashloader-def-3.0.0+1.18.jar",
-                "primary": true
+                "primary": true,
+                "size": 5861437
             }
         ],
         "dependencies": [],
@@ -171,8 +242,8 @@
         "version_number": "3.0.0+1.17",
         "changelog": "## Fallback system\nThe fallback system allows DashLoader to use the Minecraft model loading system to load assets that are not DashCache compatible. This allows mods to work with DashLoader, without adding explicit support which greatly improves compatibility.\n## Rewrite\nDashLoader has been rewritten.\n### Core and Definitions\nThe codebase is now split with Core holding the version independent components and definition holding the Minecraft asset definitions to add DashLoader support to that Minecraft version. This greatly helps with us supporting multiple Minecraft versions.\n### Hyphen\nSo we made the world fastest jvm serializer for Minecraft. This makes DashLoader faster and makes developing DashLoader way easier. Also it has fancy error messages.\n## UX\n### Caching screen\nThe caching screen has been redesigned to be more informative and nice looking.\nIt is also fully customizable in the config.\n### Config\nThe config has been overhauled and is now way more powerful. Customize your screen or tune DashLoader to your liking.\n### Profiling\nThe profiling system has been remade and is now cleaner and contains more statistics.\n\n## A lot of fixes. Im not counting them.\n\n## Mods that are now compatible\n- BCLib\n- Better End\n- Botania\n- Campanion\n- CC: Restitched\n- Connected Block Textures Fabric\n- Conntected Textures Mod\n- FerriteCore\n- Hydrogen\n- Industrial Revolution\n- LambdaBetterGrass\n- Pling\n- Applied Energistics 2",
         "changelog_url": null,
-        "date_published": "2022-03-20T19:31:36.265604Z",
-        "downloads": 7,
+        "date_published": "2022-03-20T19:31:36+00:00",
+        "downloads": 13,
         "version_type": "release",
         "files": [
             {
@@ -182,7 +253,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0.0+1.17/dashloader-def-3.0.0%2B1.17.jar",
                 "filename": "dashloader-def-3.0.0+1.17.jar",
-                "primary": true
+                "primary": true,
+                "size": 5860775
             }
         ],
         "dependencies": [],
@@ -203,8 +275,8 @@
         "version_number": "3.0-rc14-1.17",
         "changelog": "- Code Refractor\n- Shader Option Disable crash fix",
         "changelog_url": null,
-        "date_published": "2022-01-22T21:15:07.103760Z",
-        "downloads": 414,
+        "date_published": "2022-01-22T21:15:07+00:00",
+        "downloads": 420,
         "version_type": "beta",
         "files": [
             {
@@ -214,7 +286,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc14-1.17/dashloader-def-3.0-rc14-1.17.jar",
                 "filename": "dashloader-def-3.0-rc14-1.17.jar",
-                "primary": false
+                "primary": false,
+                "size": 666168
             }
         ],
         "dependencies": [],
@@ -235,8 +308,8 @@
         "version_number": "3.0-rc14-1.18",
         "changelog": "- Code Refractor\n- Shader Option Disable crash fix\n",
         "changelog_url": null,
-        "date_published": "2022-01-22T21:14:36.057701Z",
-        "downloads": 2315,
+        "date_published": "2022-01-22T21:14:36+00:00",
+        "downloads": 2326,
         "version_type": "beta",
         "files": [
             {
@@ -246,7 +319,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc14-1.18/dashloader-def-3.0-rc14-1.18.jar",
                 "filename": "dashloader-def-3.0-rc14-1.18.jar",
-                "primary": false
+                "primary": false,
+                "size": 660414
             }
         ],
         "dependencies": [],
@@ -267,18 +341,19 @@
         "version_number": "3.0-rc11-1.18",
         "changelog": "- Fixed pling",
         "changelog_url": null,
-        "date_published": "2021-12-07T08:42:59.859430Z",
-        "downloads": 3027,
+        "date_published": "2021-12-07T08:42:59+00:00",
+        "downloads": 3034,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "84006dbf95819043f606223f51a1e9887c37a8b0",
-                    "sha512": "2c9400d7e7871e50f8fdfcf9017e0b7d1ea003daa7d4d5527d9aa1023d62f94dc0e5b6c98b2acdf54a80483434247c26b8825ee3bfac00e5fe41143d816b78ca"
+                    "sha512": "2c9400d7e7871e50f8fdfcf9017e0b7d1ea003daa7d4d5527d9aa1023d62f94dc0e5b6c98b2acdf54a80483434247c26b8825ee3bfac00e5fe41143d816b78ca",
+                    "sha1": "84006dbf95819043f606223f51a1e9887c37a8b0"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc11-1.18/dashloader-def-3.0-rc11-1.18.jar",
                 "filename": "dashloader-def-3.0-rc11-1.18.jar",
-                "primary": false
+                "primary": false,
+                "size": 661130
             }
         ],
         "dependencies": [],
@@ -298,18 +373,19 @@
         "version_number": "3.0-rc11-1.17",
         "changelog": "- Fixed pling",
         "changelog_url": null,
-        "date_published": "2021-12-07T08:42:28.147022Z",
-        "downloads": 713,
+        "date_published": "2021-12-07T08:42:28+00:00",
+        "downloads": 717,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "d085ad2ee3177c967df956663546961394076f19",
-                    "sha512": "57088656203d704b7dd81b6fea1d4eeb4bae47a2b6df5aef74dd9733ff52e935e19453d68f58ca33d443dadff94ec3e1d43a303085d5badc01bed9da3d22db41"
+                    "sha512": "57088656203d704b7dd81b6fea1d4eeb4bae47a2b6df5aef74dd9733ff52e935e19453d68f58ca33d443dadff94ec3e1d43a303085d5badc01bed9da3d22db41",
+                    "sha1": "d085ad2ee3177c967df956663546961394076f19"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc11-1.17/dashloader-def-3.0-rc.11-1.17.jar",
                 "filename": "dashloader-def-3.0-rc.11-1.17.jar",
-                "primary": false
+                "primary": false,
+                "size": 667077
             }
         ],
         "dependencies": [],
@@ -330,8 +406,8 @@
         "version_number": "3.0-rc10-1.17",
         "changelog": "- Fixed config Options\n- Disabled unstable block state init because it was causing server issues.",
         "changelog_url": null,
-        "date_published": "2021-12-06T08:43:58.644190Z",
-        "downloads": 36,
+        "date_published": "2021-12-06T08:43:58+00:00",
+        "downloads": 41,
         "version_type": "beta",
         "files": [
             {
@@ -341,7 +417,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc10-1.17/dashloader-def-3.0-rc.10-1.17.jar",
                 "filename": "dashloader-def-3.0-rc.10-1.17.jar",
-                "primary": false
+                "primary": false,
+                "size": 667504
             }
         ],
         "dependencies": [],
@@ -362,8 +439,8 @@
         "version_number": "3.0-rc10-1.18",
         "changelog": "- Fixed config Options\n- Disabled unstable block state init because it was causing server issues.",
         "changelog_url": null,
-        "date_published": "2021-12-06T08:43:00.339016Z",
-        "downloads": 224,
+        "date_published": "2021-12-06T08:43:00+00:00",
+        "downloads": 226,
         "version_type": "beta",
         "files": [
             {
@@ -373,7 +450,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc10-1.18/dashloader-def-3.0-rc10-1.18.jar",
                 "filename": "dashloader-def-3.0-rc10-1.18.jar",
-                "primary": false
+                "primary": false,
+                "size": 661550
             }
         ],
         "dependencies": [],
@@ -393,8 +471,8 @@
         "version_number": "3.0-rc6-1.18",
         "changelog": "- Cleaned up Mixin Accessors\n- Made a highly unsafe change to Blockstates which makes them way faster.",
         "changelog_url": null,
-        "date_published": "2021-12-05T14:41:43.278587Z",
-        "downloads": 249,
+        "date_published": "2021-12-05T14:41:43+00:00",
+        "downloads": 250,
         "version_type": "beta",
         "files": [
             {
@@ -404,7 +482,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc6-1.18/dashloader-def-3.0-rc6-1.18.jar",
                 "filename": "dashloader-def-3.0-rc6-1.18.jar",
-                "primary": false
+                "primary": false,
+                "size": 660116
             }
         ],
         "dependencies": [],
@@ -424,18 +503,19 @@
         "version_number": "3.0-rc6",
         "changelog": "- Cleaned up Mixin Accessors\n- Made a highly unsafe change to Blockstates which makes them way faster.",
         "changelog_url": null,
-        "date_published": "2021-12-05T14:41:03.502468Z",
-        "downloads": 25,
+        "date_published": "2021-12-05T14:41:03+00:00",
+        "downloads": 29,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "dfee048d678b1ce80af674959c4bee9dadd2a5d7",
-                    "sha512": "605211f1ba629be5fac11d31f38e582135c329b28ece50d4aa368933f3f6a41a7fddada7d4924ed7013e390f6bb1a892f46bbdb4a77763d639dc5f8ac77f510a"
+                    "sha512": "605211f1ba629be5fac11d31f38e582135c329b28ece50d4aa368933f3f6a41a7fddada7d4924ed7013e390f6bb1a892f46bbdb4a77763d639dc5f8ac77f510a",
+                    "sha1": "dfee048d678b1ce80af674959c4bee9dadd2a5d7"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-rc6/dashloader-def-3.0-rc.6-1.17.jar",
                 "filename": "dashloader-def-3.0-rc.6-1.17.jar",
-                "primary": false
+                "primary": false,
+                "size": 666129
             }
         ],
         "dependencies": [],
@@ -456,8 +536,8 @@
         "version_number": "3.0-beta4",
         "changelog": "- Fix sodium compat... again",
         "changelog_url": null,
-        "date_published": "2021-11-28T09:57:08.376467Z",
-        "downloads": 238,
+        "date_published": "2021-11-28T09:57:08+00:00",
+        "downloads": 243,
         "version_type": "beta",
         "files": [
             {
@@ -467,7 +547,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-beta4/dashloader-def-3.0-beta4.jar",
                 "filename": "dashloader-def-3.0-beta4.jar",
-                "primary": false
+                "primary": false,
+                "size": 656343
             }
         ],
         "dependencies": [],
@@ -488,8 +569,8 @@
         "version_number": "3.0-beta3",
         "changelog": "- Fixed weird core logging\n- Update to our new logo",
         "changelog_url": null,
-        "date_published": "2021-11-27T16:35:03.046992Z",
-        "downloads": 48,
+        "date_published": "2021-11-27T16:35:03+00:00",
+        "downloads": 53,
         "version_type": "beta",
         "files": [
             {
@@ -499,7 +580,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-beta3/dashloader-def-3.0-beta3.jar",
                 "filename": "dashloader-def-3.0-beta3.jar",
-                "primary": false
+                "primary": false,
+                "size": 656332
             }
         ],
         "dependencies": [],
@@ -520,8 +602,8 @@
         "version_number": "3.0-beta1",
         "changelog": "### Codebase\nFully remade and is now split into 2 different parts for easy support of multiple minecraft versions.\n\n### Serializer\nWe now use Hyphen which is a nicer and faster Serializer.\n\n### API\nA remade API which does a lot of things for you like ordering the export order.\n\n### You asked for it.\n - Fallback system. Now DashLoader wont blowup if a non supported model is found. This makes dashloader way more compatible.\n\n### UX\n - The Caching screen has been remade and now is very customisable. The Config is also hot reloadable in debug mode.\n - Config is now way better and allows to disable the watermark with ease.\n - A new and more accurate Profiling system for competing with your friends minecraft loading times.\n\n### Cache Improvements\n - Multithreads harder. A way better multithreading ratio. Now uses all of your threads fully to encode/decode the cache\n - Encodes way faster because of Hyphen.\n - Compression. This makes the cache up to 10x smaller.\n\n### Fixes\n - Fixed shader issues. End portal blocks were broken and this should hopefully fix some Iris incompatibilities.\n - Fixed Resource Pack order not being concidered.",
         "changelog_url": null,
-        "date_published": "2021-11-27T14:09:45.948070Z",
-        "downloads": 29,
+        "date_published": "2021-11-27T14:09:45+00:00",
+        "downloads": 33,
         "version_type": "beta",
         "files": [
             {
@@ -531,7 +613,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.0-beta1/dashloader-def-3.0-beta1.jar",
                 "filename": "dashloader-def-3.0-beta1.jar",
-                "primary": false
+                "primary": false,
+                "size": 694301
             }
         ],
         "dependencies": [],
@@ -552,8 +635,8 @@
         "version_number": "2.0.1",
         "changelog": "- Fixes sodium support",
         "changelog_url": null,
-        "date_published": "2021-10-07T16:01:04.965766Z",
-        "downloads": 1944,
+        "date_published": "2021-10-07T16:01:04+00:00",
+        "downloads": 1948,
         "version_type": "release",
         "files": [
             {
@@ -563,7 +646,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0.1/dashloader-2.0.1.jar",
                 "filename": "dashloader-2.0.1.jar",
-                "primary": false
+                "primary": false,
+                "size": 927009
             }
         ],
         "dependencies": [],
@@ -584,18 +668,19 @@
         "version_number": "2.0",
         "changelog": "1.17 Shader cache\n- The shaders in 1.17 are now cached\n- Faster loading times\n\nResource and mod independent cache\n- Server Packs now cache.\n- Mod changes don't require recache after the first time\n\nSerializer cache\n- Improve DashCache loading times by up to 50%.\n\nDashReport\n- Prints in console all the times of mc loading.\n- Loading timer no longer required for drag races.\n\nDashCache Screen\n- Finally, make it the new color theme\n- Added subtasks which leads to a smoother bar\n\nResource packs\n- DashLoader now can switch resource packs without making a mess of textures.\n- Stops the Iris discord server from bullying DashLoader.\n\nWierd allocation error\n- Resource packs over x64 should now work without crashing.\n- Why LWJGL... why.\n\nDecreased image cache size.\n- Made my serializers aware that all images don't have 4 channels.\n- Decreases size and maybe speed? (Haven't tested.)\n\nA lot of internal changes.\n- Refactored like 20% of DashLoader.\n\nTrueType Font support\n- DashLoader now supports TTF fonts so Resource Packs that use them should now be compatible.\n\nAPI changes\n- Huge API changes. Check the docs to add support. Factories are gone!1!!1!11!\n\nFeatures\n- You can now disable parts of DashLoader through the API or the config.",
         "changelog_url": null,
-        "date_published": "2021-07-10T09:58:28.289103Z",
-        "downloads": 4639,
+        "date_published": "2021-07-10T09:58:28+00:00",
+        "downloads": 4642,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "22f22b32a131263951bf77e9a7be798fc4ca1f79d2138b9570d6dd1c4fb55121e8cee8e0420e2d04e79b8a58e77eb3f55a5c06aaaf40949658cbb056d58c476e",
-                    "sha1": "b0044da57ade3fe8334fbe02b237d68e382b1fdb"
+                    "sha1": "b0044da57ade3fe8334fbe02b237d68e382b1fdb",
+                    "sha512": "22f22b32a131263951bf77e9a7be798fc4ca1f79d2138b9570d6dd1c4fb55121e8cee8e0420e2d04e79b8a58e77eb3f55a5c06aaaf40949658cbb056d58c476e"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0/dashloader-2.0.jar",
                 "filename": "dashloader-2.0.jar",
-                "primary": false
+                "primary": false,
+                "size": 946220
             }
         ],
         "dependencies": [],
@@ -616,18 +701,19 @@
         "version_number": "2.0-pre3",
         "changelog": "Fixed adorn compat",
         "changelog_url": null,
-        "date_published": "2021-07-09T12:25:19.653068Z",
-        "downloads": 66,
+        "date_published": "2021-07-09T12:25:19+00:00",
+        "downloads": 72,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "bed314ab52d5527665d9e5e9e630344a9b1056e5",
-                    "sha512": "c44ea2d5e5723ba8f2250e727877a155c88cc55af181e34754dae1a949a9b859e226363ad717899c1608d18470084e450ac7f7809fe20edc4c3022ae6d59376f"
+                    "sha512": "c44ea2d5e5723ba8f2250e727877a155c88cc55af181e34754dae1a949a9b859e226363ad717899c1608d18470084e450ac7f7809fe20edc4c3022ae6d59376f",
+                    "sha1": "bed314ab52d5527665d9e5e9e630344a9b1056e5"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0-pre3/dashloader-2.0-pre3.jar",
                 "filename": "dashloader-2.0-pre3.jar",
-                "primary": false
+                "primary": false,
+                "size": 946231
             }
         ],
         "dependencies": [],
@@ -648,18 +734,19 @@
         "version_number": "2.0-pre2",
         "changelog": "- Fixed wierd image allocation error with large resourcepacks.\n- Changed reload position",
         "changelog_url": null,
-        "date_published": "2021-07-09T10:54:20.113517Z",
-        "downloads": 15,
+        "date_published": "2021-07-09T10:54:20+00:00",
+        "downloads": 19,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "e0e3e9b4e3b7ada2f05a204798e28bef252ca640",
-                    "sha512": "729d39fdcbb1aa532dbd8380154a5cb9e7c3f02f74cf9bd290fa5fd705739d26d2b808ad6a1ed6927ef3c41421e3fac946ec587b1ff3a487a87e717a264ce35b"
+                    "sha512": "729d39fdcbb1aa532dbd8380154a5cb9e7c3f02f74cf9bd290fa5fd705739d26d2b808ad6a1ed6927ef3c41421e3fac946ec587b1ff3a487a87e717a264ce35b",
+                    "sha1": "e0e3e9b4e3b7ada2f05a204798e28bef252ca640"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0-pre2/dashloader-2.0-pre2.jar",
                 "filename": "dashloader-2.0-pre2.jar",
-                "primary": false
+                "primary": false,
+                "size": 949654
             }
         ],
         "dependencies": [],
@@ -680,18 +767,19 @@
         "version_number": "2.0-pre1",
         "changelog": "1.17 Shader cache\n- The shaders in 1.17 are now cached\n- Faster loading times\n\nResource and mod independant cache\n- Server Packs now cache.\n- Mod changes dont require recache after the first time\nSerializer cache\n- Improve DashCache loading times by up to 50%.\n\nMultithreaded Caching state\n- New Caches are now a lot faster.\nMultithreaded states\n- Made blocks slightly multithreaded\nDashReport\n- Prints in console all the times of mc loading.\n- Loading timer no longer required for drag races.\nTrue Type Font Support\n- DashLoader now supports TrueType Fonts!\n\nDashCache Screen\n- Finnaly make it the new color theme\n- Added subtasks which leads for a smoother bar\n\n[BUG FIX] Resource packs\n- DashLoader now can switch resourcepacks without making a mess of textures.\n\n[API] Huge API refractor\n\n[API] Features\n- You can now disable certain modules of dashloader through the api or the config.",
         "changelog_url": null,
-        "date_published": "2021-07-08T11:13:54.138467Z",
-        "downloads": 75,
+        "date_published": "2021-07-08T11:13:54+00:00",
+        "downloads": 79,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "4576a004bebe8883e3b4c7f7ecf587d82a985acf",
-                    "sha512": "9fd55d07de73f780a2cf301a786b5fa7c9aba53421c97b82c9dc4c1be0b3691a431c41f7a05772eedc8ce6b8505b8f922d29cee603ccba79ae9085b610133b9f"
+                    "sha512": "9fd55d07de73f780a2cf301a786b5fa7c9aba53421c97b82c9dc4c1be0b3691a431c41f7a05772eedc8ce6b8505b8f922d29cee603ccba79ae9085b610133b9f",
+                    "sha1": "4576a004bebe8883e3b4c7f7ecf587d82a985acf"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0-pre1/dashloader-2.0-pre1.jar",
                 "filename": "dashloader-2.0-pre1.jar",
-                "primary": false
+                "primary": false,
+                "size": 949614
             }
         ],
         "dependencies": [],
@@ -711,25 +799,26 @@
         "version_number": "1.5",
         "changelog": "1.17",
         "changelog_url": null,
-        "date_published": "2021-06-04T15:36:30.281523Z",
-        "downloads": 671,
+        "date_published": "2021-06-04T15:36:30+00:00",
+        "downloads": 676,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "6152c570575c7efaac7a451e8c734269961b0b478de6a77df9133fe4549446e6989c30a67964462f538d562033ceeafbc349feeb049652b865b0c3ed8e7ca069",
-                    "sha1": "05ec4aee0ccb61c26db401f2dd4715d8cf7063f7"
+                    "sha1": "05ec4aee0ccb61c26db401f2dd4715d8cf7063f7",
+                    "sha512": "6152c570575c7efaac7a451e8c734269961b0b478de6a77df9133fe4549446e6989c30a67964462f538d562033ceeafbc349feeb049652b865b0c3ed8e7ca069"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.5/dashloader-1.5.jar",
                 "filename": "dashloader-1.5.jar",
-                "primary": false
+                "primary": false,
+                "size": 633898
             }
         ],
         "dependencies": [],
         "game_versions": [
+            "1.17",
             "1.17-pre5",
-            "1.17-rc1",
-            "1.17"
+            "1.17-rc1"
         ],
         "loaders": [
             "fabric"
@@ -744,7 +833,7 @@
         "version_number": "1.4.5-stable",
         "changelog": "- Fixed redstone not showing up.\n- Added the new API",
         "changelog_url": null,
-        "date_published": "2021-05-23T17:14:41.739504Z",
+        "date_published": "2021-05-23T17:14:41+00:00",
         "downloads": 3101,
         "version_type": "release",
         "files": [
@@ -755,7 +844,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.4.5-experimental/dashloader-1.4.5.jar",
                 "filename": "dashloader-1.4.5.jar",
-                "primary": false
+                "primary": false,
+                "size": 622439
             }
         ],
         "dependencies": [],
@@ -775,18 +865,19 @@
         "version_number": "1.4.4",
         "changelog": "Fixed Serializer instability\nReverted image change\nAdded more mods to incompat list",
         "changelog_url": null,
-        "date_published": "2021-05-13T14:34:33.462305Z",
+        "date_published": "2021-05-13T14:34:33+00:00",
         "downloads": 99,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "ae9fbd1dbbb61522f99e0de0bc4271c593d958de",
-                    "sha512": "8eb878786a62fd6de09f534148877be1a9434d32502272d53c9299a2dd2ef4967d171e7d1514382ce10f2e99bd96deece91921c873ce5eed78f613d3c3bbcda5"
+                    "sha512": "8eb878786a62fd6de09f534148877be1a9434d32502272d53c9299a2dd2ef4967d171e7d1514382ce10f2e99bd96deece91921c873ce5eed78f613d3c3bbcda5",
+                    "sha1": "ae9fbd1dbbb61522f99e0de0bc4271c593d958de"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.4.4/dashloader-1.4.4.jar",
                 "filename": "dashloader-1.4.4.jar",
-                "primary": false
+                "primary": false,
+                "size": 606987
             }
         ],
         "dependencies": [],
@@ -806,8 +897,8 @@
         "version_number": "1.4.3-stable",
         "changelog": "- fixed rare NPE on potion effects.\n\n- Multithreaded heavily \n\n- Improved API loading.",
         "changelog_url": null,
-        "date_published": "2021-05-11T06:07:49.968186Z",
-        "downloads": 140,
+        "date_published": "2021-05-11T06:07:49+00:00",
+        "downloads": 150,
         "version_type": "release",
         "files": [
             {
@@ -817,7 +908,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.4.3-stable/dashloader-1.4.3.jar",
                 "filename": "dashloader-1.4.3.jar",
-                "primary": false
+                "primary": false,
+                "size": 605524
             }
         ],
         "dependencies": [],
@@ -837,7 +929,7 @@
         "version_number": " 1.4.1-experemental",
         "changelog": "- Fixed java 8+ bug",
         "changelog_url": null,
-        "date_published": "2021-05-08T18:04:52.431802Z",
+        "date_published": "2021-05-08T18:04:52+00:00",
         "downloads": 50,
         "version_type": "beta",
         "files": [
@@ -846,9 +938,10 @@
                     "sha1": "5d025ceb5769ab109f4f74bb0629b5f2fba9ce0f",
                     "sha512": "d5d42e99559bd0eaf5a9cbae881f34db0611170f4bb6e4de6b5df15de5e0c183d48ae60ed50b6ca4909655dad14ebf5f3350ad9e9c49546bfc645eca3c006154"
                 },
-                "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/ 1.4.1-experemental/dashloader-1.4.1.jar",
+                "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/%201.4.1-experemental/dashloader-1.4.1.jar",
                 "filename": "dashloader-1.4.1.jar",
-                "primary": false
+                "primary": false,
+                "size": 605149
             }
         ],
         "dependencies": [],
@@ -868,18 +961,19 @@
         "version_number": "1.4-experemental",
         "changelog": "- Multithreaded more",
         "changelog_url": null,
-        "date_published": "2021-05-06T16:25:51.672653Z",
-        "downloads": 32,
+        "date_published": "2021-05-06T16:25:51+00:00",
+        "downloads": 36,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "19dc73afa899c3b6745cf526925091a8a60ec655",
-                    "sha512": "b80acdadc2d754225c8632df94bf1fea8cb92b83744430c5483cfab79f3c8b9624f6657a4675e3bd1ea4c29674f3dcfd1f96a24577d9d24a2d0fc51ee056d62c"
+                    "sha512": "b80acdadc2d754225c8632df94bf1fea8cb92b83744430c5483cfab79f3c8b9624f6657a4675e3bd1ea4c29674f3dcfd1f96a24577d9d24a2d0fc51ee056d62c",
+                    "sha1": "19dc73afa899c3b6745cf526925091a8a60ec655"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.4-experemental/dashloader-1.4.jar",
                 "filename": "dashloader-1.4.jar",
-                "primary": false
+                "primary": false,
+                "size": 597138
             }
         ],
         "dependencies": [],
@@ -899,18 +993,19 @@
         "version_number": "1.3.1-stable",
         "changelog": "- Added timer on some stages in console.\n- Made dash less dependant on Unsafe operations.",
         "changelog_url": null,
-        "date_published": "2021-05-03T15:34:17.899961Z",
+        "date_published": "2021-05-03T15:34:17+00:00",
         "downloads": 113,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "5e2145e79e2e803f8056052cdaf122eb4527b322",
-                    "sha512": "9e05d892ac29dee858a19cfba1650c273d0b675db150fb1da373545b08f4dbde35c42881644d0eb54df866690bee78c76b87cd91ddde79409122e6f3d3e88253"
+                    "sha512": "9e05d892ac29dee858a19cfba1650c273d0b675db150fb1da373545b08f4dbde35c42881644d0eb54df866690bee78c76b87cd91ddde79409122e6f3d3e88253",
+                    "sha1": "5e2145e79e2e803f8056052cdaf122eb4527b322"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.3.1-alpha/dashloader-1.3.1-alpha.jar",
                 "filename": "dashloader-1.3.1-alpha.jar",
-                "primary": false
+                "primary": false,
+                "size": 601523
             }
         ],
         "dependencies": [],
@@ -930,8 +1025,8 @@
         "version_number": "1.3-alpha",
         "changelog": "- Improved Image/ModelIdentifier deserialization.\n- Updated ActiveJ.\n- Changed File System Format.\n- Fixed Removal System",
         "changelog_url": null,
-        "date_published": "2021-05-02T19:14:31.404481Z",
-        "downloads": 24,
+        "date_published": "2021-05-02T19:14:31+00:00",
+        "downloads": 28,
         "version_type": "beta",
         "files": [
             {
@@ -941,7 +1036,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.3-alpha/dashloader-1.3-alpha.jar",
                 "filename": "dashloader-1.3-alpha.jar",
-                "primary": false
+                "primary": false,
+                "size": 601912
             }
         ],
         "dependencies": [],
@@ -961,18 +1057,19 @@
         "version_number": "1.2-alpha",
         "changelog": "- Fixed custom fonts.\n- Improved speed of DashCache font loading stage.\n- Add homepage, issues, and source tags (RDKRACZ)",
         "changelog_url": null,
-        "date_published": "2021-05-01T19:18:38.158240Z",
-        "downloads": 44,
+        "date_published": "2021-05-01T19:18:38+00:00",
+        "downloads": 48,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "2f107508230419e1e398bdeb37277c5d9e42dd51",
-                    "sha512": "a5908b68a4a5015f74805fb0c50a99f69fca8a4daede2e9848c162b19f424747cd4f57e7da2e9a28bcab857c96c1eaa0c354d0d978fb7929e68a9369b2b24d92"
+                    "sha512": "a5908b68a4a5015f74805fb0c50a99f69fca8a4daede2e9848c162b19f424747cd4f57e7da2e9a28bcab857c96c1eaa0c354d0d978fb7929e68a9369b2b24d92",
+                    "sha1": "2f107508230419e1e398bdeb37277c5d9e42dd51"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.2-alpha/dashloader-1.2-alpha.jar",
                 "filename": "dashloader-1.2-alpha.jar",
-                "primary": false
+                "primary": false,
+                "size": 595886
             }
         ],
         "dependencies": [],
@@ -992,8 +1089,8 @@
         "version_number": "1.1-alpha",
         "changelog": "- Fixed MultipartModels (Walls, Fences and Glass panes)\n- Made optimizations on Image/Identifier/EnumProperty deserialization.\n- Multithreaded Serializer creation.\n- Model registry system changed.\n- Fixed public Mixin (Sprite.Info)",
         "changelog_url": null,
-        "date_published": "2021-04-24T17:40:08.895339Z",
-        "downloads": 155,
+        "date_published": "2021-04-24T17:40:08+00:00",
+        "downloads": 167,
         "version_type": "alpha",
         "files": [
             {
@@ -1003,7 +1100,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.1-alpha/dash-1.1-alpha.jar",
                 "filename": "dash-1.1-alpha.jar",
-                "primary": false
+                "primary": false,
+                "size": 595839
             }
         ],
         "dependencies": [],
@@ -1023,18 +1121,19 @@
         "version_number": "1.0.2-alpha",
         "changelog": " - Added automatic recache.\n - Added watermark\n - Faster Enum Loading. ",
         "changelog_url": null,
-        "date_published": "2021-04-19T17:47:06.062991Z",
-        "downloads": 89,
+        "date_published": "2021-04-19T17:47:06+00:00",
+        "downloads": 94,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha1": "fb7238211a6e504d7771a91435497ca82562c594",
-                    "sha512": "4b3dc8635119b2bbe3f71fecbf1ef0ba1cf103364e7b5129af9f56e86d362f758bcb6a80fa2d73e8b3632b8b05744d66ace90e6c27d23f4f6275477459c18ad1"
+                    "sha512": "4b3dc8635119b2bbe3f71fecbf1ef0ba1cf103364e7b5129af9f56e86d362f758bcb6a80fa2d73e8b3632b8b05744d66ace90e6c27d23f4f6275477459c18ad1",
+                    "sha1": "fb7238211a6e504d7771a91435497ca82562c594"
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.0.2-alpha/dash-1.0.2-alpha.jar",
                 "filename": "dash-1.0.2-alpha.jar",
-                "primary": false
+                "primary": false,
+                "size": 563074
             }
         ],
         "dependencies": [],
@@ -1054,8 +1153,8 @@
         "version_number": "1.0.1-alpha",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-04-19T09:11:56.152686Z",
-        "downloads": 30,
+        "date_published": "2021-04-19T09:11:56+00:00",
+        "downloads": 35,
         "version_type": "alpha",
         "files": [
             {
@@ -1065,7 +1164,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/1.0.1-alpha/dash-1.0.1-alpha.jar",
                 "filename": "dash-1.0.1-alpha.jar",
-                "primary": false
+                "primary": false,
+                "size": 553966
             }
         ],
         "dependencies": [],

@@ -1,251 +1,200 @@
 {
-    "id": 551520,
-    "name": "Better Fps - Render Distance[Forge]",
-    "authors": [
-        {
-            "name": "someaddon",
-            "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon",
-            "projectId": 551520,
-            "id": 471415,
-            "projectTitleId": null,
-            "projectTitleTitle": null,
-            "userId": 100114338,
-            "twitchId": 446731041
-        }
-    ],
-    "attachments": [
-        {
-            "id": 531771,
-            "projectId": 551520,
-            "description": "",
-            "isDefault": true,
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/531/771/256/256/637854357042030339.png",
-            "title": "637854357042030339.png",
-            "url": "https://media.forgecdn.net/avatars/531/771/637854357042030339.png",
-            "status": 1
-        }
-    ],
-    "issueTrackerUrl": "https://github.com/someaddons/betterfpsdistances/issues",
-    "wikiUrl": "",
-    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance",
-    "gameId": 432,
-    "summary": "Better fps for 1.16+ minecraft, improved render distances",
-    "defaultFileId": 3766033,
-    "downloadCount": 1073861.0,
-    "latestFiles": [
-        {
-            "id": 3766033,
-            "displayName": "betterfpsdist-1.2.jar",
-            "fileName": "betterfpsdist-1.2.jar",
-            "fileDate": "2022-04-24T12:16:41.79Z",
-            "fileLength": 14478,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3766/33/betterfpsdist-1.2.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 4024347012,
-                    "type": 3
-                },
-                {
-                    "foldername": "com",
-                    "fingerprint": 4084278527,
-                    "type": 3
-                },
-                {
-                    "foldername": "betterfpsdist.mixins.json",
-                    "fingerprint": 3478440666,
-                    "type": 3
-                },
-                {
-                    "foldername": "pack.mcmeta",
-                    "fingerprint": 1438559181,
-                    "type": 3
-                },
-                {
-                    "foldername": "betterfpsdist.refmap.json",
-                    "fingerprint": 1688435257,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 4144400660,
-            "gameVersion": [
-                "1.16.5",
-                "Forge"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0000000001.0000000016.0000000005",
-                    "gameVersion": "1.16.5",
-                    "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-                    "gameVersionName": "1.16.5",
-                    "gameVersionTypeId": 70886
-                },
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Forge",
-                    "gameVersionTypeId": 68441
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2876599,
-            "fileLegacyMappingId": null,
-            "projectId": 551520,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 910935257,
-            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-            "gameVersionMappingId": 4023959,
-            "gameVersionId": 4458,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "2bbfb89dbfb5275f0c7f31d8739fdd94461a183e"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "2308031c7afa5e023fd5d988210890f7"
-                }
-            ],
-            "downloadCount": 0
-        }
-    ],
-    "categories": [
-        {
-            "categoryId": 424,
-            "name": "Cosmetic",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 551520,
-            "avatarId": 6039,
-            "gameId": 432,
-            "slug": "cosmetic",
-            "dateModified": "2014-05-08T17:42:35.597Z"
-        },
-        {
-            "categoryId": 425,
-            "name": "Miscellaneous",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 551520,
-            "avatarId": 6040,
-            "gameId": 432,
-            "slug": "mc-miscellaneous",
-            "dateModified": "2014-06-15T04:27:14.543Z"
-        }
-    ],
-    "status": 4,
-    "primaryCategoryId": 425,
-    "categorySection": {
-        "id": 8,
+    "data": {
+        "id": 551520,
         "gameId": 432,
-        "name": "Mods",
-        "packageType": 6,
-        "path": "mods",
-        "initialInclusionPattern": ".",
-        "extraIncludePattern": null,
-        "gameCategoryId": 6
-    },
-    "slug": "better-fps-render-distance",
-    "gameVersionLatestFiles": [
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3766033,
-            "projectFileName": "betterfpsdist-1.2.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
+        "name": "Better Fps - Render Distance[Forge]",
+        "slug": "better-fps-render-distance",
+        "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/betterfpsdistances/issues",
+            "sourceUrl": null
         },
-        {
-            "gameVersion": "1.18.1",
-            "projectFileId": 3750013,
-            "projectFileName": "betterfpsdist-1.18.2-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
+        "summary": "Better fps for 1.16+ minecraft, improved render distances",
+        "status": 4,
+        "downloadCount": 1330655,
+        "isFeatured": false,
+        "primaryCategoryId": 425,
+        "categories": [
+            {
+                "id": 425,
+                "gameId": 432,
+                "name": "Miscellaneous",
+                "slug": "mc-miscellaneous",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+                "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+                "dateModified": "2014-06-15T04:27:14.543Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            },
+            {
+                "id": 424,
+                "gameId": 432,
+                "name": "Cosmetic",
+                "slug": "cosmetic",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+                "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+                "dateModified": "2014-05-08T17:42:35.597Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            }
+        ],
+        "classId": 6,
+        "authors": [
+            {
+                "id": 471415,
+                "name": "someaddon",
+                "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
+            }
+        ],
+        "logo": {
+            "id": 531771,
+            "modId": 551520,
+            "title": "637854357042030339.png",
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/531/771/256/256/637854357042030339.png",
+            "url": "https://media.forgecdn.net/avatars/531/771/637854357042030339.png"
         },
-        {
-            "gameVersion": "1.18.2",
-            "projectFileId": 3750013,
-            "projectFileName": "betterfpsdist-1.18.2-1.5.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.18",
-            "projectFileId": 3598349,
-            "projectFileName": "betterfpsdist-1.18-1.2.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.17.1",
-            "projectFileId": 3543548,
-            "projectFileName": "betterfpsdist-1.17.1-1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.14.4",
-            "projectFileId": 3543461,
-            "projectFileName": "betterfpsdist-1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 64806,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.15.2",
-            "projectFileId": 3543461,
-            "projectFileName": "betterfpsdist-1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 68722,
-            "modLoader": 1
-        }
-    ],
-    "isFeatured": false,
-    "popularityScore": 10743.728515625,
-    "gamePopularityRank": 1130,
-    "primaryLanguage": "enUS",
-    "gameSlug": "minecraft",
-    "gameName": "Minecraft",
-    "portalName": "www.curseforge.com",
-    "dateModified": "2022-04-24T12:24:13.21Z",
-    "dateCreated": "2021-12-01T11:11:50.597Z",
-    "dateReleased": "2022-04-24T12:16:41.79Z",
-    "isAvailable": true,
-    "isExperiemental": false,
-    "allowModDistribution": true
+        "screenshots": [],
+        "mainFileId": 3766033,
+        "latestFiles": [
+            {
+                "id": 3766033,
+                "gameId": 432,
+                "modId": 551520,
+                "isAvailable": true,
+                "displayName": "betterfpsdist-1.2.jar",
+                "fileName": "betterfpsdist-1.2.jar",
+                "releaseType": 1,
+                "fileStatus": 4,
+                "hashes": [
+                    {
+                        "value": "2bbfb89dbfb5275f0c7f31d8739fdd94461a183e",
+                        "algo": 1
+                    },
+                    {
+                        "value": "2308031c7afa5e023fd5d988210890f7",
+                        "algo": 2
+                    }
+                ],
+                "fileDate": "2022-04-24T12:16:41.79Z",
+                "fileLength": 14478,
+                "downloadCount": 0,
+                "downloadUrl": "https://edge.forgecdn.net/files/3766/33/betterfpsdist-1.2.jar",
+                "gameVersions": [
+                    "1.16.5",
+                    "Forge"
+                ],
+                "sortableGameVersions": [
+                    {
+                        "gameVersionName": "1.16.5",
+                        "gameVersionPadded": "0000000001.0000000016.0000000005",
+                        "gameVersion": "1.16.5",
+                        "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                        "gameVersionTypeId": 70886
+                    },
+                    {
+                        "gameVersionName": "Forge",
+                        "gameVersionPadded": "0",
+                        "gameVersion": "",
+                        "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                        "gameVersionTypeId": 68441
+                    }
+                ],
+                "dependencies": [],
+                "alternateFileId": 0,
+                "isServerPack": false,
+                "fileFingerprint": 4144400660,
+                "modules": [
+                    {
+                        "name": "META-INF",
+                        "fingerprint": 4024347012
+                    },
+                    {
+                        "name": "com",
+                        "fingerprint": 4084278527
+                    },
+                    {
+                        "name": "betterfpsdist.mixins.json",
+                        "fingerprint": 3478440666
+                    },
+                    {
+                        "name": "pack.mcmeta",
+                        "fingerprint": 1438559181
+                    },
+                    {
+                        "name": "betterfpsdist.refmap.json",
+                        "fingerprint": 1688435257
+                    }
+                ]
+            }
+        ],
+        "latestFilesIndexes": [
+            {
+                "gameVersion": "1.16.5",
+                "fileId": 3766033,
+                "filename": "betterfpsdist-1.2.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.1",
+                "fileId": 3750013,
+                "filename": "betterfpsdist-1.18.2-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.2",
+                "fileId": 3750013,
+                "filename": "betterfpsdist-1.18.2-1.5.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18",
+                "fileId": 3598349,
+                "filename": "betterfpsdist-1.18-1.2.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.17.1",
+                "fileId": 3543548,
+                "filename": "betterfpsdist-1.17.1-1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73242,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.14.4",
+                "fileId": 3543461,
+                "filename": "betterfpsdist-1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 64806,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.15.2",
+                "fileId": 3543461,
+                "filename": "betterfpsdist-1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 68722,
+                "modLoader": 1
+            }
+        ],
+        "dateCreated": "2021-12-01T11:11:50.597Z",
+        "dateModified": "2022-04-24T12:24:13.21Z",
+        "dateReleased": "2022-04-24T12:16:41.79Z",
+        "allowModDistribution": true,
+        "gamePopularityRank": 1154,
+        "isAvailable": true,
+        "thumbsUpCount": 0
+    }
 }

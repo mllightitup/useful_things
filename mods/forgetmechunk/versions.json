@@ -8,18 +8,19 @@
         "version_number": "1.17.x-1.0.3",
         "changelog": "Backport 1.0.3 to 1.17.1",
         "changelog_url": null,
-        "date_published": "2022-03-20T14:27:27.967451Z",
-        "downloads": 134,
+        "date_published": "2022-03-20T14:27:27+00:00",
+        "downloads": 231,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "c34d28ab3e485350579c3ed2546d27c34193b701",
-                    "sha512": "5a09ae136403bd5d765e506223e34754efd889b0049f7785f0e93070cf52a1eefc671f71f56383e7661ef959ab06722882f7bab64545d955cebb71382a0c3e50"
+                    "sha512": "5a09ae136403bd5d765e506223e34754efd889b0049f7785f0e93070cf52a1eefc671f71f56383e7661ef959ab06722882f7bab64545d955cebb71382a0c3e50",
+                    "sha1": "c34d28ab3e485350579c3ed2546d27c34193b701"
                 },
                 "url": "https://cdn.modrinth.com/data/vRXn3MrA/versions/1.17.x-1.0.3/forgetmechunk-1.17.X-1.0.3.jar",
                 "filename": "forgetmechunk-1.17.X-1.0.3.jar",
-                "primary": true
+                "primary": true,
+                "size": 80032
             }
         ],
         "dependencies": [],
@@ -40,8 +41,8 @@
         "version_number": "1.0.3",
         "changelog": "Support versions 1.18, 1.18.1 & 1.18.2",
         "changelog_url": null,
-        "date_published": "2022-03-05T09:10:37.321427Z",
-        "downloads": 2541,
+        "date_published": "2022-03-05T09:10:37+00:00",
+        "downloads": 4236,
         "version_type": "release",
         "files": [
             {
@@ -51,7 +52,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/vRXn3MrA/versions/1.0.3/forgetmechunk-1.18.X-1.0.3.jar",
                 "filename": "forgetmechunk-1.18.X-1.0.3.jar",
-                "primary": true
+                "primary": true,
+                "size": 80002
             }
         ],
         "dependencies": [],
@@ -73,18 +75,19 @@
         "version_number": "1.0.2",
         "changelog": "Improved mod compatibility ",
         "changelog_url": null,
-        "date_published": "2022-03-04T13:44:58.497318Z",
-        "downloads": 114,
+        "date_published": "2022-03-04T13:44:58+00:00",
+        "downloads": 124,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "1eb24fedadebec8c86ed1b43d445b6a701716d4b",
-                    "sha512": "896dcb9249cb4f9411a8e6fcdb34a7fc17fe970b8075061283bd0d3e3014684dcea0a1477f9a5abd1bae09a28a897b8ca7728c05b9e19c5f1fe5639bb74ca585"
+                    "sha512": "896dcb9249cb4f9411a8e6fcdb34a7fc17fe970b8075061283bd0d3e3014684dcea0a1477f9a5abd1bae09a28a897b8ca7728c05b9e19c5f1fe5639bb74ca585",
+                    "sha1": "1eb24fedadebec8c86ed1b43d445b6a701716d4b"
                 },
                 "url": "https://cdn.modrinth.com/data/vRXn3MrA/versions/1.0.2/forgetmechunk-1.18.1-1.0.2.jar",
                 "filename": "forgetmechunk-1.18.1-1.0.2.jar",
-                "primary": true
+                "primary": true,
+                "size": 79999
             }
         ],
         "dependencies": [],
@@ -104,8 +107,8 @@
         "version_number": "1.0.1",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2022-02-27T17:20:24.200838Z",
-        "downloads": 182,
+        "date_published": "2022-02-27T17:20:24+00:00",
+        "downloads": 186,
         "version_type": "release",
         "files": [
             {
@@ -115,7 +118,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/vRXn3MrA/versions/1.0.1/forgetmechunk-1.18.1-1.0.1.jar",
                 "filename": "forgetmechunk-1.18.1-1.0.1.jar",
-                "primary": true
+                "primary": true,
+                "size": 80642
             }
         ],
         "dependencies": [],

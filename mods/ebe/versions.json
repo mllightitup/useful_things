@@ -8,42 +8,47 @@
         "version_number": "0.6+1.18.2",
         "changelog": "Update to 1.18.2\nAdd Dashloader support (BREAKS with LambdaBetterGrass, known issue with DASHLOADER; If you want to use this mod with LambdaBetterGrass, do not use Dashloader until the issue is resolved)\nUse SpruceUI for config UI\nAdd text color to config UI",
         "changelog_url": null,
-        "date_published": "2022-03-27T05:21:42.338537Z",
-        "downloads": 4248,
+        "date_published": "2022-03-27T05:21:42+00:00",
+        "downloads": 10770,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "fad866d1a1abae275b3c0bbd9003b228a2006262e23cc20f0a22b22d830b82a261b2cb8255377910f6fe2e44de87ae54a92f18021988ad3cca7c08f176a97b7c",
-                    "sha1": "d4a4ce2f0249cd636eb3f820225082645885bd74"
+                    "sha1": "d4a4ce2f0249cd636eb3f820225082645885bd74",
+                    "sha512": "fad866d1a1abae275b3c0bbd9003b228a2006262e23cc20f0a22b22d830b82a261b2cb8255377910f6fe2e44de87ae54a92f18021988ad3cca7c08f176a97b7c"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.6+1.18.2/enhancedblockentities-0.6%2B1.18.2.jar",
                 "filename": "enhancedblockentities-0.6+1.18.2.jar",
-                "primary": true
+                "primary": true,
+                "size": 474956
             }
         ],
         "dependencies": [
             {
-                "version_id": "JQ7pEK4s",
-                "project_id": "ZfQ3kTvR",
-                "dependency_type": "optional"
-            },
-            {
-                "version_id": "y8cYdaYa",
-                "project_id": "mOgUt4GM",
-                "dependency_type": "optional"
-            },
-            {
-                "version_id": "yLERB0ld",
-                "project_id": "P7dR8mSH",
+                "version_id": "AnCs0z08",
+                "project_id": null,
+                "file_name": null,
                 "dependency_type": "required"
+            },
+            {
+                "version_id": "GYRoFp1I",
+                "project_id": null,
+                "file_name": null,
+                "dependency_type": "optional"
+            },
+            {
+                "version_id": "JQ7pEK4s",
+                "project_id": null,
+                "file_name": null,
+                "dependency_type": "optional"
             }
         ],
         "game_versions": [
             "1.18.2"
         ],
         "loaders": [
-            "fabric"
+            "fabric",
+            "quilt"
         ]
     },
     {
@@ -55,18 +60,19 @@
         "version_number": "0.5+1.18",
         "changelog": "Updated to 1.18",
         "changelog_url": null,
-        "date_published": "2021-12-10T05:52:15.168253Z",
-        "downloads": 5512,
+        "date_published": "2021-12-10T05:52:15+00:00",
+        "downloads": 5635,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "d51b4515e2ad01efda2911d02888ae7e7c211ca9d9cace5d5b816eb839e125aff974cfea9791bfd122869269ebc6a216116240a34c563504fa1f0ff494d6b034",
-                    "sha1": "c7111f560caf965c18a13edcfbe789a87cf904f4"
+                    "sha1": "c7111f560caf965c18a13edcfbe789a87cf904f4",
+                    "sha512": "d51b4515e2ad01efda2911d02888ae7e7c211ca9d9cace5d5b816eb839e125aff974cfea9791bfd122869269ebc6a216116240a34c563504fa1f0ff494d6b034"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.18/enhancedblockentities-0.5+1.18.jar",
                 "filename": "enhancedblockentities-0.5+1.18.jar",
-                "primary": false
+                "primary": false,
+                "size": 262810
             }
         ],
         "dependencies": [],
@@ -86,18 +92,19 @@
         "version_number": "0.5+1.17",
         "changelog": "Completely fixed resource pack induced invisible chest bugs <br/>\nCompletely fixed phantom chest lids/bells and glitched animations <br/>\nAdded enhanced shulker boxes <br/>\nAdded more experimental particle support for other blocks",
         "changelog_url": null,
-        "date_published": "2021-09-17T03:21:28.735278Z",
-        "downloads": 4603,
+        "date_published": "2021-09-17T03:21:28+00:00",
+        "downloads": 4621,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "a05ce552fc175f49c02f477bfc8a4003c2af7c97",
-                    "sha512": "1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6d572a378c1097a829767db34d25cc83f04020bfba8828fc2ef8ea9f1"
+                    "sha512": "1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6d572a378c1097a829767db34d25cc83f04020bfba8828fc2ef8ea9f1",
+                    "sha1": "a05ce552fc175f49c02f477bfc8a4003c2af7c97"
                 },
                 "url": "https://cdn.modrinth.com//data/OVuFYfre/versions/0.5+1.17/enhancedblockentities-0.5+1.17.jar",
                 "filename": "enhancedblockentities-0.5+1.17.jar",
-                "primary": false
+                "primary": false,
+                "size": 263535
             }
         ],
         "dependencies": [],
@@ -117,8 +124,8 @@
         "version_number": "0.4.1+1.17",
         "changelog": "Fix the mod not working (Mixin apply error)",
         "changelog_url": null,
-        "date_published": "2021-07-08T01:53:25.217525Z",
-        "downloads": 3485,
+        "date_published": "2021-07-08T01:53:25+00:00",
+        "downloads": 3500,
         "version_type": "release",
         "files": [
             {
@@ -128,7 +135,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4.1+1.17/enhancedblockentities-0.4.1+1.17.jar",
                 "filename": "enhancedblockentities-0.4.1+1.17.jar",
-                "primary": false
+                "primary": false,
+                "size": 253965
             }
         ],
         "dependencies": [],
@@ -149,18 +157,19 @@
         "version_number": "0.4+1.17",
         "changelog": "Update to 1.17 <br/>\n<br/>\nAdd enhanced beds <br/>\nAdd experimental chest particles <br/>\nImprove reloading in config gui",
         "changelog_url": null,
-        "date_published": "2021-07-08T00:50:28.456400Z",
-        "downloads": 22,
+        "date_published": "2021-07-08T00:50:28+00:00",
+        "downloads": 25,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "8eec485328ff8739542096b900ba6210963023c18cf4ab8a61eb5989b4f8d1a17ecd6e6f13d07dafeeea77f3276b2b5fc2dced5908f8a4e4ee9f27dab9b6bec4",
-                    "sha1": "fa5347d0e1ddd1ee456ef54a5393dbad11bc10f1"
+                    "sha1": "fa5347d0e1ddd1ee456ef54a5393dbad11bc10f1",
+                    "sha512": "8eec485328ff8739542096b900ba6210963023c18cf4ab8a61eb5989b4f8d1a17ecd6e6f13d07dafeeea77f3276b2b5fc2dced5908f8a4e4ee9f27dab9b6bec4"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4+1.17/enhancedblockentities-0.4+1.17.jar",
                 "filename": "enhancedblockentities-0.4+1.17.jar",
-                "primary": false
+                "primary": false,
+                "size": 253835
             }
         ],
         "dependencies": [],
@@ -181,18 +190,19 @@
         "version_number": "0.4",
         "changelog": "Add enhanced beds <br/>\nAdd experimental chest particles <br/>\nImprove reloading in config gui",
         "changelog_url": null,
-        "date_published": "2021-07-06T01:47:44.462664Z",
-        "downloads": 1956,
+        "date_published": "2021-07-06T01:47:44+00:00",
+        "downloads": 2167,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "5b815b595ac5e40123845e1bb03c95392ad1a7dd",
-                    "sha512": "baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d"
+                    "sha512": "baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d",
+                    "sha1": "5b815b595ac5e40123845e1bb03c95392ad1a7dd"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar",
                 "filename": "enhancedblockentities-0.4--1.16.x.jar",
-                "primary": false
+                "primary": false,
+                "size": 247198
             }
         ],
         "dependencies": [],
@@ -212,18 +222,19 @@
         "version_number": "0.3.1",
         "changelog": "Fixed ender chests crashing the game <br/>\nPrevented a possible exploit with spamming a bell to force chunk rebuilds and lag users",
         "changelog_url": null,
-        "date_published": "2021-05-08T00:36:12.040856Z",
-        "downloads": 967,
+        "date_published": "2021-05-08T00:36:12+00:00",
+        "downloads": 973,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "a8b86821c4be8985a715f936dc7cd7f2d90227ac",
-                    "sha512": "e248404c510655e9deb51ef4a1233355f21d77ded2d0fb22966807c1414bd181effb342d6c04a77c67a98728fcfd37b44b00f820979450fff6d19c849a835590"
+                    "sha512": "e248404c510655e9deb51ef4a1233355f21d77ded2d0fb22966807c1414bd181effb342d6c04a77c67a98728fcfd37b44b00f820979450fff6d19c849a835590",
+                    "sha1": "a8b86821c4be8985a715f936dc7cd7f2d90227ac"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.3.1/enhancedblockentities-0.3.1--1.16.x.jar",
                 "filename": "enhancedblockentities-0.3.1--1.16.x.jar",
-                "primary": false
+                "primary": false,
+                "size": 382427
             }
         ],
         "dependencies": [],
@@ -243,18 +254,19 @@
         "version_number": "0.3",
         "changelog": "Enhanced Bells <br/>\nImprovements to config screen <br/>\nMore sign text rendering options <br/>\nOptifine video settings does not crash <br/>\nMod Menu support <br/>\nBug Fixes",
         "changelog_url": null,
-        "date_published": "2021-05-07T06:19:24.703706Z",
-        "downloads": 51,
+        "date_published": "2021-05-07T06:19:24+00:00",
+        "downloads": 57,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "5745dd805202ccb9dd1d9e00a3eb8a8f8e83bfa309756a5ca6cabbce1e1ff9d31deea4474c84d91d3a5769351f3d8cd09f0865f190227a22ca7e4f64aacff340",
-                    "sha1": "221d988a0eaa68dbe999567c922da55f866ec72e"
+                    "sha1": "221d988a0eaa68dbe999567c922da55f866ec72e",
+                    "sha512": "5745dd805202ccb9dd1d9e00a3eb8a8f8e83bfa309756a5ca6cabbce1e1ff9d31deea4474c84d91d3a5769351f3d8cd09f0865f190227a22ca7e4f64aacff340"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.3/enhancedblockentities-0.3--1.16.x.jar",
                 "filename": "enhancedblockentities-0.3--1.16.x.jar",
-                "primary": false
+                "primary": false,
+                "size": 382372
             }
         ],
         "dependencies": [],
@@ -274,8 +286,8 @@
         "version_number": "0.2",
         "changelog": "- Adds Configuration Screen (accessible in video settings) <br/>\n- All features can be disabled <br/>\n- Enhanced Sign Rendering <br/>\n- Smooth Lighting option for chests and signs <br/>\n- More control over when the Christmas chest texture is used for chests <br/>\n- Fix texture mapping on double chest locks",
         "changelog_url": null,
-        "date_published": "2021-05-06T05:38:38.413448Z",
-        "downloads": 66,
+        "date_published": "2021-05-06T05:38:38+00:00",
+        "downloads": 71,
         "version_type": "release",
         "files": [
             {
@@ -285,7 +297,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.2/enhancedblockentities-0.2--1.16.x.jar",
                 "filename": "enhancedblockentities-0.2--1.16.x.jar",
-                "primary": false
+                "primary": false,
+                "size": 365784
             }
         ],
         "dependencies": [],
@@ -305,18 +318,19 @@
         "version_number": "0.1",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-03-01T00:33:17.076546Z",
-        "downloads": 968,
+        "date_published": "2021-03-01T00:33:17+00:00",
+        "downloads": 975,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "906c52bf4621e79a3dedd8790e826494be130bb2",
-                    "sha512": "e0425b863dbed993ef6bfc773bdec74d5d1d6a580bf9b315ba8afc944df4db53c5f69d84e872a81d94d18b103476a320b8f0979fd15f8581b161c7d77281f994"
+                    "sha512": "e0425b863dbed993ef6bfc773bdec74d5d1d6a580bf9b315ba8afc944df4db53c5f69d84e872a81d94d18b103476a320b8f0979fd15f8581b161c7d77281f994",
+                    "sha1": "906c52bf4621e79a3dedd8790e826494be130bb2"
                 },
                 "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.1/enhancedblockentities-0.1--1.16.x.jar",
                 "filename": "enhancedblockentities-0.1--1.16.x.jar",
-                "primary": false
+                "primary": false,
+                "size": 71595
             }
         ],
         "dependencies": [],
