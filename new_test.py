@@ -18,9 +18,12 @@ loaders = {
     4: 'fabric',
     'fabric': 'fabric',
     'forge': 'forge',
+    'quilt': 'quilt'
 }
 
 links = {
+    '1.19 - quilt': [],
+    '1.18 - quilt': [],
     '1.19 - fabric': [],
     '1.18 - fabric': [],
     '1.17 - fabric': [],

@@ -45,23 +45,17 @@ def fill_lines(mods_list):
             cf_file_path = f"{path}/{mod}/{cf_file[0]}"
             with open(cf_file_path, "r", encoding='utf-8') as file:
                 cf_mod_json = json.load(file)
-                issue = cf_mod_json['data']['links']['issuesUrl'] if 'issuesUrl' in cf_mod_json['data']['links'] else ''
-                #print(issue, cf_mod_json['data']['name'])
-                if issue is None:
-                    print(cf_mod_json['data']['name'])
-                    issue = cf_mod_json['data']['links']['sourceUrl']
+                issue = f"[Github]({cf_mod_json['data']['links']['sourceUrl']})"                            # if 'issuesUrl' in cf_mod_json['data']['links'] else ''
+                if issue == '[Github](None)':
+                    issue = f"[Github]({cf_mod_json['data']['links']['issuesUrl']})"
 
-                if (
-                        'wikiUrl' in cf_mod_json['data']['links']
-                        and cf_mod_json['data']['links']['wikiUrl'] is None
-                        or 'wikiUrl' not in cf_mod_json['data']['links']
-                ):
+                if cf_mod_json['data']['links']['wikiUrl'] == "" or cf_mod_json['data']['links']['wikiUrl'] is None:
                     wiki = ""
                 else:
-                    wiki = cf_mod_json['data']['links']['wikiUrl']
+                    wiki = f"[Wiki]({cf_mod_json['data']['links']['wikiUrl']})"
                 discord = ''
                 environment = 'custom_data'
-                line = f"| [{cf_mod_json['data']['name']}]({cf_mod_json['data']['links']['websiteUrl']}) | {cf_mod_json['data']['summary']} | {cf_mod_json['data']['authors'][0]['name']} | {environment} | {discord} [Github]({issue}) {wiki}"
+                line = f"| [{cf_mod_json['data']['name']}]({cf_mod_json['data']['links']['websiteUrl']}) | {cf_mod_json['data']['summary']} | {cf_mod_json['data']['authors'][0]['name']} | {environment} | {discord} {issue} {wiki}"
                 lines.append(line)
     return lines
 
