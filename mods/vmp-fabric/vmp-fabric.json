@@ -7,8 +7,8 @@
     "description": "A Fabric mod designed to improve server performance at high playercounts.",
     "body": "# Very Many Players\n\nA Fabric mod designed to improve server performance at high playercounts. \n\n**VMP is still in early development and things are expected to break. Please report any issues to our issue tracker.**\n\n## So what is VMP? \nVery Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount \n**without sacrificing vanilla functionality or behavior**.  \nFor the best performance it is recommended to use VMP with [Lithium](https://modrinth.com/mod/lithium).\n\n## How VMP achieves its performance improvements?\n- Using area maps to optimize nearby packet sending and player lookups\n- Using cache to optimize entity trackers, fluid state lookups and ingredient matching for mob AIs\n- Optimize entity iteration for collisions and some other things\n- Optimize ticket propagator using MCUtil from Paper project (patch licensed under MIT)\n- Make clientside time source to use built-in Java time source instead of JNI calls\n- ... and more\n\n## Support\nOur issue tracker: [link](https://github.com/RelativityMC/VMP-fabric/issues)  \nOur discord server: [link](https://discord.io/ishlandbukkit)\n\n## More information\nCheck out the README.md here: https://github.com/RelativityMC/VMP-fabric\n",
     "body_url": null,
-    "published": "2021-12-05T03:00:09.272223Z",
-    "updated": "2022-03-02T09:15:40.117278Z",
+    "published": "2021-12-05T03:00:09+00:00",
+    "updated": "2022-06-09T06:17:22+00:00",
     "status": "approved",
     "moderator_message": null,
     "license": {
@@ -18,20 +18,24 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 3618,
-    "followers": 70,
+    "downloads": 5423,
+    "followers": 96,
     "categories": [
         "misc",
         "optimization"
     ],
     "versions": [
+        "TSQRu3Qz",
         "jpGiQw5a",
         "nQ6HZ4e8",
         "vhwFulNh",
-        "6upkwnNd",
+        "xZyKz0JY",
         "zpFSkywE",
+        "6upkwnNd",
         "IUbVXDBv",
-        "xZyKz0JY"
+        "KUteExUi",
+        "LWLiskPp",
+        "SGqo9FRg"
     ],
     "icon_url": "https://cdn.modrinth.com/data/wnEe9KBa/icon.png",
     "issues_url": "https://github.com/RelativityMC/VMP-fabric/issues",

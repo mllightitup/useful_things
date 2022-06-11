@@ -5,24 +5,24 @@
     "team": "XWg7pLWX",
     "title": "No Mob Generation",
     "description": "Simply stops spawning of animals in populating chunks. This helps to prevent lag",
-    "body": "When loading new chunks new animals will spawn even if your mobcap is already full.\n\nThis mod prevents that so you will experience less lag in new chunks.",
+    "body": "When loading new chunks new animals will spawn even if your mob cap is already full.\n\nThis mod prevents that so you will experience less lag in new chunks.\n\nNOTE: This can be **very** annoying when searching for any animals because the mob cap is probably already filled by mobs in the spawn chunks",
     "body_url": null,
-    "published": "2022-01-29T12:31:56.894998Z",
-    "updated": "2022-01-29T12:31:56.659159Z",
+    "published": "2022-01-29T12:31:56+00:00",
+    "updated": "2022-01-29T12:31:56+00:00",
     "status": "approved",
     "moderator_message": null,
     "license": {
-        "id": "cc0",
-        "name": "Creative Commons Zero v1.0 Universal",
-        "url": "https://cdn.modrinth.com/licenses/cc0.txt"
+        "id": "gpl-2",
+        "name": "GNU General Public License v2",
+        "url": "https://cdn.modrinth.com/licenses/gpl-2.txt"
     },
     "client_side": "optional",
     "server_side": "required",
-    "downloads": 266,
+    "downloads": 344,
     "followers": 6,
     "categories": [
-        "misc",
         "cursed",
+        "misc",
         "worldgen"
     ],
     "versions": [

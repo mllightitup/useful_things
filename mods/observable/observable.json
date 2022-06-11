@@ -7,30 +7,30 @@
     "description": "See what's lagging your server.",
     "body": "A spiritual successor to LagGoggles for Minecraft 1.16+, Observable profiles (tile) entities and shows you what's taking up tick time and where. Forge and Fabric compatible. (Note: default keybind to open profiler GUI is r.)\n\nThis is in ridiculously early alpha. It seems to work with major modpacks (Fabric packs tested more often than Forge), but I won't guarantee anything. Also please report any bugs on the GitHub repository [here](https://github.com/tasgon/observable/issues).\n\n**NOTE: I've been running into a few issues uploading files here, so if you're looking for the Forge version, go to the mod's [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/observable/) instead.**\n\nCurrent known issues:\n\n- Results screen is sometimes empty (closing and reopening the GUI fixes it)\n\nDependencies:\n\n- Forge: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge), [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)\n- Fabric: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric), [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)\n",
     "body_url": null,
-    "published": "2021-07-30T21:45:12.612963Z",
-    "updated": "2022-04-11T04:32:41.943259Z",
+    "published": "2021-07-30T21:45:12+00:00",
+    "updated": "2022-04-11T04:32:41+00:00",
     "status": "approved",
     "moderator_message": null,
     "license": {
-        "id": "mpl",
+        "id": "mpl-2",
         "name": "Mozilla Public License 2.0",
-        "url": "https://cdn.modrinth.com/licenses/mpl.txt"
+        "url": "https://cdn.modrinth.com/licenses/mpl-2.txt"
     },
     "client_side": "required",
     "server_side": "required",
-    "downloads": 676,
-    "followers": 16,
+    "downloads": 955,
+    "followers": 20,
     "categories": [
-        "utility",
-        "misc"
+        "misc",
+        "utility"
     ],
     "versions": [
-        "NthB3dhp",
-        "Pg3uqzyX",
+        "t8jflv5Y",
         "zSXedEa4",
         "HZfVw28G",
-        "t8jflv5Y",
-        "KrfQIpz6"
+        "KrfQIpz6",
+        "NthB3dhp",
+        "Pg3uqzyX"
     ],
     "icon_url": "https://cdn.modrinth.com/data/VYRu7qmG/icon.png",
     "issues_url": "https://github.com/tasgon/observable/issues",

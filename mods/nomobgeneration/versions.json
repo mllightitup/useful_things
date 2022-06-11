@@ -8,18 +8,19 @@
         "version_number": "1.0.0",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2022-01-29T12:31:56.897582Z",
-        "downloads": 266,
+        "date_published": "2022-01-29T12:31:56+00:00",
+        "downloads": 344,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha512": "c334d02561f74a6827fd0cbc67deee2b9e69fb47b41b74169bfbd5be10349c2079fba8f3727985e2203e5ddf3cdc83201c8aae773ee0810ca5d78d335d437417",
-                    "sha1": "bca761683878cc50757165dbf5a4604b4259e2fe"
+                    "sha1": "bca761683878cc50757165dbf5a4604b4259e2fe",
+                    "sha512": "c334d02561f74a6827fd0cbc67deee2b9e69fb47b41b74169bfbd5be10349c2079fba8f3727985e2203e5ddf3cdc83201c8aae773ee0810ca5d78d335d437417"
                 },
                 "url": "https://cdn.modrinth.com/data/sVg95zso/versions/1.0.0/nomobgeneration-1.0.0.jar",
                 "filename": "nomobgeneration-1.0.0.jar",
-                "primary": false
+                "primary": false,
+                "size": 14397
             }
         ],
         "dependencies": [],

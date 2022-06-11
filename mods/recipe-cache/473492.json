@@ -1,263 +1,212 @@
 {
-    "id": 473492,
-    "name": "Recipe Cache",
-    "authors": [
-        {
-            "name": "biom4st3r1",
-            "url": "https://www.curseforge.com/members/20036230-biom4st3r1?username=biom4st3r1",
-            "projectId": 473492,
-            "id": 387136,
-            "projectTitleId": null,
-            "projectTitleTitle": null,
-            "userId": 20036230,
-            "twitchId": 274333881
-        }
-    ],
-    "attachments": [
-        {
-            "id": 372542,
-            "projectId": 473492,
-            "description": "",
-            "isDefault": true,
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/372/542/256/256/637543695507572259.png",
-            "title": "637543695507572259.png",
-            "url": "https://media.forgecdn.net/avatars/372/542/637543695507572259.png",
-            "status": 1
-        }
-    ],
-    "sourceUrl": "https://gitlab.com/biom4st3r/optimizedcrafting",
-    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/recipe-cache",
-    "gameId": 432,
-    "summary": "Caches recipe finding for crafting and furnaces",
-    "defaultFileId": 3487949,
-    "downloadCount": 144955.0,
-    "latestFiles": [
-        {
-            "id": 3487949,
-            "displayName": "recipecache-0.2.1-1.17.1.jar",
-            "fileName": "recipecache-0.2.1-1.17.1.jar",
-            "fileDate": "2021-10-11T16:03:11.983Z",
-            "fileLength": 9932,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3487/949/recipecache-0.2.1-1.17.1.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 2464251221,
-                    "type": 3
-                },
-                {
-                    "foldername": "recipecache.mixins.json",
-                    "fingerprint": 1469396942,
-                    "type": 3
-                },
-                {
-                    "foldername": "fabric.mod.json",
-                    "fingerprint": 1754583176,
-                    "type": 3
-                },
-                {
-                    "foldername": "recipecache-refmap.json",
-                    "fingerprint": 2023561787,
-                    "type": 3
-                },
-                {
-                    "foldername": "com",
-                    "fingerprint": 1321601614,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 2755678181,
-            "gameVersion": [
-                "1.17.1",
-                "1.18.1",
-                "1.17",
-                "Fabric",
-                "1.18",
-                "1.18-Snapshot"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0000000001.0000000017.0000000001",
-                    "gameVersion": "1.17.1",
-                    "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
-                    "gameVersionName": "1.17.1",
-                    "gameVersionTypeId": 73242
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000001",
-                    "gameVersion": "1.18.1",
-                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                    "gameVersionName": "1.18.1",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000017",
-                    "gameVersion": "1.17",
-                    "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-                    "gameVersionName": "1.17",
-                    "gameVersionTypeId": 73242
-                },
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Fabric",
-                    "gameVersionTypeId": 68441
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000018",
-                    "gameVersion": "1.18",
-                    "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
-                    "gameVersionName": "1.18",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000018",
-                    "gameVersion": "1.18",
-                    "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
-                    "gameVersionName": "1.18-Snapshot",
-                    "gameVersionTypeId": 73250
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2536190,
-            "fileLegacyMappingId": null,
-            "projectId": 473492,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 760506580,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3374324,
-            "gameVersionId": 7499,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "f1ead30e94acbc07915253adee4247019380e11a"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "13df48e6aadd71467b37594779403ec6"
-                }
-            ],
-            "downloadCount": 84793
-        }
-    ],
-    "categories": [
-        {
-            "categoryId": 435,
-            "name": "Server Utility",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 473492,
-            "avatarId": 6048,
-            "gameId": 432,
-            "slug": "server-utility",
-            "dateModified": "2014-05-08T17:44:55.057Z"
-        }
-    ],
-    "status": 4,
-    "primaryCategoryId": 435,
-    "categorySection": {
-        "id": 8,
+    "data": {
+        "id": 473492,
         "gameId": 432,
-        "name": "Mods",
-        "packageType": 6,
-        "path": "mods",
-        "initialInclusionPattern": ".",
-        "extraIncludePattern": null,
-        "gameCategoryId": 6
-    },
-    "slug": "recipe-cache",
-    "gameVersionLatestFiles": [
-        {
-            "gameVersion": "1.17.1",
-            "projectFileId": 3487949,
-            "projectFileName": "recipecache-0.2.1-1.17.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 4
+        "name": "Recipe Cache",
+        "slug": "recipe-cache",
+        "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/recipe-cache",
+            "wikiUrl": null,
+            "issuesUrl": null,
+            "sourceUrl": "https://gitlab.com/biom4st3r/optimizedcrafting"
         },
-        {
-            "gameVersion": "1.17",
-            "projectFileId": 3487949,
-            "projectFileName": "recipecache-0.2.1-1.17.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 4
+        "summary": "Caches recipe finding for crafting and furnaces",
+        "status": 4,
+        "downloadCount": 166624,
+        "isFeatured": false,
+        "primaryCategoryId": 435,
+        "categories": [
+            {
+                "id": 435,
+                "gameId": 432,
+                "name": "Server Utility",
+                "slug": "server-utility",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+                "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+                "dateModified": "2014-05-08T17:44:55.057Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            }
+        ],
+        "classId": 6,
+        "authors": [
+            {
+                "id": 387136,
+                "name": "biom4st3r1",
+                "url": "https://www.curseforge.com/members/20036230-biom4st3r1?username=biom4st3r1"
+            }
+        ],
+        "logo": {
+            "id": 372542,
+            "modId": 473492,
+            "title": "637543695507572259.png",
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/372/542/256/256/637543695507572259.png",
+            "url": "https://media.forgecdn.net/avatars/372/542/637543695507572259.png"
         },
-        {
-            "gameVersion": "1.18.1",
-            "projectFileId": 3487949,
-            "projectFileName": "recipecache-0.2.1-1.17.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.18",
-            "projectFileId": 3487949,
-            "projectFileName": "recipecache-0.2.1-1.17.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3281223,
-            "projectFileName": "recipecache-0.1.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 4
-        },
-        {
-            "gameVersion": "1.16.4",
-            "projectFileId": 3281223,
-            "projectFileName": "recipecache-0.1.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 4
-        }
-    ],
-    "isFeatured": false,
-    "popularityScore": 1563.7021484375,
-    "gamePopularityRank": 3505,
-    "primaryLanguage": "enUS",
-    "gameSlug": "minecraft",
-    "modLoaders": [
-        "Fabric"
-    ],
-    "gameName": "Minecraft",
-    "portalName": "www.curseforge.com",
-    "dateModified": "2021-12-11T00:08:30.877Z",
-    "dateCreated": "2021-04-18T19:05:50.723Z",
-    "dateReleased": "2021-10-11T16:03:11.983Z",
-    "isAvailable": true,
-    "isExperiemental": false,
-    "allowModDistribution": true
+        "screenshots": [],
+        "mainFileId": 3487949,
+        "latestFiles": [
+            {
+                "id": 3487949,
+                "gameId": 432,
+                "modId": 473492,
+                "isAvailable": true,
+                "displayName": "recipecache-0.2.1-1.17.1.jar",
+                "fileName": "recipecache-0.2.1-1.17.1.jar",
+                "releaseType": 1,
+                "fileStatus": 4,
+                "hashes": [
+                    {
+                        "value": "f1ead30e94acbc07915253adee4247019380e11a",
+                        "algo": 1
+                    },
+                    {
+                        "value": "13df48e6aadd71467b37594779403ec6",
+                        "algo": 2
+                    }
+                ],
+                "fileDate": "2021-10-11T16:03:11.983Z",
+                "fileLength": 9932,
+                "downloadCount": 84793,
+                "downloadUrl": "https://edge.forgecdn.net/files/3487/949/recipecache-0.2.1-1.17.1.jar",
+                "gameVersions": [
+                    "1.17.1",
+                    "1.18.1",
+                    "1.17",
+                    "Fabric",
+                    "1.18",
+                    "1.18-Snapshot"
+                ],
+                "sortableGameVersions": [
+                    {
+                        "gameVersionName": "1.17.1",
+                        "gameVersionPadded": "0000000001.0000000017.0000000001",
+                        "gameVersion": "1.17.1",
+                        "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+                        "gameVersionTypeId": 73242
+                    },
+                    {
+                        "gameVersionName": "1.18.1",
+                        "gameVersionPadded": "0000000001.0000000018.0000000001",
+                        "gameVersion": "1.18.1",
+                        "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                        "gameVersionTypeId": 73250
+                    },
+                    {
+                        "gameVersionName": "1.17",
+                        "gameVersionPadded": "0000000001.0000000017",
+                        "gameVersion": "1.17",
+                        "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+                        "gameVersionTypeId": 73242
+                    },
+                    {
+                        "gameVersionName": "Fabric",
+                        "gameVersionPadded": "0",
+                        "gameVersion": "",
+                        "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                        "gameVersionTypeId": 68441
+                    },
+                    {
+                        "gameVersionName": "1.18",
+                        "gameVersionPadded": "0000000001.0000000018",
+                        "gameVersion": "1.18",
+                        "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+                        "gameVersionTypeId": 73250
+                    },
+                    {
+                        "gameVersionName": "1.18-Snapshot",
+                        "gameVersionPadded": "0000000001.0000000018",
+                        "gameVersion": "1.18",
+                        "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+                        "gameVersionTypeId": 73250
+                    }
+                ],
+                "dependencies": [],
+                "alternateFileId": 0,
+                "isServerPack": false,
+                "fileFingerprint": 2755678181,
+                "modules": [
+                    {
+                        "name": "META-INF",
+                        "fingerprint": 2464251221
+                    },
+                    {
+                        "name": "recipecache.mixins.json",
+                        "fingerprint": 1469396942
+                    },
+                    {
+                        "name": "fabric.mod.json",
+                        "fingerprint": 1754583176
+                    },
+                    {
+                        "name": "recipecache-refmap.json",
+                        "fingerprint": 2023561787
+                    },
+                    {
+                        "name": "com",
+                        "fingerprint": 1321601614
+                    }
+                ]
+            }
+        ],
+        "latestFilesIndexes": [
+            {
+                "gameVersion": "1.17.1",
+                "fileId": 3487949,
+                "filename": "recipecache-0.2.1-1.17.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73242,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.17",
+                "fileId": 3487949,
+                "filename": "recipecache-0.2.1-1.17.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73242,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.18.1",
+                "fileId": 3487949,
+                "filename": "recipecache-0.2.1-1.17.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.18",
+                "fileId": 3487949,
+                "filename": "recipecache-0.2.1-1.17.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.16.5",
+                "fileId": 3281223,
+                "filename": "recipecache-0.1.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 4
+            },
+            {
+                "gameVersion": "1.16.4",
+                "fileId": 3281223,
+                "filename": "recipecache-0.1.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 4
+            }
+        ],
+        "dateCreated": "2021-04-18T19:05:50.723Z",
+        "dateModified": "2021-12-11T00:08:30.877Z",
+        "dateReleased": "2021-10-11T16:03:11.983Z",
+        "allowModDistribution": true,
+        "gamePopularityRank": 3655,
+        "isAvailable": true,
+        "thumbsUpCount": 0
+    }
 }

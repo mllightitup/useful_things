@@ -1,349 +1,269 @@
 {
-    "id": 411045,
-    "name": "Get It Together, Drops!",
-    "authors": [
-        {
-            "name": "bl4ckscor3",
-            "url": "https://www.curseforge.com/members/7876752-bl4ckscor3?username=bl4ckscor3",
-            "projectId": 411045,
-            "id": 320634,
-            "projectTitleId": null,
-            "projectTitleTitle": null,
-            "userId": 7876752,
-            "twitchId": 44058897
-        }
-    ],
-    "attachments": [
-        {
-            "id": 303586,
-            "projectId": 411045,
-            "description": "",
-            "isDefault": true,
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/303/586/256/256/637373199772307616.png",
-            "title": "637373199772307616.png",
-            "url": "https://media.forgecdn.net/avatars/303/586/637373199772307616.png",
-            "status": 1
-        }
-    ],
-    "issueTrackerUrl": "https://github.com/bl4ckscor3/GetItTogetherDrops/issues",
-    "wikiUrl": "",
-    "sourceUrl": "https://github.com/bl4ckscor3/GetItTogetherDrops",
-    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops",
-    "gameId": 432,
-    "summary": "Adds configuration options for defining how dropped items should combine.",
-    "defaultFileId": 3745662,
-    "downloadCount": 876332.0,
-    "latestFiles": [
-        {
-            "id": 3553915,
-            "displayName": "getittogetherdrops-1.18-1.1.jar",
-            "fileName": "getittogetherdrops-1.18-1.1.jar",
-            "fileDate": "2021-12-07T16:40:58.72Z",
-            "fileLength": 7387,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3553/915/getittogetherdrops-1.18-1.1.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [],
-            "packageFingerprint": 1449132971,
-            "gameVersion": [
-                "1.18.1"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000001",
-                    "gameVersion": "1.18.1",
-                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                    "gameVersionName": "1.18.1",
-                    "gameVersionTypeId": 73250
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2618399,
-            "fileLegacyMappingId": null,
-            "projectId": 411045,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 802123415,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3538121,
-            "gameVersionId": 7498,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "ac50ece21a671aede55a5ab64e660026a3956e54"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "99069bf73d09b73933fcc77fb84e3ee7"
-                }
-            ],
-            "downloadCount": 13234
-        },
-        {
-            "id": 3745662,
-            "displayName": "getittogetherdrops-1.12.2-v1.0.2.jar",
-            "fileName": "getittogetherdrops-1.12.2-v1.0.2.jar",
-            "fileDate": "2022-04-11T08:33:19.593Z",
-            "fileLength": 891755,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3745/662/getittogetherdrops-1.12.2-v1.0.2.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 3806399388,
-                    "type": 3
-                },
-                {
-                    "foldername": "bl4ckscor3",
-                    "fingerprint": 1301196008,
-                    "type": 3
-                },
-                {
-                    "foldername": "getittogetherdrops_at.cfg",
-                    "fingerprint": 2886858805,
-                    "type": 3
-                },
-                {
-                    "foldername": "mcmod.info",
-                    "fingerprint": 1665560382,
-                    "type": 3
-                },
-                {
-                    "foldername": "mixins.getittogetherdrops.json",
-                    "fingerprint": 2155361300,
-                    "type": 3
-                },
-                {
-                    "foldername": "pack.mcmeta",
-                    "fingerprint": 1874918345,
-                    "type": 3
-                },
-                {
-                    "foldername": "mixins.getittogetherdrops.refmap.json",
-                    "fingerprint": 4214192539,
-                    "type": 3
-                },
-                {
-                    "foldername": "org",
-                    "fingerprint": 722243463,
-                    "type": 3
-                },
-                {
-                    "foldername": "LICENSE.txt",
-                    "fingerprint": 3933732671,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 1455605306,
-            "gameVersion": [
-                "Forge",
-                "1.12.2"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Forge",
-                    "gameVersionTypeId": 68441
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000012.0000000002",
-                    "gameVersion": "1.12.2",
-                    "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-                    "gameVersionName": "1.12.2",
-                    "gameVersionTypeId": 628
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2851415,
-            "fileLegacyMappingId": null,
-            "projectId": 411045,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 900113735,
-            "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-            "gameVersionMappingId": 3977759,
-            "gameVersionId": 4458,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "dbf4143e35baa4eec8d3dfebee341bba3afab7dc"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "59145a752839f8c55d27abf459ac3b07"
-                }
-            ],
-            "downloadCount": 0
-        }
-    ],
-    "categories": [
-        {
-            "categoryId": 424,
-            "name": "Cosmetic",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 411045,
-            "avatarId": 6039,
-            "gameId": 432,
-            "slug": "cosmetic",
-            "dateModified": "2014-05-08T17:42:35.597Z"
-        }
-    ],
-    "status": 4,
-    "primaryCategoryId": 424,
-    "categorySection": {
-        "id": 8,
+    "data": {
+        "id": 411045,
         "gameId": 432,
-        "name": "Mods",
-        "packageType": 6,
-        "path": "mods",
-        "initialInclusionPattern": ".",
-        "extraIncludePattern": null,
-        "gameCategoryId": 6
-    },
-    "slug": "get-it-together-drops",
-    "gameVersionLatestFiles": [
-        {
-            "gameVersion": "1.12.2",
-            "projectFileId": 3745662,
-            "projectFileName": "getittogetherdrops-1.12.2-v1.0.2.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 628,
-            "modLoader": 1
+        "name": "Get It Together, Drops!",
+        "slug": "get-it-together-drops",
+        "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/bl4ckscor3/GetItTogetherDrops/issues",
+            "sourceUrl": "https://github.com/bl4ckscor3/GetItTogetherDrops"
         },
-        {
-            "gameVersion": "1.18.2",
-            "projectFileId": 3683767,
-            "projectFileName": "getittogetherdrops-1.18.2-1.2.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
+        "summary": "Adds configuration options for defining how dropped items should combine.",
+        "status": 4,
+        "downloadCount": 1502084,
+        "isFeatured": false,
+        "primaryCategoryId": 424,
+        "categories": [
+            {
+                "id": 424,
+                "gameId": 432,
+                "name": "Cosmetic",
+                "slug": "cosmetic",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+                "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+                "dateModified": "2014-05-08T17:42:35.597Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            }
+        ],
+        "classId": 6,
+        "authors": [
+            {
+                "id": 320634,
+                "name": "bl4ckscor3",
+                "url": "https://www.curseforge.com/members/7876752-bl4ckscor3?username=bl4ckscor3"
+            }
+        ],
+        "logo": {
+            "id": 303586,
+            "modId": 411045,
+            "title": "637373199772307616.png",
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/303/586/256/256/637373199772307616.png",
+            "url": "https://media.forgecdn.net/avatars/303/586/637373199772307616.png"
         },
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3683766,
-            "projectFileName": "getittogetherdrops-1.16.5-v1.2.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.18.1",
-            "projectFileId": 3611856,
-            "projectFileName": "getittogetherdrops-1.18.1-1.1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.18",
-            "projectFileId": 3611856,
-            "projectFileName": "getittogetherdrops-1.18.1-1.1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.17.1",
-            "projectFileId": 3611855,
-            "projectFileName": "getittogetherdrops-1.17.1-1.1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73242,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.16.4",
-            "projectFileId": 3611854,
-            "projectFileName": "getittogetherdrops-1.16.5-v1.1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.15.2",
-            "projectFileId": 3611853,
-            "projectFileName": "getittogetherdrops-1.15.2-v1.1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 68722,
-            "modLoader": 1
-        },
-        {
-            "gameVersion": "1.18.1",
-            "projectFileId": 3553915,
-            "projectFileName": "getittogetherdrops-1.18-1.1.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250
-        },
-        {
-            "gameVersion": "1.16.3",
-            "projectFileId": 3071218,
-            "projectFileName": "getittogetherdrops-1.16.3-v1.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        }
-    ],
-    "isFeatured": false,
-    "popularityScore": 5605.2373046875,
-    "gamePopularityRank": 1317,
-    "primaryLanguage": "enUS",
-    "gameSlug": "minecraft",
-    "modLoaders": [
-        "Forge"
-    ],
-    "gameName": "Minecraft",
-    "portalName": "www.curseforge.com",
-    "dateModified": "2022-04-11T08:35:43.66Z",
-    "dateCreated": "2020-10-03T11:06:17.19Z",
-    "dateReleased": "2022-04-11T08:33:19.593Z",
-    "isAvailable": true,
-    "isExperiemental": false,
-    "allowModDistribution": true
+        "screenshots": [],
+        "mainFileId": 3745662,
+        "latestFiles": [
+            {
+                "id": 3553915,
+                "gameId": 432,
+                "modId": 411045,
+                "isAvailable": true,
+                "displayName": "getittogetherdrops-1.18-1.1.jar",
+                "fileName": "getittogetherdrops-1.18-1.1.jar",
+                "releaseType": 1,
+                "fileStatus": 4,
+                "hashes": [
+                    {
+                        "value": "ac50ece21a671aede55a5ab64e660026a3956e54",
+                        "algo": 1
+                    },
+                    {
+                        "value": "99069bf73d09b73933fcc77fb84e3ee7",
+                        "algo": 2
+                    }
+                ],
+                "fileDate": "2021-12-07T16:40:58.72Z",
+                "fileLength": 7387,
+                "downloadCount": 13234,
+                "downloadUrl": "https://edge.forgecdn.net/files/3553/915/getittogetherdrops-1.18-1.1.jar",
+                "gameVersions": [
+                    "1.18.1"
+                ],
+                "sortableGameVersions": [
+                    {
+                        "gameVersionName": "1.18.1",
+                        "gameVersionPadded": "0000000001.0000000018.0000000001",
+                        "gameVersion": "1.18.1",
+                        "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                        "gameVersionTypeId": 73250
+                    }
+                ],
+                "dependencies": [],
+                "alternateFileId": 0,
+                "isServerPack": false,
+                "fileFingerprint": 1449132971,
+                "modules": []
+            },
+            {
+                "id": 3745662,
+                "gameId": 432,
+                "modId": 411045,
+                "isAvailable": true,
+                "displayName": "getittogetherdrops-1.12.2-v1.0.2.jar",
+                "fileName": "getittogetherdrops-1.12.2-v1.0.2.jar",
+                "releaseType": 1,
+                "fileStatus": 4,
+                "hashes": [
+                    {
+                        "value": "dbf4143e35baa4eec8d3dfebee341bba3afab7dc",
+                        "algo": 1
+                    },
+                    {
+                        "value": "59145a752839f8c55d27abf459ac3b07",
+                        "algo": 2
+                    }
+                ],
+                "fileDate": "2022-04-11T08:33:19.593Z",
+                "fileLength": 891755,
+                "downloadCount": 0,
+                "downloadUrl": "https://edge.forgecdn.net/files/3745/662/getittogetherdrops-1.12.2-v1.0.2.jar",
+                "gameVersions": [
+                    "Forge",
+                    "1.12.2"
+                ],
+                "sortableGameVersions": [
+                    {
+                        "gameVersionName": "Forge",
+                        "gameVersionPadded": "0",
+                        "gameVersion": "",
+                        "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                        "gameVersionTypeId": 68441
+                    },
+                    {
+                        "gameVersionName": "1.12.2",
+                        "gameVersionPadded": "0000000001.0000000012.0000000002",
+                        "gameVersion": "1.12.2",
+                        "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+                        "gameVersionTypeId": 628
+                    }
+                ],
+                "dependencies": [],
+                "alternateFileId": 0,
+                "isServerPack": false,
+                "fileFingerprint": 1455605306,
+                "modules": [
+                    {
+                        "name": "META-INF",
+                        "fingerprint": 3806399388
+                    },
+                    {
+                        "name": "bl4ckscor3",
+                        "fingerprint": 1301196008
+                    },
+                    {
+                        "name": "getittogetherdrops_at.cfg",
+                        "fingerprint": 2886858805
+                    },
+                    {
+                        "name": "mcmod.info",
+                        "fingerprint": 1665560382
+                    },
+                    {
+                        "name": "mixins.getittogetherdrops.json",
+                        "fingerprint": 2155361300
+                    },
+                    {
+                        "name": "pack.mcmeta",
+                        "fingerprint": 1874918345
+                    },
+                    {
+                        "name": "mixins.getittogetherdrops.refmap.json",
+                        "fingerprint": 4214192539
+                    },
+                    {
+                        "name": "org",
+                        "fingerprint": 722243463
+                    },
+                    {
+                        "name": "LICENSE.txt",
+                        "fingerprint": 3933732671
+                    }
+                ]
+            }
+        ],
+        "latestFilesIndexes": [
+            {
+                "gameVersion": "1.12.2",
+                "fileId": 3745662,
+                "filename": "getittogetherdrops-1.12.2-v1.0.2.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 628,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.2",
+                "fileId": 3683767,
+                "filename": "getittogetherdrops-1.18.2-1.2.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.5",
+                "fileId": 3683766,
+                "filename": "getittogetherdrops-1.16.5-v1.2.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.1",
+                "fileId": 3611856,
+                "filename": "getittogetherdrops-1.18.1-1.1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18",
+                "fileId": 3611856,
+                "filename": "getittogetherdrops-1.18.1-1.1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.17.1",
+                "fileId": 3611855,
+                "filename": "getittogetherdrops-1.17.1-1.1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73242,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.4",
+                "fileId": 3611854,
+                "filename": "getittogetherdrops-1.16.5-v1.1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.15.2",
+                "fileId": 3611853,
+                "filename": "getittogetherdrops-1.15.2-v1.1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 68722,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.1",
+                "fileId": 3553915,
+                "filename": "getittogetherdrops-1.18-1.1.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": null
+            },
+            {
+                "gameVersion": "1.16.3",
+                "fileId": 3071218,
+                "filename": "getittogetherdrops-1.16.3-v1.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            }
+        ],
+        "dateCreated": "2020-10-03T11:06:17.19Z",
+        "dateModified": "2022-04-11T08:35:43.66Z",
+        "dateReleased": "2022-04-11T08:33:19.593Z",
+        "allowModDistribution": true,
+        "gamePopularityRank": 1317,
+        "isAvailable": true,
+        "thumbsUpCount": 0
+    }
 }

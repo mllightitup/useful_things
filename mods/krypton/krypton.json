@@ -7,8 +7,8 @@
     "description": "A mod to optimize the Minecraft networking stack",
     "body": "## Warning\n\n**Krypton is a work-in-progress.** I do not provide any guarantees about its stability, compatibility with other mods, or support for every possible setup out there. Support for this mod is provided on a \"best-effort\" basis. This is not my day job, it is a hobby growing out of related work I've done.\n\n## Sponsor Me!\n\nDid this mod make your server playable? [Chip in a bit of money](https://github.com/sponsors/astei) so I can continue developing it.\n\n## What's Krypton?\n\nKrypton (from Ancient Greek _kryptos_, \"the hidden one\") is a Fabric mod that attempts to optimize the Minecraft networking stack. It derives from work\ndone in the [Velocity](https://velocitypowered.com/) and [Tuinity](https://github.com/Spottedleaf/Tuinity)\nprojects.\n\nKrypton contains several optimizations, including:\n\n* **Highly optimized Netty handlers** derived from the [Velocity](https://velocitypowered.com) proxy, which I am the developer of. These handlers have sen real-world usage and extensive profiling, and strategically deploy native code where it makes the most sense.\n* **Flush consolidation** to lower server CPU usage (and reducing the impact from hardware security vulnerabilities which exploit speculative execution) and lower server tick times.\n* **Micro-optimizations** to reduce memory usage and improve packet serialization speeds.\n\n[Please join my Discord](https://discord.gg/RUGArxEQ8J) to discuss the mod or get support.\n\n## Compatibility\n\nKrypton should work anywhere where a Minecraft can run &mdash; naturally, however, it is tuned for Linux.\n\nI try to ensure that Krypton will work with the Fabric API, Lithium, and Sodium. Support beyond these mods is provided on a best effort basis.",
     "body_url": "https://cdn.modrinth.com/data/fQEb0iXm/description.md",
-    "published": "2020-12-21T17:48:09.050177Z",
-    "updated": "2022-03-09T05:36:04.573936Z",
+    "published": "2020-12-21T17:48:09+00:00",
+    "updated": "2022-06-08T00:56:16+00:00",
     "status": "approved",
     "moderator_message": null,
     "license": {
@@ -18,23 +18,24 @@
     },
     "client_side": "optional",
     "server_side": "optional",
-    "downloads": 43321,
-    "followers": 542,
+    "downloads": 54890,
+    "followers": 628,
     "categories": [
-        "utility",
         "misc",
-        "optimization"
+        "optimization",
+        "utility"
     ],
     "versions": [
-        "vJQ7plH2",
-        "PGovBIXq",
+        "UJ6FlFnK",
         "kCiWZ1wv",
-        "QmrcLtH3",
-        "19624YsD",
         "tO4HJpLA",
-        "Ff90AgU6",
+        "vJQ7plH2",
         "7AwqDL7J",
-        "AXYWaIE8"
+        "AXYWaIE8",
+        "19624YsD",
+        "Ff90AgU6",
+        "PGovBIXq",
+        "QmrcLtH3"
     ],
     "icon_url": "https://cdn.modrinth.com/data/fQEb0iXm/icon.png",
     "issues_url": "https://github.com/astei/krypton/issues",

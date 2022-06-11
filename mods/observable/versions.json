@@ -8,18 +8,19 @@
         "version_number": "2.2.3",
         "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases/) for all changes between prior versions.",
         "changelog_url": null,
-        "date_published": "2022-04-11T04:32:43.439077Z",
-        "downloads": 58,
+        "date_published": "2022-04-11T04:32:43+00:00",
+        "downloads": 221,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha512": "b0808a3b4dab60763f2b8e666c22da64a5e43edae1374f470286bd4948f6232b4e63ab026a14e2fe99bc0fca6389a5dbee992aa32d300513979c3ad6a97444d0",
-                    "sha1": "d5682dc84b2adc318b24e3a8026e76e94433b857"
+                    "sha1": "d5682dc84b2adc318b24e3a8026e76e94433b857",
+                    "sha512": "b0808a3b4dab60763f2b8e666c22da64a5e43edae1374f470286bd4948f6232b4e63ab026a14e2fe99bc0fca6389a5dbee992aa32d300513979c3ad6a97444d0"
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/2.2.3/observable-2.2.3-fabric.jar",
                 "filename": "observable-2.2.3-fabric.jar",
-                "primary": true
+                "primary": true,
+                "size": 9588851
             }
         ],
         "dependencies": [],
@@ -39,19 +40,10 @@
         "version_number": "1.2.3",
         "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases) for all changes between prior versions.",
         "changelog_url": null,
-        "date_published": "2022-01-28T12:14:17.400719Z",
-        "downloads": 336,
+        "date_published": "2022-01-28T12:14:17+00:00",
+        "downloads": 404,
         "version_type": "beta",
         "files": [
-            {
-                "hashes": {
-                    "sha512": "633438dbbbb8b010528df7cf9cb7141a4bdebfc3c7d929164872d4ea69d878e66ea802e1dbcbb81d5184a9f72fe975ad7c4397ce3a8a9131e4a9eda5e5d16492",
-                    "sha1": "5e74ea1309634e7dfb998704ed5fc36feaa3367b"
-                },
-                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-fabric.jar",
-                "filename": "observable-1.2.3-fabric.jar",
-                "primary": false
-            },
             {
                 "hashes": {
                     "sha1": "670a386f094aac4e37f856a586cbaff2bb6b12cc",
@@ -59,7 +51,18 @@
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-forge.jar",
                 "filename": "observable-1.2.3-forge.jar",
-                "primary": false
+                "primary": false,
+                "size": 9482683
+            },
+            {
+                "hashes": {
+                    "sha1": "5e74ea1309634e7dfb998704ed5fc36feaa3367b",
+                    "sha512": "633438dbbbb8b010528df7cf9cb7141a4bdebfc3c7d929164872d4ea69d878e66ea802e1dbcbb81d5184a9f72fe975ad7c4397ce3a8a9131e4a9eda5e5d16492"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-fabric.jar",
+                "filename": "observable-1.2.3-fabric.jar",
+                "primary": false,
+                "size": 9480537
             }
         ],
         "dependencies": [],
@@ -80,27 +83,29 @@
         "version_number": "0.2.1",
         "changelog": "See [the GitHub releases](https://github.com/tasgon/observable/releases) for all changes between versions.",
         "changelog_url": null,
-        "date_published": "2022-01-28T12:12:18.552460Z",
-        "downloads": 158,
+        "date_published": "2022-01-28T12:12:18+00:00",
+        "downloads": 194,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "ed7bf6fffa7c12b111aa84c7da6495d510e7b3bc",
-                    "sha512": "9f1c655bdac13e40bb9447dcce87f5946bc4c7369ddfc717c90a23675b8fd4c1583b5ea46031ce9bae2f417f527d7d197fa432857ddb21267f742c073308c3f8"
-                },
-                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.2.1/observable-0.2.1-fabric.jar",
-                "filename": "observable-0.2.1-fabric.jar",
-                "primary": false
-            },
-            {
-                "hashes": {
-                    "sha512": "308979ec47b3e5156e93a4d2a002b218ef3c06181cb035e6af1c5a429341bdcbd801c6f3f808ded02b44790dbf37c98e2fcf65b294b692f37e4d87ef4fda1990",
-                    "sha1": "1a7d3b1af5b6f9c6cfc7b27f931dec519f26ed7a"
+                    "sha1": "1a7d3b1af5b6f9c6cfc7b27f931dec519f26ed7a",
+                    "sha512": "308979ec47b3e5156e93a4d2a002b218ef3c06181cb035e6af1c5a429341bdcbd801c6f3f808ded02b44790dbf37c98e2fcf65b294b692f37e4d87ef4fda1990"
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.2.1/observable-0.2.1-forge.jar",
                 "filename": "observable-0.2.1-forge.jar",
-                "primary": false
+                "primary": false,
+                "size": 9228734
+            },
+            {
+                "hashes": {
+                    "sha512": "9f1c655bdac13e40bb9447dcce87f5946bc4c7369ddfc717c90a23675b8fd4c1583b5ea46031ce9bae2f417f527d7d197fa432857ddb21267f742c073308c3f8",
+                    "sha1": "ed7bf6fffa7c12b111aa84c7da6495d510e7b3bc"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.2.1/observable-0.2.1-fabric.jar",
+                "filename": "observable-0.2.1-fabric.jar",
+                "primary": false,
+                "size": 9224983
             }
         ],
         "dependencies": [],
@@ -121,19 +126,10 @@
         "version_number": "0.1.2",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-08-16T21:38:20.720800Z",
-        "downloads": 59,
+        "date_published": "2021-08-16T21:38:20+00:00",
+        "downloads": 65,
         "version_type": "beta",
         "files": [
-            {
-                "hashes": {
-                    "sha1": "512e2461c2541665f0f80b458724f34a4309ecfd",
-                    "sha512": "196853e1df99bbf1724326b89673e98189d5c1a0b7a5a09b859b363e5f4e185dac4906a6cc810eff9c1953b29cb18f725261082e4c4bcd7ce8965eaba46b216f"
-                },
-                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.1.2/observable-0.1.2-fabric.jar",
-                "filename": "observable-0.1.2-fabric.jar",
-                "primary": false
-            },
             {
                 "hashes": {
                     "sha1": "d8f7281e44d4a58080076e1e14b243286780adbe",
@@ -141,7 +137,18 @@
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.1.2/observable-0.1.2-forge.jar",
                 "filename": "observable-0.1.2-forge.jar",
-                "primary": false
+                "primary": false,
+                "size": 0
+            },
+            {
+                "hashes": {
+                    "sha1": "512e2461c2541665f0f80b458724f34a4309ecfd",
+                    "sha512": "196853e1df99bbf1724326b89673e98189d5c1a0b7a5a09b859b363e5f4e185dac4906a6cc810eff9c1953b29cb18f725261082e4c4bcd7ce8965eaba46b216f"
+                },
+                "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.1.2/observable-0.1.2-fabric.jar",
+                "filename": "observable-0.1.2-fabric.jar",
+                "primary": false,
+                "size": 24356072
             }
         ],
         "dependencies": [],
@@ -162,8 +169,8 @@
         "version_number": "0.0.1",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-07-30T21:45:12.630453Z",
-        "downloads": 54,
+        "date_published": "2021-07-30T21:45:12+00:00",
+        "downloads": 60,
         "version_type": "alpha",
         "files": [
             {
@@ -173,7 +180,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.0.1/observable-0.0.1-forge.jar",
                 "filename": "observable-0.0.1-forge.jar",
-                "primary": false
+                "primary": false,
+                "size": 24266801
             }
         ],
         "dependencies": [],
@@ -193,18 +201,19 @@
         "version_number": "0.0.1",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-07-30T21:45:12.616961Z",
+        "date_published": "2021-07-30T21:45:12+00:00",
         "downloads": 11,
         "version_type": "alpha",
         "files": [
             {
                 "hashes": {
-                    "sha512": "7a4b05af34167c195bb1816e5e84b0a265b3da6f21a84ad4e04a655730d528df5ff0d2cc8ee3185c99949d6be2615c105926fcc53066ec355e11f40de415f532",
-                    "sha1": "d6c3171ef28cea716f4e5ea4a2f8a9c5b3dd50d4"
+                    "sha1": "d6c3171ef28cea716f4e5ea4a2f8a9c5b3dd50d4",
+                    "sha512": "7a4b05af34167c195bb1816e5e84b0a265b3da6f21a84ad4e04a655730d528df5ff0d2cc8ee3185c99949d6be2615c105926fcc53066ec355e11f40de415f532"
                 },
                 "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/0.0.1/observable-0.0.1-fabric.jar",
                 "filename": "observable-0.0.1-fabric.jar",
-                "primary": false
+                "primary": false,
+                "size": 24264097
             }
         ],
         "dependencies": [],

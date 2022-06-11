@@ -1,5 +1,37 @@
 [
     {
+        "id": "4SHylIO9",
+        "project_id": "hvFnDODi",
+        "author_id": "y0WF9UR5",
+        "featured": false,
+        "name": "0.1.3",
+        "version_number": "0.1.3",
+        "changelog": "* Update to Minecraft 1.19\n* Mojang now (by default) does not build datafixer rules on servers. LazyDFU continues to work as usual on the client and ensures that datafixer rules will not be built on the server, for consistency.\n",
+        "changelog_url": null,
+        "date_published": "2022-06-08T01:13:20+00:00",
+        "downloads": 2157,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
+                    "sha512": "dc3766352c645f6da92b13000dffa80584ee58093c925c2154eb3c125a2b2f9a3af298202e2658b039c6ee41e81ca9a2e9d4b942561f7085239dd4421e0cce0a"
+                },
+                "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar",
+                "filename": "lazydfu-0.1.3.jar",
+                "primary": true,
+                "size": 14531
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.19"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
         "id": "C6e265zK",
         "project_id": "hvFnDODi",
         "author_id": "y0WF9UR5",
@@ -8,8 +40,8 @@
         "version_number": "0.1.2",
         "changelog": "Improved compatibility with older and newer Minecraft versions: LazyDFU now supports Minecraft 1.14 through Minecraft 1.18 (as of this writing). Thanks to MrMangoHands for this contribution!",
         "changelog_url": null,
-        "date_published": "2021-02-19T22:53:25.812236Z",
-        "downloads": 69702,
+        "date_published": "2021-02-19T22:53:25+00:00",
+        "downloads": 85501,
         "version_type": "release",
         "files": [
             {
@@ -19,7 +51,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
                 "filename": "lazydfu-0.1.2.jar",
-                "primary": true
+                "primary": true,
+                "size": 15517
             }
         ],
         "dependencies": [],
@@ -57,8 +90,8 @@
         "version_number": "0.1.1",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-01-15T19:05:30.486786Z",
-        "downloads": 1235,
+        "date_published": "2021-01-15T19:05:30+00:00",
+        "downloads": 1348,
         "version_type": "release",
         "files": [
             {
@@ -68,7 +101,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.1/lazydfu-0.1.1.jar",
                 "filename": "lazydfu-0.1.1.jar",
-                "primary": false
+                "primary": false,
+                "size": 15520
             }
         ],
         "dependencies": [],
@@ -89,17 +123,19 @@
         "version_number": "0.1.0",
         "changelog": "",
         "changelog_url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.0/changelog.md",
-        "date_published": "2021-01-04T05:14:07.262636Z",
-        "downloads": 227,
+        "date_published": "2021-01-04T05:14:07+00:00",
+        "downloads": 238,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "9794c68fb28cc8dcd8ca1e6d1b2c3cc86fc9d9f0"
+                    "sha1": "9794c68fb28cc8dcd8ca1e6d1b2c3cc86fc9d9f0",
+                    "sha512": "9fc69ba377803b4047206f01e79f07151617eb3fbb2030e13cc87c496b95f5613a9c7f69c89850f149bba229fca22fa5de23c46b2a29af79919ed586c1c736a7"
                 },
                 "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.0/lazydfu-0.1.0.jar",
                 "filename": "lazydfu-0.1.0.jar",
-                "primary": false
+                "primary": false,
+                "size": 15519
             }
         ],
         "dependencies": [],

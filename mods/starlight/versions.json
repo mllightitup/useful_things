@@ -1,25 +1,58 @@
 [
     {
-        "id": "4ew9whL8",
+        "id": "zFqBnsxO",
         "project_id": "H8CaAYZC",
         "author_id": "fYyU5YhM",
         "featured": true,
-        "name": "Starlight 1.0.2 1.18.2 (Fabric) ",
-        "version_number": "1.0.2+1.18.2",
-        "changelog": "Update to 1.18.2",
+        "name": "Starlight 1.1.0 1.19 (Fabric) ",
+        "version_number": "1.1.0+1.19",
+        "changelog": "Update to 1.19",
         "changelog_url": null,
-        "date_published": "2022-02-28T15:25:41.834654Z",
-        "downloads": 15479,
+        "date_published": "2022-06-07T16:35:14+00:00",
+        "downloads": 3110,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "a436b72ee514bd2b59900159bcc4d461f96ef340",
-                    "sha512": "126d40c2453131a8ad91983114b5d6370c2304098c5b5c0d3badf52b2c0d20d24029487ee5f36819f21ba5af784424f730618dce5dbbf3e5bc4ffaf592419010"
+                    "sha1": "6292c91aa726edd2f8178ae002d040ae54aac0aa",
+                    "sha512": "dd2f42474c990ee5d2ddc59adf1e0ce2acefafef1f0a3fc3462d6e33431b27dfb0f2b42b5e67b7601ade9a25361ded3e1198dfe60ba64f7ea68884e4299c09a8"
+                },
+                "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.0+1.19/starlight-1.1.0%2Bfabric.eb9df34.jar",
+                "filename": "starlight-1.1.0+fabric.eb9df34.jar",
+                "primary": true,
+                "size": 127417
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.19"
+        ],
+        "loaders": [
+            "fabric"
+        ]
+    },
+    {
+        "id": "4ew9whL8",
+        "project_id": "H8CaAYZC",
+        "author_id": "fYyU5YhM",
+        "featured": false,
+        "name": "Starlight 1.0.2 1.18.2 (Fabric) ",
+        "version_number": "1.0.2+1.18.2",
+        "changelog": "Update to 1.18.2",
+        "changelog_url": null,
+        "date_published": "2022-02-28T15:25:41+00:00",
+        "downloads": 26770,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "126d40c2453131a8ad91983114b5d6370c2304098c5b5c0d3badf52b2c0d20d24029487ee5f36819f21ba5af784424f730618dce5dbbf3e5bc4ffaf592419010",
+                    "sha1": "a436b72ee514bd2b59900159bcc4d461f96ef340"
                 },
                 "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar",
                 "filename": "starlight-1.0.2+fabric.89b8d9f.jar",
-                "primary": true
+                "primary": true,
+                "size": 127318
             }
         ],
         "dependencies": [],
@@ -39,7 +72,7 @@
         "version_number": "1.0.0+1.18.0-1.18.1",
         "changelog": "Update to 1.18",
         "changelog_url": null,
-        "date_published": "2021-12-08T13:00:18.546650Z",
+        "date_published": "2021-12-08T13:00:18+00:00",
         "downloads": 14310,
         "version_type": "release",
         "files": [
@@ -48,9 +81,10 @@
                     "sha1": "743b14918588186cae2117d1a9684b400939e6f8",
                     "sha512": "020a2b1f7912fdcba7877f3ba09dcff6c5a37c0782ca9baa27afc26f864cdb782fcfb582b6fdf83dfe8ea3d52293e17c8d34f39dc4a71ba467b287bdaad531db"
                 },
-                "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight 1.0.0 1.18.x/starlight-1.0.0+fabric.d0a3220.jar",
+                "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar",
                 "filename": "starlight-1.0.0+fabric.d0a3220.jar",
-                "primary": true
+                "primary": true,
+                "size": 127235
             }
         ],
         "dependencies": [],
@@ -71,18 +105,19 @@
         "version_number": "Starlight 1.0.0 1.17.x",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-08-29T14:08:31.794446Z",
-        "downloads": 14220,
+        "date_published": "2021-08-29T14:08:31+00:00",
+        "downloads": 14773,
         "version_type": "release",
         "files": [
             {
                 "hashes": {
-                    "sha1": "a4eaa5af56eb7719bae025f9d7c5da1490d4822f",
-                    "sha512": "e2308963e019f030b804e787f9996044e12a63436754def273b79063b1ba3c99dc7311acbe99edab9dab290da97a75ac67e99715f485bc04d9e13e75a6a6644e"
+                    "sha512": "e2308963e019f030b804e787f9996044e12a63436754def273b79063b1ba3c99dc7311acbe99edab9dab290da97a75ac67e99715f485bc04d9e13e75a6a6644e",
+                    "sha1": "a4eaa5af56eb7719bae025f9d7c5da1490d4822f"
                 },
-                "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight 1.0.0 1.17.x/starlight-1.0.0+fabric.73f6d37.jar",
+                "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar",
                 "filename": "starlight-1.0.0+fabric.73f6d37.jar",
-                "primary": true
+                "primary": true,
+                "size": 133032
             }
         ],
         "dependencies": [],

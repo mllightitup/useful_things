@@ -1,0 +1,130 @@
+[
+    {
+        "id": "5aMZMK7v",
+        "project_id": "iRfIGC1s",
+        "author_id": "fYyU5YhM",
+        "featured": true,
+        "name": "Starlight 1.0.2 1.18.2 (Forge) ",
+        "version_number": "1.0.2+1.18.2",
+        "changelog": "Requires forge 40.0.0+; not compatible with 1.18.1",
+        "changelog_url": null,
+        "date_published": "2022-03-20T21:25:09+00:00",
+        "downloads": 991,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha1": "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7",
+                    "sha512": "942c0d1f0f0d0bc492eadd7e8347891e30d633ca86b3dfd2e9d59ea0deee03614e6a66e5a66eeab00564b12a05c40cbd6cbac335a07bc971c97b7149b0406a38"
+                },
+                "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.2+1.18.2/starlight-1.0.2%2Bforge.546ae87.jar",
+                "filename": "starlight-1.0.2+forge.546ae87.jar",
+                "primary": true,
+                "size": 110596
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.2"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "6n1Cz7ld",
+        "project_id": "iRfIGC1s",
+        "author_id": "fYyU5YhM",
+        "featured": true,
+        "name": "Starlight 1.0.1 1.18.1 (Forge)",
+        "version_number": "1.0.1+1.18.1",
+        "changelog": "- Add support for Create/Flywheel",
+        "changelog_url": null,
+        "date_published": "2022-02-28T15:05:56+00:00",
+        "downloads": 2028,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "987997315b3af07dcb849e72c2d98b6d0bf48b82b03e92282f0381e3e91d8f08c501279e08e57db2b6661b433106095d62c4034ef1df1810ca4a6d975ea55550",
+                    "sha1": "94ea696323b95c0824f276f5485a61af0fbcceb5"
+                },
+                "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.1+1.18.1/starlight-1.0.1+forge.fef9eb9.jar",
+                "filename": "starlight-1.0.1+forge.fef9eb9.jar",
+                "primary": true,
+                "size": 110546
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "QDfK5kGC",
+        "project_id": "iRfIGC1s",
+        "author_id": "fYyU5YhM",
+        "featured": false,
+        "name": "Starlight 1.0.0 1.18.1 (Forge) ",
+        "version_number": "1.0.0+1.18.1",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-12-11T14:52:20+00:00",
+        "downloads": 290,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "09ddc9bc3356f6d927169884132eec6b2f97b1a563e19132f628fdd295bc376a214587fba1e6d0aa32c8c010efe19025de8200306a5ea42de52261c2367e80e1",
+                    "sha1": "9e66da9dcfd8945347dc2350353fdc1a17764506"
+                },
+                "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.18.1+/starlight-1.0.0+forge.4fd2e63.jar",
+                "filename": "starlight-1.0.0+forge.4fd2e63.jar",
+                "primary": true,
+                "size": 110251
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.18.1"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    },
+    {
+        "id": "RcAkwRce",
+        "project_id": "iRfIGC1s",
+        "author_id": "fYyU5YhM",
+        "featured": false,
+        "name": "Starlight 1.0.0 1.17.x (Forge)",
+        "version_number": "1.0.0+1.17.x",
+        "changelog": "",
+        "changelog_url": null,
+        "date_published": "2021-09-12T18:30:52+00:00",
+        "downloads": 169,
+        "version_type": "release",
+        "files": [
+            {
+                "hashes": {
+                    "sha512": "43f71a9812a0bdb903266a45ad0300c7fd04bfb8eb7566235edfacdb353a3c8d3c78e8bd624658ef25b83a98870fe7b4f15308db2827b0ec9b839df9751c6ece",
+                    "sha1": "36afc6a3bda172d79c8ff7605fc7ef854e9fc617"
+                },
+                "url": "https://cdn.modrinth.com//data/iRfIGC1s/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+forge.5d16647.jar",
+                "filename": "starlight-1.0.0+forge.5d16647.jar",
+                "primary": true,
+                "size": 115642
+            }
+        ],
+        "dependencies": [],
+        "game_versions": [
+            "1.17.1"
+        ],
+        "loaders": [
+            "forge"
+        ]
+    }
+]

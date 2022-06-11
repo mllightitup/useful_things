@@ -8,8 +8,8 @@
         "version_number": "mc1.17.1-0.3.1",
         "changelog": "View the changelog on GitHub: https://github.com/CaffeineMC/hydrogen-fabric/releases/tag/mc1.17.1-0.3.1",
         "changelog_url": null,
-        "date_published": "2021-07-15T22:33:20.513972Z",
-        "downloads": 45495,
+        "date_published": "2021-07-15T22:33:20+00:00",
+        "downloads": 46801,
         "version_type": "beta",
         "files": [
             {
@@ -19,7 +19,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17.1-0.3.1/hydrogen-fabric-mc1.17.1-0.3.jar",
                 "filename": "hydrogen-fabric-mc1.17.1-0.3.jar",
-                "primary": false
+                "primary": false,
+                "size": 118554
             }
         ],
         "dependencies": [],
@@ -40,8 +41,8 @@
         "version_number": "mc1.17-v0.3.0",
         "changelog": "See the change-log on GitHub here: https://github.com/CaffeineMC/hydrogen-fabric/releases/tag/mc1.17-0.3.0",
         "changelog_url": null,
-        "date_published": "2021-06-18T23:00:13.457814Z",
-        "downloads": 6254,
+        "date_published": "2021-06-18T23:00:13+00:00",
+        "downloads": 6280,
         "version_type": "beta",
         "files": [
             {
@@ -51,7 +52,8 @@
                 },
                 "url": "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17-v0.3.0/hydrogen-fabric-mc1.17-0.3.jar",
                 "filename": "hydrogen-fabric-mc1.17-0.3.jar",
-                "primary": false
+                "primary": false,
+                "size": 118999
             }
         ],
         "dependencies": [],
@@ -71,18 +73,19 @@
         "version_number": "mc1.16.5-v0.2.0",
         "changelog": "",
         "changelog_url": null,
-        "date_published": "2021-01-17T21:23:01.032928Z",
-        "downloads": 28203,
+        "date_published": "2021-01-17T21:23:01+00:00",
+        "downloads": 29340,
         "version_type": "beta",
         "files": [
             {
                 "hashes": {
-                    "sha1": "258be27079ef4ea4021191518d353e3d28ed1dc7",
-                    "sha512": "571e51c87da301274a7650fc4bc249c633af2a2b21bc420912b03a743d06cdb7609bcf9fcdf9a6cd4defb1d908be7ca52988e1c95126adc5947edbbf77d6369e"
+                    "sha512": "571e51c87da301274a7650fc4bc249c633af2a2b21bc420912b03a743d06cdb7609bcf9fcdf9a6cd4defb1d908be7ca52988e1c95126adc5947edbbf77d6369e",
+                    "sha1": "258be27079ef4ea4021191518d353e3d28ed1dc7"
                 },
                 "url": "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.16.5-v0.2.0/hydrogen-fabric-mc1.16.5-0.2.jar",
                 "filename": "hydrogen-fabric-mc1.16.5-0.2.jar",
-                "primary": false
+                "primary": false,
+                "size": 117236
             }
         ],
         "dependencies": [],

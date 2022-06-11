@@ -1,244 +1,192 @@
 {
-    "id": 549394,
-    "name": "Krypton Reforged",
-    "authors": [
-        {
-            "name": "TeamDeusVult",
-            "url": "https://www.curseforge.com/members/102782844-teamdeusvult?username=teamdeusvult",
-            "projectId": 549394,
-            "id": 469097,
-            "projectTitleId": null,
-            "projectTitleTitle": null,
-            "userId": 102782844,
-            "twitchId": 736747962
-        }
-    ],
-    "attachments": [
-        {
-            "id": 458425,
-            "projectId": 549394,
-            "description": "",
-            "isDefault": true,
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/458/425/256/256/637732541418956072.png",
-            "title": "637732541418956072.png",
-            "url": "https://media.forgecdn.net/avatars/458/425/637732541418956072.png",
-            "status": 1
-        }
-    ],
-    "issueTrackerUrl": "https://github.com/TeamDeusVult/KryptonReforged/issues",
-    "wikiUrl": "",
-    "sourceUrl": "https://github.com/TeamDeusVult/KryptonReforged",
-    "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged",
-    "gameId": 432,
-    "summary": "Unofficial Forge Port of the server networking performance mod \"Krypton\"",
-    "defaultFileId": 3590672,
-    "downloadCount": 1266143.0,
-    "latestFiles": [
-        {
-            "id": 3590672,
-            "displayName": "krypton-1.0.0.jar",
-            "fileName": "krypton-1.0.0.jar",
-            "fileDate": "2022-01-02T05:04:02.433Z",
-            "fileLength": 140996,
-            "releaseType": 1,
-            "fileStatus": 4,
-            "downloadUrl": "https://edge.forgecdn.net/files/3590/672/krypton-1.0.0.jar",
-            "isAlternate": false,
-            "alternateFileId": 0,
-            "dependencies": [],
-            "isAvailable": true,
-            "modules": [
-                {
-                    "foldername": "META-INF",
-                    "fingerprint": 804281162,
-                    "type": 3
-                },
-                {
-                    "foldername": "linux_aarch64",
-                    "fingerprint": 3901674702,
-                    "type": 3
-                },
-                {
-                    "foldername": "linux_x86_64",
-                    "fingerprint": 1120782628,
-                    "type": 3
-                },
-                {
-                    "foldername": "pack.mcmeta",
-                    "fingerprint": 823205694,
-                    "type": 3
-                },
-                {
-                    "foldername": "krypton.mixins.json",
-                    "fingerprint": 3073370045,
-                    "type": 3
-                },
-                {
-                    "foldername": "assets",
-                    "fingerprint": 2373076896,
-                    "type": 3
-                },
-                {
-                    "foldername": "krypton-refmap.json",
-                    "fingerprint": 2624635543,
-                    "type": 3
-                },
-                {
-                    "foldername": "com",
-                    "fingerprint": 2661557510,
-                    "type": 3
-                },
-                {
-                    "foldername": "me",
-                    "fingerprint": 1263459752,
-                    "type": 3
-                }
-            ],
-            "packageFingerprint": 3857386357,
-            "gameVersion": [
-                "1.18.1",
-                "1.18.2",
-                "Forge"
-            ],
-            "sortableGameVersion": [
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000001",
-                    "gameVersion": "1.18.1",
-                    "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                    "gameVersionName": "1.18.1",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0000000001.0000000018.0000000002",
-                    "gameVersion": "1.18.2",
-                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-                    "gameVersionName": "1.18.2",
-                    "gameVersionTypeId": 73250
-                },
-                {
-                    "gameVersionPadded": "0",
-                    "gameVersion": "",
-                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                    "gameVersionName": "Forge",
-                    "gameVersionTypeId": 68441
-                }
-            ],
-            "installMetadata": null,
-            "changelog": null,
-            "hasInstallScript": false,
-            "isCompatibleWithClient": true,
-            "categorySectionPackageType": 6,
-            "restrictProjectFileAccess": 1,
-            "projectStatus": 4,
-            "renderCacheId": 2662339,
-            "fileLegacyMappingId": null,
-            "projectId": 549394,
-            "parentProjectFileId": null,
-            "parentFileLegacyMappingId": null,
-            "fileTypeId": null,
-            "exposeAsAlternative": null,
-            "packageFingerprintId": 824628276,
-            "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-            "gameVersionMappingId": 3630881,
-            "gameVersionId": 7498,
-            "gameId": 432,
-            "isServerPack": false,
-            "serverPackFileId": null,
-            "gameVersionFlavor": null,
-            "hashes": [
-                {
-                    "algorithm": 1,
-                    "value": "4b940fe9395c0736457442c12ee8b5cdead8cf4f"
-                },
-                {
-                    "algorithm": 2,
-                    "value": "5cec41a54d44a5a71d0f0bdd8fdbf61b"
-                }
-            ],
-            "downloadCount": 327375
-        }
-    ],
-    "categories": [
-        {
-            "categoryId": 5191,
-            "name": "Utility & QoL",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-            "avatarUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 549394,
-            "avatarId": 456558,
-            "gameId": 432,
-            "slug": "utility-qol",
-            "dateModified": "2021-11-17T11:45:09.143Z"
-        },
-        {
-            "categoryId": 435,
-            "name": "Server Utility",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-            "avatarUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-            "parentId": 6,
-            "rootId": 6,
-            "projectId": 549394,
-            "avatarId": 6048,
-            "gameId": 432,
-            "slug": "server-utility",
-            "dateModified": "2014-05-08T17:44:55.057Z"
-        }
-    ],
-    "status": 4,
-    "primaryCategoryId": 5191,
-    "categorySection": {
-        "id": 8,
+    "data": {
+        "id": 549394,
         "gameId": 432,
-        "name": "Mods",
-        "packageType": 6,
-        "path": "mods",
-        "initialInclusionPattern": ".",
-        "extraIncludePattern": null,
-        "gameCategoryId": 6
-    },
-    "slug": "krypton-reforged",
-    "gameVersionLatestFiles": [
-        {
-            "gameVersion": "1.18.1",
-            "projectFileId": 3590672,
-            "projectFileName": "krypton-1.0.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
+        "name": "Krypton Reforged",
+        "slug": "krypton-reforged",
+        "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/TeamDeusVult/KryptonReforged/issues",
+            "sourceUrl": "https://github.com/TeamDeusVult/KryptonReforged"
         },
-        {
-            "gameVersion": "1.18.2",
-            "projectFileId": 3590672,
-            "projectFileName": "krypton-1.0.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 73250,
-            "modLoader": 1
+        "summary": "Unofficial Forge Port of the server networking performance mod \"Krypton\"",
+        "status": 4,
+        "downloadCount": 1637685,
+        "isFeatured": false,
+        "primaryCategoryId": 5191,
+        "categories": [
+            {
+                "id": 435,
+                "gameId": 432,
+                "name": "Server Utility",
+                "slug": "server-utility",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+                "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+                "dateModified": "2014-05-08T17:44:55.057Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            },
+            {
+                "id": 5191,
+                "gameId": 432,
+                "name": "Utility & QoL",
+                "slug": "utility-qol",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+                "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+                "dateModified": "2021-11-17T11:45:09.143Z",
+                "isClass": false,
+                "classId": 6,
+                "parentCategoryId": 6
+            }
+        ],
+        "classId": 6,
+        "authors": [
+            {
+                "id": 469097,
+                "name": "TeamDeusVult",
+                "url": "https://www.curseforge.com/members/102782844-teamdeusvult?username=teamdeusvult"
+            }
+        ],
+        "logo": {
+            "id": 458425,
+            "modId": 549394,
+            "title": "637732541418956072.png",
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/458/425/256/256/637732541418956072.png",
+            "url": "https://media.forgecdn.net/avatars/458/425/637732541418956072.png"
         },
-        {
-            "gameVersion": "1.16.5",
-            "projectFileId": 3534475,
-            "projectFileName": "kryptonreforged-mc1.16.5_v1.0.0.jar",
-            "fileType": 1,
-            "gameVersionFlavor": null,
-            "gameVersionTypeId": 70886,
-            "modLoader": 1
-        }
-    ],
-    "isFeatured": false,
-    "popularityScore": 8560.7509765625,
-    "gamePopularityRank": 810,
-    "primaryLanguage": "enUS",
-    "gameSlug": "minecraft",
-    "gameName": "Minecraft",
-    "portalName": "www.curseforge.com",
-    "dateModified": "2022-03-24T03:28:59.757Z",
-    "dateCreated": "2021-11-23T01:47:08.1Z",
-    "dateReleased": "2022-01-02T05:04:02.433Z",
-    "isAvailable": true,
-    "isExperiemental": false,
-    "allowModDistribution": true
+        "screenshots": [],
+        "mainFileId": 3823416,
+        "latestFiles": [
+            {
+                "id": 3823416,
+                "gameId": 432,
+                "modId": 549394,
+                "isAvailable": true,
+                "displayName": "krypton-0.2.0.jar",
+                "fileName": "krypton-0.2.0.jar",
+                "releaseType": 1,
+                "fileStatus": 4,
+                "hashes": [
+                    {
+                        "value": "de748458752fa4602bc7b594972a2a5467997847",
+                        "algo": 1
+                    },
+                    {
+                        "value": "6d2f36a635fc48b4a6a97929b80d8377",
+                        "algo": 2
+                    }
+                ],
+                "fileDate": "2022-06-08T20:22:41.327Z",
+                "fileLength": 143434,
+                "downloadCount": 0,
+                "downloadUrl": "https://edge.forgecdn.net/files/3823/416/krypton-0.2.0.jar",
+                "gameVersions": [
+                    "Forge",
+                    "1.19"
+                ],
+                "sortableGameVersions": [
+                    {
+                        "gameVersionName": "Forge",
+                        "gameVersionPadded": "0",
+                        "gameVersion": "",
+                        "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                        "gameVersionTypeId": 68441
+                    },
+                    {
+                        "gameVersionName": "1.19",
+                        "gameVersionPadded": "0000000001.0000000019",
+                        "gameVersion": "1.19",
+                        "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+                        "gameVersionTypeId": 73407
+                    }
+                ],
+                "dependencies": [],
+                "alternateFileId": 0,
+                "isServerPack": false,
+                "fileFingerprint": 2820380830,
+                "modules": [
+                    {
+                        "name": "META-INF",
+                        "fingerprint": 646178001
+                    },
+                    {
+                        "name": "linux_aarch64",
+                        "fingerprint": 3901674702
+                    },
+                    {
+                        "name": "linux_x86_64",
+                        "fingerprint": 1120782628
+                    },
+                    {
+                        "name": "pack.mcmeta",
+                        "fingerprint": 823205694
+                    },
+                    {
+                        "name": "krypton.mixins.json",
+                        "fingerprint": 2896643247
+                    },
+                    {
+                        "name": "assets",
+                        "fingerprint": 2373076896
+                    },
+                    {
+                        "name": "krypton-refmap.json",
+                        "fingerprint": 1089888719
+                    },
+                    {
+                        "name": "com",
+                        "fingerprint": 3772192080
+                    },
+                    {
+                        "name": "me",
+                        "fingerprint": 2811905031
+                    }
+                ]
+            }
+        ],
+        "latestFilesIndexes": [
+            {
+                "gameVersion": "1.19",
+                "fileId": 3823416,
+                "filename": "krypton-0.2.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73407,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.2",
+                "fileId": 3819215,
+                "filename": "krypton-0.1.10-SNAPSHOT.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.18.1",
+                "fileId": 3590672,
+                "filename": "krypton-1.0.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 73250,
+                "modLoader": 1
+            },
+            {
+                "gameVersion": "1.16.5",
+                "fileId": 3534475,
+                "filename": "kryptonreforged-mc1.16.5_v1.0.0.jar",
+                "releaseType": 1,
+                "gameVersionTypeId": 70886,
+                "modLoader": 1
+            }
+        ],
+        "dateCreated": "2021-11-23T01:47:08.1Z",
+        "dateModified": "2022-06-08T20:30:58.683Z",
+        "dateReleased": "2022-06-08T20:22:41.327Z",
+        "allowModDistribution": true,
+        "gamePopularityRank": 857,
+        "isAvailable": true,
+        "thumbsUpCount": 0
+    }
 }
