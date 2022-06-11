@@ -24,9 +24,9 @@ prepare template for maintainer
 
 | Version | Loaders |
 | --- | :---: |
-| 1.19.x | [Fabric](performance/1.19.x-fabric.md) & [Forge](performance/1.19.x-forge.md) & [Quilt](performance/1.19.x-quilt.md) |
-| 1.18.x | [Fabric](performance/1.18.x-fabric.md) & [Forge](performance/1.18.x-forge.md) & [Quilt](performance/1.18.x-quilt.md) |
-| 1.17.x | [Fabric](performance/1.17.x-fabric.md) & [Forge](performance/1.17.x-forge.md) |
-| 1.16.x | [Fabric](performance/1.16.x-fabric.md) & [Forge](performance/1.16.x-forge.md) |
-| 1.15.x | [Fabric](performance/1.15.x-fabric.md) & [Forge](performance/1.15.x-forge.md) |
-| 1.12.x | [Fabric](performance/1.12.x-fabric.md) & [Forge](performance/1.12.x-forge.md) |
+| 1.19.x | [Fabric](performance/1.19 - fabric.md) & [Forge](performance/1.19 - forge.md) & [Quilt](performance/1.19 - quilt.md) |
+| 1.18.x | [Fabric](performance/1.18 - fabric.md) & [Forge](performance/1.18 - forge.md) & [Quilt](performance/1.18 - quilt.md) |
+| 1.17.x | [Fabric](performance/1.17 - fabric.md) & [Forge](performance/1.17 - forge.md) |
+| 1.16.x | [Fabric](performance/1.16 - fabric.md) & [Forge](performance/1.16 - forge.md) |
+| 1.15.x | [Fabric](performance/1.15 - fabric.md) & [Forge](performance/1.15 - forge.md) |
+| 1.12.x | [Fabric](performance/1.12 - fabric.md) & [Forge](performance/1.12 - forge.md) |
