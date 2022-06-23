@@ -6,7 +6,7 @@ from const import header, footer
 with open('links.json') as json_file:
     links = json.load(json_file)
 
-path = r"C:\Users\Grishin\Desktop\useful_things-main\mods"
+path = r"C:\Users\mllig\Desktop\useful_things-main\mods"
 
 
 def fill_lines(mods_list):

@@ -2,7 +2,7 @@ import contextlib
 import json
 import os
 
-path = r"C:\Users\Grishin\Desktop\useful_things-main\mods"
+path = r"C:\Users\mllig\Desktop\useful_things-main\mods"
 modrinth = []
 curseforge = []
 versions = {
@@ -53,17 +53,17 @@ for path in modrinth:
             version = x[j]['game_versions']
             loader = x[j]['loaders']
             if any("1.19" in s for s in version):
-                links[f'1.19 - {loader[0]}'] += [path[49:-14]]
+                links[f'1.19 - {loader[0]}'] += [path[47:-14]]
             if any("1.18" in s for s in version):
-                links[f'1.18 - {loader[0]}'] += [path[49:-14]]
+                links[f'1.18 - {loader[0]}'] += [path[47:-14]]
             if any("1.17" in s for s in version):
-                links[f'1.17 - {loader[0]}'] += [path[49:-14]]
+                links[f'1.17 - {loader[0]}'] += [path[47:-14]]
             if any("1.16" in s for s in version):
-                links[f'1.16 - {loader[0]}'] += [path[49:-14]]
+                links[f'1.16 - {loader[0]}'] += [path[47:-14]]
             if any("1.15" in s for s in version):
-                links[f'1.15 - {loader[0]}'] += [path[49:-14]]
+                links[f'1.15 - {loader[0]}'] += [path[47:-14]]
             if any("1.12" in s for s in version):
-                links[f'1.12 - {loader[0]}'] += [path[49:-14]]
+                links[f'1.12 - {loader[0]}'] += [path[47:-14]]
 
 for path in curseforge:
     with open(path, "r", encoding='utf-8') as mod_file:
@@ -73,17 +73,17 @@ for path in curseforge:
             with contextlib.suppress(KeyError):
                 loader = versions[k]['modLoader']
                 if '1.19' in version:
-                    links[f'1.19 - {loaders[loader]}'] += [path[49:-12]]
+                    links[f'1.19 - {loaders[loader]}'] += [path[47:-12]]
                 if '1.18' in version:
-                    links[f'1.18 - {loaders[loader]}'] += [path[49:-12]]
+                    links[f'1.18 - {loaders[loader]}'] += [path[47:-12]]
                 if '1.17' in version:
-                    links[f'1.17 - {loaders[loader]}'] += [path[49:-12]]
+                    links[f'1.17 - {loaders[loader]}'] += [path[47:-12]]
                 if '1.16' in version:
-                    links[f'1.16 - {loaders[loader]}'] += [path[49:-12]]
+                    links[f'1.16 - {loaders[loader]}'] += [path[47:-12]]
                 if '1.15' in version:
-                    links[f'1.15 - {loaders[loader]}'] += [path[49:-12]]
+                    links[f'1.15 - {loaders[loader]}'] += [path[47:-12]]
                 if '1.12' in version:
-                    links[f'1.12 - {loaders[loader]}'] += [path[49:-12]]
+                    links[f'1.12 - {loaders[loader]}'] += [path[47:-12]]
 for key in links:
     links[key] = sorted(set(links[key]))
 
