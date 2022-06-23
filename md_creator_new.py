@@ -45,7 +45,7 @@ def fill_lines(mods_list):
             cf_file_path = f"{path}/{mod}/{cf_file[0]}"
             with open(cf_file_path, "r", encoding='utf-8') as file:
                 cf_mod_json = json.load(file)
-                issue = f"[Github]({cf_mod_json['data']['links']['sourceUrl']})"                            # if 'issuesUrl' in cf_mod_json['data']['links'] else ''
+                issue = f"[Github]({cf_mod_json['data']['links']['sourceUrl']})"  # if 'issuesUrl' in cf_mod_json['data']['links'] else ''
                 if issue == '[Github](None)':
                     issue = f"[Github]({cf_mod_json['data']['links']['issuesUrl']})"
 
@@ -63,8 +63,9 @@ def fill_lines(mods_list):
 for key, value in links.items():
     version_loader = key.split(' - ')
     cf_mr = '\n'.join(fill_lines(value))
-    md_path = f"./performance/{key}.md"
+    md_path = f"./performance/{key.replace(' ', '')}.md"
     os.makedirs(os.path.dirname(md_path), exist_ok=True)
     with open(md_path, "w", encoding='utf8') as out_file:
-        header1 = header.replace('{versions}', f'{version_loader[0]}').replace('{loaders}', f'{version_loader[1].capitalize()}')
+        header1 = header.replace('{versions}', f'{version_loader[0]}').replace('{loaders}',
+                                                                               f'{version_loader[1].capitalize()}')
         out_file.write(header1 + cf_mr + footer)

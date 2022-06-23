@@ -1,3 +1,4 @@
+import contextlib
 import json
 import os
 
@@ -69,7 +70,7 @@ for path in curseforge:
         versions = json.load(mod_file)['data']['latestFilesIndexes']
         for k in range(len(versions)):
             version = versions[k]['gameVersion']
-            try:
+            with contextlib.suppress(KeyError):
                 loader = versions[k]['modLoader']
                 if '1.19' in version:
                     links[f'1.19 - {loaders[loader]}'] += [path[49:-12]]
@@ -83,9 +84,6 @@ for path in curseforge:
                     links[f'1.15 - {loaders[loader]}'] += [path[49:-12]]
                 if '1.12' in version:
                     links[f'1.12 - {loaders[loader]}'] += [path[49:-12]]
-            except KeyError:
-                pass
-
 for key in links:
     links[key] = sorted(set(links[key]))
 
