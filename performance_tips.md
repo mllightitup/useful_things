@@ -86,7 +86,7 @@ The arguments are the same for Java 17 and 11
 
 # Using arguments
 
-* Right-click on the modpack you want to optimize and press **Edit** You will get to the settings menu of your modpack
+* Right-click on the modpack you want to optimize and press **Edit**. You will get to the settings menu of your modpack
 
 ![image](https://github.com/mllightitup/useful_things/assets/43480503/41894862-692c-4d4b-8155-3d6ca3930609)
 
@@ -127,9 +127,11 @@ Let's start with the ones that are least likely to hurt you:
 
 In the video settings, go to the Extras tab and set these two values to the minimum:
 
-Also, this mod by default for some reason includes the "True darkness" effect. You can turn it off in the same tab.
-
 ![image](https://github.com/mllightitup/useful_things/assets/43480503/be0bd84d-ebac-4063-858c-94504afecc09)
+
+This will affect the chests and mod blocks. They will disappear or lose detail at closer range. This greatly increases performance but visually affects the game
+
+Also, this mod by default for some reason includes the "True darkness" effect. You can turn it off in the same tab.
 
 Next, we'll look at modifications that can cause harm:
 * [Canary](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) - Lithium port for Forge. Optimizes the behavior of mobs, physics, block ticking. Potentially can conflict with other mods that affect the behavior of mobs and blocks
