@@ -114,7 +114,7 @@ The arguments are the same for Java 17 and 11
 The arguments is over! If that solved your problem, you don't need to read any further. Otherwise, read **Optimization mods**
 
 # Optimization mods
-To begin with, it should be noted that the following will be recommended mods, which together with the optimization can bring both visual bugs and damage the world or crashes!
+To begin with, it should be noted that the following will be recommended mods, which together with the optimization can bring visual bugs and damage the world or crashes!
 
 **Be sure to back up your world like we asked you before!**
 
