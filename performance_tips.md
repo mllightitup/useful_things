@@ -2,7 +2,7 @@
 This guide describes how to improve performance in the game by changing Java arguments and adding optimization mods.
 It is worth noting that everything described below can cause various problems from harmless visual bugs to crashes and in rare cases corrupted world files. 
 
-The guide will not tell you why or what each argument or mod affects. If you want a detailed explanation of everything, see **SOURCES**!
+The guide will not tell you why or what each argument affects. If you want a detailed explanation of everything, see **SOURCES**!
 
 _**So before you use this guide, make a backup copy of your world!**_
 
