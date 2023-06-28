@@ -120,10 +120,10 @@ To begin with, it should be noted that the following will be recommended mods, w
 
 Let's start with the ones that are least likely to hurt you:
 
-* Starlight - Reduces or eliminates freezes when passing the chunk borders, also speeds up the generation of the world, which in some cases may cause increased load on the CPU
-* EntityCulling - Stops drawing entities outside your field of view. Useful when using big Mob Farms
-* Rubidium - Sodium port for Forge. Optimizes the game in a large number of areas and therefore can cause graphical artifacts with some mods
-* Rubidium Extras - Improve performance in modpacks drastically by not rendering far away tile entities.
+* [Starlight](https://modrinth.com/mod/starlight-forge) - Reduces or eliminates freezes when passing the chunk borders, also speeds up the generation of the world, which in some cases may cause increased load on the CPU
+* [EntityCulling](https://modrinth.com/mod/entityculling/versions?l=forge) - Stops drawing entities outside your field of view. Useful when using big Mob Farms
+* [Rubidium](https://modrinth.com/mod/rubidium) - Sodium port for Forge. Optimizes the game in a large number of areas and therefore can cause graphical artifacts with some mods
+* [Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) - Improve performance in modpacks drastically by not rendering far away tile entities.
 
 In the video settings, go to the Extras tab and set these two values to the minimum:
 
@@ -132,5 +132,13 @@ Also, this mod by default for some reason includes the "True darkness" effect. Y
 ![image](https://github.com/mllightitup/useful_things/assets/43480503/be0bd84d-ebac-4063-858c-94504afecc09)
 
 Next, we'll look at modifications that can cause harm:
-* Canary - Lithium port for Forge. Optimizes the behavior of mobs, physics, block ticking. Potentially can conflict with other mods that affect the behavior of mobs and blocks
-* ModernFix - improves launch times, world load times, memory usage and more. By default, the mod should not do any damage, but it gives you the opportunity to apply dangerous tweeks. If you want to know more, see the [ModernFix Wiki](https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches)
+* [Canary](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) - Lithium port for Forge. Optimizes the behavior of mobs, physics, block ticking. Potentially can conflict with other mods that affect the behavior of mobs and blocks
+* [ModernFix](https://modrinth.com/mod/modernfix/versions?l=forge) - improves launch times, world load times, memory usage and more. By default, the mod should not do any damage, but it gives you the opportunity to apply dangerous tweeks. If you want to know more, see the [ModernFix Wiki](https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches)
+
+Listed below are mods whose influence has not been confirmed:
+* [Alternate Current](https://modrinth.com/mod/alternate-current/versions?l=forge)
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/versions?l=forge)
+* [Pluto](https://modrinth.com/mod/pluto)
+* [ImmeduatelyFastReforged](https://modrinth.com/mod/immediatelyfast-reforged)
+* [Saturn](https://modrinth.com/mod/saturn)
+* [EnhancedBlockEntitites Reforged](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities-reforged-unofficial)
