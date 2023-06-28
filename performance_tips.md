@@ -142,3 +142,7 @@ Listed below are mods whose influence has not been confirmed:
 * [ImmeduatelyFastReforged](https://modrinth.com/mod/immediatelyfast-reforged)
 * [Saturn](https://modrinth.com/mod/saturn)
 * [EnhancedBlockEntitites Reforged](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities-reforged-unofficial)
+
+# Sources
+[Java arguments explanation](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks)
+[Performance mods](https://github.com/TheUsefulLists/UsefulMods)
