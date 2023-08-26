@@ -1,6 +1,9 @@
 # Useful Things
 
-# TODO:
+## Changelog
+- 27.08.2023 Made necessary changes to maintain stable operation in the future and on other PCs!
+
+## TODO:
 ### Done:
 
 1. Update const.py to the newest template and delete unnecessary
