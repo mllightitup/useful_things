@@ -21,7 +21,7 @@ prepare template for maintainer
 4. Authors REWORK(replace authors -> teams)
 
 ### 🛠️ How to use?:
-Download the three files (``get_all_data.py``, ``links_filler.py``, ``md_creator.py``) and extract them to a convenient folder.
+Download the files (``get_all_data.py``, ``links_filler.py``, ``md_creator.py``, ``const.py``) and extract them to a convenient folder.
 Then run them in this order:
 1. ``get_all_data.py``
 2. ``links_filler.py``
