@@ -14,7 +14,8 @@ loaders = {
     'quilt': 'quilt'
 }
 
-versions_to_check = ["1.20", "1.19", "1.18", "1.17", "1.16", "1.15", "1.14", "1.13", "1.12", "1.11", "1.10", "1.9", "1.8" ,"1.7"]
+# you can choose other versions, but for testing I chose only modern ones
+versions_to_check = ["1.20", "1.19", "1.18", "1.17", "1.16"]
 
 links = {f'{ver} - {loader}': [] for ver in versions_to_check for loader in loaders.values()}
 
@@ -49,10 +50,10 @@ for path in curseforge:
 for key in links:
     links[key] = sorted(set(links[key]))
 
-keys_to_remove = [key for key, value in links.items() if value == []]
+# Search and delete keys with empty arrays and keys with the word "quilt"
+keys_to_remove = [key for key, value in links.items() if value == [] or "quilt" in key]
 for key in keys_to_remove:
     del links[key]
 
 with open('links.json', "w", encoding='utf-8') as mod_links:
-    print(links)
     json.dump(links, mod_links, indent=4)
