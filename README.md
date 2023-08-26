@@ -16,6 +16,7 @@
 
 
 ### Future plans:
+1. ``const.py`` rework
 2. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
 prepare template for maintainer
 4. Authors REWORK(replace authors -> teams)
