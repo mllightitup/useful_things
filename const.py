@@ -1,29 +1,21 @@
 header = """
-# Performance Mods
 A list of performance-enhancing mods for {loaders} {versions} version.
 
-## Any suggestions/complaints?
-> #### Join us on [Discord](https://discord.gg/8nzHYhVUQS).
-> Or contact us with your questions [here](./../../issues).
+Any suggestions/complaints?
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+
+[![Home](/images/button_small/home.png)](/README.md)
 
 ## {loaders} {versions}
 
 | Name |  Description | Author | Performance Improvement (Client/Server) | Need help? |
 | --- | :---: | :---: | :---: | :---: |
 """
-middle = """
 
-
-
-## Forge 1.18.X
-
-
-"""
 footer = """
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](/Performance/Performance119.md#fabric-119x)[![Forge](/images/button_small/forge.png)](/Performance/Performance119.md#forge-119x)[![Quilt](/images/button_small/quilt.png)](/Performance/Performance119.md#quilt-119x)
 """
 
 links = {
@@ -98,7 +90,6 @@ links = {
         574856,
         "https://modrinth.com/mod/simply-no-shading",
         "https://modrinth.com/mod/smoke-suppression",
-        415758,
         420913,
         "https://modrinth.com/mod/sodium",
         532724,
