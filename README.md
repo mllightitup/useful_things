@@ -24,4 +24,4 @@ Then run them in this order:
 2. ``links_filler.py``
 3. ``md_creator.py``
 
-After that in this directory there will be a file links.json and also a folder ``performane`` containing md files for each specified version and modloader!
+After that in this directory there will be a file ``links.json`` and also a folder ``performane`` containing md files for each specified version and modloader!
