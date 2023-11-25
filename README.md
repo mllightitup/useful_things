@@ -1,4 +1,7 @@
 # Useful Things
+## Known issues
+- empty github links
+- duplicates
 
 ## Changelog
 - 25.11.2023 Updated get_all_data.py to improve readability(docstrings, typehints, refactoring) and got rid of unnecessary code.
