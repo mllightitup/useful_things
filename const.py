@@ -7,24 +7,17 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 Don't want to mess around with mods? try out Fabulously Optimized [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-120x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-120x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-120x)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
-## {loaders} {versions}
+## {loaders} {versions}.X
 
 | Name |  Description | Author | Performance Improvement (Client/Server) | Need help? |
 | --- | :---: | :---: | :---: | :---: |
 """
-middle = """
 
-
-
-## Forge 1.18.X
-
-
-"""
 footer = """
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 """
 
 links = {
