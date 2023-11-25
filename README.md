@@ -4,7 +4,7 @@
 - duplicates
 
 ## Changelog
-- 25.11.2023 Updated get_all_data.py to improve readability(docstrings, typehints, refactoring) and got rid of unnecessary code.
+- 25.11.2023 Updated ``get_all_data.py`` to improve readability(docstrings, typehints, refactoring) and got rid of unnecessary code.
 - 27.08.2023 Made necessary changes to maintain stable operation in the future and on other PCs!
 
 ## TODO:
@@ -17,13 +17,13 @@
 5. Version and loader check(everything is prepared)
 6. Create all files in md_creator at once for each version and loader
 7. md_creator based on checking the general list of mods and their versions, rather than manually filling in the list of mods for each individual version
+8. ``const.py`` rework
 
 
 ### Future plans:
-1. ``const.py`` rework
-2. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
+1. Custom data(Performance Improvement, wiki, discord for curseforge)(Incompatibility everywhere)
 prepare template for maintainer
-4. Authors REWORK(replace authors -> teams)
+2. Authors REWORK(replace authors -> teams)
 
 ### 🛠️ How to use?:
 Download the files (``get_all_data.py``, ``links_filler.py``, ``md_creator.py``, ``const.py``) and extract them to a convenient folder.
