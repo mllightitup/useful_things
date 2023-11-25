@@ -1,6 +1,7 @@
 # Useful Things
 
 ## Changelog
+- 25.11.2023 Updated get_all_data.py to improve readability(docstrings, typehints, refactoring) and got rid of unnecessary code.
 - 27.08.2023 Made necessary changes to maintain stable operation in the future and on other PCs!
 
 ## TODO:
